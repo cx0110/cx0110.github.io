@@ -1,12 +1,12 @@
 ---
 authors:
-- 1ch0
+  - 1ch0
 date: 2022-01-19 08:04:00
 image:
   caption: /img/default.png
 tags:
-- Python
-title: Python
+  - Python
+title: Python 基础
 ---
 
 # Python
