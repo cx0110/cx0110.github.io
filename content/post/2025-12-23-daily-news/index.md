@@ -72,3 +72,72 @@ image:
 | 9 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 13,239 | 🤖 该项目提供了一个统一的接口来访问多个生成式人工智能服务提供商。 |
 | 10 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 159,187 | 🤖 该项目是一个基于Stable Diffusion模型的网页界面，允许用户通过网页界面生成和编辑图像。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2025-12-23 10:10 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 632 | 🤖 使用日常设备在家搭建人工智能集群。 |
+| 2 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 438 | 🤖 自动化多会话AI编码。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 428 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 436 | 🤖 RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。 |
+| 5 | [google/A2UI](https://github.com/google/A2UI) | 🔥 196 | 🤖 Google A2UI 是一个开源的 Android UI 组件库。 |
+| 6 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 166 |  |
+| 7 | [google/langextract](https://github.com/google/langextract) | 🔥 169 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| 8 | [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) | 🔥 136 | DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。 |
+| 9 | [sst/opencode](https://github.com/sst/opencode) | 🔥 148 | The open source coding agent. |
+| 10 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 139 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 🔥 151 | 🤖 Fabric 是一个开源框架，利用人工智能来增强人类能力。 |
+| 2 | [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) | 🔥 53 | 🤖 微信消息推送服务，基于Golang，免费且极简。 |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 52 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) | 🔥 40 | 🤖 PostgreSQL 备份工具，帮助用户轻松备份和恢复数据库。 |
+| 5 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 🔥 61 | 🤖 LocalAI 是一个开源、自托管的人工智能项目，能够在普通硬件上运行，实现文本、音频、图像等多种功能。 |
+| 6 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 34 | Beads - A memory upgrade for your coding agent |
+| 7 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 36 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 8 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 21 | The glamourous AI coding agent for your favourite terminal 💘 |
+| 9 | [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) | 🔥 16 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
+| 10 | [JakeNesler/Claude_Prophet](https://github.com/JakeNesler/Claude_Prophet) | 🔥 20 |  |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 606 | 🤖 使用日常设备在家搭建人工智能集群。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 411 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 422 | 🤖 RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。 |
+| 4 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 161 | 🤖 这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。 |
+| 5 | [google/langextract](https://github.com/google/langextract) | 🔥 165 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 6 | [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) | 🔥 136 | DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。 |
+| 7 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 131 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
+| 8 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | 🔥 144 | Specification and documentation for Agent Skills |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 112 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 121 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 140 | 🤖 该项目是一个用于人工智能的数据转换框架，具有超高性能和增量处理能力。 |
+| 2 | [steveklabnik/rue](https://github.com/steveklabnik/rue) | 🔥 52 | 🤖 该项目是一个简化版的Rust编程语言。 |
+| 3 | [raine/workmux](https://github.com/raine/workmux) | 🔥 40 | 🤖 该项目实现了Git工作树和Tmux窗口的集成，实现零延迟的并行开发。 |
+| 4 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 25 | 🤖 scanopy 是一个网络图表工具，帮助用户创建和维护干净的网络图表，实现一次性设置和零维护。 |
+| 5 | [BeaconBay/ck](https://github.com/BeaconBay/ck) | 🔥 20 | 🤖 BeaconBay/ck 是一个本地搜索工具，支持语义搜索和混合搜索。 |
+| 6 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 🔥 22 | Text editor for your terminal: easy, powerful and fast |
+| 7 | [terauss/Polymarket-Kalshi-Arbitrage-bot](https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot) | 🔥 14 | Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market.  |
+| 8 | [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) | 🔥 16 | The filesystem for agents. |
+| 9 | [jj-vcs/jj](https://github.com/jj-vcs/jj) | 🔥 59 | A Git-compatible VCS that is both simple and powerful |
+| 10 | [rex-rs/rex](https://github.com/rex-rs/rex) | 🔥 11 | Rex is a safe and usable kernel extension framework that allows loading and executing Rust kernel extension programs in the place of eBPF. |
+
