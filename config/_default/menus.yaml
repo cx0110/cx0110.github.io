@@ -5,7 +5,7 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: 每日热点  
+  - name: Trending 
     url: /categories/每日热点/ # 对应爬虫脚本里写的 categories
     weight: 20    
   - name: Topics
