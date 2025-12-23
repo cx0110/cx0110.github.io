@@ -5,6 +5,7 @@
 
 title: "1ch0's Blog" # Website name
 baseURL: 'https://cx0110.github.io/' # Website URL
+timeZone: "Asia/Shanghai"
 
 ############################
 ## PAGE OPTIONS
@@ -28,6 +29,23 @@ cascade:
     header:
       navbar:
         enable: true
+- _target:
+      path: /post/**  # <--- 确保这里覆盖了你日报的路径
+      kind: page
+    pager: true
+    editable: false 
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true        
+        
 
 ############################
 ## LANGUAGE
@@ -68,6 +86,12 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:                # <--- 添加这块
+    renderer:
+      unsafe: true         # <--- 允许渲染 HTML 标签
+  highlight:               # <--- 推荐添加，优化代码高亮
+    style: github-dark
+    guessSyntax: true
 related:
   threshold: 80
   includeNewer: true
