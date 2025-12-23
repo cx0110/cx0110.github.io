@@ -29,7 +29,7 @@ cascade:
     header:
       navbar:
         enable: true
-- _target:
+  - _target:
       path: /post/**  # <--- 确保这里覆盖了你日报的路径
       kind: page
     pager: true
