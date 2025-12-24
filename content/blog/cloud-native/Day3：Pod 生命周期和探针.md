@@ -1,12 +1,24 @@
 ---
+title: "Pod 生命周期和探针"
+subtitle: "Kubernetes Pod 状态管理与健康检查"
+summary: "深入了解 Kubernetes Pod 的生命周期、状态管理、探针配置和重启策略"
 authors:
-- 1ch0
-date: 2022-02-24 08:35:11
-image:
-  filename: python-logo.svg
+  - admin
 tags:
-- Kubernetes
-title: Pod 生命周期和探针
+  - Kubernetes
+  - Pod
+  - 探针
+  - 生命周期
+categories:
+  - Cloud Native
+date: 2022-02-24T08:35:11+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: kubernetes-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 # Pod 生命周期和探针

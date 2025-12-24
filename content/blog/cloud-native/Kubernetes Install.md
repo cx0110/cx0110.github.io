@@ -1,12 +1,24 @@
 ---
-title: Kubernetes Install
-image:
-  filename: python-logo.svg
+title: "Kubernetes 安装指南"
+subtitle: "Kubernetes集群安装与配置"
+summary: "详细的Kubernetes集群安装指南，包括系统准备、组件安装和集群配置"
+authors:
+  - admin
 tags:
   - Kubernetes
-authors:
-  - 1ch0
-date: 2021-10-25 11:25:09
+  - 安装
+  - 集群
+  - 运维
+categories:
+  - Cloud Native
+date: 2021-10-25T11:25:09+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: kubernetes-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 # Kubernetes

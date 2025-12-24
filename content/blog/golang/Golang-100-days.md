@@ -1,12 +1,24 @@
 ---
+title: "Golang 100天学习计划"
+subtitle: "Go语言系统学习指南"
+summary: "Go语言100天学习计划，包括基础语法、高级特性和实战项目"
 authors:
-- admin
-date: 2020-11-05 10:00:00
-image:
-  filename: go-logo.png
+  - admin
 tags:
-- questions
-title: Golang-100-days
+  - Golang
+  - 学习计划
+  - 基础教程
+  - 编程语言
+categories:
+  - Golang
+date: 2020-11-05T10:00:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: golang-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 # cap（）函数的计算值

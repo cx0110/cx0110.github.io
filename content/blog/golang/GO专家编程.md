@@ -1,12 +1,24 @@
 ---
+title: "GO专家编程"
+subtitle: "Go语言高级编程技巧与实践"
+summary: "深入Go语言内部机制，包括常见数据结构实现原理、并发编程和性能优化"
 authors:
-- admin
-date: 2021-04-23 20:40:00
-image:
-  filename: go-logo.png
+  - admin
 tags:
-- GoLearn
-title: GO专家编程
+  - Golang
+  - 高级编程
+  - 数据结构
+  - 并发编程
+categories:
+  - Golang
+date: 2021-04-23T20:40:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: golang-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 # GO专家编程

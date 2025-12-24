@@ -1,12 +1,24 @@
 ---
+title: "Kubernetes 常见问题"
+subtitle: "K8s故障排除与问题解决"
+summary: "Kubernetes集群运维中的常见问题、故障排除方法和解决方案"
 authors:
-- 1ch0
-date: 2022-01-24 08:24:00
-image:
-  filename: python-logo.svg
+  - admin
 tags:
-- Kubernetes
-title: k8s question
+  - Kubernetes
+  - 故障排除
+  - 问题解决
+  - 运维
+categories:
+  - Cloud Native
+date: 2022-01-24T08:24:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: kubernetes-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 # K8s question

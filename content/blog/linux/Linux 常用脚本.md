@@ -1,12 +1,24 @@
 ---
+title: "Linux 常用脚本"
+subtitle: "Linux系统管理实用脚本集合"
+summary: "收集整理Linux系统管理中常用的Shell脚本，包括系统监控、自动化部署和运维工具"
 authors:
-- 1ch0
-date: 2022-01-09 21:56:39
-image:
-  caption: /img/default.png
+  - admin
 tags:
-- Linux
-title: Linux Init
+  - Linux
+  - Shell脚本
+  - 系统管理
+  - 自动化
+categories:
+  - Linux
+date: 2022-01-09T21:56:39+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: linux-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 # 1ch0 script

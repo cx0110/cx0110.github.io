@@ -1,15 +1,24 @@
 ---
+title: "Go Web 开发"
+subtitle: "Go语言Web开发实践指南"
+summary: "深入学习Go语言Web开发，包括HTTP服务器、路由、中间件和Web框架的使用"
 authors:
-- 1ch0
-date: 2021-09-08 10:00:00
+  - admin
+tags:
+  - Golang
+  - Web
+  - HTTP
+  - 服务器
+categories:
+  - Golang
+date: 2021-09-08T10:00:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
 image:
-  filename: go-logo.png
+  filename: golang-logo.svg
   focal_point: Smart
   preview_only: false
-tags:
-- Golang
-- Web
-title: Go Web
 ---
 
 [TOC]

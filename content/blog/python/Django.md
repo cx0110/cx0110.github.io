@@ -1,13 +1,24 @@
 ---
+title: "Django 开发指南"
+subtitle: "Python Django Web框架实践"
+summary: "深入学习Django Web框架，包括项目创建、模型设计、视图开发和部署实践"
 authors:
-- 1ch0
-date: 2022-01-19 08:04:00
+  - admin
+tags:
+  - Python
+  - Django
+  - Web框架
+  - 后端开发
+categories:
+  - Python
+date: 2022-01-19T08:04:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
 image:
   filename: python-logo.svg
-tags:
-- Python
-- Django
-title: Python
+  focal_point: Smart
+  preview_only: false
 ---
 
 # 项目创建

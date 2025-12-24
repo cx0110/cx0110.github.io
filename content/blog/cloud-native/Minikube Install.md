@@ -1,14 +1,24 @@
 ---
+title: "Minikube 安装指南"
+subtitle: "本地Kubernetes开发环境搭建"
+summary: "使用Minikube搭建本地Kubernetes开发环境，包括安装、配置和基本使用"
 authors:
-- 1ch0
-date: 2022-04-24 16:26:08
+  - admin
+tags:
+  - Minikube
+  - Kubernetes
+  - 本地开发
+  - 容器
+categories:
+  - Cloud Native
+date: 2022-04-24T16:26:08+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
 image:
-  filename: docker-logo.png
+  filename: kubernetes-logo.svg
   focal_point: Smart
   preview_only: false
-tags:
-- Docker
-title: Docker
 ---
 
 # Minikube

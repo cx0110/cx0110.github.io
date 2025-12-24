@@ -1,12 +1,24 @@
 ---
+title: "Kubernetes 资源对象"
+subtitle: "K8s 核心资源对象详解"
+summary: "深入了解 Kubernetes 的设计理念和核心资源对象，包括 Pod、Service、Deployment 等"
 authors:
-- 1ch0
-date: 2022-01-16 08:59:00
-image:
-  filename: python-logo.svg
+  - admin
 tags:
-- Kubernetes
-title: Kubernetes 资源对象
+  - Kubernetes
+  - 资源对象
+  - Pod
+  - Service
+categories:
+  - Cloud Native
+date: 2022-01-16T08:59:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: kubernetes-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 

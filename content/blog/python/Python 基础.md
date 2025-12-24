@@ -1,14 +1,23 @@
 ---
+title: "Python 基础"
+subtitle: "Python编程语言基础教程"
+summary: "Python编程语言的基础知识，包括语法、数据类型、控制结构和面向对象编程"
 authors:
-  - 1ch0
-date: 2022-01-19 08:04:00
+  - admin
+tags:
+  - Python
+  - 基础教程
+  - 编程语言
+categories:
+  - Python
+date: 2022-01-19T08:04:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
 image:
   filename: python-logo.svg
   focal_point: Smart
   preview_only: false
-tags:
-  - Python
-title: Python 基础
 ---
 
 # Python

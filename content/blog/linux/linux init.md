@@ -1,12 +1,24 @@
 ---
+title: "Linux 系统初始化"
+subtitle: "Linux系统配置与初始化指南"
+summary: "Linux系统的初始化配置，包括系统设置、服务配置和环境优化"
 authors:
-- 1ch0
-date: 2022-06-27 17:57:58
-image:
-  caption: /img/default.png
+  - admin
 tags:
-- Linux
-title: Linux Init
+  - Linux
+  - 系统配置
+  - 初始化
+  - 运维
+categories:
+  - Linux
+date: 2022-06-27T17:57:58+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: linux-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
  Linux Init

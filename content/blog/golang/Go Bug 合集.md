@@ -1,12 +1,24 @@
 ---
+title: "Go Bug 合集"
+subtitle: "Go语言常见问题与解决方案"
+summary: "收集整理Go语言开发中常见的Bug和问题，提供详细的解决方案和最佳实践"
 authors:
-- admin
-date: 2020-11-07 10:00:00
-image:
-  filename: go-logo.png
+  - admin
 tags:
-- Go-BUG
-title: Go Bug 合集
+  - Golang
+  - Bug
+  - 调试
+  - 问题解决
+categories:
+  - Golang
+date: 2020-11-07T10:00:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: golang-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 # go无法编译

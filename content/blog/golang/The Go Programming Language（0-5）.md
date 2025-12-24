@@ -1,12 +1,24 @@
 ---
+title: "Go程序设计语言（第0-5章）"
+subtitle: "Go语言基础入门"
+summary: "Go程序设计语言教程的前5章内容，包括基础语法、数据类型和程序结构"
 authors:
-- admin
-date: 2020-11-20 10:00:00
-image:
-  filename: go-logo.png
+  - admin
 tags:
-- GoLearn
-title: The Go Programming Language（0-5）
+  - Golang
+  - 教程
+  - 基础语法
+  - 编程语言
+categories:
+  - Golang
+date: 2020-11-20T10:00:00+08:00
+lastmod: 2025-12-24T10:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: golang-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 # The Go Programming Language（0-5）

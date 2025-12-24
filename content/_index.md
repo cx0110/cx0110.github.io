@@ -22,7 +22,7 @@ sections:
       title: 📚 最新文章
       subtitle: '最新的技术热点和博客文章'
       text: ''
-      count: 8
+      count: 15
       filters:
         folders:
           - blog
