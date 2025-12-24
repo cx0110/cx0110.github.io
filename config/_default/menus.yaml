@@ -8,6 +8,9 @@ main:
   - name: Trending 
     url: /trending/
     weight: 20    
+  - name: AI
+    url: /blog/ai/
+    weight: 25
   - name: Topics
     url: tags/
     weight: 30
