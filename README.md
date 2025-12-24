@@ -1,38 +1,161 @@
-# [Creator's Blog: Hugo Theme](https://github.com/HugoBlox/theme-blog)
+# 1ch0's Blog
 
-[![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
+基于 [Hugo Blox Builder](https://github.com/HugoBlox/hugo-blox-builder) 构建的个人技术博客。
 
-The **Creator's Blog** Hugo Theme empowers you to easily create your own _personal blog_ or _build a business around your content_.
+## 📖 博客简介
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+这是一个专注于技术分享的个人博客，主要内容包括：
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://x.com/BuildLore)
+- 🔥 **每日技术热点** - GitHub Trending 与技术动态汇总
+- 🤖 **AI & Machine Learning** - RAG、LangGraph、MCP等AI技术
+- 🐹 **Go语言** - Go编程技巧、框架使用、性能优化
+- 🐍 **Python** - Python开发实践、工具使用
+- 🐧 **Linux** - 系统管理、运维技巧
+- ☁️ **云原生** - Docker、Kubernetes、微服务
+- 🦀 **Rust** - Rust语言学习与实践
+- 📝 **技术笔记** - 开发经验总结
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## 🚀 快速开始
 
-[Check out the latest demo](https://hugo-blog-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+### 本地开发
 
-The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+```bash
+# 克隆仓库
+git clone https://github.com/cx0110/cx0110.github.io.git
+cd cx0110.github.io
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@GetResearchDev](https://x.com/BuildLore) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+# 安装依赖
+hugo mod tidy
 
-## We ask you, humbly, to support this open source movement
+# 启动开发服务器
+hugo server --disableFastRender
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+# 访问 http://localhost:1313
+```
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+### 构建部署
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://hugoblox.com/sponsors/)
+```bash
+# 构建静态文件
+hugo --minify
 
-## Demo credits
+# 文件输出到 public/ 目录
+```
 
-- [Unsplash](https://unsplash.com/) images
+## ✍️ 博客编写指南
+
+### 创建新文章
+
+```bash
+# 创建技术博客文章
+hugo new content/blog/golang/new-post.md
+
+# 创建每日热点
+hugo new content/post/$(date +%Y-%m-%d)-daily-news/index.md
+```
+
+### 文章Front Matter模板
+
+```yaml
+---
+title: "文章标题"
+subtitle: "副标题（可选）"
+summary: "文章摘要"
+authors:
+  - admin
+tags:
+  - 标签1
+  - 标签2
+categories:
+  - 分类
+date: 2025-12-24T09:00:00+08:00
+lastmod: 2025-12-24T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: "相关技术logo.svg"  # 可选：python-logo.svg, go-logo.png等
+  focal_point: "Smart"
+  preview_only: false
+---
+```
+
+### 技术分类对应图标
+
+| 分类 | 图标文件 | 用途 |
+|------|----------|------|
+| AI & ML | `ai-logo.svg` | AI/机器学习相关文章 |
+| Golang | `go-logo.png` | Go语言相关文章 |
+| Python | `python-logo.svg` | Python相关文章 |
+| Linux | `linux-logo.svg` | Linux系统相关 |
+| 云原生 | `kubernetes-logo.svg` | K8s/Docker相关 |
+| Rust | `rust-logo.svg` | Rust语言相关 |
+| 每日热点 | `trending-logo.svg` | GitHub Trending |
+| 通用 | `blog-default.svg` | 默认博客图片 |
+
+## 🛠️ 调试指南
+
+### 常见问题
+
+1. **构建缓慢**
+   ```bash
+   # 清理缓存
+   hugo mod clean
+   hugo mod tidy
+   ```
+
+2. **图片不显示**
+   - 检查图片路径：`static/img/图片名`
+   - 确认front matter中的filename正确
+
+3. **文章不显示**
+   - 检查`draft: false`
+   - 确认日期格式正确
+   - 检查文件路径和命名
+
+4. **样式问题**
+   ```bash
+   # 重新构建CSS
+   hugo server --disableFastRender --noHTTPCache
+   ```
+
+### 开发技巧
+
+- 使用 `--disableFastRender` 确保完整重建
+- 修改配置文件后需要重启服务器
+- 使用 `hugo --verbose` 查看详细构建信息
+- 图片优先使用SVG格式，体积小且清晰
+
+### 目录结构
+
+```
+├── content/
+│   ├── blog/           # 技术博客
+│   │   ├── golang/     # Go语言文章
+│   │   ├── python/     # Python文章
+│   │   └── ...
+│   ├── post/           # 每日热点
+│   └── authors/        # 作者信息
+├── static/
+│   └── img/            # 图片资源
+├── config/
+│   └── _default/       # 配置文件
+└── hugo-blox/          # 主题文件
+```
+
+## 📝 写作规范
+
+- 文章标题使用中文，简洁明了
+- 代码块指定语言类型以启用语法高亮
+- 图片添加alt描述
+- 链接使用有意义的锚文本
+- 每日热点保持统一格式
+
+## 🔗 相关链接
+
+- [Hugo Blox Builder](https://github.com/HugoBlox/hugo-blox-builder) - 原始主题
+- [Hugo Documentation](https://gohugo.io/documentation/) - Hugo官方文档
+- [Markdown Guide](https://www.markdownguide.org/) - Markdown语法指南
+
+---
+
+⭐ 如果这个博客对你有帮助，欢迎给个Star！

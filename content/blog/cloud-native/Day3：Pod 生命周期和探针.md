@@ -3,7 +3,7 @@ authors:
 - 1ch0
 date: 2022-02-24 08:35:11
 image:
-  caption: /img/default.png
+  filename: python-logo.svg
 tags:
 - Kubernetes
 title: Pod 生命周期和探针

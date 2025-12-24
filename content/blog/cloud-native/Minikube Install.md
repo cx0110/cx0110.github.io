@@ -3,7 +3,9 @@ authors:
 - 1ch0
 date: 2022-04-24 16:26:08
 image:
-  caption: /img/docker-logo.png
+  filename: docker-logo.png
+  focal_point: Smart
+  preview_only: false
 tags:
 - Docker
 title: Docker

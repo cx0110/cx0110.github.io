@@ -3,7 +3,7 @@ authors:
 - admin
 date: 2020-07-07 10:00:00
 image:
-  caption: /img/default.png
+  filename: python-logo.svg
 tags:
 - Python
 title: pip升级问题

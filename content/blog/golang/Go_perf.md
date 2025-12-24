@@ -3,7 +3,7 @@ authors:
 - admin
 date: 2021-12-29 15:09:33
 image:
-  caption: /img/go-logo.png
+  filename: go-logo.png
 tags:
 - questions
 title: Go_perf

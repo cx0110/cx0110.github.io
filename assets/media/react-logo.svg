@@ -1,0 +1,30 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <defs>
+    <linearGradient id="reactGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#61DAFB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#21232A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <circle cx="128" cy="128" r="120" fill="#282C34" opacity="0.1"/>
+  
+  <!-- React atom -->
+  <g transform="translate(128,128)" stroke="#61DAFB" stroke-width="3" fill="none">
+    <!-- Electron orbits -->
+    <ellipse cx="0" cy="0" rx="80" ry="30"/>
+    <ellipse cx="0" cy="0" rx="80" ry="30" transform="rotate(60)"/>
+    <ellipse cx="0" cy="0" rx="80" ry="30" transform="rotate(120)"/>
+  </g>
+  
+  <!-- Nucleus -->
+  <circle cx="128" cy="128" r="8" fill="#61DAFB"/>
+  
+  <!-- Electrons -->
+  <circle cx="208" cy="128" r="4" fill="#61DAFB"/>
+  <circle cx="48" cy="128" r="4" fill="#61DAFB"/>
+  <circle cx="158" cy="75" r="4" fill="#61DAFB"/>
+  <circle cx="98" cy="181" r="4" fill="#61DAFB"/>
+  <circle cx="158" cy="181" r="4" fill="#61DAFB"/>
+  <circle cx="98" cy="75" r="4" fill="#61DAFB"/>
+</svg>

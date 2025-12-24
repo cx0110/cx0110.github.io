@@ -1,0 +1,22 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <defs>
+    <linearGradient id="vueGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4FC08D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#42B883;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="vueGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#35495E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2C3E50;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <circle cx="128" cy="128" r="120" fill="url(#vueGrad1)" opacity="0.1"/>
+  
+  <!-- Vue V shape -->
+  <path d="M128 50 L180 150 L150 150 L128 110 L106 150 L76 150 Z" fill="url(#vueGrad1)"/>
+  <path d="M128 50 L160 130 L140 130 L128 100 L116 130 L96 130 Z" fill="url(#vueGrad2)"/>
+  
+  <!-- Vue text -->
+  <text x="128" y="200" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="url(#vueGrad2)">Vue.js</text>
+</svg>

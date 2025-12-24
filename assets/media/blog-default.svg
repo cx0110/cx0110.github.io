@@ -1,0 +1,16 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <defs>
+    <linearGradient id="blogGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="url(#blogGrad)"/>
+  <rect x="48" y="48" width="160" height="160" rx="8" fill="#FFF" opacity="0.9"/>
+  <rect x="64" y="80" width="128" height="8" fill="#667eea"/>
+  <rect x="64" y="104" width="96" height="6" fill="#764ba2" opacity="0.7"/>
+  <rect x="64" y="120" width="112" height="6" fill="#764ba2" opacity="0.7"/>
+  <rect x="64" y="136" width="88" height="6" fill="#764ba2" opacity="0.7"/>
+  <rect x="64" y="152" width="104" height="6" fill="#764ba2" opacity="0.7"/>
+  <rect x="64" y="168" width="72" height="6" fill="#764ba2" opacity="0.7"/>
+</svg>

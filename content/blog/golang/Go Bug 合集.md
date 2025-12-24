@@ -3,7 +3,7 @@ authors:
 - admin
 date: 2020-11-07 10:00:00
 image:
-  caption: /img/go-logo.png
+  filename: go-logo.png
 tags:
 - Go-BUG
 title: Go Bug 合集

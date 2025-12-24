@@ -3,7 +3,9 @@ authors:
 - 1ch0
 date: 2022-01-18 08:19:00
 image:
-  caption: /img/rust-logo.png
+  filename: rust-logo.svg
+  focal_point: Smart
+  preview_only: false
 tags:
 - Rust
 title: Rust 编程第一课-基础篇

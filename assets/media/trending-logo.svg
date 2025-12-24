@@ -1,0 +1,83 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <defs>
+    <radialGradient id="fireGrad1" cx="50%" cy="80%" r="60%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#FF8C00;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#FF4500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DC143C;stop-opacity:1" />
+    </radialGradient>
+    <radialGradient id="fireGrad2" cx="50%" cy="70%" r="40%">
+      <stop offset="0%" style="stop-color:#FFFF00;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFA500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF6347;stop-opacity:1" />
+    </radialGradient>
+    <filter id="fireGlow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background glow -->
+  <circle cx="128" cy="128" r="100" fill="url(#fireGrad1)" opacity="0.3" filter="url(#fireGlow)"/>
+  
+  <!-- Main flame body -->
+  <path d="M128 220 
+           C100 220, 80 200, 80 170
+           C80 150, 90 140, 95 130
+           C85 120, 80 100, 90 85
+           C100 70, 110 75, 115 65
+           C120 50, 130 45, 135 35
+           C140 25, 145 30, 150 40
+           C155 50, 165 45, 170 55
+           C175 65, 180 70, 175 85
+           C170 100, 175 110, 180 120
+           C185 130, 190 140, 185 155
+           C180 170, 175 185, 165 195
+           C155 205, 145 215, 128 220 Z" 
+        fill="url(#fireGrad1)" 
+        filter="url(#fireGlow)"/>
+  
+  <!-- Inner flame -->
+  <path d="M128 200
+           C110 200, 95 185, 95 165
+           C95 150, 105 145, 108 135
+           C100 125, 98 110, 105 100
+           C112 90, 120 95, 123 85
+           C126 75, 132 70, 135 60
+           C138 50, 142 55, 145 65
+           C148 75, 155 70, 158 80
+           C161 90, 165 95, 162 105
+           C159 115, 162 125, 165 135
+           C168 145, 170 155, 165 165
+           C160 175, 155 185, 145 190
+           C135 195, 130 200, 128 200 Z" 
+        fill="url(#fireGrad2)"/>
+  
+  <!-- Core flame -->
+  <path d="M128 180
+           C118 180, 110 172, 110 160
+           C110 150, 115 148, 117 140
+           C112 135, 110 125, 115 120
+           C120 115, 125 118, 127 110
+           C129 102, 132 100, 134 95
+           C136 90, 138 92, 140 100
+           C142 108, 147 105, 149 115
+           C151 125, 153 130, 151 140
+           C149 150, 150 160, 145 165
+           C140 170, 135 175, 128 180 Z" 
+        fill="#FFFF99"/>
+  
+  <!-- Flame tips -->
+  <ellipse cx="135" cy="35" rx="8" ry="15" fill="#FFD700" opacity="0.8"/>
+  <ellipse cx="150" cy="45" rx="6" ry="12" fill="#FFA500" opacity="0.7"/>
+  <ellipse cx="170" cy="60" rx="5" ry="10" fill="#FF6347" opacity="0.6"/>
+  
+  <!-- Sparks -->
+  <circle cx="90" cy="80" r="2" fill="#FFD700" opacity="0.8"/>
+  <circle cx="180" cy="90" r="1.5" fill="#FFA500" opacity="0.7"/>
+  <circle cx="75" cy="120" r="1" fill="#FF4500" opacity="0.6"/>
+  <circle cx="190" cy="110" r="1" fill="#DC143C" opacity="0.5"/>
+</svg>

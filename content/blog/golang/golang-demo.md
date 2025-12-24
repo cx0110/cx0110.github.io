@@ -3,7 +3,7 @@ authors:
 - 1ch0
 date: 2021-12-14 14:28:44
 image:
-  caption: /img/go-logo.png
+  filename: go-logo.png
 tags:
 - go
 title: Golang Demo

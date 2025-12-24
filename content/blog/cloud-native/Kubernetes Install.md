@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Install
 image:
-  caption: /img/default.png
+  filename: python-logo.svg
 tags:
   - Kubernetes
 authors:

@@ -1,0 +1,51 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <defs>
+    <linearGradient id="rustGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#CE422B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B2500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <circle cx="128" cy="128" r="120" fill="url(#rustGrad)" opacity="0.1"/>
+  
+  <!-- Main gear body -->
+  <g transform="translate(128,128)">
+    <!-- Outer gear teeth -->
+    <g fill="url(#rustGrad)">
+      <rect x="-4" y="-90" width="8" height="20" rx="2"/>
+      <rect x="-4" y="70" width="8" height="20" rx="2"/>
+      <rect x="-90" y="-4" width="20" height="8" rx="2"/>
+      <rect x="70" y="-4" width="20" height="8" rx="2"/>
+      
+      <!-- Diagonal teeth -->
+      <rect x="-3" y="-3" width="6" height="14" rx="2" transform="rotate(45) translate(60,0)"/>
+      <rect x="-3" y="-3" width="6" height="14" rx="2" transform="rotate(135) translate(60,0)"/>
+      <rect x="-3" y="-3" width="6" height="14" rx="2" transform="rotate(225) translate(60,0)"/>
+      <rect x="-3" y="-3" width="6" height="14" rx="2" transform="rotate(315) translate(60,0)"/>
+    </g>
+    
+    <!-- Main gear circle -->
+    <circle cx="0" cy="0" r="60" fill="url(#rustGrad)"/>
+    
+    <!-- Inner circle -->
+    <circle cx="0" cy="0" r="35" fill="#2C3E50"/>
+    
+    <!-- Center hole -->
+    <circle cx="0" cy="0" r="15" fill="none" stroke="url(#rustGrad)" stroke-width="3"/>
+    
+    <!-- Rust 'R' in center -->
+    <text x="0" y="8" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="url(#rustGrad)">R</text>
+  </g>
+  
+  <!-- Small decorative gears -->
+  <g transform="translate(80,80)" fill="#CE422B" opacity="0.6">
+    <circle cx="0" cy="0" r="12"/>
+    <circle cx="0" cy="0" r="6" fill="#2C3E50"/>
+  </g>
+  
+  <g transform="translate(176,176)" fill="#CE422B" opacity="0.6">
+    <circle cx="0" cy="0" r="10"/>
+    <circle cx="0" cy="0" r="5" fill="#2C3E50"/>
+  </g>
+</svg>

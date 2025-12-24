@@ -2,7 +2,7 @@
 authors: null
 date: null
 image:
-  caption: /img/go-logo.png
+  filename: go-logo.png
 title: null
 ---
 

@@ -3,7 +3,7 @@ authors:
 - 1ch0
 date: 2022-01-06 15:17:12
 image:
-  caption: /img/default.png
+  filename: python-logo.svg
 tags:
 - Kubernetes
 title: 常用的 “kubectl” 命令和标志

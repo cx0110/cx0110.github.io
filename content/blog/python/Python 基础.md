@@ -3,7 +3,9 @@ authors:
   - 1ch0
 date: 2022-01-19 08:04:00
 image:
-  caption: /img/default.png
+  filename: python-logo.svg
+  focal_point: Smart
+  preview_only: false
 tags:
   - Python
 title: Python 基础

@@ -3,7 +3,7 @@ authors:
 - 1ch0
 date: 2022-01-07 15:33:06
 image:
-  caption: /img/default.png
+  filename: python-logo.svg
 tags:
 - Kubernetes
 title: 02 Kubernetes

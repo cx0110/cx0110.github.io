@@ -3,7 +3,7 @@ authors:
 - admin
 date: 2020-11-21 10:00:00
 image:
-  caption: /img/go-logo.png
+  filename: go-logo.png
 tags:
 - GoLearn
 title: The Go Programming Language（6-7）

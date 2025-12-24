@@ -3,7 +3,7 @@ authors:
 - admin
 date: 2021-04-23 20:40:00
 image:
-  caption: /img/go-logo.png
+  filename: go-logo.png
 tags:
 - GoLearn
 title: GO专家编程

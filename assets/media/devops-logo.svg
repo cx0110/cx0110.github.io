@@ -1,0 +1,31 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <defs>
+    <linearGradient id="devopsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#4ECDC4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#45B7D1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <circle cx="128" cy="128" r="120" fill="url(#devopsGrad)" opacity="0.1"/>
+  
+  <!-- Infinity symbol for DevOps -->
+  <path d="M70 128 C70 100, 100 100, 128 128 C156 156, 186 156, 186 128 C186 100, 156 100, 128 128 C100 156, 70 156, 70 128 Z" 
+        fill="none" 
+        stroke="url(#devopsGrad)" 
+        stroke-width="12" 
+        stroke-linecap="round"/>
+  
+  <!-- Dev and Ops text -->
+  <text x="90" y="135" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#FF6B6B">DEV</text>
+  <text x="166" y="135" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#4ECDC4">OPS</text>
+  
+  <!-- Gears -->
+  <g fill="url(#devopsGrad)" opacity="0.6">
+    <circle cx="90" cy="90" r="15"/>
+    <circle cx="90" cy="90" r="8" fill="white"/>
+    <circle cx="166" cy="166" r="12"/>
+    <circle cx="166" cy="166" r="6" fill="white"/>
+  </g>
+</svg>

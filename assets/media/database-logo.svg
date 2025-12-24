@@ -1,0 +1,36 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <defs>
+    <linearGradient id="dbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#336791;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2C5282;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <circle cx="128" cy="128" r="120" fill="url(#dbGrad)" opacity="0.1"/>
+  
+  <!-- Database cylinders -->
+  <g fill="url(#dbGrad)">
+    <!-- Top cylinder -->
+    <ellipse cx="128" cy="80" rx="60" ry="20"/>
+    <rect x="68" y="80" width="120" height="40"/>
+    <ellipse cx="128" cy="120" rx="60" ry="20"/>
+    
+    <!-- Middle cylinder -->
+    <ellipse cx="128" cy="130" rx="60" ry="20"/>
+    <rect x="68" y="130" width="120" height="40"/>
+    <ellipse cx="128" cy="170" rx="60" ry="20"/>
+    
+    <!-- Bottom cylinder -->
+    <ellipse cx="128" cy="180" rx="60" ry="20"/>
+    <rect x="68" y="180" width="120" height="30"/>
+    <ellipse cx="128" cy="210" rx="60" ry="20"/>
+  </g>
+  
+  <!-- Highlight lines -->
+  <g stroke="white" stroke-width="2" fill="none" opacity="0.7">
+    <ellipse cx="128" cy="80" rx="50" ry="15"/>
+    <ellipse cx="128" cy="130" rx="50" ry="15"/>
+    <ellipse cx="128" cy="180" rx="50" ry="15"/>
+  </g>
+</svg>

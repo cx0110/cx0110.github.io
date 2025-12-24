@@ -3,7 +3,9 @@ authors:
 - 1ch0
 date: 2022-01-12 15:37:00
 image:
-  caption: /img/default.png
+  filename: python-logo.svg
+  focal_point: Smart
+  preview_only: false
 tags:
 - Python
 title: Python核心技术与实战-基础篇

@@ -58,3 +58,15 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: templates/blog/content
     branch: main
+
+# Default images for different categories
+default_images:
+  golang: "go-logo.png"
+  python: "python-logo.svg"
+  linux: "linux-logo.svg"
+  rust: "rust-logo.svg"
+  kubernetes: "kubernetes-logo.svg"
+  docker: "docker-logo.png"
+  github: "github-logo.svg"
+  trending: "trending-logo.svg"
+  blog: "blog-default.svg"

@@ -3,7 +3,9 @@ authors:
 - 1ch0
 date: 2022-06-22 15:43:40
 image:
-  caption: /img/go-logo.png
+  filename: go-logo.png
+  focal_point: Smart
+  preview_only: false
 tags:
 - go
 title: design_parttern

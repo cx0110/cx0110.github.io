@@ -3,7 +3,7 @@ authors:
 - 1ch0
 date: 2021-08-07 10:00:00
 image:
-  caption: /img/go-logo.png
+  filename: go-logo.png
 tags:
 - Design Parttern
 title: GO 设计模式

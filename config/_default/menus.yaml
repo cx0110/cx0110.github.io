@@ -6,11 +6,11 @@ main:
     url: /
     weight: 10
   - name: Trending 
-    url: /categories/每日热点/ # 对应爬虫脚本里写的 categories
+    url: /trending/
     weight: 20    
   - name: Topics
     url: tags/
-    weight: 20
+    weight: 30
   - name: Uses
     url: uses/
-    weight: 30
+    weight: 40

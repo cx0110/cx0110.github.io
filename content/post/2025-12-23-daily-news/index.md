@@ -15,8 +15,9 @@ lastmod: 2025-12-23T09:00:00+08:00
 featured: false
 draft: false
 image:
-  caption: ""
-  focal_point: "Smart"
+  filename: trending-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
 ## 📈 GitHub Trending

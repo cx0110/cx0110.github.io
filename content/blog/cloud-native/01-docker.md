@@ -3,7 +3,7 @@ authors:
 - 1ch0
 date: 2022-01-11 08:00:00
 image:
-  caption: /img/default.png
+  filename: python-logo.svg
 tags:
 - Kubernetes
 title: K8S-M-Docker
