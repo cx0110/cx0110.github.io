@@ -15,7 +15,7 @@ lastmod: 2025-12-23T09:00:00+08:00
 featured: false
 draft: false
 image:
-  filename: trending-logo.svg
+  filename: github-logo.svg
   focal_point: Smart
   preview_only: false
 ---
