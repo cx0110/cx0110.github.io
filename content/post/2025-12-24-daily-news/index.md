@@ -73,3 +73,72 @@ image:
 | 9 | [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3,021 | 🤖 该项目是一个集成了LightRAG知识库和知识图谱的智能体平台，支持多种工具和技术，如DeepAgents、MinerU PDF、Neo4j和MCP。 |
 | 10 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 6,429 | 🤖 LMCache项目提供了一个快速的键值缓存层，以加速大型语言模型（LLM）的性能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2025-12-24 18:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 1075 | 🤖 RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。 |
+| 2 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 430 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 3 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 401 | 🤖 自动化多会话AI编码。 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 351 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 5 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 286 | 🤖 使用日常设备在家搭建人工智能集群。 |
+| 6 | [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 🔥 226 | Make beautiful isometric infrastructure diagrams |
+| 7 | [google/langextract](https://github.com/google/langextract) | 🔥 221 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| 8 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 🔥 172 | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| 9 | [sst/opencode](https://github.com/sst/opencode) | 🔥 173 | The open source coding agent. |
+| 10 | [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) | 🔥 176 | TurboDiffusion: 100–200× Acceleration for Video Diffusion Models |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 56 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 49 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) | 🔥 57 | 🤖 该项目通过检测HTTP请求，阻止AI爬虫的访问。 |
+| 4 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 🔥 97 | 🤖 Fabric 是一个开源框架，利用人工智能来增强人类能力。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 47 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 32 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 7 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 30 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 8 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 22 | Open-source Trading OS with pluggable AI brain \| From market data → AI reasoning → Trade execution \| Self-hosted & Multi-exchange |
+| 9 | [komari-monitor/komari](https://github.com/komari-monitor/komari) | 🔥 22 | A simple server monitor tool. |
+| 10 | [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) | 🔥 20 | 极简且免费的微信消息推送服务 (基于golang) |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 1070 | 🤖 RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。 |
+| 2 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 421 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 337 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [google/langextract](https://github.com/google/langextract) | 🔥 216 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 5 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 260 | 🤖 使用日常设备在家搭建人工智能集群。 |
+| 6 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 🔥 169 | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| 7 | [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) | 🔥 175 | TurboDiffusion: 100–200× Acceleration for Video Diffusion Models |
+| 8 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 🔥 138 | SoTA open-source TTS |
+| 9 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 🔥 147 | CLI tool for configuring and monitoring Claude Code |
+| 10 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 133 |  |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 74 | 🤖 scanopy 是一个网络图表工具，帮助用户创建和维护干净的网络图表，实现一次性设置和零维护。 |
+| 2 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 60 | 🤖 该项目是一个用于人工智能的数据转换框架，具有超高性能和增量处理能力。 |
+| 3 | [BeaconBay/ck](https://github.com/BeaconBay/ck) | 🔥 30 | 🤖 BeaconBay/ck 是一个本地搜索工具，支持语义搜索和混合搜索。 |
+| 4 | [rex-rs/rex](https://github.com/rex-rs/rex) | 🔥 18 | 🤖 Rex 是一个 Rust 内核扩展框架，允许加载和执行 Rust 程序。 |
+| 5 | [steveklabnik/rue](https://github.com/steveklabnik/rue) | 🔥 16 | 🤖 该项目是一个简化版的Rust编程语言。 |
+| 6 | [raine/workmux](https://github.com/raine/workmux) | 🔥 16 | git worktrees + tmux windows for zero-friction parallel dev |
+| 7 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 🔥 14 | Text editor for your terminal: easy, powerful and fast |
+| 8 | [terauss/Polymarket-Kalshi-Arbitrage-bot](https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot) | 🔥 12 | Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market.  |
+| 9 | [0xflux/Wyrm](https://github.com/0xflux/Wyrm) | 🔥 14 |  The dragon in the dark. A red team post exploitation framework for testing security controls during red team assessments.  |
+| 10 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 9 | Kanban board to manage your AI coding agents |
+
