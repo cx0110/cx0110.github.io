@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2025-12-25"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2025-12-25T09:00:00+08:00
+lastmod: 2025-12-25T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2025-12-25 17:22 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 10,283 | 🤖 RenderCV是一个基于Typst的在线简历/CV生成工具，专为学术和工程领域的专业人士设计。 |
+| 2 | [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3,129 | 🤖 该项目是一个集成了LightRAG知识库和知识图谱的智能体平台，支持多种工具和技术，如DeepAgents、MinerU PDF、Neo4j和MCP。 |
+| 3 | [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 68,727 | 🤖 该项目是Twitter的X推荐算法的源代码。 |
+| 4 | [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | 7,522 | 🤖 Vendure是一个使用TypeScript、NestJS和GraphQL构建的高度可定制的电子商务平台。 |
+| 5 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 6,017 | 🤖 该项目使用LEANN技术实现了快速、准确、100%私有的RAG应用，同时节省了97%的存储空间。 |
+| 6 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 17,613 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 7 | [makeplane/plane](https://github.com/makeplane/plane) | 41,652 | 🤖 Plane是一个开源的项目管理工具，帮助用户跟踪问题、史诗和周期。 |
+| 8 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 1,666 | 🤖 该项目是一个用于高效推理的多模态模型框架。 |
+| 9 | [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) | 1,391 | 🤖 该项目是一个轻量级的视频生成推理框架，用于高效生成视频内容。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) | 917 | 🤖 WCY-dt/MrRSS是一个跨平台的RSS阅读器，允许用户在不同操作系统上订阅和阅读RSS源。 |
+| 2 | [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) | 3,403 | 🤖 该项目是一个轻量级的自托管个人理财应用，具有用户友好的界面和强大的记账功能。 |
+| 3 | [qualifire-dev/rogue](https://github.com/qualifire-dev/rogue) | 676 | 🤖 该项目是一个智能代理测试框架，旨在简化代理测试流程。 |
+| 4 | [FiloSottile/age](https://github.com/FiloSottile/age) | 20,462 | 🤖 Age是一个简单、现代且安全的加密工具和Go库，具有小型明确的密钥、无需配置选项和UNIX风格的可组合性。 |
+| 5 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 29,103 | 🤖 SeaweedFS是一个分布式存储系统，支持高性能的对象、文件和数据湖存储，具有O(1)磁盘寻址、云分层存储、多种协议支持等特点。 |
+| 6 | [rs/zerolog](https://github.com/rs/zerolog) | 12,065 | 🤖 这个项目是一个零分配的JSON日志记录器，能够高效地记录和输出JSON格式的日志信息。 |
+| 7 | [cloudwego/eino](https://github.com/cloudwego/eino) | 8,782 | 🤖 cloudwego/eino是一个使用Golang开发的终极大型语言模型（LLM）和人工智能（AI）应用开发框架。 |
+| 8 | [cilium/ebpf](https://github.com/cilium/ebpf) | 7,389 | 🤖 该项目提供了一个纯Go语言的库，用于读取、修改和加载eBPF程序，并将其附加到Linux内核的各种钩子上。 |
+| 9 | [gofiber/fiber](https://github.com/gofiber/fiber) | 38,818 | 🤖 这是一个使用Go语言编写的，受Express框架启发的Web开发框架。 |
+| 10 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 36,685 | 🤖 Fabric 是一个开源框架，利用人工智能来增强人类的能力，通过众包的方式提供模块化的解决方案。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 10,283 | 🤖 RenderCV是一个基于Typst的在线简历/CV生成工具，专为学术和工程领域的专业人士设计。 |
+| 2 | [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3,129 | 🤖 该项目是一个集成了LightRAG知识库和知识图谱的智能体平台，支持多种工具和技术，如DeepAgents、MinerU PDF、Neo4j和MCP。 |
+| 3 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 6,017 | 🤖 该项目使用LEANN技术实现了快速、准确、100%私有的RAG应用，同时节省了97%的存储空间。 |
+| 4 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 17,613 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 5 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 1,666 | 🤖 该项目是一个用于高效推理的多模态模型框架。 |
+| 6 | [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) | 1,391 | 🤖 该项目是一个轻量级的视频生成推理框架，用于高效生成视频内容。 |
+| 7 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 13,739 | 🤖 该项目是一个命令行工具，用于配置和监控Claude Code。 |
+| 8 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 51,099 | 🤖 Pathway是一个Python的ETL框架，用于流式处理、实时分析、LLM管道和RAG。 |
+| 9 | [safety-research/bloom](https://github.com/safety-research/bloom) | 840 | 🤖 该项目"Bloom"的核心功能是能够立即评估任何行为。 |
+| 10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 139,460 | 🤖 yt-dlp是一个功能丰富的命令行音频/视频下载器。 |
+
