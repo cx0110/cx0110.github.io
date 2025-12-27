@@ -1,0 +1,71 @@
+---
+title: "🔥 每日技术热点 2025-12-27"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2025-12-27T09:00:00+08:00
+lastmod: 2025-12-27T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2025-12-27 01:22 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 11,975 | 🤖 RenderCV是一个基于Typst的在线简历/CV生成工具，专为学术和工程领域的专业人士设计。 |
+| 2 | [langgenius/dify](https://github.com/langgenius/dify) | 123,500 | 🤖 该项目是一个生产就绪的平台，用于开发代理工作流。 |
+| 3 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 40,788 | 🤖 该项目是一个多平台爬虫，主要功能是爬取小红书、抖音、快手、B站、微博、百度贴吧和知乎等平台的帖子、评论和回复信息。 |
+| 4 | [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) | 785 | 🤖 该项目是一个原生桌面图表平台，用于加密货币市场的数据分析和可视化。 |
+| 5 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 6,343 | 🤖 该项目使用LEANN技术实现了快速、准确、100%私有的RAG应用，同时节省了97%的存储空间。 |
+| 6 | [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) | 2,869 | 🤖 该项目是一个人工智能驱动的暗网开源情报工具，用于收集和分析暗网数据。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [juicedata/juicefs](https://github.com/juicedata/juicefs) | 12,591 | 🤖 JuiceFS是一个基于Redis和S3构建的分布式POSIX文件系统。 |
+| 2 | [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) | 3,439 | 🤖 该项目是一个轻量级的自托管个人理财应用，具有用户友好的界面和强大的记账功能。 |
+| 3 | [pion/webrtc](https://github.com/pion/webrtc) | 15,851 | 🤖 该项目是一个使用Go语言实现的WebRTC API，提供纯Go语言的WebRTC功能。 |
+| 4 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 37,708 | 🤖 Charmbracelet/bubbletea是一个用于构建终端用户界面的强大框架。 |
+| 5 | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | 32,348 | 🤖 zeromicro/go-zero是一个云原生的Go微服务框架，提供CLI工具以提高开发效率。 |
+| 6 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | 51,177 | 🤖 etcd 是一个分布式的可靠键值存储系统，用于存储分布式系统中最关键的数据。 |
+| 7 | [YouROK/TorrServer](https://github.com/YouROK/TorrServer) | 2,317 | 🤖 该项目是一个种子服务器，允许用户流式传输种子文件。 |
+| 8 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 29,131 | 🤖 SeaweedFS是一个分布式存储系统，支持高性能的对象、文件和数据湖存储，具有O(1)磁盘寻址、云分层存储、多种协议支持等特点。 |
+| 9 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 31,304 | 🤖 Minikube是一个允许用户在本地机器上运行Kubernetes的工具。 |
+| 10 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 7,679 | 🤖 该项目是一个小红书的内容爬取和监测平台，用于收集和分析小红书网站的数据。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 11,975 | 🤖 RenderCV是一个基于Typst的在线简历/CV生成工具，专为学术和工程领域的专业人士设计。 |
+| 2 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 40,788 | 🤖 该项目是一个多平台爬虫，主要功能是爬取小红书、抖音、快手、B站、微博、百度贴吧和知乎等平台的帖子、评论和回复信息。 |
+| 3 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 6,343 | 🤖 该项目使用LEANN技术实现了快速、准确、100%私有的RAG应用，同时节省了97%的存储空间。 |
+| 4 | [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) | 2,869 | 🤖 该项目是一个人工智能驱动的暗网开源情报工具，用于收集和分析暗网数据。 |
+| 5 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 26,691 | 🤖 LightRAG是一个简单且快速的检索增强生成模型，能够高效地检索和生成相关文本。 |
+| 6 | [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | 64,535 | 🤖 该项目实现了100多个大语言模型（LLMs）和视觉语言模型（VLMs）的统一高效微调。 |
+| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 27,041 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 8 | [microsoft/qlib](https://github.com/microsoft/qlib) | 34,911 | 🤖 Qlib是一个面向量化投资的AI平台，利用AI技术支持多种机器学习模型和强化学习，实现从研究到生产的自动化。 |
+| 9 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | 1,498 | 🤖 VideoRAG项目是一个可以让用户通过自然语言与视频进行交互的系统，实现了视频内容的检索、问答和生成等功能。 |
+| 10 | [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3,377 | 🤖 该项目是一个集成了LightRAG知识库和知识图谱的智能体平台，支持多种工具和技术，如DeepAgents、MinerU PDF、Neo4j和MCP。 |
+
