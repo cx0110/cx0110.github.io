@@ -72,3 +72,72 @@ image:
 | 9 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 10,646 | 🤖 该项目为AI代理提供了一个记忆功能，允许它们存储和检索信息以实现更智能的决策。 |
 | 10 | [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 5,409 | 🤖 SkyReels-V2是一个可以生成无限长度电影的生成模型。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2025-12-29 02:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [tw93/Mole](https://github.com/tw93/Mole) | 🔥 874 | 🤖 这个项目是一个 Mac 优化工具，帮助用户深入优化 Mac 的性能和配置。 |
+| 2 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 581 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 3 | [eooce/node-ws](https://github.com/eooce/node-ws) | 🔥 120 | 🤖 该项目是一个基于 Node.js 的多协议代理服务器，支持 vless、trojan、shadowsocks 和 vmess 四种协议。 |
+| 4 | [blinkospace/blinko](https://github.com/blinkospace/blinko) | 🔥 340 | 🤖 Blinko 是一个开源的个人 AI 笔记工具，优先考虑隐私和自托管。 |
+| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 271 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 6 | [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) | 🔥 233 | AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best ap... |
+| 7 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 191 | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人... |
+| 8 | [apple/ml-sharp](https://github.com/apple/ml-sharp) | 🔥 236 | Sharp Monocular View Synthesis in Less Than a Second |
+| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 199 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 10 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 233 | CV/resume generator for academics and engineers, YAML to PDF |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 657 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 53 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 45 | 🤖 VibiumDev/vibium 是一个浏览器自动化工具，帮助人工智能和人类用户自动完成浏览器操作。 |
+| 4 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 45 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 5 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 44 | 🤖 Databasus 是一个数据库备份工具，支持 PostgreSQL、MySQL 和 MongoDB。 |
+| 6 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 🔥 59 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced ... |
+| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 31 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 34 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 9 | [zakirullin/gpt-go](https://github.com/zakirullin/gpt-go) | 🔥 25 | Tiny GPT implemented from scratch in pure Go. Trained on Jules Verne books. Explained. |
+| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 17 | Open-source Trading OS with pluggable AI brain \| From market data → AI reasoning → Trade execution \| Self-hosted & Multi-exchange |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 195 | 🤖 该项目是一个基于AI的舆情监控分析工具，聚合多平台热点新闻并进行智能分析。 |
+| 2 | [apple/ml-sharp](https://github.com/apple/ml-sharp) | 🔥 233 | 🤖 该项目实现了快速单目视图合成，仅需不到一秒。 |
+| 3 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 185 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 4 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 226 | 🤖 RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 172 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 6 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 143 |  |
+| 7 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 134 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
+| 8 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 95 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on na... |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 74 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 🔥 62 | "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971 |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 309 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 🔥 135 | 🤖 这是一个终端下的文本编辑器，易用、强大且快速。 |
+| 3 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 32 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 4 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 41 | 🤖 该项目是一个用于人工智能的数据转换框架，具有超高性能和增量处理能力。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 37 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 33 | Clean network diagrams. One-time setup, zero upkeep. |
+| 7 | [pkgforge/soar](https://github.com/pkgforge/soar) | 🔥 50 | A fast, modern package manager for Static Binaries, Portable Formats (AppImage\|AppBundle\|FlatImage\|Runimage) & More [maintainer=@QaidVoid] |
+| 8 | [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) | 🔥 59 | A native desktop charting platform for crypto markets |
+| 9 | [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) | 🔥 21 | Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface |
+| 10 | [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) | 🔥 72 | Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! |
+
