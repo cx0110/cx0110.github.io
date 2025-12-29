@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2025-12-29"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2025-12-29T09:00:00+08:00
+lastmod: 2025-12-29T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2025-12-29 01:22 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20,087 | 🤖 Flowseal/zapret-discord-youtube项目是一个将Discord和YouTube集成的机器人，用于自动发布YouTube视频到Discord频道。 |
+| 2 | [tw93/Mole](https://github.com/tw93/Mole) | 20,979 | 🤖 该项目是一个Mac清理和优化工具，帮助用户深度清理和优化Mac电脑。 |
+| 3 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 215,766 | 🤖 该项目实现了各种算法的Python代码，提供了一个全面而详细的算法库。 |
+| 4 | [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) | 827 | 🤖 该项目是将zapret-discord-youtube工具移植到Linux系统上，支持使用nftables进行Discord和YouTube的访问控制。 |
+| 5 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 7,115 | 🤖 该项目旨在通过优化和扩展Claude Code、Codex等编码代理工具，实现其效率和产出的10倍提升。 |
+| 6 | [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21,075 | 🤖 该项目是一个用Rust语言编写的Python解释器。 |
+| 7 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14,356 | 🤖 Lean是一个开源的算法交易引擎，支持Python和C#语言，用于构建和执行算法交易策略。 |
+| 8 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 84,771 | 🤖 该项目收集了基于OpenAI、Anthropic、Gemini和开源模型的LLM应用，包括AI代理和RAG。 |
+| 9 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 3,682 | 🤖 这是一个为终端设计的文本编辑器，具有简单、强大和快速的特点。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) | 4,592 | 🤖 HomeBox是一个用于家庭用户的库存和组织系统，帮助用户管理和跟踪家中物品。 |
+| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 30,664 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 3 | [looplj/axonhub](https://github.com/looplj/axonhub) | 1,005 | 🤖 AxonHub是一个现代的AI网关系统，提供统一的OpenAI、Anthropic、Gemini和AI SDK兼容API。 |
+| 4 | [gogf/gf](https://github.com/gogf/gf) | 12,970 | 🤖 gogf/gf是一个强大的框架，旨在加速、简化和提高项目开发的效率。 |
+| 5 | [evcc-io/evcc](https://github.com/evcc-io/evcc) | 5,917 | 🤖 evcc-io/evcc项目的核心功能是优化电动汽车的充电过程，利用太阳能发电来为汽车充电，减少对电网的依赖。 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 47,342 | 🤖 Terraform是一种工具，允许用户通过编写声明式配置文件来创建、修改和管理基础设施。 |
+| 7 | [FiloSottile/age](https://github.com/FiloSottile/age) | 20,548 | 🤖 Age是一个简单、现代且安全的加密工具和Go库，具有小型明确的密钥、无需配置选项和UNIX风格的可组合性。 |
+| 8 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 161,128 | 🤖 该项目是一个精选的Go框架、库和软件列表。 |
+| 9 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | 85,612 | 🤖 Hugo是一个用于构建网站的快速框架。 |
+| 10 | [henrygd/beszel](https://github.com/henrygd/beszel) | 18,007 | 🤖 该项目是一个轻量级的服务器监控中心，提供历史数据、Docker 统计和告警功能。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 215,766 | 🤖 该项目实现了各种算法的Python代码，提供了一个全面而详细的算法库。 |
+| 2 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 84,771 | 🤖 该项目收集了基于OpenAI、Anthropic、Gemini和开源模型的LLM应用，包括AI代理和RAG。 |
+| 3 | [wshobson/agents](https://github.com/wshobson/agents) | 23,706 | 🤖 该项目实现了智能自动化和多智能体编排，用于Claude Code。 |
+| 4 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 41,073 | 🤖 该项目是一个多平台爬虫，主要功能是爬取小红书、抖音、快手、B站、微博、百度贴吧和知乎等平台的帖子、评论和回复信息。 |
+| 5 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 11,576 | 🤖 RAG-Anything是一个全面的RAG（检索、聚合、生成）框架，能够集成多种功能以实现高效的信息检索和生成。 |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 388,270 | 🤖 该项目收集并整理了一份免费API的清单，供开发者使用。 |
+| 7 | [alexta69/metube](https://github.com/alexta69/metube) | 11,265 | 🤖 该项目是一个自托管的YouTube下载器，提供网页界面用于下载YouTube视频。 |
+| 8 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 12,003 | 🤖 MODSetter/SurfSense是一个开源项目，连接多个搜索引擎、协作工具和平台，提供一个集成的信息检索和管理系统。 |
+| 9 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 10,646 | 🤖 该项目为AI代理提供了一个记忆功能，允许它们存储和检索信息以实现更智能的决策。 |
+| 10 | [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 5,409 | 🤖 SkyReels-V2是一个可以生成无限长度电影的生成模型。 |
+
