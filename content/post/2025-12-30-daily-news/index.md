@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2025-12-30"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2025-12-30T09:00:00+08:00
+lastmod: 2025-12-30T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2025-12-30 01:23 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14,753 | 🤖 Lean是一个开源的算法交易引擎，支持Python和C#语言，用于构建和执行算法交易策略。 |
+| 2 | [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21,288 | 🤖 该项目是一个用Rust语言编写的Python解释器。 |
+| 3 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20,281 | 🤖 Flowseal/zapret-discord-youtube项目是一个将Discord和YouTube集成的机器人，用于自动发布YouTube视频到Discord频道。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 7,880 | 🤖 该项目旨在通过优化和扩展Claude Code、Codex等编码代理工具，实现其效率和产出的10倍提升。 |
+| 5 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 25,265 | 🤖 该项目是一个社交媒体内容安排工具，集成了人工智能功能，帮助用户高效地管理和发布社交媒体内容。 |
+| 6 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41,285 | 🤖 该项目是一个基于AI的舆情监控分析工具，能够监控多个平台的热点新闻资讯，并提供智能筛选、自动推送和深度分析等功能。 |
+| 7 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 4,041 | 🤖 这是一个为终端设计的文本编辑器，具有简单、强大和快速的特点。 |
+| 8 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 103,243 | 🤖 该项目旨在收集和整理各种AI工具的系统提示、内部工具和AI模型，包括多个开源项目，用于增强代码编写和开发效率。 |
+| 9 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 71,951 | 🤖 Stirling-PDF是一个允许用户在任何设备、任何地方编辑PDF文件的应用程序。 |
+| 10 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 18,985 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) | 4,638 | 🤖 HomeBox是一个用于家庭用户的库存和组织系统，帮助用户管理和跟踪家中物品。 |
+| 2 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | 20,538 | 🤖 该项目创建了一个基于WireGuard的安全网络，支持单点登录、多因素认证和细粒度访问控制。 |
+| 3 | [keploy/keploy](https://github.com/keploy/keploy) | 14,156 | 🤖 Keploy是一个API、集成和端到端测试代理，能够自动生成测试用例、模拟和存根，帮助开发者高效测试API。 |
+| 4 | [looplj/axonhub](https://github.com/looplj/axonhub) | 1,052 | 🤖 AxonHub是一个现代的AI网关系统，提供统一的OpenAI、Anthropic、Gemini和AI SDK兼容API。 |
+| 5 | [evcc-io/evcc](https://github.com/evcc-io/evcc) | 5,932 | 🤖 evcc-io/evcc项目的核心功能是优化电动汽车的充电过程，利用太阳能发电来为汽车充电，减少对电网的依赖。 |
+| 6 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 30,698 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 7 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 78,584 | 🤖 Syncthing是一个开源的持续文件同步工具，实现多设备之间的自动文件同步。 |
+| 8 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | 85,638 | 🤖 Hugo是一个用于构建网站的快速框架。 |
+| 9 | [FiloSottile/age](https://github.com/FiloSottile/age) | 20,593 | 🤖 Age是一个简单、现代且安全的加密工具和Go库，具有小型明确的密钥、无需配置选项和UNIX风格的可组合性。 |
+| 10 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 161,216 | 🤖 该项目是一个精选的Go框架、库和软件列表。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41,285 | 🤖 该项目是一个基于AI的舆情监控分析工具，能够监控多个平台的热点新闻资讯，并提供智能筛选、自动推送和深度分析等功能。 |
+| 2 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 18,985 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 3 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 216,072 | 🤖 该项目实现了各种算法的Python代码，提供了一个全面而详细的算法库。 |
+| 4 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 330,675 | 🤖 该项目提供大规模系统设计的学习资源和Anki闪存卡，帮助用户准备系统设计面试。 |
+| 5 | [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) | 10,938 | 🤖 Mealie是一个自托管的食谱管理和餐饮计划工具，支持通过URL自动导入食谱数据和UI编辑器添加家庭食谱。 |
+| 6 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 85,107 | 🤖 该项目收集了基于OpenAI、Anthropic、Gemini和开源模型的LLM应用，包括AI代理和RAG。 |
+| 7 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 12,068 | 🤖 MODSetter/SurfSense是一个开源项目，连接多个搜索引擎、协作工具和平台，提供一个集成的信息检索和管理系统。 |
+| 8 | [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) | 9,237 | 🤖 该项目是一个实时语音转文字库，具有高效、低延迟、先进的语音活动检测、唤醒词激活和即时转录功能。 |
+| 9 | [wshobson/agents](https://github.com/wshobson/agents) | 23,805 | 🤖 该项目实现了智能自动化和多智能体编排，用于Claude Code。 |
+| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 9,716 | 🤖 Kronos是一个针对金融市场语言的基础模型，旨在理解和处理金融市场相关的语言和数据。 |
+
