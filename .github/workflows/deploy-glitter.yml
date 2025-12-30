@@ -1,7 +1,6 @@
 name: Deploy website to Glitter Network
 
 env:
-  # 保持和你原文件一致的版本
   WC_HUGO_VERSION: '0.152.2'
   NODE_VERSION: '20'
 
@@ -10,7 +9,6 @@ on:
     branches: ['main']
   workflow_dispatch:
 
-# 这里不需要写 pages: write 的权限，因为不推送到 GitHub Pages
 permissions:
   contents: read
 
@@ -45,7 +43,6 @@ jobs:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
 
-    # 缓存步骤保持不变，加快构建速度
     - uses: actions/cache@v4
       with:
         path: |
@@ -63,13 +60,10 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-hugo-resources-
 
-    # 构建步骤：关键修改点
     - name: Build with Hugo for Glitter
       env:
         HUGO_ENVIRONMENT: production
       run: |
-        # 将 baseURL 设置为 "/" 或者是你在 Glitter 绑定的自定义域名
-        # 如果你只是用 IPFS 网关访问，可能需要开启 relativeURLs: true (视情况而定)
         hugo --minify --baseURL "/"
 
     - name: Generate Pagefind search index (if applicable)
@@ -78,9 +72,19 @@ jobs:
           pnpm dlx pagefind --source "public" || npx pagefind --source "public"
         fi
 
-    # 部署到 Glitter
-    - name: Deploy to Glitter via PinMe
-      uses: glitternetwork/pinme@main
-      with:
-        token: ${{ secrets.GLITTER_TOKEN }}
-        path: 'public'
+    - name: Install pinme CLI
+      run: |
+        echo "📥 Downloading pinme..."
+        curl -fsSL https://github.com/glitternetwork/pinme/releases/latest/download/pinme-linux-amd64 -o pinme
+        chmod +x pinme
+        sudo mv pinme /usr/local/bin/
+        echo "✅ pinme installed"
+        pinme --help || true
+
+    - name: Deploy to Glitter Network
+      env:
+        PINME_APPKEY: ${{ secrets.PINME_APPKEY }}
+      run: |
+        echo "📦 Uploading ./public to Glitter Network..."
+        pinme upload ./public --key "$PINME_APPKEY"
+        echo "✅ Deploy complete!"
