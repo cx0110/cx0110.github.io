@@ -84,5 +84,5 @@ jobs:
         PINME_APPKEY: ${{ secrets.PINME_APPKEY }}
       run: |
         echo "📦 Uploading ./public to Glitter Network..."
-        pinme upload ./public --key "$PINME_APPKEY"
+        pinme upload ./public "$PINME_APPKEY"
         echo "✅ Deploy complete!"
