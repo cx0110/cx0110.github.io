@@ -80,7 +80,7 @@ jobs:
 
     # 部署到 Glitter
     - name: Deploy to Glitter via PinMe
-      uses: glitternetwork/pinme@v1
+      uses: glitternetwork/pinme@main
       with:
         token: ${{ secrets.GLITTER_TOKEN }}
         path: 'public'
