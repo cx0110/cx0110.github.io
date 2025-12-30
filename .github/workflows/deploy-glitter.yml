@@ -74,12 +74,10 @@ jobs:
 
     - name: Install pinme CLI
       run: |
-        echo "📥 Downloading pinme..."
-        curl -fsSL https://github.com/glitternetwork/pinme/releases/latest/download/pinme-linux-amd64 -o pinme
-        chmod +x pinme
-        sudo mv pinme /usr/local/bin/
+        echo "📥 Installing pinme via npm..."
+        npm install -g pinme
         echo "✅ pinme installed"
-        pinme --help || true
+        pinme --help || pinme -h || true
 
     - name: Deploy to Glitter Network
       env:
