@@ -1,74 +1,75 @@
 ---
 title: "🔥 每日技术热点 2025-12-31"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
 date: 2025-12-31T09:00:00+08:00
+lastmod: 2025-12-31T09:00:00+08:00
+featured: false
 draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
----
-
-## 🔥 OSSInsight 技术热点
+## 📈 GitHub Trending
 
 
-每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
-> 更新时间: 2025-12-31 02:18 UTC
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
 
-## 🔥 全球热榜 (24h)
+> 更新时间: 2025-12-31 01:25 UTC
 
-| 排名 | 项目 | Stars | 简介 |
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 1185 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
-| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 435 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 3 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | 🔥 352 | 🤖 该项目通过电话号码追踪设备的活动状态，如在线、离线或待机等。 |
-| 4 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 276 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
-| 5 | [tw93/Mole](https://github.com/tw93/Mole) | 🔥 314 | 🤖 这个项目是一个 Mac 优化工具，帮助用户深入优化 Mac 的性能和配置。 |
-| 6 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 🔥 279 | SoTA open-source TTS |
-| 7 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 262 | Kanban board to manage your AI coding agents |
-| 8 | [zapdos-labs/unblink](https://github.com/zapdos-labs/unblink) | 🔥 212 | Modern video analytics with VLM |
-| 9 | [sst/opencode](https://github.com/sst/opencode) | 🔥 223 | The open source coding agent. |
-| 10 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 165 | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人... |
+| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 8,711 | 🤖 该项目旨在通过优化和扩展Claude Code、Codex等编码代理工具，实现其效率和产出的10倍提升。 |
+| 2 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 103,970 | 🤖 该项目旨在收集和整理各种AI工具的系统提示、内部工具和AI模型，包括多个开源项目，用于增强代码编写和开发效率。 |
+| 3 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 15,134 | 🤖 Lean是一个开源的算法交易引擎，支持Python和C#语言，用于构建和执行算法交易策略。 |
+| 4 | [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | 8,971 | 🤖 该项目是一个多核友好的刚体物理和碰撞检测库，适用于游戏和VR应用。 |
+| 5 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 720 | 🤖 该项目为Postgres数据库提供MCP服务器和Claude插件，帮助AI编码工具生成更好的PostgreSQL代码。 |
+| 6 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19,538 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 7 | [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21,470 | 🤖 该项目是一个用Rust语言编写的Python解释器。 |
+| 8 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 4,271 | 🤖 这是一个为终端设计的文本编辑器，具有简单、强大和快速的特点。 |
+| 9 | [alexta69/metube](https://github.com/alexta69/metube) | 11,471 | 🤖 该项目是一个自托管的YouTube下载器，提供网页界面用于下载YouTube视频。 |
+| 10 | [anthropics/skills](https://github.com/anthropics/skills) | 30,004 | 🤖 该项目是一个公共仓库，用于存储和开发智能代理的技能。 |
 
-## 🐹 Go 语言精选 (24h)
+## 🐹 Go 语言热门
 
-| 排名 | 项目 | Stars | 简介 |
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 1211 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
-| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 99 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
-| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 94 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 44 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
-| 5 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 41 | 🤖 Databasus 是一个数据库备份工具，支持 PostgreSQL、MySQL 和 MongoDB。 |
-| 6 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 35 | Modern Docker Management, Designed for Everyone |
-| 7 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 37 | Browser automation for AI agents and humans |
-| 8 | [looplj/axonhub](https://github.com/looplj/axonhub) | 🔥 32 | AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API |
-| 9 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 🔥 76 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced ... |
-| 10 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 30 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 1 | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | 21,037 | 🤖 该项目是一个高度可定制且低延迟的跨平台命令行提示渲染器。 |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 10,614 | 🤖 腾讯的WeKnora项目是一个基于大语言模型的框架，用于深度文档理解、语义检索和上下文感知回答。 |
+| 3 | [FiloSottile/age](https://github.com/FiloSottile/age) | 20,641 | 🤖 Age是一个简单、现代且安全的加密工具和Go库，具有小型明确的密钥、无需配置选项和UNIX风格的可组合性。 |
+| 4 | [minio/minio](https://github.com/minio/minio) | 59,511 | 🤖 MinIO是一个高性能的、兼容S3的对象存储系统。 |
+| 5 | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) | 2,046 | 🤖 该项目是一个MCP服务器，用于为Grafana提供服务。 |
+| 6 | [looplj/axonhub](https://github.com/looplj/axonhub) | 1,115 | 🤖 AxonHub是一个现代的AI网关系统，提供统一的OpenAI、Anthropic、Gemini和AI SDK兼容API。 |
+| 7 | [cexll/myclaude](https://github.com/cexll/myclaude) | 1,512 | 🤖 该项目实现了Claude代码和Codex编排工作流程的自动化。 |
+| 8 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | 20,570 | 🤖 该项目创建了一个基于WireGuard的安全网络，支持单点登录、多因素认证和细粒度访问控制。 |
+| 9 | [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) | 1,748 | 🤖 该项目是一个自托管的AI音频转录工具，能够自动将音频文件转换为文本。 |
+| 10 | [dagger/dagger](https://github.com/dagger/dagger) | 15,203 | 🤖 Dagger是一个开源的运行时环境，用于组合工作流程，特别适用于AI代理和CI/CD。 |
 
-## 🐍 Python 热门 (24h)
+## 🐍 Python 热门
 
-| 排名 | 项目 | Stars | 简介 |
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 433 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 2 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 🔥 272 | 🤖 开源的最先进文本转语音（TTS）项目。 |
-| 3 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 154 | 🤖 该项目是一个基于AI的舆情监控分析工具，聚合多平台热点新闻并进行智能分析。 |
-| 4 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 190 | 🤖 该项目提供多代理系统的上下文管理技能集合，用于优化和调试代理系统。 |
-| 5 | [HarryR/z80ai](https://github.com/HarryR/z80ai) | 🔥 212 | 🤖 该项目实现了一个小型语言模型，可以在8位Z80处理器上运行，实现与复古电脑聊天。 |
-| 6 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 129 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 7 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 🔥 147 | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
-| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 123 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| 9 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 113 |  |
-| 10 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 105 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on na... |
-
-## 🦀 Rust 新秀 (24h)
-
-| 排名 | 项目 | Stars | 简介 |
-| :--- | :--- | :--- | :--- |
-| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 289 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
-| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 305 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
-| 3 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 🔥 149 | 🤖 这是一个终端下的文本编辑器，易用、强大且快速。 |
-| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 66 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
-| 5 | [RustPython/RustPython](https://github.com/RustPython/RustPython) | 🔥 103 | 🤖 RustPython 是一个用 Rust 编写的 Python 解释器。 |
-| 6 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 34 | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! |
-| 7 | [SaynaAI/sayna](https://github.com/SaynaAI/sayna) | 🔥 21 | Sayna is a unified Voice Layer for AI Agents with a seemless integration to an existing agentic frameworks |
-| 8 | [houqp/kiorg](https://github.com/houqp/kiorg) | 🔥 17 | A hacker's file manager with VIM inspired keybind |
-| 9 | [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) | 🔥 11 | 🔊 让小爱音箱「听见你的声音」，解锁无限可能。  |
-| 10 | [rex-rs/rex](https://github.com/rex-rs/rex) | 🔥 15 | Rex is a safe and usable kernel extension framework that allows loading and executing Rust kernel extension programs in the place of eBPF. |
+| 1 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 720 | 🤖 该项目为Postgres数据库提供MCP服务器和Claude插件，帮助AI编码工具生成更好的PostgreSQL代码。 |
+| 2 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19,538 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 3 | [alexta69/metube](https://github.com/alexta69/metube) | 11,471 | 🤖 该项目是一个自托管的YouTube下载器，提供网页界面用于下载YouTube视频。 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 30,004 | 🤖 该项目是一个公共仓库，用于存储和开发智能代理的技能。 |
+| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 85,440 | 🤖 该项目收集了基于OpenAI、Anthropic、Gemini和开源模型的LLM应用，包括AI代理和RAG。 |
+| 6 | [kijai/ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) | 2,103 | 🤖 该项目为ComfyUI提供了各种自定义节点。 |
+| 7 | [allenai/olmocr](https://github.com/allenai/olmocr) | 16,499 | 🤖 该项目是一个工具包，用于将PDF文件线性化，以便用于大语言模型（LLM）的数据集和训练。 |
+| 8 | [tencent-ailab/SongGeneration](https://github.com/tencent-ailab/SongGeneration) | 1,099 | 🤖 该项目实现了一个名为LeVo的高质量歌曲生成模型，能够根据多种偏好生成符合用户需求的歌曲。 |
+| 9 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 379,616 | 🤖 该项目提供免费的编程书籍资源。 |
+| 10 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 66,541 | 🤖 该项目是一个高吞吐量和内存效率的推理和服务引擎，用于大型语言模型（LLMs）的推理和服务。 |
 
