@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2026-01-01"
+date: 2026-01-01T09:00:00+08:00
+draft: false
+---
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-01 02:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 634 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 427 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 🔥 489 | 🤖 该项目介绍机器学习系统的基础知识。 |
+| 4 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | 🔥 407 | 🤖 该项目通过电话号码追踪设备的活动状态，如在线、离线或待机等。 |
+| 5 | [sst/opencode](https://github.com/sst/opencode) | 🔥 328 | 🤖 sst/opencode 是一个开源编码代理，帮助开发者提高编码效率。 |
+| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 286 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 7 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 🔥 352 | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google ... |
+| 8 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 318 | Why is this running? |
+| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 227 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 10 | [tw93/Mole](https://github.com/tw93/Mole) | 🔥 230 | 🐹 Deep clean and optimize your Mac. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 567 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 128 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 69 | 🤖 该项目是一个现代化的Docker管理工具，旨在让所有人都能轻松使用。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 58 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 48 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 6 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 🔥 54 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced ... |
+| 7 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 23 | Databases backup tool (PostgreSQL, MySQL, MongoDB) |
+| 8 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | 🔥 18 | A new AList Fork to Anti Trust Crisis |
+| 9 | [looplj/axonhub](https://github.com/looplj/axonhub) | 🔥 21 | AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API |
+| 10 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 19 | Browser automation for AI agents and humans |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 413 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 239 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 3 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 🔥 186 | 🤖 开源的最先进文本转语音（TTS）项目。 |
+| 4 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 150 | 🤖 这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。 |
+| 5 | [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter) | 🔥 150 | 🤖 LLMRouter：一个开源库，用于路由大语言模型。 |
+| 6 | [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) | 🔥 151 |  |
+| 7 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 🔥 126 | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
+| 8 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 122 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 107 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 108 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on na... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 476 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 261 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 🔥 115 | 🤖 这是一个终端下的文本编辑器，易用、强大且快速。 |
+| 4 | [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) | 🔥 50 | 🤖 该项目提供开源硬件和软件工具，用于通过光学诊断接口与美的（Miele）家电进行通信。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 53 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [leerob/pixo](https://github.com/leerob/pixo) | 🔥 47 | High-performance image compression library written in Rust. |
+| 7 | [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) | 🔥 67 | Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed. |
+| 8 | [microsoft/edit](https://github.com/microsoft/edit) | 🔥 35 | We all edit. |
+| 9 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 25 | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! |
+| 10 | [raine/workmux](https://github.com/raine/workmux) | 🔥 13 | git worktrees + tmux windows for zero-friction parallel dev |
+
