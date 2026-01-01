@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2026-01-02"
+date: 2026-01-02T09:00:00+08:00
+draft: false
+---
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-02 02:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | 🔥 312 | 🤖 该项目通过电话号码追踪设备的活动状态，如在线、离线或待机等。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 339 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 🔥 316 | 🤖 LEANN 项目：在个人设备上运行快速、准确、100% 私有的 RAG 应用，节省 97% 存储空间。 |
+| 4 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 🔥 320 | 🤖 该项目介绍机器学习系统的基础知识。 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 257 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 6 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 🔥 325 | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google ... |
+| 7 | [tw93/Mole](https://github.com/tw93/Mole) | 🔥 252 | 🐹 Deep clean and optimize your Mac. |
+| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 163 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 9 | [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 🔥 187 | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
+| 10 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 159 | Autonomous multi-session AI coding |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 141 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 78 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [Gouryella/drip](https://github.com/Gouryella/drip) | 🔥 55 | 🤖 Gouryella/drip：安全暴露本地服务，不依赖第三方服务器。 |
+| 4 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 48 | 🤖 BillionMail 是一个开源的邮件服务器和电子邮件营销平台，支持自托管，无需月费。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 50 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) | 🔥 55 | Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram. |
+| 7 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 29 | Modern Docker Management, Designed for Everyone |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 28 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 9 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 20 | Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard |
+| 10 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 21 | Browser automation for AI agents and humans |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 🔥 304 | 🤖 LEANN 项目：在个人设备上运行快速、准确、100% 私有的 RAG 应用，节省 97% 存储空间。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 245 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 174 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 4 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 150 | 🤖 自动化多会话AI编码。 |
+| 5 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 🔥 145 | 🤖 斯坦福大学的现代软件开发课程作业。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 134 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 112 | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人... |
+| 8 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 🔥 110 | SoTA open-source TTS |
+| 9 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 92 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
+| 10 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 73 |  |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 457 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 194 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 77 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 33 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [microsoft/edit](https://github.com/microsoft/edit) | 🔥 23 | 🤖 微软/edit 是一个协同编辑项目，实现多人实时编辑文档。 |
+| 6 | [leerob/pixo](https://github.com/leerob/pixo) | 🔥 21 | High-performance image compression library written in Rust. |
+| 7 | [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) | 🔥 18 | Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface |
+| 8 | [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) | 🔥 19 | CLI for internet speed test via cloudflare |
+| 9 | [boxlite-labs/boxlite](https://github.com/boxlite-labs/boxlite) | 🔥 16 | SQLite-like agent runtime: an embeddable micro-VM that stores agent state and runs agent logic safely. |
+| 10 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 🔥 52 | Text editor for your terminal: easy, powerful and fast |
+
