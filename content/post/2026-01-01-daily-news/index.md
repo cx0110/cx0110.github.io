@@ -1,74 +1,75 @@
 ---
 title: "🔥 每日技术热点 2026-01-01"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
 date: 2026-01-01T09:00:00+08:00
+lastmod: 2026-01-01T09:00:00+08:00
+featured: false
 draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
----
-
-## 🔥 OSSInsight 技术热点
+## 📈 GitHub Trending
 
 
-每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
-> 更新时间: 2026-01-01 02:18 UTC
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
 
-## 🔥 全球热榜 (24h)
+> 更新时间: 2026-01-01 01:22 UTC
 
-| 排名 | 项目 | Stars | 简介 |
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 634 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
-| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 427 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 3 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 🔥 489 | 🤖 该项目介绍机器学习系统的基础知识。 |
-| 4 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | 🔥 407 | 🤖 该项目通过电话号码追踪设备的活动状态，如在线、离线或待机等。 |
-| 5 | [sst/opencode](https://github.com/sst/opencode) | 🔥 328 | 🤖 sst/opencode 是一个开源编码代理，帮助开发者提高编码效率。 |
-| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 286 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
-| 7 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 🔥 352 | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google ... |
-| 8 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 318 | Why is this running? |
-| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 227 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| 10 | [tw93/Mole](https://github.com/tw93/Mole) | 🔥 230 | 🐹 Deep clean and optimize your Mac. |
+| 1 | [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1,422 | 🤖 该项目允许用户无需账户即可从Tidal、Qobuz和Amazon Music获取Spotify歌曲的真实FLAC音频文件。 |
+| 2 | [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) | 2,282 | 🤖 该项目“google-gemini/computer-use-preview”可能与谷歌的Gemini项目有关，Gemini是一种人工智能聊天机器人，旨在提供对话式人机交互界面。 |
+| 3 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 13,787 | 🤖 该项目提供机器学习系统的入门介绍，涵盖相关概念、技术和应用。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 10,004 | 🤖 该项目旨在通过优化和扩展Claude Code、Codex等编码代理工具，实现其效率和产出的10倍提升。 |
+| 5 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 976 | 🤖 该项目为Postgres数据库提供MCP服务器和Claude插件，帮助AI编码工具生成更好的PostgreSQL代码。 |
+| 6 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41,736 | 🤖 该项目是一个基于AI的舆情监控分析工具，能够监控多个平台的热点新闻资讯，并提供智能筛选、自动推送和深度分析等功能。 |
+| 7 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70,139 | 🤖 该项目提供了使用OpenAI API的示例和指南。 |
+| 8 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12,522 | 🤖 Organic Maps 是一款免费的离线地图应用，使用开源的 OpenStreetMap 数据，为旅行者、游客、徒步者和骑行者提供无广告、无追踪的导航服务。 |
+| 9 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19,907 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 10 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | 59,532 | 🤖 Nocodb是一个开源的Airtable替代品，提供数据表格、视图、表单和API等功能，帮助用户管理和协作数据。 |
 
-## 🐹 Go 语言精选 (24h)
+## 🐹 Go 语言热门
 
-| 排名 | 项目 | Stars | 简介 |
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 567 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
-| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 128 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
-| 3 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 69 | 🤖 该项目是一个现代化的Docker管理工具，旨在让所有人都能轻松使用。 |
-| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 58 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 48 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
-| 6 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 🔥 54 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced ... |
-| 7 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 23 | Databases backup tool (PostgreSQL, MySQL, MongoDB) |
-| 8 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | 🔥 18 | A new AList Fork to Anti Trust Crisis |
-| 9 | [looplj/axonhub](https://github.com/looplj/axonhub) | 🔥 21 | AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API |
-| 10 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 19 | Browser automation for AI agents and humans |
+| 1 | [looplj/axonhub](https://github.com/looplj/axonhub) | 1,152 | 🤖 AxonHub是一个现代的AI网关系统，提供统一的OpenAI、Anthropic、Gemini和AI SDK兼容API。 |
+| 2 | [cloudwego/eino](https://github.com/cloudwego/eino) | 8,892 | 🤖 cloudwego/eino是一个使用Golang开发的终极大型语言模型（LLM）和人工智能（AI）应用开发框架。 |
+| 3 | [temporalio/temporal](https://github.com/temporalio/temporal) | 17,321 | 🤖 Temporal是一个分布式、可靠且可扩展的工作流管理服务，用于管理和执行异步工作流程。 |
+| 4 | [junegunn/fzf](https://github.com/junegunn/fzf) | 76,418 | 🤖 junegunn/fzf是一个命令行模糊搜索工具，允许用户快速搜索和查找文件、命令和其他内容。 |
+| 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 12,587 | 🤖 ZITADEL是一个简化的身份认证基础设施项目，提供统一的身份管理和认证服务。 |
+| 6 | [henrygd/beszel](https://github.com/henrygd/beszel) | 18,179 | 🤖 该项目是一个轻量级的服务器监控中心，提供历史数据、Docker 统计和告警功能。 |
+| 7 | [pingcap/tidb](https://github.com/pingcap/tidb) | 39,544 | 🤖 TiDB 是一个开源的、云原生的、分布式 SQL 数据库，旨在支持现代应用程序。 |
+| 8 | [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) | 4,653 | 🤖 WuKongIM是一个不仅仅提供即时通讯功能，还具备更多扩展功能的综合性通信平台。 |
+| 9 | [dundee/gdu](https://github.com/dundee/gdu) | 5,163 | 🤖 该项目是一个快速的磁盘使用分析工具，具有控制台界面，使用Go语言编写。 |
+| 10 | [docker/cagent](https://github.com/docker/cagent) | 1,793 | 🤖 该项目是一个由Docker工程团队开发的Agent构建器和运行时环境。 |
 
-## 🐍 Python 热门 (24h)
+## 🐍 Python 热门
 
-| 排名 | 项目 | Stars | 简介 |
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 413 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 2 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 239 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
-| 3 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 🔥 186 | 🤖 开源的最先进文本转语音（TTS）项目。 |
-| 4 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 150 | 🤖 这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。 |
-| 5 | [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter) | 🔥 150 | 🤖 LLMRouter：一个开源库，用于路由大语言模型。 |
-| 6 | [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) | 🔥 151 |  |
-| 7 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 🔥 126 | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
-| 8 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 122 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
-| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 107 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 10 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 108 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on na... |
-
-## 🦀 Rust 新秀 (24h)
-
-| 排名 | 项目 | Stars | 简介 |
-| :--- | :--- | :--- | :--- |
-| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 476 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
-| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 261 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
-| 3 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 🔥 115 | 🤖 这是一个终端下的文本编辑器，易用、强大且快速。 |
-| 4 | [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) | 🔥 50 | 🤖 该项目提供开源硬件和软件工具，用于通过光学诊断接口与美的（Miele）家电进行通信。 |
-| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 53 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
-| 6 | [leerob/pixo](https://github.com/leerob/pixo) | 🔥 47 | High-performance image compression library written in Rust. |
-| 7 | [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) | 🔥 67 | Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed. |
-| 8 | [microsoft/edit](https://github.com/microsoft/edit) | 🔥 35 | We all edit. |
-| 9 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 25 | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! |
-| 10 | [raine/workmux](https://github.com/raine/workmux) | 🔥 13 | git worktrees + tmux windows for zero-friction parallel dev |
+| 1 | [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) | 2,282 | 🤖 该项目“google-gemini/computer-use-preview”可能与谷歌的Gemini项目有关，Gemini是一种人工智能聊天机器人，旨在提供对话式人机交互界面。 |
+| 2 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 976 | 🤖 该项目为Postgres数据库提供MCP服务器和Claude插件，帮助AI编码工具生成更好的PostgreSQL代码。 |
+| 3 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41,736 | 🤖 该项目是一个基于AI的舆情监控分析工具，能够监控多个平台的热点新闻资讯，并提供智能筛选、自动推送和深度分析等功能。 |
+| 4 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19,907 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 5 | [alexta69/metube](https://github.com/alexta69/metube) | 11,690 | 🤖 该项目是一个自托管的YouTube下载器，提供网页界面用于下载YouTube视频。 |
+| 6 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 76,665 | 🤖 该项目实现了实时人脸替换和一键视频深度伪造，只需使用单张图像。 |
+| 7 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 53,083 | 🤖 Pathway是一个Python的ETL框架，用于流式处理、实时分析、LLM管道和RAG。 |
+| 8 | [tencent-ailab/SongGeneration](https://github.com/tencent-ailab/SongGeneration) | 1,185 | 🤖 该项目实现了一个名为LeVo的高质量歌曲生成模型，能够根据多种偏好生成符合用户需求的歌曲。 |
+| 9 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 85,715 | 🤖 该项目收集了基于OpenAI、Anthropic、Gemini和开源模型的LLM应用，包括AI代理和RAG。 |
+| 10 | [allenai/olmocr](https://github.com/allenai/olmocr) | 16,527 | 🤖 该项目是一个工具包，用于将PDF文件线性化，以便用于大语言模型（LLM）的数据集和训练。 |
 
