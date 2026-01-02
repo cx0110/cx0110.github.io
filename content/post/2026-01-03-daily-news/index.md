@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2026-01-03"
+date: 2026-01-03T09:00:00+08:00
+draft: false
+---
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-03 02:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 479 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 🔥 565 | 🤖 该项目是一个 Python 框架，用于实时数据处理和分析。 |
+| 3 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 🔥 554 | 🤖 该项目提供云模板，支持实时数据同步和企业搜索，集成多种数据源。 |
+| 4 | [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) | 🔥 431 | 🤖 该项目提供免费、零配置、简易设置的地图组件。 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 451 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 6 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 350 | Kanban board to manage your AI coding agents |
+| 7 | [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) | 🔥 325 |  |
+| 8 | [usememos/memos](https://github.com/usememos/memos) | 🔥 263 | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| 9 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 221 | Public repository for Agent Skills |
+| 10 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 🔥 251 | Introduction to Machine Learning Systems |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 330 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [skatkov/devtui](https://github.com/skatkov/devtui) | 🔥 77 | 🤖 开发者多功能工具箱。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 69 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 75 | 🤖 BillionMail 是一个开源的邮件服务器和电子邮件营销平台，支持自托管，无需月费。 |
+| 5 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 53 | 🤖 这是一个现代化的qBittorrent网页界面，支持多实例。 |
+| 6 | [Gouryella/drip](https://github.com/Gouryella/drip) | 🔥 64 | Self-hosted tunneling solution to expose localhost securely - unlimited bandwidth, no third-party servers |
+| 7 | [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | 🔥 77 | A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSo... |
+| 8 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 42 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 9 | [glanceapp/glance](https://github.com/glanceapp/glance) | 🔥 61 | A self-hosted dashboard that puts all your feeds in one place |
+| 10 | [rocketship-ai/rocketship](https://github.com/rocketship-ai/rocketship) | 🔥 34 | A QA testing framework for your coding agent. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 🔥 304 | 🤖 LEANN 项目：在个人设备上运行快速、准确、100% 私有的 RAG 应用，节省 97% 存储空间。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 245 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 174 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 4 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 150 | 🤖 自动化多会话AI编码。 |
+| 5 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 🔥 145 | 🤖 斯坦福大学的现代软件开发课程作业。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 134 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 112 | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人... |
+| 8 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 🔥 110 | SoTA open-source TTS |
+| 9 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 92 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
+| 10 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 73 |  |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 306 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 105 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 51 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 33 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 16 | 🤖 该项目是一个用于人工智能的数据转换框架，具有超高性能和增量处理能力。 |
+| 6 | [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) | 🔥 14 | Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface |
+| 7 | [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) | 🔥 12 | 让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。 |
+| 8 | [microsoft/edit](https://github.com/microsoft/edit) | 🔥 12 | We all edit. |
+| 9 | [bearcove/rapace](https://github.com/bearcove/rapace) | 🔥 9 | RPC / IPC over SHM, for Rust - good for plugins and such |
+| 10 | [terauss/Polymarket-Kalshi-Arbitrage-bot](https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot) | 🔥 8 | Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market.  |
+
