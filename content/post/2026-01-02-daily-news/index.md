@@ -1,74 +1,75 @@
 ---
 title: "🔥 每日技术热点 2026-01-02"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
 date: 2026-01-02T09:00:00+08:00
+lastmod: 2026-01-02T09:00:00+08:00
+featured: false
 draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
 ---
 
----
-
-## 🔥 OSSInsight 技术热点
+## 📈 GitHub Trending
 
 
-每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
-> 更新时间: 2026-01-02 02:18 UTC
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
 
-## 🔥 全球热榜 (24h)
+> 更新时间: 2026-01-02 01:24 UTC
 
-| 排名 | 项目 | Stars | 简介 |
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | 🔥 312 | 🤖 该项目通过电话号码追踪设备的活动状态，如在线、离线或待机等。 |
-| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 339 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
-| 3 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 🔥 316 | 🤖 LEANN 项目：在个人设备上运行快速、准确、100% 私有的 RAG 应用，节省 97% 存储空间。 |
-| 4 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 🔥 320 | 🤖 该项目介绍机器学习系统的基础知识。 |
-| 5 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 257 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 6 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 🔥 325 | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google ... |
-| 7 | [tw93/Mole](https://github.com/tw93/Mole) | 🔥 252 | 🐹 Deep clean and optimize your Mac. |
-| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 163 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
-| 9 | [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 🔥 187 | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
-| 10 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 159 | Autonomous multi-session AI coding |
+| 1 | [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) | 1,937 | 🤖 Amazon Bedrock Agentcore 项目通过提供规模、可靠性和安全性，帮助加速人工智能代理的生产部署。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 10,584 | 🤖 该项目旨在通过优化和扩展Claude Code、Codex等编码代理工具，实现其效率和产出的10倍提升。 |
+| 3 | [usememos/memos](https://github.com/usememos/memos) | 47,895 | 🤖 usememos/memos 是一个开源的、自托管的笔记服务，允许用户完全控制自己的数据和笔记。 |
+| 4 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12,729 | 🤖 Organic Maps 是一款免费的离线地图应用，使用开源的 OpenStreetMap 数据，为旅行者、游客、徒步者和骑行者提供无广告、无追踪的导航服务。 |
+| 5 | [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1,793 | 🤖 该项目允许用户无需账户即可从Tidal、Qobuz和Amazon Music获取Spotify歌曲的真实FLAC音频文件。 |
+| 6 | [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 1,057 | 🤖 该项目提供一个最小化和可定制的Docker镜像，用于以服务方式运行Android模拟器。 |
+| 7 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 14,333 | 🤖 该项目提供机器学习系统的入门介绍，涵盖相关概念、技术和应用。 |
+| 8 | [Polymarket/agents](https://github.com/Polymarket/agents) | 1,345 | 🤖 该项目利用人工智能代理在Polymarket平台上进行自动交易。 |
+| 9 | [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 19,327 | 🤖 该项目为大型语言模型的实践提供了官方代码仓库，支持学习和使用大型语言模型。 |
+| 10 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 7,708 | 🤖 该项目使用LEANN技术实现了快速、准确、100%私有的RAG应用，同时节省了97%的存储空间。 |
 
-## 🐹 Go 语言精选 (24h)
+## 🐹 Go 语言热门
 
-| 排名 | 项目 | Stars | 简介 |
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 141 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
-| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 78 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
-| 3 | [Gouryella/drip](https://github.com/Gouryella/drip) | 🔥 55 | 🤖 Gouryella/drip：安全暴露本地服务，不依赖第三方服务器。 |
-| 4 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 48 | 🤖 BillionMail 是一个开源的邮件服务器和电子邮件营销平台，支持自托管，无需月费。 |
-| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 50 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 6 | [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) | 🔥 55 | Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram. |
-| 7 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 29 | Modern Docker Management, Designed for Everyone |
-| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 28 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
-| 9 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 20 | Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard |
-| 10 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 21 | Browser automation for AI agents and humans |
+| 1 | [usememos/memos](https://github.com/usememos/memos) | 47,895 | 🤖 usememos/memos 是一个开源的、自托管的笔记服务，允许用户完全控制自己的数据和笔记。 |
+| 2 | [FiloSottile/age](https://github.com/FiloSottile/age) | 20,746 | 🤖 Age是一个简单、现代且安全的加密工具和Go库，具有小型明确的密钥、无需配置选项和UNIX风格的可组合性。 |
+| 3 | [hashicorp/consul](https://github.com/hashicorp/consul) | 29,644 | 🤖 Consul是一个分布式的、可用的、数据中心感知的解决方案，用于连接和配置跨动态分布式基础设施的应用程序。 |
+| 4 | [temporalio/temporal](https://github.com/temporalio/temporal) | 17,327 | 🤖 Temporal是一个分布式、可靠且可扩展的工作流管理服务，用于管理和执行异步工作流程。 |
+| 5 | [golang/go](https://github.com/golang/go) | 131,695 | 🤖 Go语言项目是Google开发的一种静态类型、编译型、并发型的编程语言。 |
+| 6 | [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) | 32,881 | 🤖 该项目是一个用于构建代理服务器的平台，帮助用户绕过网络限制。 |
+| 7 | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | 21,068 | 🤖 该项目是一个高度可定制且低延迟的跨平台命令行提示渲染器。 |
+| 8 | [TwiN/gatus](https://github.com/TwiN/gatus) | 9,430 | 🤖 TwiN/gatus是一个高级别的状态页面项目，用于实时监控和展示系统状态、服务健康度和性能指标。 |
+| 9 | [junegunn/fzf](https://github.com/junegunn/fzf) | 76,450 | 🤖 junegunn/fzf是一个命令行模糊搜索工具，允许用户快速搜索和查找文件、命令和其他内容。 |
+| 10 | [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | 10,259 | 🤖 该项目是一个基于Web的Nginx配置管理界面。 |
 
-## 🐍 Python 热门 (24h)
+## 🐍 Python 热门
 
-| 排名 | 项目 | Stars | 简介 |
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 🔥 304 | 🤖 LEANN 项目：在个人设备上运行快速、准确、100% 私有的 RAG 应用，节省 97% 存储空间。 |
-| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 245 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 3 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 174 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
-| 4 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 150 | 🤖 自动化多会话AI编码。 |
-| 5 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 🔥 145 | 🤖 斯坦福大学的现代软件开发课程作业。 |
-| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 134 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| 7 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 112 | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人... |
-| 8 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 🔥 110 | SoTA open-source TTS |
-| 9 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 92 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
-| 10 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 73 |  |
-
-## 🦀 Rust 新秀 (24h)
-
-| 排名 | 项目 | Stars | 简介 |
-| :--- | :--- | :--- | :--- |
-| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 457 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
-| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 194 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
-| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 77 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
-| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 33 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
-| 5 | [microsoft/edit](https://github.com/microsoft/edit) | 🔥 23 | 🤖 微软/edit 是一个协同编辑项目，实现多人实时编辑文档。 |
-| 6 | [leerob/pixo](https://github.com/leerob/pixo) | 🔥 21 | High-performance image compression library written in Rust. |
-| 7 | [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) | 🔥 18 | Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface |
-| 8 | [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) | 🔥 19 | CLI for internet speed test via cloudflare |
-| 9 | [boxlite-labs/boxlite](https://github.com/boxlite-labs/boxlite) | 🔥 16 | SQLite-like agent runtime: an embeddable micro-VM that stores agent state and runs agent logic safely. |
-| 10 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | 🔥 52 | Text editor for your terminal: easy, powerful and fast |
+| 1 | [Polymarket/agents](https://github.com/Polymarket/agents) | 1,345 | 🤖 该项目利用人工智能代理在Polymarket平台上进行自动交易。 |
+| 2 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 7,708 | 🤖 该项目使用LEANN技术实现了快速、准确、100%私有的RAG应用，同时节省了97%的存储空间。 |
+| 3 | [livekit/agents](https://github.com/livekit/agents) | 8,723 | 🤖 Livekit/agents是一个用于构建实时语音AI代理的强大框架。 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 31,303 | 🤖 该项目是一个公共仓库，用于存储和开发智能代理的技能。 |
+| 5 | [alexta69/metube](https://github.com/alexta69/metube) | 11,751 | 🤖 该项目是一个自托管的YouTube下载器，提供网页界面用于下载YouTube视频。 |
+| 6 | [emcie-co/parlant](https://github.com/emcie-co/parlant) | 17,073 | 🤖 该项目开发了面向控制的LLM（大型语言模型）智能体，能够在几分钟内部署并应用于现实世界。 |
+| 7 | [OpenMind/OM1](https://github.com/OpenMind/OM1) | 2,327 | 🤖 OpenMind/OM1是一个模块化的AI运行时环境，旨在为机器人提供灵活、可扩展的智能化解决方案。 |
+| 8 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 50,211 | 🤖 该项目实现了对大型语言模型（LLMs）的微调和强化学习，能够以更快的速度和更低的VRAM占用率训练多种语言模型。 |
+| 9 | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 29,579 | 🤖 该项目是一个网站变更检测工具，能够监测网页内容变化、价格变动、库存变化和网站篡改等情况，并提供实时警报。 |
+| 10 | [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) | 2,412 | 🤖 该项目“google-gemini/computer-use-preview”可能与谷歌的Gemini项目有关，Gemini是一种人工智能聊天机器人，旨在提供对话式人机交互界面。 |
 
