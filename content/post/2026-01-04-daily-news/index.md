@@ -71,3 +71,72 @@ image:
 | 9 | [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 7,680 | 🤖 MONAI是一个用于医疗影像的AI工具包，提供了一系列的深度学习算法和框架来帮助开发医疗影像分析应用。 |
 | 10 | [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) | 509 | 🤖 该项目是一个免费、开源、跨平台的应用程序，用于解密、阅读和查看WhatsApp的msgstore.db数据库。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-04 02:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 705 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 2 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 🔥 621 | 🤖 该项目是一个 Python 框架，用于实时数据处理和分析。 |
+| 3 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 🔥 605 | 🤖 该项目提供云模板，支持实时数据同步和企业搜索，集成多种数据源。 |
+| 4 | [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) | 🔥 426 | 🤖 该项目提供免费、零配置、简易设置的地图组件。 |
+| 5 | [usememos/memos](https://github.com/usememos/memos) | 🔥 352 | 🤖 一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。 |
+| 6 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 270 | Kanban board to manage your AI coding agents |
+| 7 | [sst/opencode](https://github.com/sst/opencode) | 🔥 248 | The open source coding agent. |
+| 8 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 279 | Why is this running? |
+| 9 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 208 | Public repository for Agent Skills |
+| 10 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 193 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 397 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [usememos/memos](https://github.com/usememos/memos) | 🔥 361 | 🤖 一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 111 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [maxpert/marmot](https://github.com/maxpert/marmot) | 🔥 141 | 🤖 分布式SQLite服务器，兼容MySQL接口。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 67 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [aqstack/sentinel](https://github.com/aqstack/sentinel) | 🔥 27 | Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes |
+| 7 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 37 | Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 31 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 9 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 26 | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the ... |
+| 10 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 21 | Browser automation for AI agents and humans |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 698 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 2 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 🔥 604 | 🤖 该项目是一个 Python 框架，用于实时数据处理和分析。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 208 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 191 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 5 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 107 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 6 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 102 | Autonomous multi-session AI coding |
+| 7 | [tukuaiai/tradecat](https://github.com/tukuaiai/tradecat) | 🔥 71 | 交易猫；tradecat |
+| 8 | [CloudAI-X/claude-workflow](https://github.com/CloudAI-X/claude-workflow) | 🔥 88 | Universal Claude Code workflow plugin with agents, skills, hooks, and commands |
+| 9 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 74 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
+| 10 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 71 |  |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 290 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 88 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 3 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 24 | 🤖 scanopy 是一个网络图表工具，帮助用户创建和维护干净的网络图表，实现一次性设置和零维护。 |
+| 4 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 23 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
+| 5 | [UwUDev/ygege](https://github.com/UwUDev/ygege) | 🔥 18 | 🤖 该项目是一个高性能的YGG Torrent索引器，使用Rust编写。 |
+| 6 | [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) | 🔥 14 | Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface |
+| 7 | [0xRustPro/prediction-market-contract-main-solana](https://github.com/0xRustPro/prediction-market-contract-main-solana) | 🔥 13 | A Prediction Market Contract is a smart contract that lets users bet on future events, collects their stakes, verifies the outcome via an oracle, a... |
+| 8 | [m4rcu5o/Copy-trading-bot](https://github.com/m4rcu5o/Copy-trading-bot) | 🔥 13 | Solana Copy Trading Bot – Real-time automated copy trader for Solana, Raydium, and Pump.fun. Subscribes to target wallet activity using Helius Geys... |
+| 9 | [boxlite-labs/boxlite](https://github.com/boxlite-labs/boxlite) | 🔥 11 | SQLite-like agent runtime: an embeddable micro-VM that stores agent state and runs agent logic safely. |
+| 10 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 11 | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! |
+
