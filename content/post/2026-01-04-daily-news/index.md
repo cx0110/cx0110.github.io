@@ -1,0 +1,73 @@
+---
+title: "🔥 每日技术热点 2026-01-04"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-01-04T09:00:00+08:00
+lastmod: 2026-01-04T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-01-04 01:22 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [usememos/memos](https://github.com/usememos/memos) | 49,727 | 🤖 usememos/memos 是一个开源的、自托管的笔记服务，允许用户完全控制自己的数据和笔记。 |
+| 2 | [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16,228 | 🤖 该项目提供实时和最热门新闻的优雅阅读体验。 |
+| 3 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 55,867 | 🤖 Pathway是一个Python的ETL框架，用于流式处理、实时分析、LLM管道和RAG。 |
+| 4 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56,332 | 🤖 OpenBB是一个为分析师、量化交易者和AI代理提供的金融数据平台。 |
+| 5 | [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 2,045 | 🤖 该项目提供一个最小化和可定制的Docker镜像，用于以服务方式运行Android模拟器。 |
+| 6 | [beancount/beancount](https://github.com/beancount/beancount) | 4,911 | 🤖 Beancount是一个基于文本文件的双-entry会计系统。 |
+| 7 | [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 8,985 | 🤖 MapLibre GL JS是一个浏览器端的交互式矢量瓦片地图库。 |
+| 8 | [nukeop/nuclear](https://github.com/nukeop/nuclear) | 16,698 | 🤖 Nuclear是一个流媒体音乐播放器，能够自动为用户找到免费的音乐。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [usememos/memos](https://github.com/usememos/memos) | 49,727 | 🤖 usememos/memos 是一个开源的、自托管的笔记服务，允许用户完全控制自己的数据和笔记。 |
+| 2 | [gravitational/teleport](https://github.com/gravitational/teleport) | 19,604 | 🤖 该项目提供了一种简单且安全的方式来访问和保护所有基础设施。 |
+| 3 | [TwiN/gatus](https://github.com/TwiN/gatus) | 9,462 | 🤖 TwiN/gatus是一个高级别的状态页面项目，用于实时监控和展示系统状态、服务健康度和性能指标。 |
+| 4 | [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 12,099 | 🤖 该项目是一个开源的MCP服务器，用于管理和操作数据库。 |
+| 5 | [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) | 1,679 | 🤖 该项目实现了一个操作系统无关的iOS设备功能库，允许用户运行UI测试、启动或杀死应用、安装应用等操作。 |
+| 6 | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | 932 | 🤖 该项目是一个Model Context Protocol（MCP）服务器，用于支持Kubernetes和OpenShift环境下的模型上下文管理。 |
+| 7 | [getsops/sops](https://github.com/getsops/sops) | 20,356 | 🤖 getsops/sops是一个简单且灵活的工具，用于管理和保护敏感信息和密钥。 |
+| 8 | [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | 4,026 | 🤖 KaijuEngine是一个使用Go语言和Vulkan开发的通用3D和2D游戏引擎，内置编辑器。 |
+| 9 | [autobrr/qui](https://github.com/autobrr/qui) | 1,719 | 🤖 该项目是一个现代化的qBittorrent网页界面，支持多实例，并使用Go和React编写。 |
+| 10 | [evcc-io/evcc](https://github.com/evcc-io/evcc) | 5,966 | 🤖 evcc-io/evcc项目的核心功能是优化电动汽车的充电过程，利用太阳能发电来为汽车充电，减少对电网的依赖。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 55,867 | 🤖 Pathway是一个Python的ETL框架，用于流式处理、实时分析、LLM管道和RAG。 |
+| 2 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56,332 | 🤖 OpenBB是一个为分析师、量化交易者和AI代理提供的金融数据平台。 |
+| 3 | [beancount/beancount](https://github.com/beancount/beancount) | 4,911 | 🤖 Beancount是一个基于文本文件的双-entry会计系统。 |
+| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 86,339 | 🤖 该项目收集了基于OpenAI、Anthropic、Gemini和开源模型的LLM应用，包括AI代理和RAG。 |
+| 5 | [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) | 15,369 | 🤖 该项目允许用户在Windows 10和Windows 11上运行带有Google Play Store和根权限解决方案的Android子系统。 |
+| 6 | [rossant/awesome-math](https://github.com/rossant/awesome-math) | 13,075 | 🤖 该项目是一个精选的数学资源列表，收录了各种数学相关的资源。 |
+| 7 | [OWASP/Nest](https://github.com/OWASP/Nest) | 289 | 🤖 OWASP/Nest项目是一个开放的平台，旨在让用户发现、参与和塑造OWASP（开放式网络应用程序安全项目）的未来。 |
+| 8 | [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) | 6,751 | 🤖 Qwen-Image是一个强大的图像生成模型，能够进行复杂的文本渲染和精确的图像编辑。 |
+| 9 | [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 7,680 | 🤖 MONAI是一个用于医疗影像的AI工具包，提供了一系列的深度学习算法和框架来帮助开发医疗影像分析应用。 |
+| 10 | [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) | 509 | 🤖 该项目是一个免费、开源、跨平台的应用程序，用于解密、阅读和查看WhatsApp的msgstore.db数据库。 |
+
