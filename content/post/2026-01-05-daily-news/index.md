@@ -73,3 +73,72 @@ image:
 | 9 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 71,386 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
 | 10 | [wasmerio/Python-Scripts](https://github.com/wasmerio/Python-Scripts) | 1,191 | 🤖 该项目提供了一系列Python脚本，用于自动化各种任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-05 02:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [usememos/memos](https://github.com/usememos/memos) | 🔥 829 | 🤖 一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。 |
+| 2 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 444 | 🤖 该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。 |
+| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 430 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 373 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 338 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 6 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 343 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 320 | Public repository for Agent Skills |
+| 8 | [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | 🔥 286 |  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 |
+| 9 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 🔥 176 | A set of ready to use scientific skills for Claude |
+| 10 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 225 | Gas Town - multi-agent workspace manager |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [usememos/memos](https://github.com/usememos/memos) | 🔥 644 | 🤖 一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 229 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [5rahim/seanime](https://github.com/5rahim/seanime) | 🔥 193 | 🤖 开源媒体服务器，提供网页和桌面应用，用于管理和播放动漫和漫画。 |
+| 4 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 139 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 114 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 99 | Beads - A memory upgrade for your coding agent |
+| 7 | [aqstack/sentinel](https://github.com/aqstack/sentinel) | 🔥 21 | Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes |
+| 8 | [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | 🔥 32 | Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器 |
+| 9 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 18 | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React. |
+| 10 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 16 | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the ... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 359 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 317 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 🔥 176 | 🤖 为Claude提供一套可直接使用的科学技能。 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 171 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 5 | [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) | 🔥 153 | 🤖 该项目提供快速、准确的系统级语音输入功能。 |
+| 6 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 140 |  |
+| 7 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 114 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 8 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 🔥 125 | Official Claude Code compound engineering plugin |
+| 9 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 110 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on na... |
+| 10 | [tukuaiai/tradecat](https://github.com/tukuaiai/tradecat) | 🔥 106 | 交易猫；tradecat；全市场量化交易数据平台 |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 286 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 107 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 3 | [pamburus/hl](https://github.com/pamburus/hl) | 🔥 107 | 🤖 该项目是一个快速且强大的日志查看和处理工具，能够将JSON或logfmt日志转换为清晰的人类可读格式。 |
+| 4 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 43 | 🤖 scanopy 是一个网络图表工具，帮助用户创建和维护干净的网络图表，实现一次性设置和零维护。 |
+| 5 | [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) | 🔥 29 | 🤖 该项目是一个为智能代理系统提供的文件系统。 |
+| 6 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 28 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 7 | [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) | 🔥 26 | Illegal rust |
+| 8 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 16 | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! |
+| 9 | [rue-language/rue](https://github.com/rue-language/rue) | 🔥 15 | A programming language that is higher level than Rust but lower level than Go. Someday, anyways. |
+| 10 | [stoolap/stoolap](https://github.com/stoolap/stoolap) | 🔥 13 | A Modern Embedded SQL Database written in Rust |
+
