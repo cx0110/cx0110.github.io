@@ -73,3 +73,72 @@ image:
 | 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 14,440 | 🤖 该项目提供了一个从零开始构建智能体的教程，涵盖智能体原理与实践。 |
 | 10 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 71,427 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-06 02:20 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 909 | 🤖 该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。 |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 821 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 3 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 🔥 401 | 🤖 为Claude提供一套可直接使用的科学技能。 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 354 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 333 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 6 | [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) | 🔥 275 | A curated catalogue of awesome agentic AI patterns |
+| 7 | [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | 🔥 273 |  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 |
+| 8 | [usememos/memos](https://github.com/usememos/memos) | 🔥 349 | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 265 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 244 | Gas Town - multi-agent workspace manager |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [usememos/memos](https://github.com/usememos/memos) | 🔥 517 | 🤖 一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 200 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [5rahim/seanime](https://github.com/5rahim/seanime) | 🔥 180 | 🤖 开源媒体服务器，提供网页和桌面应用，用于管理和播放动漫和漫画。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 115 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 98 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 6 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 99 | Why is this running? |
+| 7 | [aqstack/sentinel](https://github.com/aqstack/sentinel) | 🔥 35 | Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 33 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 9 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 26 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 10 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 23 | Browser automation for AI agents and humans |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 🔥 378 | 🤖 为Claude提供一套可直接使用的科学技能。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 329 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) | 🔥 264 | 🤖 该项目是一个精选的智能AI模式集合。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 256 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 🔥 225 | 🤖 FinceptTerminal 是一个金融分析平台，提供市场数据、投资研究和经济分析工具，帮助用户做出数据驱动的决策。 |
+| 6 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 173 |  |
+| 7 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 138 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 8 | [alexzhang13/rlm](https://github.com/alexzhang13/rlm) | 🔥 131 | General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 104 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 92 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on na... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 343 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 257 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 146 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) | 🔥 68 | 🤖 该项目是一个非法的Rust编程语言实现。 |
+| 5 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 55 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
+| 6 | [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) | 🔥 54 | The filesystem for agents. |
+| 7 | [rue-language/rue](https://github.com/rue-language/rue) | 🔥 32 | A programming language that is higher level than Rust but lower level than Go. Someday, anyways. |
+| 8 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 28 | Clean network diagrams. One-time setup, zero upkeep. |
+| 9 | [vicanso/zedis](https://github.com/vicanso/zedis) | 🔥 34 | Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI. |
+| 10 | [stoolap/stoolap](https://github.com/stoolap/stoolap) | 🔥 20 | A Modern Embedded SQL Database written in Rust |
+
