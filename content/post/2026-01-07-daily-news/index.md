@@ -73,3 +73,72 @@ image:
 | 9 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 57,385 | 🤖 OpenBB是一个为分析师、量化交易者和AI代理提供的金融数据平台。 |
 | 10 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 55,031 | 🤖 该项目是一个30天的Python编程挑战，旨在通过一步一步的指导帮助学习者在30天内掌握Python编程语言。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-07 02:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 827 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 405 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 448 | 🤖 该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。 |
+| 4 | [virattt/dexter](https://github.com/virattt/dexter) | 🔥 357 | 🤖 该项目是一个用于深度金融研究的自动化智能代理。 |
+| 5 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 332 | 🤖 该项目实现了持久化的Markdown规划功能，模仿Manus风格的工作流程。 |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 284 | Public repository for Agent Skills |
+| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 244 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks,... |
+| 8 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 237 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 9 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 221 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 10 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 209 | Autonomous multi-session AI coding |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 198 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 2 | [usememos/memos](https://github.com/usememos/memos) | 🔥 215 | 🤖 一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。 |
+| 3 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 118 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 4 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 106 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 60 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 34 | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React. |
+| 7 | [5rahim/seanime](https://github.com/5rahim/seanime) | 🔥 94 | Open-source media server with a web interface and desktop app for anime and manga. |
+| 8 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 27 | Modern Docker Management, Designed for Everyone |
+| 9 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 25 | The glamourous AI coding agent for your favourite terminal 💘 |
+| 10 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 24 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 380 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 281 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 163 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 4 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 🔥 156 | 🤖 为Claude提供一套可直接使用的科学技能。 |
+| 5 | [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) | 🔥 190 | 🤖 该项目是一个精选的智能AI模式集合。 |
+| 6 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 137 | MiroThinker is a series of open-source agentic models trained for deep research and complex tool use scenarios. |
+| 7 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 121 | Open-Source Frontier Voice AI |
+| 8 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 121 |  |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 98 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 🔥 118 | An AI Hedge Fund Team |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 251 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 197 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 92 | 🤖 该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 102 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [rue-language/rue](https://github.com/rue-language/rue) | 🔥 41 | 🤖 Rue 语言：介于 Rust 和 Go 之间的高级编程语言。 |
+| 6 | [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) | 🔥 28 | Illegal rust |
+| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 18 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 8 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 17 | Clean network diagrams. One-time setup, zero upkeep. |
+| 9 | [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) | 🔥 14 | In-development universal safe multimedia toolkit. |
+| 10 | [Polymarket/rs-clob-client](https://github.com/Polymarket/rs-clob-client) | 🔥 11 | Polymarket Rust CLOB Client |
+
