@@ -73,3 +73,72 @@ image:
 | 9 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44,980 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
 | 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 36,732 | 🤖 该项目实现了从零开始仅用2小时训练出一个拥有2600万参数的GPT模型。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-08 02:20 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 751 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 582 | 🤖 该项目实现了持久化的Markdown规划功能，模仿Manus风格的工作流程。 |
+| 3 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 539 | 🤖 该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 370 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 304 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 251 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 7 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 🔥 257 | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 281 | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd... |
+| 9 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 223 | MiroThinker is a series of open-source agentic models trained for deep research and complex tool use scenarios. |
+| 10 | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | 🔥 212 |  |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 137 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 110 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 82 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 75 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 32 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 28 | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React. |
+| 7 | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) | 🔥 21 | Data platform for context engineering. Context data platform that stores, observes and learns. Join the community❤️: https://discord.acontext.io |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 26 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 26 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 21 | Open-source Trading OS with pluggable AI brain \| From market data → AI reasoning → Trade execution \| Self-hosted & Multi-exchange |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 354 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 303 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 213 | 🤖 MiroThinker 是一个开源的智能模型，用于深度研究和复杂工具使用场景。 |
+| 4 | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | 🔥 203 | 🤖 Lightricks/LTX-2 是一个开源的图像处理引擎。 |
+| 5 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 151 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 6 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 137 |  |
+| 7 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 96 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 8 | [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) | 🔥 98 |  |
+| 9 | [krafton-ai/KIRA](https://github.com/krafton-ai/KIRA) | 🔥 89 | KIRA (Krafton Intelligence Rookie Agent) |
+| 10 | [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | 🔥 73 | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 231 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 204 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 95 | 🤖 该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。 |
+| 4 | [Novus-Tech-LLC/Hyperliquid-Market-Maker](https://github.com/Novus-Tech-LLC/Hyperliquid-Market-Maker) | 🔥 66 | 🤖 该项目是一个去中心化永续合约交易机器人，实现自动化交易和策略执行。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 86 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [octopii-rs/octopii](https://github.com/octopii-rs/octopii) | 🔥 40 | 🦑 framework for writing distributed applications |
+| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 28 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 8 | [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) | 🔥 22 | In-development universal safe multimedia toolkit. |
+| 9 | [hanebox/ekphos](https://github.com/hanebox/ekphos) | 🔥 10 | A lightweight, fast, terminal-based markdown research tool inspired by Obsidian |
+| 10 | [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) | 🔥 12 | Illegal rust |
+
