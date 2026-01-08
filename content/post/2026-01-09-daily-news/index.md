@@ -73,3 +73,72 @@ image:
 | 9 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 65,236 | 🤖 该项目实现了100多个大语言模型（LLMs）和视觉语言模型（VLMs）的统一高效微调。 |
 | 10 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 96,441 | 🤖 PyTorch是一个Python库，提供了张量和动态神经网络的支持，并具有强大的GPU加速功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-09 02:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 792 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 740 | 🤖 该项目实现了持久化的Markdown规划功能，模仿Manus风格的工作流程。 |
+| 3 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 446 | 🤖 该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。 |
+| 4 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 314 | 🤖 MiroThinker 是一个开源的智能模型，用于深度研究和复杂工具使用场景。 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 286 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 6 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 308 | "DeepTutor: AI-Powered Personalized Learning Assistant" |
+| 7 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 292 | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd... |
+| 8 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 288 | Public repository for Agent Skills |
+| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 240 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 10 | [ophub/fnnas](https://github.com/ophub/fnnas) | 🔥 205 | Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, r... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 91 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 79 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 68 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 54 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 5 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 60 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 6 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 25 | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React. |
+| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 26 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 8 | [tobilg/ai-observer](https://github.com/tobilg/ai-observer) | 🔥 19 | Unified local observability for AI coding assistants |
+| 9 | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) | 🔥 20 | Data platform for context engineering. Context data platform that stores, observes and learns. Join the community❤️: https://discord.acontext.io |
+| 10 | [fish2018/pansou](https://github.com/fish2018/pansou) | 🔥 20 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/ |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 277 | 🤖 MiroThinker 是一个开源的智能模型，用于深度研究和复杂工具使用场景。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 274 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 279 | 🤖 DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 252 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 233 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 6 | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | 🔥 190 |  |
+| 7 | [leonvanzyl/autocoder](https://github.com/leonvanzyl/autocoder) | 🔥 140 |  |
+| 8 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 105 |  |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 97 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 🔥 116 | Generate audiobooks from e-books, voice cloning & 1158+ languages! |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 235 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 158 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 118 | 🤖 该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 82 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [vicanso/zedis](https://github.com/vicanso/zedis) | 🔥 51 | 🤖 Zedis 是一个基于 Rust 和 GPU 的 Redis 图形界面，提供快速的 Redis 数据管理。 |
+| 6 | [Novus-Tech-LLC/Hyperliquid-Market-Maker](https://github.com/Novus-Tech-LLC/Hyperliquid-Market-Maker) | 🔥 25 | Hyperliquid Trading (Perp Trading) Bot — a high-performance, fully automated perpetual trading bot built for the Hyperliquid DEX. Designed for spee... |
+| 7 | [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) | 🔥 15 | Illegal rust |
+| 8 | [rue-language/rue](https://github.com/rue-language/rue) | 🔥 15 | A programming language that is higher level than Rust but lower level than Go. Someday, anyways. |
+| 9 | [hanebox/ekphos](https://github.com/hanebox/ekphos) | 🔥 9 | A lightweight, fast, terminal-based markdown research tool inspired by Obsidian |
+| 10 | [zensical/zensical](https://github.com/zensical/zensical) | 🔥 9 | A modern static site generator by the Material for MkDocs team |
+
