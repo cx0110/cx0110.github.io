@@ -73,3 +73,72 @@ image:
 | 9 | [psf/black](https://github.com/psf/black) | 41,286 | 🤖 该项目是一个无妥协的Python代码格式化工具。 |
 | 10 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | 2,222 | 🤖 VideoRAG项目是一个可以让用户通过自然语言与视频进行交互的系统，实现了视频内容的检索、问答和生成等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-10 02:19 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 726 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 🔥 579 | 🤖 为 Obsidian 添加 Claude 技能，增强其功能。 |
+| 3 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 563 | 🤖 该项目实现了持久化的Markdown规划功能，模仿Manus风格的工作流程。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 327 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 316 | 🤖 该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。 |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 298 | Public repository for Agent Skills |
+| 7 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 🔥 277 | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| 8 | [tw93/Mole](https://github.com/tw93/Mole) | 🔥 285 | 🐹 Deep clean and optimize your Mac. |
+| 9 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 277 | MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities. |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 214 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 109 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 91 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 83 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 58 | 🤖 Databasus 是一个数据库备份工具，支持 PostgreSQL、MySQL 和 MongoDB。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 66 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 37 | Why is this running? |
+| 7 | [karol-broda/snitch](https://github.com/karol-broda/snitch) | 🔥 34 | a prettier way to inspect network connections |
+| 8 | [threatexpert/gonc](https://github.com/threatexpert/gonc) | 🔥 21 | Netcat with automated NAT traversal, secure P2P, and advanced features for shell access, file transfer, and network proxying. |
+| 9 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 19 | Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard |
+| 10 | [AshkanYarmoradi/go-mink](https://github.com/AshkanYarmoradi/go-mink) | 🔥 23 | A Comprehensive Event Sourcing & CQRS Toolkit for Go |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 305 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 283 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 255 | 🤖 MiroThinker 是一个开源的智能模型，用于深度研究和复杂工具使用场景。 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 211 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 5 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 🔥 171 | 🤖 该项目为大型语言模型和AI代理提供记忆基础设施。 |
+| 6 | [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) | 🔥 185 | My personal Claude Code configuration - rules, hooks, agents, skills, and commands |
+| 7 | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | 🔥 155 |  |
+| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 136 | "DeepTutor: AI-Powered Personalized Learning Assistant" |
+| 9 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | 🔥 116 | [KDD'2026] "VideoRAG: Chat with Your Videos" |
+| 10 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 99 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 164 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 145 | 🤖 该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。 |
+| 3 | [vicanso/zedis](https://github.com/vicanso/zedis) | 🔥 103 | 🤖 Zedis 是一个基于 Rust 和 GPU 的 Redis 图形界面，提供快速的 Redis 数据管理。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 105 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 90 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [cakaroni/polymarket-arbitrage-bot](https://github.com/cakaroni/polymarket-arbitrage-bot) | 🔥 29 | Polymarket arbitrage bot - BTC 15min market & ETH 15min market - Catch position and make decision |
+| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 24 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 8 | [Novus-Tech-LLC/Hyperliquid-Market-Maker](https://github.com/Novus-Tech-LLC/Hyperliquid-Market-Maker) | 🔥 15 | Hyperliquid Trading (Perp Trading) Bot — a high-performance, fully automated perpetual trading bot built for the Hyperliquid DEX. Designed for spee... |
+| 9 | [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) | 🔥 19 | Illegal rust |
+| 10 | [rue-language/rue](https://github.com/rue-language/rue) | 🔥 20 | A programming language that is higher level than Rust but lower level than Go. Someday, anyways. |
+
