@@ -73,3 +73,72 @@ image:
 | 9 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 75,200 | 🤖 该项目旨在让网站能够被AI代理访问，并实现在线任务的自动化。 |
 | 10 | [usestrix/strix](https://github.com/usestrix/strix) | 18,878 | 🤖 该项目提供开源的AI渗透测试代理，用于自动化渗透测试。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-11 02:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 927 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 🔥 583 | 🤖 为 Obsidian 添加 Claude 技能，增强其功能。 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 311 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 4 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 🔥 328 | 🤖 这个项目是一个开源的多模态AI代理栈，连接前沿AI模型和基础设施。 |
+| 5 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 285 | 🤖 该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。 |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 216 | Public repository for Agent Skills |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 205 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 213 | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. |
+| 9 | [tw93/Mole](https://github.com/tw93/Mole) | 🔥 203 | 🐹 Deep clean and optimize your Mac. |
+| 10 | [genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) | 🔥 227 |  |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 86 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 88 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 74 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 4 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 73 | 🤖 Databasus 是一个数据库备份工具，支持 PostgreSQL、MySQL 和 MongoDB。 |
+| 5 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 56 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 6 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 40 | Why is this running? |
+| 7 | [badtuxx/girus-cli](https://github.com/badtuxx/girus-cli) | 🔥 25 |  |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 30 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 9 | [fish2018/pansou](https://github.com/fish2018/pansou) | 🔥 23 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/ |
+| 10 | [ssmvl2/Nextjs-RCE-Exploit](https://github.com/ssmvl2/Nextjs-RCE-Exploit) | 🔥 19 | Nextjs RCE Exploit |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 210 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 194 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 148 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 4 | [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) | 🔥 114 | 🤖 该项目创建了一个伪装TCP流量为SMTP邮件通信的隧道，以绕过深度包检测防火墙。 |
+| 5 | [parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2) | 🔥 120 | 🤖 该项目实现了 Claude 代码的上下文管理，确保执行过程中上下文的隔离和无污染。 |
+| 6 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 🔥 108 | CLI tool for configuring and monitoring Claude Code |
+| 7 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 114 | "DeepTutor: AI-Powered Personalized Learning Assistant" |
+| 8 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 125 | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep r... |
+| 9 | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | 🔥 93 |  |
+| 10 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 🔥 77 | Official Claude Code compound engineering plugin |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 185 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 101 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [vicanso/zedis](https://github.com/vicanso/zedis) | 🔥 116 | 🤖 Zedis 是一个基于 Rust 和 GPU 的 Redis 图形界面，提供快速的 Redis 数据管理。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 77 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [embassy-rs/embassy](https://github.com/embassy-rs/embassy) | 🔥 112 | 🤖 Embassy 是一个现代的嵌入式框架，使用 Rust 和异步编程。 |
+| 6 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 45 | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-... |
+| 7 | [huseyinbabal/taws](https://github.com/huseyinbabal/taws) | 🔥 25 | Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager |
+| 8 | [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) | 🔥 17 | 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。 |
+| 9 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 14 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 10 | [Novus-Tech-LLC/Hyperliquid-Market-Maker](https://github.com/Novus-Tech-LLC/Hyperliquid-Market-Maker) | 🔥 10 | Hyperliquid Trading (Perp Trading) Bot — a high-performance, fully automated perpetual trading bot built for the Hyperliquid DEX. Designed for spee... |
+
