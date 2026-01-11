@@ -73,3 +73,72 @@ image:
 | 9 | [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) | 3,104 | 🤖 该项目为ComfyUI的本地模型添加了GGUF量化支持。 |
 | 10 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 19,928 | 🤖 该项目为Claude Code提供了一个精选的命令、文件和工作流列表。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-12 02:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 978 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 🔥 403 | 🤖 为 Obsidian 添加 Claude 技能，增强其功能。 |
+| 3 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 382 | 🤖 这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。 |
+| 4 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 339 | 🤖 该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。 |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 332 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 283 | Public repository for Agent Skills |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 250 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [virattt/dexter](https://github.com/virattt/dexter) | 🔥 256 | An autonomous agent for deep financial research |
+| 9 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 🔥 237 | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| 10 | [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) | 🔥 205 | Random digital audio effects |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 64 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 2 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 73 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 49 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 49 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [fish2018/pansou](https://github.com/fish2018/pansou) | 🔥 43 | 🤖 PanSou是一款高性能的网盘资源搜索API服务，支持多频道和插件搜索。 |
+| 6 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 45 | Databases backup tool (PostgreSQL, MySQL, MongoDB) |
+| 7 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 29 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 33 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 9 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 32 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 10 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 25 | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 388 | 🤖 这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 276 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 236 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 202 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 5 | [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) | 🔥 148 | 🤖 该项目创建了智能代理人，使用AI技术在Azure平台上进行自动化决策和操作。 |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 94 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 7 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 🔥 133 | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep r... |
+| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 113 | "DeepTutor: AI-Powered Personalized Learning Assistant" |
+| 9 | [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) | 🔥 124 | A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls. |
+| 10 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 🔥 108 | Memory infrastructure for LLMs and AI agents |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 118 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 65 | 🤖 该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。 |
+| 3 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 69 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 66 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [jdx/fnox](https://github.com/jdx/fnox) | 🔥 23 | 🤖 jdx/fnox 是一个加密的远程密钥管理器，安全存储和管理敏感信息。 |
+| 6 | [vicanso/zedis](https://github.com/vicanso/zedis) | 🔥 27 | Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI. |
+| 7 | [huseyinbabal/taws](https://github.com/huseyinbabal/taws) | 🔥 19 | Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager |
+| 8 | [zortax/zlaunch](https://github.com/zortax/zlaunch) | 🔥 17 | Fast wayland application launcher |
+| 9 | [cakaroni/polymarket-arbitrage-bot](https://github.com/cakaroni/polymarket-arbitrage-bot) | 🔥 13 | Polymarket arbitrage bot - BTC 15min market & ETH 15min market - Catch position and make decision |
+| 10 | [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) | 🔥 12 | In-development universal safe multimedia toolkit. |
+
