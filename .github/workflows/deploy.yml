@@ -95,8 +95,8 @@ jobs:
           pnpm dlx pagefind --source "public" || npx pagefind --source "public"
         fi
     
-        # ========================================================
-    # 👇 [修改后的步骤] 包含 LFS 配置 👇
+    # ========================================================
+    # 👇 [修改后的步骤] 包含 README 生成和 LFS 配置 👇
     # ========================================================
     - name: Sync to Hugging Face Space
       continue-on-error: true
@@ -112,20 +112,34 @@ jobs:
         git checkout -b main
         git lfs install
         
-        # 2. 【关键】告诉 Git 哪些文件用 LFS 处理
-        # 根据报错，woff2 是必须的。为了保险，我把常见图片和字体都加进去了
+        # 2. LFS 追踪二进制文件
         git lfs track "*.woff2" "*.ttf" "*.eot" "*.woff" "*.otf"
         git lfs track "*.png" "*.jpg" "*.jpeg" "*.gif" "*.svg" "*.webp" "*.ico"
         git lfs track "*.mp4" "*.mov" "*.mp3" "*.pdf" "*.zip" "*.gz"
+
+        # 3. 【关键修改】生成 Hugging Face 专用的 README.md
+        # 必须指明 sdk: static，否则 Space 无法运行
+        cat <<EOF > README.md
+        ---
+        title: 1ch0's Blog Mirror
+        emoji: 🚀
+        colorFrom: blue
+        colorTo: indigo
+        sdk: static
+        pinned: false
+        ---
         
-        # 3. 配置用户
+        Check out the main site at [GitHub Pages](https://cx0110.github.io/)
+        EOF
+        
+        # 4. 配置用户
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
         
-        # 4. 添加所有文件 (会自动生成 .gitattributes 文件)
+        # 5. 添加所有文件
         git add .
         
-        # 5. 提交并强制推送
+        # 6. 提交并强制推送
         git commit -m "Mirror from GitHub: $(date)"
         git push --force https://$HF_USERNAME:$HF_TOKEN@huggingface.co/spaces/$HF_USERNAME/$SPACE_NAME main
    
