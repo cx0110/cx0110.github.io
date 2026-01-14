@@ -5,7 +5,13 @@
 
 title: "1ch0's Blog" # Website name
 baseURL: 'https://cx0110.github.io/' # Website URL
+
+
+
+relativeURLs: true
+canonifyURLs: false
 timeZone: "Asia/Shanghai"
+
 
 ############################
 ## PAGE OPTIONS
