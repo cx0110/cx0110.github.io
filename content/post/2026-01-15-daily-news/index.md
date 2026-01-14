@@ -68,3 +68,72 @@ image:
 | 7 | [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) | 1,724 | 🤖 该项目是一个人工智能驱动的知识图谱生成器，能够自动生成知识图谱。 |
 | 8 | [lvgalvao/data-engineering-roadmap](https://github.com/lvgalvao/data-engineering-roadmap) | 1,056 | 🤖 该项目提供了一条数据工程和人工智能的职业发展路线图，帮助专业人士提升数据工程和人工智能方面的技能和知识。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-15 02:21 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 772 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 657 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 382 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 🔥 389 | 🤖 Eigent 是一个多智能体工作平台，帮助提升个人和团队的生产力。 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 357 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 6 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 🔥 291 | 程序员鱼皮的 AI 资源导航，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、QWE... |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 167 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 8 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 247 | The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. |
+| 9 | [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) | 🔥 243 | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models |
+| 10 | [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) | 🔥 242 | Random digital audio effects |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 58 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 50 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 46 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [finbarr/yolobox](https://github.com/finbarr/yolobox) | 🔥 52 | 🤖 该项目允许人工智能访问外部数据，同时保护本地主目录的安全。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 35 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 33 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 7 | [shridarpatil/whatomate](https://github.com/shridarpatil/whatomate) | 🔥 21 | Whatomate is an open-source WhatsApp integration |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 18 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 9 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 20 | Browser automation for AI agents and humans |
+| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 17 | Open-source Trading OS with pluggable AI brain \| From market data → AI reasoning → Trade execution \| Self-hosted & Multi-exchange |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 344 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 321 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 147 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) | 🔥 227 | 🤖 Engram 项目实现了大语言模型的可扩展查找和条件记忆功能。 |
+| 5 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 180 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 6 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 🔥 147 |  |
+| 7 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 136 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 8 | [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | 🔥 163 | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. |
+| 9 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 91 |  |
+| 10 | [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 🔥 136 | M3U Playlist for free TV channels |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 171 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 110 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 78 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 🔥 127 | 🤖 Dioxus 是一个全栈应用框架，支持网页、桌面和移动端开发。 |
+| 5 | [terauss/Polymarket-Copy-Trading-Bot](https://github.com/terauss/Polymarket-Copy-Trading-Bot) | 🔥 72 | 🤖 该项目是一个复制交易机器人，用于复制Polymarket交易平台上的交易。 |
+| 6 | [cachebag/payme](https://github.com/cachebag/payme) | 🔥 30 | Personal finance tracking application. |
+| 7 | [vicanso/zedis](https://github.com/vicanso/zedis) | 🔥 34 | Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI. |
+| 8 | [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) | 🔥 25 | The filesystem for agents. |
+| 9 | [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) | 🔥 25 | A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience. |
+| 10 | [bensadeh/tailspin](https://github.com/bensadeh/tailspin) | 🔥 63 | 🌀 A log file highlighter |
+
