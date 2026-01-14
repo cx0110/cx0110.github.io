@@ -94,25 +94,33 @@ jobs:
         if [ -f "package.json" ] && grep -q "pagefind" package.json; then
           pnpm dlx pagefind --source "public" || npx pagefind --source "public"
         fi
+    
     # ========================================================
-    # 👇 [新增步骤] 同步到 Hugging Face Space 👇
+    # 👇 [修改后的步骤] 同步到 Hugging Face Space 👇
     # ========================================================
     - name: Sync to Hugging Face Space
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        # 请在这里修改你的 HF 用户名和 Space 名称
-        HF_USERNAME: "ed10x" 
-        SPACE_NAME: "blog"
+        HF_USERNAME: "ed10x"       # 根据你的报错信息填写的
+        SPACE_NAME: "blog"         # 根据你的报错信息填写的
       run: |
-        # 进入构建生成的 public 目录
         cd public
         
-        # 初始化 git 并强制推送到 HF
+        # 1. 初始化仓库
         git init
+        
+        # 2. 【关键修改】强制创建并切换到 main 分支
+        git checkout -b main
+        
+        # 3. 配置用户信息
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
+        
+        # 4. 添加文件并提交
         git add .
         git commit -m "Mirror from GitHub: $(date)"
+        
+        # 5. 强制推送到 Hugging Face
         git push --force https://$HF_USERNAME:$HF_TOKEN@huggingface.co/spaces/$HF_USERNAME/$SPACE_NAME main
    
     - name: Upload artifact
