@@ -73,3 +73,72 @@ image:
 | 9 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 50,731 | 🤖 该项目实现了对大型语言模型（LLMs）的微调和强化学习，能够以更快的速度和更低的VRAM占用率训练多种语言模型。 |
 | 10 | [music-assistant/server](https://github.com/music-assistant/server) | 1,238 | 🤖 Music Assistant是一个免费开源的媒体库管理器，连接流媒体服务和各种联网扬声器，需要在一个始终在线的设备上运行。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-16 02:24 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 🔥 1464 | 🤖 Vercel 的智能代理技能实验室。 |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 814 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 736 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 522 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 533 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 439 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 7 | [z-libs/Zen-C](https://github.com/z-libs/Zen-C) | 🔥 354 | Write like a high-level language, run like C. |
+| 8 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 🔥 342 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Curso... |
+| 9 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 260 | The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. |
+| 10 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 🔥 267 | Eigent: The World's First Multi-agent Workforce to Unlock Your Exceptional Productivity. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 71 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 64 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 3 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 🔥 85 | 🤖 LocalAI 是一个开源、自托管的人工智能项目，能够在普通硬件上运行，实现文本、音频、图像等多种功能。 |
+| 4 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 57 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 56 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 40 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 7 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 44 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 26 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 9 | [gabehf/Koito](https://github.com/gabehf/Koito) | 🔥 22 | Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to ListenBrainz |
+| 10 | [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) | 🔥 20 | Fast and easy to use database for logs, which can efficiently handle terabytes of logs |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 501 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 377 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 222 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 4 | [terauss/Polymarket-Copy-Trading-Bot](https://github.com/terauss/Polymarket-Copy-Trading-Bot) | 🔥 175 | 🤖 该项目是一个复制交易机器人，用于复制Polymarket交易平台上的交易。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 94 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 🔥 146 |  |
+| 7 | [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) | 🔥 140 | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models |
+| 8 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 66 | 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Tel... |
+| 9 | [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) | 🔥 119 | Specification and documentation for the Universal Commerce Protocol (UCP) |
+| 10 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | 🔥 92 | Specification and documentation for Agent Skills |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 188 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 123 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 90 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [j178/prek](https://github.com/j178/prek) | 🔥 57 | 🤖 该项目是一个用Rust重构的代码提交前检查工具，旨在提高性能和效率。 |
+| 5 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 17 | 🤖 该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。 |
+| 6 | [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) | 🔥 16 | A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience. |
+| 7 | [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) | 🔥 15 | The filesystem for agents. |
+| 8 | [vicanso/zedis](https://github.com/vicanso/zedis) | 🔥 15 | Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI. |
+| 9 | [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) | 🔥 11 | 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。 |
+| 10 | [mongodb/kingfisher](https://github.com/mongodb/kingfisher) | 🔥 8 | Kingfisher is a blazingly fast and highly accurate tool for secret detection and live validation across files, Git repos, GitHub, GitLab, Azure Rep... |
+
