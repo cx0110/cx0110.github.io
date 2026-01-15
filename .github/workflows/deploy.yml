@@ -95,10 +95,10 @@ jobs:
           pnpm dlx pagefind --source "public" || npx pagefind --source "public"
         fi
     
+        # ========================================================
+    # 👇 [Docker 版] 同步到 Hugging Face Space 👇
     # ========================================================
-    # 👇 [修改后的步骤] 包含 README 生成和 LFS 配置 👇
-    # ========================================================
-    - name: Sync to Hugging Face Space
+    - name: Sync to Hugging Face Space (Docker)
       continue-on-error: true
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
@@ -107,42 +107,92 @@ jobs:
       run: |
         cd public
         
-        # 1. 初始化 Git 和 LFS
-        git init
-        git checkout -b main
-        git lfs install
-        
-        # 2. LFS 追踪二进制文件
-        git lfs track "*.woff2" "*.ttf" "*.eot" "*.woff" "*.otf"
-        git lfs track "*.png" "*.jpg" "*.jpeg" "*.gif" "*.svg" "*.webp" "*.ico"
-        git lfs track "*.mp4" "*.mov" "*.mp3" "*.pdf" "*.zip" "*.gz"
+        # -------------------------------------------------------
+        # 1. 生成 Nginx 配置文件 (解决 404 问题的核心)
+        # -------------------------------------------------------
+        cat <<EOF > nginx.conf
+        server {
+            listen 7860;
+            server_name localhost;
+            
+            location / {
+                root   /usr/share/nginx/html;
+                index  index.html index.htm;
+                # 尝试查找：uri -> uri/ -> uri/index.html -> 404
+                try_files \$uri \$uri/ \$uri/index.html =404;
+            }
+            
+            error_page   500 502 503 504  /50x.html;
+            location = /50x.html {
+                root   /usr/share/nginx/html;
+            }
+        }
+        EOF
 
-        # 3. 【关键修改】生成 Hugging Face 专用的 README.md
-        # 必须指明 sdk: static，否则 Space 无法运行
+        # -------------------------------------------------------
+        # 2. 生成 Dockerfile (使用非特权 Nginx 镜像)
+        # Hugging Face 要求容器监听 7860 端口
+        # -------------------------------------------------------
+        cat <<EOF > Dockerfile
+        # 使用非 root 用户版的 Nginx，安全性更好，兼容 HF 权限
+        FROM nginxinc/nginx-unprivileged:alpine
+        
+        # 切换到 root 来进行文件复制和权限修改
+        USER root
+        
+        # 复制 Hugo 生成的静态文件到 Nginx 目录
+        COPY . /usr/share/nginx/html
+        
+        # 复制我们的 Nginx 配置覆盖默认配置
+        COPY nginx.conf /etc/nginx/conf.d/default.conf
+        
+        # 修正权限 (确保 Nginx 用户能读取)
+        RUN chmod -R 755 /usr/share/nginx/html
+        
+        # 切换回普通用户启动
+        USER 101
+        
+        # 暴露 Hugging Face 默认端口
+        EXPOSE 7860
+        EOF
+
+        # -------------------------------------------------------
+        # 3. 生成 README.md (声明 SDK 为 Docker)
+        # -------------------------------------------------------
         cat <<EOF > README.md
         ---
         title: 1ch0's Blog Mirror
-        emoji: 🚀
+        emoji: 🐳
         colorFrom: blue
-        colorTo: indigo
-        sdk: static
+        colorTo: green
+        sdk: docker
         pinned: false
+        app_port: 7860
         ---
         
         Check out the main site at [GitHub Pages](https://cx0110.github.io/)
         EOF
+
+        # -------------------------------------------------------
+        # 4. 推送到 Hugging Face
+        # -------------------------------------------------------
+        # 初始化 Git
+        git init
+        git checkout -b main
         
-        # 4. 配置用户
+        # LFS 设置 (以防万一)
+        git lfs install
+        git lfs track "*.woff2" "*.ttf" "*.mp4" "*.zip"
+        
+        # 提交
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
-        
-        # 5. 添加所有文件
         git add .
+        git commit -m "Deploy Docker version: $(date)"
         
-        # 6. 提交并强制推送
-        git commit -m "Mirror from GitHub: $(date)"
+        # 推送
         git push --force https://$HF_USERNAME:$HF_TOKEN@huggingface.co/spaces/$HF_USERNAME/$SPACE_NAME main
-   
+    
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v4
       with:
