@@ -72,3 +72,72 @@ image:
 | 9 | [NVIDIA/warp](https://github.com/NVIDIA/warp) | 6,063 | 🤖 NVIDIA/warp是一个用于加速模拟、数据生成和空间计算的Python框架。 |
 | 10 | [modelscope/evalscope](https://github.com/modelscope/evalscope) | 2,271 | 🤖 该项目是一个用于高效评估和基准测试大型模型（LLM、VLM、AIGC）性能的流线化和可定制框架。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-17 02:19 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 🔥 1193 | 🤖 Vercel 的智能代理技能实验室。 |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 836 | 🤖 开源编码智能代理，帮助开发者提高编码效率。 |
+| 3 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | 🔥 899 | 🤖 该项目使用AI生成JSON数据，并将其渲染为用户界面。 |
+| 4 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 🔥 752 | 🤖 Eigent 是一个多智能体工作平台，帮助提升个人和团队的生产力。 |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 796 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 475 | Public repository for Agent Skills |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 492 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 356 | Browser automation CLI for AI agents |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 185 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 10 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 253 | The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 🔥 130 | 🤖 LocalAI 是一个开源、自托管的人工智能项目，能够在普通硬件上运行，实现文本、音频、图像等多种功能。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 75 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 86 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) | 🔥 53 | 🤖 Acontext 是一个上下文数据平台，为智能代理提供数据支持。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 64 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 57 | Beads - A memory upgrade for your coding agent |
+| 7 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 41 | The glamourous AI coding agent for your favourite terminal 💘 |
+| 8 | [shridarpatil/whatomate](https://github.com/shridarpatil/whatomate) | 🔥 34 | Whatomate is an open-source WhatsApp integration |
+| 9 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 🔥 71 | An open-source, cross-platform terminal for seamless workflows |
+| 10 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 37 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 447 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 458 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 179 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 188 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 5 | [trailofbits/skills](https://github.com/trailofbits/skills) | 🔥 175 | 🤖 Trail of Bits Claude Code 技能用于安全研究、漏洞检测和审计工作流。 |
+| 6 | [google/langextract](https://github.com/google/langextract) | 🔥 107 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| 7 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 🔥 95 | CLI tool for configuring and monitoring Claude Code |
+| 8 | [probberechts/soccerdata](https://github.com/probberechts/soccerdata) | 🔥 115 | ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, FotMob, Sofascore, SoFIFA, Understat and WhoScored.  |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 75 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 60 | 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Tel... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 156 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 98 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 89 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 34 | 🤖 该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。 |
+| 5 | [hanebox/ekphos](https://github.com/hanebox/ekphos) | 🔥 21 | 🤖 一个轻量级的终端markdown研究工具，用于快速记录和组织笔记。 |
+| 6 | [Barre/ZeroFS](https://github.com/Barre/ZeroFS) | 🔥 8 | ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com |
+| 7 | [agavra/tuicr](https://github.com/agavra/tuicr) | 🔥 9 | A human-in-the-loop code review TUI for AI-generated changes. |
+| 8 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 8 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 9 | [Jakedismo/codegraph-rust](https://github.com/Jakedismo/codegraph-rust) | 🔥 6 | 100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through ... |
+| 10 | [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) | 🔥 7 | A Kiro Client in Rust |
+
