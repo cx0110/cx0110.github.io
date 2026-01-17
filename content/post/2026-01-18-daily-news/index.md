@@ -69,3 +69,72 @@ image:
 | 9 | [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) | 1,902 | 🤖 该项目提供了一系列提示、工作流程等工具，用于支持代理工程（agentic engineering）的开发和应用。 |
 | 10 | [wagtail/wagtail](https://github.com/wagtail/wagtail) | 20,039 | 🤖 Wagtail是一个基于Django的内容管理系统，专注于灵活性和用户体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-18 02:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 🔥 871 | 🤖 Vercel 的智能代理技能实验室。 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 506 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 3 | [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 🔥 416 | 🤖 该项目是一个基于AI的聊天机器人，用于生成和演绎虚拟剧本。 |
+| 4 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | 🔥 457 | 🤖 该项目使用AI生成JSON数据，并将其渲染为用户界面。 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 335 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 6 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 🔥 320 | Eigent: The World's First Multi-agent Workforce to Unlock Your Exceptional Productivity. |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 248 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 215 | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more \| 🌟 Star if you like it! |
+| 9 | [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) | 🔥 165 | stfu |
+| 10 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 173 | The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 93 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 94 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak) | 🔥 71 | 🤖 该项目是一个Go语言的HTTP客户端，模拟浏览器的TLS/HTTP2指纹，绕过机器人检测。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 61 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 65 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 46 | Glamourous agentic coding for all 💘 |
+| 7 | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) | 🔥 35 | Data platform for context engineering. Context data platform that stores, observes and learns. Join the community❤️: https://discord.acontext.io |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 24 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 9 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 🔥 76 | :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on co... |
+| 10 | [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) | 🔥 26 | 极简且免费的微信消息推送服务 (基于golang) |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 316 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 239 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 153 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 4 | [google/langextract](https://github.com/google/langextract) | 🔥 146 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 64 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 94 | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+| 7 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 🔥 84 | CLI tool for configuring and monitoring Claude Code |
+| 8 | [imbue-bit/AlphaGPT](https://github.com/imbue-bit/AlphaGPT) | 🔥 31 | 使用符号回归在中国股市与加密市场上进行高效因子挖掘。 |
+| 9 | [trailofbits/skills](https://github.com/trailofbits/skills) | 🔥 80 | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows |
+| 10 | [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) | 🔥 75 | Yet Another Document Translator |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 149 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 97 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 107 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [hanebox/ekphos](https://github.com/hanebox/ekphos) | 🔥 24 | 🤖 一个轻量级的终端markdown研究工具，用于快速记录和组织笔记。 |
+| 5 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 14 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
+| 6 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 16 | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-... |
+| 7 | [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) | 🔥 13 | The filesystem for agents. |
+| 8 | [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) | 🔥 10 | A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience. |
+| 9 | [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) | 🔥 14 | A Kiro Client in Rust |
+| 10 | [BeaconBay/ck](https://github.com/BeaconBay/ck) | 🔥 12 | Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!  |
+
