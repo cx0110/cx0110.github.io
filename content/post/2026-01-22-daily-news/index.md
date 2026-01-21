@@ -71,3 +71,72 @@ image:
 | 9 | [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | 4,692 | 🤖 该项目是一个工具，旨在简化OpenCore EFI的创建过程。 |
 | 10 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 40,595 | 🤖 该项目是一个基于ChatGPT的对话式人工智能模型，旨在提供一个经济实惠的解决方案，仅需100美元即可拥有一个功能齐全的聊天机器人。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-22 02:31 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 2209 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 1332 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 435 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 4 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🔥 443 | 🤖 开源项目，替代Claude Cowork，实现协同工作。 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 395 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 355 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 7 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 352 | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more \| 🌟 Star if you like it! |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 289 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 9 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 285 | The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. |
+| 10 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 208 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 89 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 86 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [likaia/nginxpulse](https://github.com/likaia/nginxpulse) | 🔥 100 | 🤖 轻量级 Nginx 日志分析与可视化工具，提供实时统计和访问信息解析。 |
+| 4 | [eddyson-B/prediction-market-platform](https://github.com/eddyson-B/prediction-market-platform) | 🔥 67 | 🤖 预测市场平台部署工具，帮助用户快速搭建预测市场系统。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 60 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 🔥 74 | Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. |
+| 7 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 25 | Glamourous agentic coding for all 💘 |
+| 8 | [runkids/skillshare](https://github.com/runkids/skillshare) | 🔥 14 | 📚 Sync skills to all your AI CLI tools with one command for Claude, Codex, Cursor, Antigravity & more |
+| 9 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 12 | MCP for xiaohongshu.com |
+| 10 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 14 | Why is this running? |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 368 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 350 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 263 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 4 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 🔥 163 | 🤖 微软的Agent Lightning项目是一种人工智能训练工具，用于提升AI代理的能力。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 84 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 🔥 155 | Managing long-term, working, and external memory with OS-level scheduling, retrieval, and updates. |
+| 7 | [google/langextract](https://github.com/google/langextract) | 🔥 154 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| 8 | [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | 🔥 156 | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. |
+| 9 | [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) | 🔥 110 |  |
+| 10 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 98 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 2091 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 158 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 157 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 77 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [block/goose](https://github.com/block/goose) | 🔥 42 | 🤖 block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 6 | [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 🔥 31 | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration |
+| 7 | [NORMAL-EX/LetRecovery](https://github.com/NORMAL-EX/LetRecovery) | 🔥 17 | 一款免费开源的 Windows 系统重装工具 |
+| 8 | [SIGNIAINDEX/SIGNIA](https://github.com/SIGNIAINDEX/SIGNIA) | 🔥 25 | Compiling real-world structures into verifiable on-chain forms. |
+| 9 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 17 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 10 | [khcrysalis/Impactor](https://github.com/khcrysalis/Impactor) | 🔥 12 | Feature rich iOS/tvOS sideloading application written in Rust. Formerly known as PlumeImpactor. |
+
