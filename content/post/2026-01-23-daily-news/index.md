@@ -73,3 +73,72 @@ image:
 | 9 | [OWASP/Nettacker](https://github.com/OWASP/Nettacker) | 4,784 | 🤖 该项目是一个自动化渗透测试框架，提供开源漏洞扫描和漏洞管理功能。 |
 | 10 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 6,697 | 🤖 该项目是一个用于构建、编排和部署AI代理和多代理工作流的框架，支持Python和.NET语言。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-23 02:19 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 1835 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 2 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 557 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 481 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 437 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 5 | [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) | 🔥 394 | 🤖 Anthropic 的原性能测试项目，供用户尝试和评估。 |
+| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 341 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 7 | [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | 🔥 212 | 本地化的聊天记录分析工具，通过 SQL 和AI Agent 回顾你的聊天记录。 A local-first chat analysis tool: Relive and explore your chat history powered by SQL and AI Agents. |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 230 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 9 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 🔥 224 |  |
+| 10 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 168 | Hive control for your AI agents |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) | 🔥 86 | 🤖 该项目使用AI技术实现代码的语义搜索，而不仅仅是关键词搜索。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 89 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 63 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 53 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 🔥 95 | 🤖 该项目是一款支持多种协议的摄像头流媒体应用。 |
+| 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 33 | Glamourous agentic coding for all 💘 |
+| 7 | [Vyntral/god-eye](https://github.com/Vyntral/god-eye) | 🔥 28 | AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs |
+| 8 | [likaia/nginxpulse](https://github.com/likaia/nginxpulse) | 🔥 25 | 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 20 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 10 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 20 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 462 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) | 🔥 375 | 🤖 Anthropic 的原性能测试项目，供用户尝试和评估。 |
+| 3 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 322 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 226 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 5 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 🔥 151 | 🤖 这是 Claude Code 的复合工程插件，用于增强工程功能。 |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 81 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 7 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 117 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 8 | [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | 🔥 114 | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. |
+| 9 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 96 | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. |
+| 10 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 🔥 97 | The absolute trainer to light up AI agents. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 1001 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 179 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [block/goose](https://github.com/block/goose) | 🔥 167 | 🤖 block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 90 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 84 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 🔥 25 | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration |
+| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 16 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 8 | [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | 🔥 10 | Claude Code, OpenCode Coding Agent Terminal Session manager via tmux and git Worktrees |
+| 9 | [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) | 🔥 9 | A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. |
+| 10 | [unsecretised/rustcast](https://github.com/unsecretised/rustcast) | 🔥 6 | An open source alternative to raycast, in rust!! |
+
