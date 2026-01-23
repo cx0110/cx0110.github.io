@@ -73,3 +73,72 @@ image:
 | 9 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 19,372 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
 | 10 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 333,090 | 🤖 该项目提供大规模系统设计的学习资源和Anki闪存卡，帮助用户准备系统设计面试。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-24 02:20 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 1930 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 2 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 🔥 867 | 🤖 GitHub Copilot SDK 是一个多平台集成工具包，帮助开发者将 GitHub Copilot 功能集成到自己的应用和服务中。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 588 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 565 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 5 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🔥 536 | 🤖 使用 React 编程创建视频。 |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 376 | An agentic skills framework & software development methodology that works. |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 328 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 134 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 9 | [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | 🔥 262 | Download videos from almost any website worldwide |
+| 10 | [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 🔥 270 | Generative UI SDK for React |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 76 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 66 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | 🔥 88 | 🤖 该项目是一个网络资源下载工具，支持多平台视频和音乐下载。 |
+| 4 | [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) | 🔥 60 | 🤖 该项目使用AI技术实现代码的语义搜索，而不仅仅是关键词搜索。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 50 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 29 | Glamourous agentic coding for all 💘 |
+| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 23 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 8 | [likaia/nginxpulse](https://github.com/likaia/nginxpulse) | 🔥 26 | 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 |
+| 9 | [hoangtuvungcao/proxvn_tunnel_full](https://github.com/hoangtuvungcao/proxvn_tunnel_full) | 🔥 18 | ProxVN là công cụ **Tunneling** mạnh mẽ, miễn phí, giúp bạn đưa các dịch vụ trong mạng nội bộ (Localhost) ra Internet công cộng chỉ với một câu lệnh. |
+| 10 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 17 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 568 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 322 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 130 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 249 | 🤖 PersonaPlex 是一个开源项目，提供人工智能驱动的个性化交互技术。 |
+| 5 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 247 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 6 | [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) | 🔥 221 | Anthropic's original performance take-home, now open for you to try! |
+| 7 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 132 | The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 8 | [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) | 🔥 100 |  |
+| 9 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 95 | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. |
+| 10 | [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) | 🔥 95 |  |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 498 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 165 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [block/goose](https://github.com/block/goose) | 🔥 131 | 🤖 block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 76 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 74 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 🔥 24 | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration |
+| 7 | [vicanso/zedis](https://github.com/vicanso/zedis) | 🔥 25 | Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI. |
+| 8 | [unsecretised/rustcast](https://github.com/unsecretised/rustcast) | 🔥 29 | An open source alternative to raycast, in rust!! |
+| 9 | [ghuntley/loom](https://github.com/ghuntley/loom) | 🔥 13 | if your name is not Geoffrey Huntley then do not use loom |
+| 10 | [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | 🔥 15 | Claude Code, OpenCode Coding Agent Terminal Session manager via tmux and git Worktrees |
+
