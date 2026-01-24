@@ -73,3 +73,72 @@ image:
 | 9 | [roboflow/rf-detr](https://github.com/roboflow/rf-detr) | 5,297 | 🤖 RF-DETR是一个实时物体检测和分割模型架构，能够实现高精度的物体识别和分割。 |
 | 10 | [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | 2,654 | 🤖 该项目（FinRL-Trading）是一个用于交易的开源框架，利用强化学习和深度学习等人工智能技术来优化交易策略和决策。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-25 02:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 1339 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 2 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 420 | 🤖 PageIndex：为无向量文档创建索引，实现基于推理的文档检索。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 362 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🔥 393 | 🤖 使用 React 编程创建视频。 |
+| 5 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 🔥 406 | 🤖 GitHub Copilot SDK 是一个多平台集成工具包，帮助开发者将 GitHub Copilot 功能集成到自己的应用和服务中。 |
+| 6 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 283 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 302 | An agentic skills framework & software development methodology that works. |
+| 8 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 254 | PersonaPlex code. |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 190 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🔥 173 | An open-source alternative to Claude Cowork, powered by OpenCode |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 92 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 82 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | 🔥 114 | 🤖 该项目是一个网络资源下载工具，支持多平台视频和音乐下载。 |
+| 4 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 50 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 61 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 29 | Modern Docker Management, Designed for Everyone |
+| 7 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 22 | Glamourous agentic coding for all 💘 |
+| 8 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 21 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+| 9 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 17 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 10 | [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) | 🔥 17 | grep on steroids: semantic code search powered by AI embeddings. Search your codebase by meaning, not just keywords. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 422 | 🤖 PageIndex：为无向量文档创建索引，实现基于推理的文档检索。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 339 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 250 | 🤖 PersonaPlex 是一个开源项目，提供人工智能驱动的个性化交互技术。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 179 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 🔥 186 | 🤖 UltraRAG v2：一个低代码框架，用于构建复杂的RAG管道。 |
+| 6 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 140 | Open-Source Frontier Voice AI |
+| 7 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 140 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 64 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 9 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 113 | The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 10 | [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) | 🔥 100 |  |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 344 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 182 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [block/goose](https://github.com/block/goose) | 🔥 161 | 🤖 block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 67 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 75 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 🔥 25 | A Datacenter Scale Distributed Inference Serving Framework |
+| 7 | [acunniffe/git-ai](https://github.com/acunniffe/git-ai) | 🔥 25 | A Git extension for tracking the AI-generated code in your repos |
+| 8 | [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 🔥 21 | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration |
+| 9 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 21 | Clean network diagrams. One-time setup, zero upkeep. |
+| 10 | [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) | 🔥 14 | Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly cu... |
+
