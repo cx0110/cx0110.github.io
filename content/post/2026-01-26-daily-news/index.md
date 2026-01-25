@@ -1,0 +1,73 @@
+---
+title: "🔥 每日技术热点 2026-01-26"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-01-26T09:00:00+08:00
+lastmod: 2026-01-26T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-01-26 01:22 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 3,945 | 🤖 Blaizzy/mlx-audio是一个基于苹果MLX框架的语音处理库，支持文本转语音、语音转文本和语音转语音功能。 |
+| 2 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 8,906 | 🤖 PageIndex是一个用于Reasoning-based RAG（基于推理的检索增强生成）模型的文档索引系统，旨在高效地组织和检索大量文档以支持推理和问答任务。 |
+| 3 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 30,376 | 🤖 该项目允许用户使用React编程语言来创建视频。 |
+| 4 | [qarmin/czkawka](https://github.com/qarmin/czkawka) | 28,440 | 🤖 该项目是一个多功能应用，用于查找重复文件、空文件夹、相似图片等。 |
+| 5 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 3,853 | 🤖 UltraRAG v3是一个低代码的MCP框架，用于构建复杂和创新性的RAG管道。 |
+| 6 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21,918 | 🤖 Microsoft/VibeVoice是一个开源的边缘智能语音AI项目，旨在实现边缘设备上的实时语音识别和交互。 |
+| 7 | [openai/codex](https://github.com/openai/codex) | 57,346 | 🤖 Openai/codex是一个轻量级的编码代理，可以在终端中运行，帮助用户完成编码任务。 |
+| 8 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 14,574 | 🤖 该项目是一个极其快速且可扩展的记忆引擎和应用程序，提供了针对人工智能时代的记忆API。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | 14,504 | 🤖 该项目是一个多功能的网络资源下载工具，支持下载包括视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等在内的各种常见网络资源。 |
+| 2 | [AlistGo/alist](https://github.com/AlistGo/alist) | 48,896 | 🤖 AlistGo/alist是一个支持多存储的文件列表和WebDAV程序。 |
+| 3 | [ollama/ollama](https://github.com/ollama/ollama) | 160,556 | 🤖 该项目提供了一种快速部署和使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3等模型的解决方案。 |
+| 4 | [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) | 4,014 | 🤖 该项目是一个轻量级的自托管个人理财应用，具有用户友好的界面和强大的记账功能。 |
+| 5 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 38,527 | 🤖 Fabric 是一个开源框架，利用人工智能来增强人类的能力，通过众包的方式提供模块化的解决方案。 |
+| 6 | [ariga/atlas](https://github.com/ariga/atlas) | 7,936 | 🤖 Ariga/Atlas 项目提供了声明式的数据库模式迁移功能，实现了以代码方式管理数据库模式的工作流。 |
+| 7 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 42,351 | 🤖 Mudler/LocalAI是一个免费、开源的本地人工智能项目，能够在不需要GPU的消费级硬件上运行，支持文本、音频、视频、图像、语音克隆等功能。 |
+| 8 | [githubnext/gh-aw](https://github.com/githubnext/gh-aw) | 317 | 🤖 GitHub Agentic Workflows（gh-aw）是一个自动化工作流工具，用于简化和优化GitHub上的项目管理和协作流程。 |
+| 9 | [helm/helm](https://github.com/helm/helm) | 29,339 | 🤖 Helm是一个Kubernetes包管理器，用于简化Kubernetes应用的安装、升级和管理。 |
+| 10 | [spf13/cobra](https://github.com/spf13/cobra) | 42,979 | 🤖 该项目提供了一个现代化的Go语言命令行接口（CLI）框架，用于构建和管理命令行应用程序。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 3,945 | 🤖 Blaizzy/mlx-audio是一个基于苹果MLX框架的语音处理库，支持文本转语音、语音转文本和语音转语音功能。 |
+| 2 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 8,906 | 🤖 PageIndex是一个用于Reasoning-based RAG（基于推理的检索增强生成）模型的文档索引系统，旨在高效地组织和检索大量文档以支持推理和问答任务。 |
+| 3 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 3,853 | 🤖 UltraRAG v3是一个低代码的MCP框架，用于构建复杂和创新性的RAG管道。 |
+| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21,918 | 🤖 Microsoft/VibeVoice是一个开源的边缘智能语音AI项目，旨在实现边缘设备上的实时语音识别和交互。 |
+| 5 | [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | 2,075 | 🤖 ViMax是一个集导演、编剧、制片人和视频生成器于一体的智能视频生成系统。 |
+| 6 | [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | 3,823 | 🤖 该项目是一个人工智能驱动的数据科学团队，旨在帮助用户以10倍的速度完成常见的数据科学任务。 |
+| 7 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 77,015 | 🤖 该项目旨在让网站能够被AI代理访问，并实现在线任务的自动化。 |
+| 8 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 56,547 | 🤖 该项目是一个30天的Python编程挑战，旨在通过一步一步的指导帮助学习者在30天内掌握Python编程语言。 |
+| 9 | [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | 16,605 | 🤖 该项目是一个命令行程序，用于从多个图像托管网站下载图像画廊和集合。 |
+| 10 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 89,325 | 🤖 该项目收集了基于OpenAI、Anthropic、Gemini和开源模型的LLM应用，包括AI代理和RAG。 |
+
