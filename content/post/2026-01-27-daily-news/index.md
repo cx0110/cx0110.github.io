@@ -70,3 +70,72 @@ image:
 | 8 | [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | 2,132 | 🤖 ViMax是一个集导演、编剧、制片人和视频生成器于一体的智能视频生成系统。 |
 | 9 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 101,528 | 🤖 Comfy-Org/ComfyUI是一个功能强大且模块化的扩散模型图形用户界面、API和后端，具有图形/节点接口。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-27 02:22 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 7873 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 1440 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 515 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🔥 555 | 🤖 使用 React 编程创建视频。 |
+| 5 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 339 | 🤖 该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。 |
+| 6 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 🔥 466 | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis... |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 415 | An agentic skills framework & software development methodology that works. |
+| 8 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 361 | The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 9 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | 🔥 305 | The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. |
+| 10 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 289 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 73 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 67 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 51 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 4 | [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) | 🔥 40 | 🤖 该项目使用AI技术实现代码的语义搜索，而不仅仅是关键词搜索。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 32 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 26 | Fast, AI-agent friendly CLI for App Store Connect. Ship apps with zero friction. |
+| 7 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 25 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 8 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 🔥 19 | GitHub's official MCP Server |
+| 9 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 19 | Modern Docker Management, Designed for Everyone |
+| 10 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 19 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 492 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 325 | 🤖 该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。 |
+| 3 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 🔥 463 | 🤖 该项目是一个语音处理库，实现文本转语音、语音转文本和语音转语音功能。 |
+| 4 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 345 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 5 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 284 | 🤖 PageIndex：为无向量文档创建索引，实现基于推理的文档检索。 |
+| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 244 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 7 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 🔥 280 | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 234 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 9 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 189 | Open-Source Frontier Voice AI |
+| 10 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 162 | PersonaPlex code. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [block/goose](https://github.com/block/goose) | 🔥 229 | 🤖 block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 141 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 124 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 4 | [qarmin/czkawka](https://github.com/qarmin/czkawka) | 🔥 108 | 🤖 该项目是一个多功能工具，用于查找重复文件、空文件夹、相似图片等。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 76 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 60 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 7 | [yesnotrader/polymarket-copy-trading-bot-telegram-ui](https://github.com/yesnotrader/polymarket-copy-trading-bot-telegram-ui) | 🔥 33 | Polymarket copy trading bot\|Polymarket copy trading bot\|Polymarket copytrading bot\|Polymarket trading bot\|Polymarket trading bot\|Polymarket tr... |
+| 8 | [trasta298/keifu](https://github.com/trasta298/keifu) | 🔥 23 | Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity. |
+| 9 | [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 🔥 21 | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration |
+| 10 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 🔥 15 | A Claude Code hook that blocks destructive git and filesystem commands |
+
