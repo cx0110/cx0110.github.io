@@ -67,3 +67,72 @@ image:
 | 7 | [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) | 4,776 | 🤖 FlashInfer是一个用于大语言模型（LLM）服务的内核库，提供高效的推理和部署能力。 |
 | 8 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 18,181 | 🤖 该项目提供了一个从零开始构建智能体的教程，涵盖智能体原理与实践。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-28 02:25 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 8716 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 527 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 478 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 348 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 5 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 287 | 🤖 该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。 |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 171 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 7 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🔥 369 | 🎥      Make videos programmatically with React |
+| 8 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 186 | The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 189 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 183 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 56 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 51 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 38 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 24 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 23 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [likaia/nginxpulse](https://github.com/likaia/nginxpulse) | 🔥 26 | 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 |
+| 7 | [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) | 🔥 22 | Semantic Search & Call Graphs for AI Agents (100% Local) |
+| 8 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 17 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+| 9 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 14 | Databases backup tool (PostgreSQL, MySQL, MongoDB) |
+| 10 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 16 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 443 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 271 | 🤖 该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 163 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 177 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 174 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 6 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 170 | The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 7 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 169 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 8 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 🔥 195 | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis... |
+| 9 | [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | 🔥 152 | An AI-powered data science team of agents to help you perform common data science tasks 10X faster. |
+| 10 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 109 | PersonaPlex code. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 148 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 82 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 89 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 70 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [block/goose](https://github.com/block/goose) | 🔥 81 | 🤖 block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 6 | [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) | 🔥 36 | A Git extension for tracking the AI-generated code in your repos |
+| 7 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 🔥 31 | A Claude Code hook that blocks destructive git and filesystem commands |
+| 8 | [qarmin/czkawka](https://github.com/qarmin/czkawka) | 🔥 81 | Multi functional app to find duplicates, empty folders, similar images etc. |
+| 9 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 🔥 19 | A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install on... |
+| 10 | [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) | 🔥 17 | A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli. |
+
