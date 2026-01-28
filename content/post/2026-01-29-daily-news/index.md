@@ -73,3 +73,72 @@ image:
 | 9 | [frappe/erpnext](https://github.com/frappe/erpnext) | 31,377 | 🤖 该项目是一个免费开源的企业资源规划（ERP）系统，提供全面管理企业资源的解决方案。 |
 | 10 | [NVIDIA/earth2studio](https://github.com/NVIDIA/earth2studio) | 467 | 🤖 该项目是一个开源的深度学习框架，用于探索、构建和部署与天气和气候相关的AI工作流。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-29 02:25 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 6640 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 456 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 469 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 346 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 5 | [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) | 🔥 290 | 🤖 Moltbot 的技能集合，提供各种实用功能。 |
+| 6 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 219 | Outcome driven agent development framework that evolves |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 126 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 8 | [tobi/qmd](https://github.com/tobi/qmd) | 🔥 211 | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 171 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 159 | The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 71 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 36 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 3 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 35 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 44 | 🤖 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 33 | 🤖 Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 33 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 7 | [likaia/nginxpulse](https://github.com/likaia/nginxpulse) | 🔥 21 | 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 |
+| 8 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 22 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 21 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [hanselime/paqet](https://github.com/hanselime/paqet) | 🔥 15 | Ferries Packets Across Forbidden Boundaries |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 437 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 231 | 🤖 该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 116 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 164 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 154 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 168 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | 🔥 108 | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. |
+| 8 | [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 🔥 151 | M3U Playlist for free TV channels |
+| 9 | [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | 🔥 100 | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech g... |
+| 10 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 84 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 121 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 75 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 3 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 42 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 44 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [block/goose](https://github.com/block/goose) | 🔥 70 | 🤖 block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 6 | [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher) | 🔥 22 | Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features  |
+| 7 | [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) | 🔥 22 | A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli. |
+| 8 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 🔥 16 | A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install on... |
+| 9 | [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) | 🔥 16 | A Git extension for tracking the AI-generated code in your repos |
+| 10 | [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 🔥 15 | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration |
+
