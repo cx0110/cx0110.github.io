@@ -73,3 +73,72 @@ image:
 | 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 4,660 | 🤖 该项目是一个OCR模型，能够处理复杂表格、表单、手写体，并保留完整的布局。 |
 | 10 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | 21,281 | 🤖 LeRobot是一个利用端到端学习使机器人领域的人工智能更加便捷的项目。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-30 02:31 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 5488 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 451 | 🤖 zerobrew 是 Homebrew 的替代品，速度快 5-20 倍。 |
+| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 🔥 382 | 🤖 该项目收集和提取流行聊天机器人的系统提示。 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 409 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 348 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 299 | An agentic skills framework & software development methodology that works. |
+| 7 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 162 | Outcome driven agent development framework that evolves |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 99 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 9 | [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) | 🔥 200 | The awesome collection of Clawdbot Skills. (Clawdbot has officially been renamed to Moltbot) |
+| 10 | [archestra-ai/archestra](https://github.com/archestra-ai/archestra) | 🔥 243 | Enterprise-ready MCP gateway, MCP registry & orchestrator |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 76 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 57 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 3 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 40 | 🤖 该项目是一个快速、智能的命令行工具，用于无缝发布App Store应用。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 37 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 30 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 6 | [hashicorp/vault](https://github.com/hashicorp/vault) | 🔥 86 | A tool for secrets management, encryption as a service, and privileged access management |
+| 7 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 24 | Why is this running? |
+| 8 | [likaia/nginxpulse](https://github.com/likaia/nginxpulse) | 🔥 26 | 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 23 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [karol-broda/snitch](https://github.com/karol-broda/snitch) | 🔥 26 | a prettier way to inspect network connections |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 374 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 149 | 🤖 该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 87 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 🔥 166 | 🤖 该项目为大型语言模型和AI代理提供记忆基础设施。 |
+| 5 | [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) | 🔥 158 | 🤖 GetStream/Vision-Agents 是一个快速构建视觉智能代理的开源项目，支持任意模型和视频提供商。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 158 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 138 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 133 | The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 9 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 🔥 131 | Kimi CLI is your next CLI agent. |
+| 10 | [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | 🔥 87 | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech g... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ratatui/mousefood](https://github.com/ratatui/mousefood) | 🔥 120 | 🤖 Ratatui 的嵌入式图形后端，用于渲染图形界面。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 121 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 109 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 49 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 45 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 6 | [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) | 🔥 26 | A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli. |
+| 7 | [zensical/zensical](https://github.com/zensical/zensical) | 🔥 30 | A modern static site generator by the Material for MkDocs team |
+| 8 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 🔥 20 | A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install on... |
+| 9 | [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher) | 🔥 20 | Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features  |
+| 10 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 🔥 13 | A Claude Code hook that blocks destructive git and filesystem commands |
+
