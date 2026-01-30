@@ -73,3 +73,72 @@ image:
 | 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 4,686 | 🤖 该项目是一个OCR模型，能够处理复杂表格、表单、手写体，并保留完整的布局。 |
 | 10 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | 21,302 | 🤖 LeRobot是一个利用端到端学习使机器人领域的人工智能更加便捷的项目。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-01-31 02:29 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 4945 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 254 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 🔥 375 | 🤖 该项目收集和提取流行聊天机器人的系统提示。 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 343 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 5 | [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) | 🔥 317 | 🤖 开源版的Claude Cowork，集成了500多个SaaS应用。 |
+| 6 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 301 | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon win... |
+| 7 | [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) | 🔥 241 | The awesome collection of Clawdbot Skills. (Clawdbot has officially been renamed to Moltbot) |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 258 | An agentic skills framework & software development methodology that works. |
+| 9 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 🔥 249 |  |
+| 10 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 🔥 249 | Official inference framework for 1-bit LLMs |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 66 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 50 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 46 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 36 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 5 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 24 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 6 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 26 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 7 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 19 | Glamourous agentic coding for all 💘 |
+| 8 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 15 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 9 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 13 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 10 | [likaia/nginxpulse](https://github.com/likaia/nginxpulse) | 🔥 16 | 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 229 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 320 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 🔥 241 | 🤖 微软的BitNet项目是一个用于1位超大语言模型的官方推理框架。 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 148 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 5 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 🔥 151 | 🤖 该项目为大型语言模型和AI代理提供记忆基础设施。 |
+| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 135 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 7 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 🔥 133 | Kimi CLI is your next CLI agent. |
+| 8 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 91 | The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 9 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 67 | Outcome driven agent development framework that evolves |
+| 10 | [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) | 🔥 73 | Open Source OpenAI Prism Alternative |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 305 | 🤖 zerobrew 是 Homebrew 的替代品，速度快 5-20 倍。 |
+| 2 | [microsoft/bf-tree](https://github.com/microsoft/bf-tree) | 🔥 140 | 🤖 Bf-Tree 是一个现代化的、支持并发读写的超大内存范围索引。 |
+| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 104 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 94 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 57 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 6 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 46 | Algorithm powering the For You feed on X |
+| 7 | [ratatui/mousefood](https://github.com/ratatui/mousefood) | 🔥 60 | embedded-graphics backend for Ratatui |
+| 8 | [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) | 🔥 37 | Embedded micro-VM sandbox for running AI agents. |
+| 9 | [samvallad33/vestige](https://github.com/samvallad33/vestige) | 🔥 11 | Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research |
+| 10 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 🔥 18 | A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install on... |
+
