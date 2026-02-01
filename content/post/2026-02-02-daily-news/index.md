@@ -73,3 +73,72 @@ image:
 | 9 | [m-bain/whisperX](https://github.com/m-bain/whisperX) | 19,910 | 🤖 WhisperX是一个自动语音识别系统，能够提供词级时间戳和说话人识别（Diarization）功能。 |
 | 10 | [zulip/zulip](https://github.com/zulip/zulip) | 24,340 | 🤖 Zulip是一个开源的团队聊天平台，帮助团队保持高效和专注。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-02 02:21 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 5090 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 393 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 3 | [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | 🔥 353 | 🤖 该项目是为Neovim创建的AI智能代理。 |
+| 4 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 328 | 🤖 VoltAgent/awesome-openclaw-skills 项目是一个开源的技能集合。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 184 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 273 | Public repository for Agent Skills |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 240 | An agentic skills framework & software development methodology that works. |
+| 8 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 218 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| 9 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 🔥 242 | Official inference framework for 1-bit LLMs |
+| 10 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 203 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 65 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 59 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 32 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) | 🔥 60 | 🤖 该项目可以在终端中渲染Mermaid图表。 |
+| 5 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 20 | 🤖 53AI Hub 是一个开源的 AI 门户，帮助快速搭建和运营 AI 平台。 |
+| 6 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 17 | Modern Docker Management, Designed for Everyone |
+| 7 | [kubeden/clopus-watcher](https://github.com/kubeden/clopus-watcher) | 🔥 16 | An autonomous 24/7 on-call engineer in the form of a Claude Code living in a cronjob. |
+| 8 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 15 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 9 | [umputun/ralphex](https://github.com/umputun/ralphex) | 🔥 14 | Extended Ralph loop for autonomous AI-driven plan execution |
+| 10 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 🔥 12 | GitHub's official MCP Server |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 182 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 256 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 🔥 227 | 🤖 微软的BitNet项目是一个用于1位超大语言模型的官方推理框架。 |
+| 4 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 190 | 🤖 PageIndex：为无向量文档创建索引，实现基于推理的文档检索。 |
+| 5 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 🔥 154 | 🤖 微软的Agent Lightning项目是一种人工智能训练工具，用于提升AI代理的能力。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 116 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 115 | The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 95 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 9 | [Gowtham-Darkseid/AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) | 🔥 86 | AutoPentestX – Linux Automated Pentesting & Vulnerability Reporting Tool |
+| 10 | [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world) | 🔥 81 | Advancing Open-source World Models |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [yesnotrader/polymarket-copy-trading-bot-telegram-ui](https://github.com/yesnotrader/polymarket-copy-trading-bot-telegram-ui) | 🔥 151 | 🤖 该项目是一个基于Polymarket的复制交易机器人，通过Telegram界面进行操作。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 115 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 72 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 55 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) | 🔥 53 | 🤖 一个快速的Rust语言实现的Mermaid图表渲染器，无需浏览器。 |
+| 6 | [casey/just](https://github.com/casey/just) | 🔥 85 | 🤖 Just a command runner |
+| 7 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 44 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+| 8 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 36 | A drop-in, 5-20x faster, experimental Homebrew alternative |
+| 9 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 29 | Algorithm powering the For You feed on X |
+| 10 | [samvallad33/vestige](https://github.com/samvallad33/vestige) | 🔥 18 | Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research |
+
