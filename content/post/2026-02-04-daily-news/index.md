@@ -73,3 +73,72 @@ image:
 | 9 | [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 4,221 | 🤖 该项目是一个集成了LightRAG知识库和知识图谱的智能体平台，支持多种工具和技术，如DeepAgents、MinerU PDF、Neo4j和MCP。 |
 | 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 38,631 | 🤖 该项目实现了从零开始仅用2小时训练出一个拥有2600万参数的GPT模型。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-04 02:42 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 2387 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) | 🔥 651 | 🤖 这是一个轻量级、安全的个人助手，运行在苹果容器中，支持自定义。 |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 503 | 🤖 Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。 |
+| 4 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 🔥 377 | 🤖 该项目帮助提升AI研究写作水平，减少繁琐的润色工作。 |
+| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 313 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 307 | Public repository for Agent Skills |
+| 7 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 296 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 236 | An agentic skills framework & software development methodology that works. |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 203 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 192 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 135 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 89 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 76 | 🤖 这是一个现代化的qBittorrent网页界面，支持多实例。 |
+| 4 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | 🔥 86 | 🤖 Netbird是一个基于WireGuard的安全网络项目，实现设备间的安全连接和访问控制。 |
+| 5 | [octelium/octelium](https://github.com/octelium/octelium) | 🔥 33 | 🤖 Octelium 是一个开源的零信任安全访问平台，提供 VPN、API 网关等功能。 |
+| 6 | [hanselime/paqet](https://github.com/hanselime/paqet) | 🔥 32 | Ferries Packets Across Forbidden Boundaries 👀 |
+| 7 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 36 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 8 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 16 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 9 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 17 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 10 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 15 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 291 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 192 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 3 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 184 | 🤖 PageIndex：为无向量文档创建索引，实现基于推理的文档检索。 |
+| 4 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 155 | 🤖 该项目实现了持久化的Markdown规划功能，模仿Manus风格的工作流程。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 87 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 🔥 142 | The best ChatGPT that $100 can buy. |
+| 7 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 137 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 8 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 🔥 117 | The absolute trainer to light up AI agents. |
+| 9 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 103 | The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 10 | [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 🔥 139 | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [YaLTeR/niri](https://github.com/YaLTeR/niri) | 🔥 111 | 🤖 YaLTeR/niri 是一个 Wayland 组合器，支持滚动和平铺窗口。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 89 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 84 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 54 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 5 | [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) | 🔥 48 | 🤖 该项目提供了一个通用API，用于在沙盒环境中自动化编码，支持多种编码工具。 |
+| 6 | [thesSmartApe/polymarket-copy-trading-bot-rust](https://github.com/thesSmartApe/polymarket-copy-trading-bot-rust) | 🔥 20 | polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot po... |
+| 7 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 35 | A drop-in, 5-20x faster, experimental Homebrew alternative |
+| 8 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 27 | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-... |
+| 9 | [karinushka/paneru](https://github.com/karinushka/paneru) | 🔥 21 | A sliding, tiling window manager for MacOS. |
+| 10 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 21 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+
