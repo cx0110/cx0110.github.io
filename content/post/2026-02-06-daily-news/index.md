@@ -73,3 +73,72 @@ image:
 | 9 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 23,330 | 🤖 SGLang是一个用于大型语言模型和视觉语言模型的快速服务框架。 |
 | 10 | [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) | 10,064 | 🤖 该项目是一个开源的PR（拉取请求）审查工具，用于自动化代码审查和反馈。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-06 02:37 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1509 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 740 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 548 | 🤖 Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。 |
+| 4 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 284 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 5 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 303 | 🤖 VoltAgent/awesome-openclaw-skills 项目是一个开源的技能集合。 |
+| 6 | [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | 🔥 310 | The most powerful local music generation model that outperforms most commercial alternatives |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 258 | An agentic skills framework & software development methodology that works. |
+| 8 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 275 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 208 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [openai/skills](https://github.com/openai/skills) | 🔥 183 | Skills Catalog for Codex |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 77 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 52 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 45 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [wesm/msgvault](https://github.com/wesm/msgvault) | 🔥 26 | 🤖 该项目实现了离线搜索、分析和AI查询整个消息历史的功能。 |
+| 5 | [Gouryella/drip](https://github.com/Gouryella/drip) | 🔥 21 | 🤖 Gouryella/drip：安全暴露本地服务，不依赖第三方服务器。 |
+| 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 19 | Glamourous agentic coding for all 💘 |
+| 7 | [hanselime/paqet](https://github.com/hanselime/paqet) | 🔥 14 | Ferries Packets Across Forbidden Boundaries 👀 |
+| 8 | [cexll/myclaude](https://github.com/cexll/myclaude) | 🔥 11 | Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode) |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 16 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 10 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 13 | Why is this running? |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 704 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 2 | [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | 🔥 288 | 🤖 ACE-Step-1.5 是一个强大的本地音乐生成模型，能够超越大多数商业软件。 |
+| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 267 | 🤖 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 189 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [openai/skills](https://github.com/openai/skills) | 🔥 179 | 🤖 该项目为Codex提供技能目录，帮助开发者快速找到所需技能。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 116 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 97 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 39 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 9 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 🔥 77 | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
+| 10 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 61 | The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [j178/prek](https://github.com/j178/prek) | 🔥 103 | 🤖 该项目是一个用Rust重构的代码提交前检查工具，旨在提高性能和效率。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 66 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 66 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 48 | 🤖 X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。 |
+| 5 | [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) | 🔥 44 | 🤖 TrustTunnel 是一种现代化、快速、加密的 VPN 协议。 |
+| 6 | [thesSmartApe/polymarket-copy-trading-bot-rust](https://github.com/thesSmartApe/polymarket-copy-trading-bot-rust) | 🔥 21 | polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot po... |
+| 7 | [ZeroTworu/anet](https://github.com/ZeroTworu/anet) | 🔥 30 | Simple Rust VPN Client / Server |
+| 8 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 24 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 9 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 19 | A drop-in, 5-20x faster, experimental Homebrew alternative |
+| 10 | [rvben/rumdl](https://github.com/rvben/rumdl) | 🔥 15 | Markdown Linter and Formatter written in Rust |
+
