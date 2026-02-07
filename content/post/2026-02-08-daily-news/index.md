@@ -73,3 +73,72 @@ image:
 | 9 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 20,655 | 🤖 Airbyte是一个数据集成平台，用于从API、数据库和文件中提取数据，并将其加载到数据仓库、数据湖和数据湖仓中。 |
 | 10 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 5,785 | 🤖 该项目实现了一个基于WiFi的密集人体姿势估计系统，可以实时通过墙壁追踪人体全身姿势。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-08 02:21 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1006 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 994 | 🤖 Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 625 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 425 | 🤖 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
+| 5 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 406 | 🤖 该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。 |
+| 6 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 🔥 260 | Elevate your AI research writing, no more tedious polishing ✨  |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 258 | An agentic skills framework & software development methodology that works. |
+| 8 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 230 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+| 9 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 175 | Outcome driven agent development framework that evolves |
+| 10 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 189 | practice made claude perfect |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 43 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 2 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 44 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 3 | [marvinvr/docktail](https://github.com/marvinvr/docktail) | 🔥 28 | 🤖 Docktail 是一个 Docker 容器管理工具，简化容器部署和管理。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 35 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [likaia/nginxpulse](https://github.com/likaia/nginxpulse) | 🔥 35 | 🤖 轻量级 Nginx 日志分析与可视化工具，提供实时统计和访问信息解析。 |
+| 6 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 22 | Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard |
+| 7 | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) | 🔥 21 | Data platform for context engineering. Context data platform that stores, observes and learns. Join the community❤️: https://discord.acontext.io |
+| 8 | [hanselime/paqet](https://github.com/hanselime/paqet) | 🔥 16 | Ferries Packets Across Forbidden Boundaries 👀 |
+| 9 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 18 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 10 | [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) | 🔥 15 | Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intu... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 608 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 424 | 🤖 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
+| 3 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 168 | 🤖 该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。 |
+| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 185 | 🤖 该项目旨在实践和改进 Claude 的代码最佳实践。 |
+| 5 | [openai/skills](https://github.com/openai/skills) | 🔥 201 | 🤖 该项目为Codex提供技能目录，帮助开发者快速找到所需技能。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 152 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 143 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | 🔥 182 | The most powerful local music generation model that outperforms most commercial alternatives |
+| 9 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 🔥 75 | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
+| 10 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 66 | The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 363 | 🤖 该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 90 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 75 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) | 🔥 60 | 🤖 该项目提供了一个通用API，用于在沙盒环境中自动化编码，支持多种编码工具。 |
+| 5 | [ZeroTworu/anet](https://github.com/ZeroTworu/anet) | 🔥 62 | 🤖 一个简单的Rust语言实现的VPN客户端和服务器。 |
+| 6 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 57 | A drop-in, 5-20x faster, experimental Homebrew alternative |
+| 7 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 35 | Algorithm powering the For You feed on X |
+| 8 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 28 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 9 | [j178/prek](https://github.com/j178/prek) | 🔥 64 | ⚡ Better `pre-commit`, re-engineered in Rust |
+| 10 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 19 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+
