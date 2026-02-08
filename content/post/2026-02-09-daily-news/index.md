@@ -73,3 +73,72 @@ image:
 | 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 32,554 | 🤖 该项目提供了一个精选的Claude技能、资源和工具列表，用于自定义Claude AI工作流程。 |
 | 10 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | 1,221 | 🤖 该项目是基于FastAPI重构的Grok2API，支持流/非流式对话、图像生成/编辑、深度思考等功能，并具备号池并发与自动负载均衡能力。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-09 02:22 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 1417 | 🤖 Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。 |
+| 2 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1241 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 3 | [openai/skills](https://github.com/openai/skills) | 🔥 560 | 🤖 该项目为Codex提供技能目录，帮助开发者快速找到所需技能。 |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 484 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 5 | [virattt/dexter](https://github.com/virattt/dexter) | 🔥 418 | 🤖 该项目是一个用于深度金融研究的自动化智能代理。 |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 344 | An agentic skills framework & software development methodology that works. |
+| 7 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 329 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 8 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 288 | practice made claude perfect |
+| 9 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 250 | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd... |
+| 10 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 261 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [run-bigpig/jcp](https://github.com/run-bigpig/jcp) | 🔥 65 | 🤖 JCP AI 是一个智能股票分析系统，利用 AI 驱动和多 Agent 协作分析股票。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 53 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 52 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 45 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 5 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 36 | 🤖 该项目是一个快速、智能的命令行工具，用于无缝发布App Store应用。 |
+| 6 | [hanselime/paqet](https://github.com/hanselime/paqet) | 🔥 22 | Ferries Packets Across Forbidden Boundaries 👀 |
+| 7 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 22 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 8 | [marvinvr/docktail](https://github.com/marvinvr/docktail) | 🔥 24 |  |
+| 9 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 23 | Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard |
+| 10 | [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) | 🔥 18 | Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [openai/skills](https://github.com/openai/skills) | 🔥 561 | 🤖 该项目为Codex提供技能目录，帮助开发者快速找到所需技能。 |
+| 2 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 461 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 3 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 324 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 288 | 🤖 该项目旨在实践和改进 Claude 的代码最佳实践。 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 224 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 6 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 230 | Outcome driven agent development framework that evolves |
+| 7 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 🔥 239 |  |
+| 8 | [google/langextract](https://github.com/google/langextract) | 🔥 174 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| 9 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 141 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 10 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 🔥 110 | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 306 | 🤖 该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。 |
+| 2 | [microsoft/litebox](https://github.com/microsoft/litebox) | 🔥 151 | 🤖 微软的Litebox项目是一款安全库操作系统，支持内核和用户模式执行。 |
+| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 100 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 4 | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 🔥 104 | 🤖 GitButler 是一个基于 Git 的版本控制客户端，使用 Rust 和 Svelte 开发。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 77 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [karinushka/paneru](https://github.com/karinushka/paneru) | 🔥 57 | A sliding, tiling window manager for MacOS. |
+| 7 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 34 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+| 8 | [ZeroTworu/anet](https://github.com/ZeroTworu/anet) | 🔥 36 | Simple Rust VPN Client / Server |
+| 9 | [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) | 🔥 26 | A terminal EPUB / PDF Book Reader |
+| 10 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 25 | Get 10X more out of Claude Code, Codex or any coding agent |
+
