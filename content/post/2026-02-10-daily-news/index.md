@@ -73,3 +73,72 @@ image:
 | 9 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 79,335 | 🤖 该项目实现了实时人脸替换和一键视频深度伪造，只需使用单张图像。 |
 | 10 | [Polymarket/agents](https://github.com/Polymarket/agents) | 2,118 | 🤖 该项目利用人工智能代理在Polymarket平台上进行自动交易。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-10 02:44 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 1517 | 🤖 Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。 |
+| 2 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1246 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 578 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 4 | [mitchellh/vouch](https://github.com/mitchellh/vouch) | 🔥 461 | 🤖 该项目是一个基于明确背书的贡献者信任管理系统。 |
+| 5 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 446 | 🤖 该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。 |
+| 6 | [virattt/dexter](https://github.com/virattt/dexter) | 🔥 426 | An autonomous agent for deep financial research |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 362 | An agentic skills framework & software development methodology that works. |
+| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 367 | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd... |
+| 9 | [openai/skills](https://github.com/openai/skills) | 🔥 367 | Skills Catalog for Codex |
+| 10 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 282 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 113 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 87 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 72 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [githubnext/gh-aw](https://github.com/githubnext/gh-aw) | 🔥 48 | 🤖 GitHub Agentic Workflows 是一个自动化工作流项目。 |
+| 5 | [surge-downloader/surge](https://github.com/surge-downloader/surge) | 🔥 48 | 🤖 Surge 是一个快速的开源终端下载管理器。 |
+| 6 | [run-bigpig/jcp](https://github.com/run-bigpig/jcp) | 🔥 53 | 韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析 |
+| 7 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 41 | Gas Town - multi-agent workspace manager |
+| 8 | [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) | 🔥 26 | Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. |
+| 9 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 18 | Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard |
+| 10 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 19 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 541 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 2 | [openai/skills](https://github.com/openai/skills) | 🔥 349 | 🤖 该项目为Codex提供技能目录，帮助开发者快速找到所需技能。 |
+| 3 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 233 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 4 | [google/langextract](https://github.com/google/langextract) | 🔥 186 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 147 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 6 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 157 | practice made claude perfect |
+| 7 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 100 | Outcome driven agent development framework that evolves |
+| 8 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 93 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 9 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 82 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 10 | [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | 🔥 92 | The most powerful local music generation model that outperforms most commercial alternatives |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 307 | 🤖 该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。 |
+| 2 | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 🔥 165 | 🤖 GitButler 是一个基于 Git 的版本控制客户端，使用 Rust 和 Svelte 开发。 |
+| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 87 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 4 | [microsoft/litebox](https://github.com/microsoft/litebox) | 🔥 104 | 🤖 微软的Litebox项目是一款安全库操作系统，支持内核和用户模式执行。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 75 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) | 🔥 65 | A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI. |
+| 7 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 38 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+| 8 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 23 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 9 | [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | 🔥 62 | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. |
+| 10 | [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) | 🔥 21 | A terminal EPUB / PDF Book Reader |
+
