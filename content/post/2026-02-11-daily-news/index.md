@@ -73,3 +73,72 @@ image:
 | 9 | [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) | 9,474 | 🤖 该项目实现了自动化的GUI交互，利用本地代理实现原生交互。 |
 | 10 | [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) | 3,525 | 🤖 该项目“gyoridavid/ai_agents_az”是一个关于人工智能代理的Azure项目，用于创建和管理智能代理。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-11 02:54 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1026 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 1139 | 🤖 Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。 |
+| 3 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 471 | 🤖 这是一个人工智能代理工具包，提供命令行界面、API和图形界面等功能。 |
+| 4 | [google/langextract](https://github.com/google/langextract) | 🔥 418 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 5 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 348 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 6 | [virattt/dexter](https://github.com/virattt/dexter) | 🔥 241 | An autonomous agent for deep financial research |
+| 7 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 284 | A minimal, secure Python interpreter written in Rust for use by AI |
+| 8 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 213 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+| 9 | [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) | 🔥 204 | Fast, Sharp & Reliable Agentic Intelligence |
+| 10 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 203 | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more \| 🌟 Star if you like it! |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [githubnext/gh-aw](https://github.com/githubnext/gh-aw) | 🔥 121 | 🤖 GitHub Agentic Workflows 是一个自动化工作流项目。 |
+| 2 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 52 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 3 | [surge-downloader/surge](https://github.com/surge-downloader/surge) | 🔥 52 | 🤖 Surge 是一个快速的开源终端下载管理器。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 45 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 41 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 6 | [run-bigpig/jcp](https://github.com/run-bigpig/jcp) | 🔥 30 | 韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析 |
+| 7 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 24 | Gas Town - multi-agent workspace manager |
+| 8 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 21 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 9 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 23 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+| 10 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 14 | Fast, scriptable CLI for App Store Connect. Automate your iOS app workflows from your IDE/terminal. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/langextract](https://github.com/google/langextract) | 🔥 407 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 2 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 331 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 129 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 148 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 5 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 🔥 128 | 🤖 该项目是一个基于多智能体LLM的中文金融交易框架，用于模拟和优化金融交易决策。 |
+| 6 | [openai/skills](https://github.com/openai/skills) | 🔥 144 | Skills Catalog for Codex |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 100 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 83 | Outcome driven agent development framework that evolves |
+| 9 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 🔥 117 | Generate audiobooks from e-books, voice cloning & 1158+ languages! |
+| 10 | [tomateo1reg/sora2-watermark-remover-web-gui](https://github.com/tomateo1reg/sora2-watermark-remover-web-gui) | 🔥 96 | sora2 watermark remover web gui |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 363 | 🤖 该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 76 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [microsoft/litebox](https://github.com/microsoft/litebox) | 🔥 105 | 🤖 微软的Litebox项目是一款安全库操作系统，支持内核和用户模式执行。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 74 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 35 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 6 | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 🔥 94 | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
+| 7 | [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) | 🔥 49 | A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI. |
+| 8 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 30 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 9 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 🔥 19 | A Claude Code hook that blocks destructive git and filesystem commands |
+| 10 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 22 | A drop-in, 5-20x faster, experimental Homebrew alternative |
+
