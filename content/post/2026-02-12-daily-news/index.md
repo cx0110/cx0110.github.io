@@ -70,3 +70,72 @@ image:
 | 9 | [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) | 9,804 | 🤖 Pocket Flow是一个仅100行代码的轻量级大语言模型框架，允许代理（Agent）自主构建其他代理。 |
 | 10 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 20,531 | 🤖 该项目提供了一个从零开始构建智能体的教程，涵盖智能体原理与实践。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-12 02:50 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 995 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [google/langextract](https://github.com/google/langextract) | 🔥 880 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 3 | [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork) | 🔥 540 | 🤖 Openwork是一个开源的AI助手，安装在电脑桌面，帮助用户完成任务。 |
+| 4 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 528 | 🤖 Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。 |
+| 5 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 342 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 205 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 7 | [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) | 🔥 294 | Expert code review skill: SOLID, security, performance, error handling, boundary conditions |
+| 8 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 291 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| 9 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 213 | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more \| 🌟 Star if you like it! |
+| 10 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 197 | Monitor what's happening in the world |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [githubnext/gh-aw](https://github.com/githubnext/gh-aw) | 🔥 115 | 🤖 GitHub Agentic Workflows 是一个自动化工作流项目。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 42 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 42 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 37 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 5 | [run-bigpig/jcp](https://github.com/run-bigpig/jcp) | 🔥 28 | 🤖 JCP AI 是一个智能股票分析系统，利用 AI 驱动和多 Agent 协作分析股票。 |
+| 6 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 22 | Why is this running? |
+| 7 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 22 | Fast, scriptable CLI for App Store Connect. Automate your iOS app workflows from your IDE/terminal. |
+| 8 | [surge-downloader/surge](https://github.com/surge-downloader/surge) | 🔥 18 | Surge is a blazing fast, open-source terminal (TUI) download manager built in Go. |
+| 9 | [praetorian-inc/augustus](https://github.com/praetorian-inc/augustus) | 🔥 18 | LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary |
+| 10 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 20 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/langextract](https://github.com/google/langextract) | 🔥 863 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 192 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 310 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 4 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🔥 158 | 🤖 该项目为开发者提供65种专门技能，帮助开发者将Claude代码转化为专家级编程助手。 |
+| 5 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 133 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 6 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 🔥 118 | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| 7 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 104 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 99 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 9 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 🔥 120 | A list of free LLM inference resources accessible via API. |
+| 10 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 65 | Outcome driven agent development framework that evolves |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 165 | 🤖 该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 87 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 64 | 🤖 zerobrew 是 Homebrew 的替代品，速度快 5-20 倍。 |
+| 4 | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 🔥 109 | 🤖 GitButler 是一个基于 Git 的版本控制客户端，使用 Rust 和 Svelte 开发。 |
+| 5 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 60 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 6 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 57 | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI. |
+| 7 | [thesSmartApe/polymarket-copy-trading-bot-rust](https://github.com/thesSmartApe/polymarket-copy-trading-bot-rust) | 🔥 40 | polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot poly... |
+| 8 | [domcyrus/rustnet](https://github.com/domcyrus/rustnet) | 🔥 21 | A cross-platform network monitoring terminal UI tool built with Rust. |
+| 9 | [cakaroni/polymarket-arbitrage-bot-btc-15m](https://github.com/cakaroni/polymarket-arbitrage-bot-btc-15m) | 🔥 16 | Polymarket arbitrage bot - BTC 15min market - Rust Based Trading Bot - Locking and Increasing Positions according to Trending \|\| $0.99 Locking Co... |
+| 10 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 19 | Algorithm powering the For You feed on X |
+
