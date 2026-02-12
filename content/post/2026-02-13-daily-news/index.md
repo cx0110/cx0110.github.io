@@ -73,3 +73,72 @@ image:
 | 9 | [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim) | 423 | 🤖 腾讯/AngelSlim是一个模型压缩工具包，旨在提高模型的可用性、全面性和效率。 |
 | 10 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 81,015 | 🤖 该项目提供了DevOps相关技术的练习和面试题，涵盖Linux、Jenkins、AWS、Kubernetes等多个领域。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-13 02:48 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 981 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw) | 🔥 349 | 🤖 个人AI助手，通过消息平台接收指令，提供工具访问、记忆、提醒等功能。 |
+| 3 | [google/langextract](https://github.com/google/langextract) | 🔥 368 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 4 | [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork) | 🔥 386 | 🤖 Openwork是一个开源的AI助手，安装在电脑桌面，帮助用户完成任务。 |
+| 5 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 304 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 6 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 298 | "🐈 nanobot: The Ultra-Lightweight Clawdbot" |
+| 7 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 271 | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon win... |
+| 8 | [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | 🔥 251 | Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. |
+| 9 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 🔥 255 | A list of free LLM inference resources accessible via API. |
+| 10 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 208 | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [githubnext/gh-aw](https://github.com/githubnext/gh-aw) | 🔥 121 | 🤖 GitHub Agentic Workflows 是一个自动化工作流项目。 |
+| 2 | [memohai/Memoh](https://github.com/memohai/Memoh) | 🔥 51 | 🤖 这是一个多成员、结构化的长期记忆人工智能系统。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 43 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 44 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 30 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 6 | [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) | 🔥 16 | Kubernetes for AI Agents. Build and run AI like microservices - scalable, observable, and identity-aware from day one. |
+| 7 | [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) | 🔥 15 | Operator to streamline renovate executions in Kubernetes |
+| 8 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 🔥 15 | GitHub's official MCP Server |
+| 9 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 16 | Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard |
+| 10 | [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) | 🔥 13 | Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intu... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/langextract](https://github.com/google/langextract) | 🔥 349 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 2 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 271 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 3 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 🔥 258 | 🤖 该项目提供免费的大语言模型（LLM）推理资源的API接口列表。 |
+| 4 | [QuipNetwork/quip-protocol](https://github.com/QuipNetwork/quip-protocol) | 🔥 223 | 🤖 实验性的Quip协议网络节点，用于测试和开发。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 81 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 103 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) | 🔥 114 | GLM-OCR: Accurate ×  Fast × Comprehensive |
+| 8 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 83 | Outcome driven agent development framework that evolves |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 77 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🔥 78 | 65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 100 | 🤖 zerobrew 是 Homebrew 的替代品，速度快 5-20 倍。 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 83 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 74 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | 🔥 57 | 🤖 该项目是一个高性能的图形渲染引擎，使用Rust编写。 |
+| 5 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 85 | 🤖 该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。 |
+| 6 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 30 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 7 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 27 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 8 | [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) | 🔥 18 | ☁️ OxiCloud server, efficient and secure way to save all your data |
+| 9 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 🔥 18 | Finally a Fabioulous & Fast Fuzzy File Finder for neovim  |
+| 10 | [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) | 🔥 15 | Official successor to conduwuit |
+
