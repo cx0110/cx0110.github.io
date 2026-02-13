@@ -73,3 +73,72 @@ image:
 | 9 | [github/spec-kit](https://github.com/github/spec-kit) | 69,495 | 🤖 该项目提供了一套工具包，帮助开发者快速开始使用基于规格的开发方法。 |
 | 10 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | 20,104 | 🤖 Authentik是一个开源的身份验证平台，提供统一的身份验证和授权管理解决方案。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-14 02:33 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 991 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [tonyyont/peon-ping](https://github.com/tonyyont/peon-ping) | 🔥 333 | 🤖 Warcraft III Peon的声音通知，帮助用户监控终端状态。 |
+| 3 | [google/langextract](https://github.com/google/langextract) | 🔥 277 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 211 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 219 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 6 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 185 | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon win... |
+| 7 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🔥 177 | 65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
+| 8 | [thu-pacman/chitu](https://github.com/thu-pacman/chitu) | 🔥 177 | High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability. |
+| 9 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 🔥 171 | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| 10 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 162 | Monitor what's happening in the world |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 78 | 🤖 GitHub 代理工作流程，简化工作流管理。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 44 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 32 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 33 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 5 | [memohai/Memoh](https://github.com/memohai/Memoh) | 🔥 32 | 🤖 这是一个多成员、结构化的长期记忆人工智能系统。 |
+| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 🔥 26 | Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k ... |
+| 7 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 22 | MCP for xiaohongshu.com |
+| 8 | [marcus/nightshift](https://github.com/marcus/nightshift) | 🔥 20 | Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them. |
+| 9 | [simonw/showboat](https://github.com/simonw/showboat) | 🔥 16 | Create executable documents that demonstrate an agent's work |
+| 10 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 16 | Glamourous agentic coding for all 💘 |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/langextract](https://github.com/google/langextract) | 🔥 275 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 2 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 197 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 3 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🔥 183 | 🤖 该项目为开发者提供65种专门技能，帮助开发者将Claude代码转化为专家级编程助手。 |
+| 4 | [thu-pacman/chitu](https://github.com/thu-pacman/chitu) | 🔥 162 | 🤖 这是一个高性能的大型语言模型推理框架，注重效率、灵活性和可用性。 |
+| 5 | [QuipNetwork/quip-protocol](https://github.com/QuipNetwork/quip-protocol) | 🔥 117 | 🤖 实验性的Quip协议网络节点，用于测试和开发。 |
+| 6 | [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) | 🔥 88 | Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. |
+| 7 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 94 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 8 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 🔥 114 | A list of free LLM inference resources accessible via API. |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 37 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 10 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 49 | Outcome driven agent development framework that evolves |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 174 | 🤖 终端天气应用，带有ASCII动画。 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 61 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 55 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 4 | [rari-build/rari](https://github.com/rari-build/rari) | 🔥 33 | 🤖 Rari 是一个高性能的 React 服务器组件框架，使用 Rust 运行时，实现快速响应和高吞吐量。 |
+| 5 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 39 | 🤖 zerobrew 是 Homebrew 的替代品，速度快 5-20 倍。 |
+| 6 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 23 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 7 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 20 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 8 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 20 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+| 9 | [pydantic/monty](https://github.com/pydantic/monty) | 🔥 65 | A minimal, secure Python interpreter written in Rust for use by AI |
+| 10 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 16 | Algorithm powering the For You feed on X |
+
