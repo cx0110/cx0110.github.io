@@ -73,3 +73,72 @@ image:
 | 9 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 14,721 | 🤖 该项目是一个用于训练和优化AI智能体的绝对训练工具。 |
 | 10 | [docling-project/docling](https://github.com/docling-project/docling) | 53,016 | 🤖 Docling项目旨在帮助用户准备好文档，以便更好地适应和利用通用人工智能技术。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-15 02:21 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 885 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 485 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 3 | [knadh/oat](https://github.com/knadh/oat) | 🔥 198 | 🤖 这是一个超轻量级的前端UI库，使用HTML、CSS和JS构建界面，无外部依赖。 |
+| 4 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 🔥 192 | 🤖 该项目总结了Andrej Karpathy的技能和经验。 |
+| 5 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 151 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 6 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 🔥 174 | A list of free LLM inference resources accessible via API. |
+| 7 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 🔥 156 | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| 8 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 136 | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon win... |
+| 9 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 137 | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW... |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 139 | An agentic skills framework & software development methodology that works. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 45 | 🤖 GitHub 代理工作流程，简化工作流管理。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 38 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 25 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 24 | 🤖 实时监控Proxmox、Docker和Kubernetes，提供AI洞察、智能警报和统一仪表盘。 |
+| 5 | [surge-downloader/surge](https://github.com/surge-downloader/surge) | 🔥 19 | 🤖 Surge 是一个快速的开源终端下载管理器。 |
+| 6 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 22 | Gas Town - multi-agent workspace manager |
+| 7 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 21 | Glamourous agentic coding for all 💘 |
+| 8 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 17 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 9 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 14 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 10 | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) | 🔥 10 | Data platform for context engineering. Context data platform that stores, observes and learns. Join the community❤️: https://discord.acontext.io |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 137 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 2 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 🔥 172 | 🤖 该项目提供免费的大语言模型（LLM）推理资源的API接口列表。 |
+| 3 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🔥 115 | 🤖 该项目为开发者提供65种专门技能，帮助开发者将Claude代码转化为专家级编程助手。 |
+| 4 | [google/langextract](https://github.com/google/langextract) | 🔥 119 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 5 | [thu-pacman/chitu](https://github.com/thu-pacman/chitu) | 🔥 114 | 🤖 这是一个高性能的大型语言模型推理框架，注重效率、灵活性和可用性。 |
+| 6 | [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) | 🔥 79 | Professional Development Environment for Claude Code with Endless Mode, Spec-Driven Development, TDD, LSP, Persistent Memory, Semantic Search, Qual... |
+| 7 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 74 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 8 | [dexorynlabs/polymarket-trading-bot-python](https://github.com/dexorynlabs/polymarket-trading-bot-python) | 🔥 50 | polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket bot polymar... |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 33 | daily_stock_analysis: AI 驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行 |
+| 10 | [QuipNetwork/quip-protocol](https://github.com/QuipNetwork/quip-protocol) | 🔥 70 | experimental quip protocol network node |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 78 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 2 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 63 | 🤖 这是一个快速、开箱即用的终端，专为AI编码而设计。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 68 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 43 | 🤖 终端天气应用，带有ASCII动画。 |
+| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 42 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 6 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 23 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 7 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 22 | A drop-in, 5-20x faster, experimental Homebrew alternative |
+| 8 | [rari-build/rari](https://github.com/rari-build/rari) | 🔥 22 | rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.1x faster response times (0.43ms vs 3.92ms) and 46... |
+| 9 | [NORMAL-EX/LetRecovery](https://github.com/NORMAL-EX/LetRecovery) | 🔥 10 | 一款免费开源的 Windows 系统重装工具 |
+| 10 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 10 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+
