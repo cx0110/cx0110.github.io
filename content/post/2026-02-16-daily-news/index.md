@@ -73,3 +73,72 @@ image:
 | 9 | [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) | 3,081 | 🤖 Mistral Vibe是一个最小化的命令行界面（CLI）编码代理，用于辅助编码。 |
 | 10 | [home-assistant/core](https://github.com/home-assistant/core) | 84,822 | 🤖 该项目是一个开源的家庭自动化系统，优先考虑本地控制和隐私保护。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-16 02:22 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1011 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 985 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 821 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 528 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 5 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 🔥 381 | 🤖 该项目总结了Andrej Karpathy的技能和经验。 |
+| 6 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 🔥 311 | Local-first AI coworker, with memory |
+| 7 | [alibaba/zvec](https://github.com/alibaba/zvec) | 🔥 248 | A lightweight, lightning-fast, in-process vector database |
+| 8 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 272 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 9 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 195 | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon win... |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 211 | An agentic skills framework & software development methodology that works. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 281 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 2 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 93 | 🤖 GitHub 代理工作流程，简化工作流管理。 |
+| 3 | [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) | 🔥 102 | 🤖 该项目从Google地图中提取商家信息，如名称、地址、电话等。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 48 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 43 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 6 | [entireio/cli](https://github.com/entireio/cli) | 🔥 42 | Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its contex... |
+| 7 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 39 | Glamourous agentic coding for all 💘 |
+| 8 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 36 | Modern Docker Management, Designed for Everyone |
+| 9 | [surge-downloader/surge](https://github.com/surge-downloader/surge) | 🔥 34 | Blazing fast TUI download manager built in Go for power users |
+| 10 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 21 | Gas Town - multi-agent workspace manager |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 194 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 2 | [HKUDS/FastCode](https://github.com/HKUDS/FastCode) | 🔥 139 | 🤖 FastCode 项目旨在加速和简化代码理解，提高开发效率。 |
+| 3 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 131 | 🤖 利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。 |
+| 4 | [google/langextract](https://github.com/google/langextract) | 🔥 103 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 5 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 95 | 🤖 该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。 |
+| 6 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 111 | OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources,... |
+| 7 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🔥 101 | 65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
+| 8 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 🔥 114 | A list of free LLM inference resources accessible via API. |
+| 9 | [QuipNetwork/quip-protocol](https://github.com/QuipNetwork/quip-protocol) | 🔥 86 | experimental quip protocol network node |
+| 10 | [Infatoshi/x-cli](https://github.com/Infatoshi/x-cli) | 🔥 79 | CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 377 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 2 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 135 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 91 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 83 | 🤖 这是一个快速、开箱即用的终端，专为AI编码而设计。 |
+| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 54 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 6 | [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) | 🔥 31 | Rust Linux-compatible kernel |
+| 7 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 26 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 8 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 21 | a terminal weather app with ascii animation |
+| 9 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | 🔥 18 | High-performance GraphRAG inspired from LightRag written in Rust |
+| 10 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | 🔥 19 | A drop-in, 5-20x faster, experimental Homebrew alternative |
+
