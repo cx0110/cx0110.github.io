@@ -73,3 +73,72 @@ image:
 | 9 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 20,528 | 🤖 该项目是一个命令行工具，用于配置和监控Claude Code。 |
 | 10 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | 46,858 | 🤖 该项目是一个免费、开源的加密货币交易机器人，用于自动进行加密货币交易。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-17 02:30 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1522 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 1222 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 1094 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 4 | [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 🔥 588 | 🤖 该项目提供免费资源帮助学习系统设计概念和准备面试。 |
+| 5 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 459 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 6 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 409 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 7 | [alibaba/zvec](https://github.com/alibaba/zvec) | 🔥 411 | A lightweight, lightning-fast, in-process vector database |
+| 8 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 325 | Fully automatic censorship removal for language models |
+| 9 | [steipete/summarize](https://github.com/steipete/summarize) | 🔥 365 | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 288 | An agentic skills framework & software development methodology that works. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 1276 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 2 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 226 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 3 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 123 | 🤖 GitHub 代理工作流程，简化工作流管理。 |
+| 4 | [mickamy/sql-tap](https://github.com/mickamy/sql-tap) | 🔥 71 | 🤖 该项目提供实时监控SQL流量的图形界面工具。 |
+| 5 | [entireio/cli](https://github.com/entireio/cli) | 🔥 54 | 🤖 Entire 是一个开发平台，通过 Git 工作流捕获 AI 会话，统一代码和其上下文。 |
+| 6 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 39 | Fast, scriptable CLI for App Store Connect. Automate your iOS app workflows from your IDE/terminal. |
+| 7 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 29 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 8 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 32 | Beads - A memory upgrade for your coding agent |
+| 9 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 23 | Gas Town - multi-agent workspace manager |
+| 10 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 23 | Glamourous agentic coding for all 💘 |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 403 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 2 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 318 | 🤖 该项目实现了语言模型的自动审查内容去除功能。 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 269 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 183 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 150 | 🤖 利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 120 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 🔥 91 | CLI tool for configuring and monitoring Claude Code |
+| 8 | [google/langextract](https://github.com/google/langextract) | 🔥 90 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| 9 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 🔥 125 | Open source software that helps you create and deploy high-frequency crypto trading bots |
+| 10 | [adenhq/hive](https://github.com/adenhq/hive) | 🔥 59 | Outcome driven agent development framework that evolves |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 1209 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 2 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 🔥 141 | 🤖 一个高性能的算法交易平台和事件驱动的回测工具。 |
+| 3 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 89 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 4 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 🔥 83 | 🤖 个人AI助手，支持多种语言模型和语音交互。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 79 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 30 | a terminal weather app with ascii animation |
+| 7 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 32 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 8 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 21 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 9 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 21 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+| 10 | [mayocream/koharu](https://github.com/mayocream/koharu) | 🔥 23 | ML-powered manga translator, written in Rust. |
+
