@@ -73,3 +73,72 @@ image:
 | 9 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 6,882 | 🤖 HexStrike AI MCP Agents是一个高级服务器，允许AI代理自动运行150多种网络安全工具，用于自动化渗透测试、漏洞发现、Bug Bounty自动化和安全研究。 |
 | 10 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 11,282 | 🤖 该项目“AI-Trader”旨在开发一个利用人工智能技术进行实时交易的系统，测试其是否能战胜市场。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-18 02:43 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1350 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 1011 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 3 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 681 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 4 | [alibaba/zvec](https://github.com/alibaba/zvec) | 🔥 429 | 🤖 alibaba/zvec是一个超快的内存向量数据库。 |
+| 5 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 282 | 🤖 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 6 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 234 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 7 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 210 | Fully automatic censorship removal for language models |
+| 8 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 🔥 209 | A community collection of OpenClaw use cases for making life easier. |
+| 9 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 183 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 10 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 173 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 737 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 2 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 171 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 3 | [marcus/nightshift](https://github.com/marcus/nightshift) | 🔥 64 | 🤖 Nightshift 自动利用剩余预算生成有用的代码提交请求。 |
+| 4 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 76 | 🤖 GitHub 代理工作流程，简化工作流管理。 |
+| 5 | [klawsh/klaw.sh](https://github.com/klawsh/klaw.sh) | 🔥 75 | 🤖 该项目为AI代理提供kubectl工具，简化AI应用管理。 |
+| 6 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 30 | Gas Town - multi-agent workspace manager |
+| 7 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 26 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 8 | [memohai/Memoh](https://github.com/memohai/Memoh) | 🔥 22 | Multi-Member, Structured Long-Memory, Containerized AI Agent System ✨ |
+| 9 | [entireio/cli](https://github.com/entireio/cli) | 🔥 24 | Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its contex... |
+| 10 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 🔥 18 | GitHub's official MCP Server |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 224 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 2 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 197 | 🤖 该项目实现了语言模型的自动审查内容去除功能。 |
+| 3 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 177 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 143 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 5 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 🔥 167 | 🤖 该项目是一款开源软件，帮助用户创建和部署高频加密货币交易机器人。 |
+| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 113 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 7 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 91 | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body track... |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 67 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 9 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🔥 55 | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
+| 10 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 🔥 85 | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨ |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 866 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 2 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 164 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 3 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 🔥 148 | 🤖 一个高性能的算法交易平台和事件驱动的回测工具。 |
+| 4 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 35 | 🤖 终端天气应用，带有ASCII动画。 |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 38 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 6 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 🔥 23 | A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-chann... |
+| 7 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 24 | 🎃 A fast, out-of-the-box terminal built for AI coding. |
+| 8 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 13 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 9 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 🔥 11 | Finally a Fabioulous & Fast Fuzzy File Finder for neovim  |
+| 10 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🔥 9 | Algorithm powering the For You feed on X |
+
