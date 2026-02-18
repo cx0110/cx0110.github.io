@@ -73,3 +73,72 @@ image:
 | 9 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 7,230 | 🤖 该项目是一个用于构建、编排和部署AI代理和多代理工作流的框架，支持Python和.NET语言。 |
 | 10 | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | 25,119 | 🤖 Cinnamon/kotaemon是一个开源的RAG（检索增强生成）工具，允许用户与自己的文档进行对话。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-19 02:39 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1122 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 891 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 3 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 367 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 4 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 340 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 5 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 🔥 310 | 🤖 使用Typescript构建超快、微小、跨平台的桌面应用。 |
+| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 273 | Fully automatic censorship removal for language models |
+| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 259 | The open-source voice synthesis studio powered by Qwen3-TTS. |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 244 | An agentic skills framework & software development methodology that works. |
+| 9 | [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) | 🔥 202 | A free and open source instant messaging and VoIP platform built for friends, groups, and communities. |
+| 10 | [alibaba/zvec](https://github.com/alibaba/zvec) | 🔥 190 | A lightweight, lightning-fast, in-process vector database |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 385 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 2 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 117 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 3 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 95 | 🤖 vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 4 | [marcus/nightshift](https://github.com/marcus/nightshift) | 🔥 82 | 🤖 Nightshift 自动利用剩余预算生成有用的代码提交请求。 |
+| 5 | [louisho5/picobot](https://github.com/louisho5/picobot) | 🔥 62 | 🤖 这是一个轻量级的自托管机器人，使用Go语言编写，打包成单个二进制文件。 |
+| 6 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 37 | Fast, scriptable CLI for App Store Connect. Automate your iOS app workflows from your IDE/terminal. |
+| 7 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 37 | Beads - A memory upgrade for your coding agent |
+| 8 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 32 | GitHub Agentic Workflows |
+| 9 | [entireio/cli](https://github.com/entireio/cli) | 🔥 30 | Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its contex... |
+| 10 | [simonw/rodney](https://github.com/simonw/rodney) | 🔥 20 | CLI tool for interacting with the web |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 366 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 2 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 270 | 🤖 该项目实现了语言模型的自动审查内容去除功能。 |
+| 3 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 165 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 146 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 5 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 🔥 136 | 🤖 该项目是一款开源软件，帮助用户创建和部署高频加密货币交易机器人。 |
+| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 71 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 7 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 🔥 68 | CLI tool for configuring and monitoring Claude Code |
+| 8 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 🔥 93 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| 9 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 🔥 56 | The absolute trainer to light up AI agents. |
+| 10 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 47 | PersonaPlex code. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 915 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 2 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 68 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 3 | [antithesishq/bombadil](https://github.com/antithesishq/bombadil) | 🔥 46 | 🤖 自动化测试网页界面，发现隐藏的Bug。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 46 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 37 | 🤖 这是一个快速、开箱即用的终端，专为AI编码而设计。 |
+| 6 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 🔥 33 | A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-chann... |
+| 7 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 26 | a terminal weather app with ascii animation |
+| 8 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 22 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 9 | [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | 🔥 16 | Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees |
+| 10 | [telemt/telemt](https://github.com/telemt/telemt) | 🔥 16 | MTProxy for Telegram on Rust + Tokio |
+
