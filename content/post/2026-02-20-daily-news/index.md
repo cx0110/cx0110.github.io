@@ -71,3 +71,72 @@ image:
 | 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 24,303 | 🤖 该项目是一个开源平台，用于构建和管理AI模型和智能体，提供端到端的跟踪、可观察性和评估功能。 |
 | 10 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 65,163 | 🤖 scikit-learn是一个用于Python的机器学习库，提供了广泛的算法和工具用于数据分类、回归、聚类等任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-20 02:39 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1087 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 931 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 392 | 🤖 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 4 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 🔥 412 | 🤖 使用Typescript构建超快、微小、跨平台的桌面应用。 |
+| 5 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 291 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 258 | An agentic skills framework & software development methodology that works. |
+| 7 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 237 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 8 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 218 | Monitor what's happening in the world |
+| 9 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 199 | Fully automatic censorship removal for language models |
+| 10 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 🔥 187 | N64 Game-Engine and Editor using libdragon & tiny3d |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 333 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 2 | [taleshape-com/shaper](https://github.com/taleshape-com/shaper) | 🔥 104 | 🤖 使用SQL构建数据仪表盘，依托DuckDB数据库。 |
+| 3 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 82 | 🤖 该项目是一个快速、智能的命令行工具，用于无缝发布App Store应用。 |
+| 4 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 70 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 5 | [tesweva/Nextjs-RCE-Exploit-Kit](https://github.com/tesweva/Nextjs-RCE-Exploit-Kit) | 🔥 33 | 🤖 Nextjs 远程命令执行漏洞利用工具包。 |
+| 6 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 61 | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 7 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 33 | GitHub Agentic Workflows |
+| 8 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 23 | Beads - A memory upgrade for your coding agent |
+| 9 | [simonw/rodney](https://github.com/simonw/rodney) | 🔥 29 | CLI tool for interacting with the web |
+| 10 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 26 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 239 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 2 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 187 | 🤖 该项目实现了语言模型的自动审查内容去除功能。 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 154 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 4 | [google-research/timesfm](https://github.com/google-research/timesfm) | 🔥 130 | 🤖 TimesFM 是谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 77 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 6 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 80 | OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources,... |
+| 7 | [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | 🔥 71 | A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI ... |
+| 8 | [google/langextract](https://github.com/google/langextract) | 🔥 60 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 59 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 10 | [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | 🔥 43 | The most powerful local music generation model that outperforms most commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 835 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 2 | [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) | 🔥 99 | 🤖 Spacebot是一个为团队和社区提供的AI智能助手。 |
+| 3 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 39 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 39 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 36 | 🤖 这是一个快速、开箱即用的终端，专为AI编码而设计。 |
+| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 19 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 7 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 21 | a terminal weather app with ascii animation |
+| 8 | [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | 🔥 18 | Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees |
+| 9 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 🔥 20 | A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-chann... |
+| 10 | [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) | 🔥 14 |  |
+
