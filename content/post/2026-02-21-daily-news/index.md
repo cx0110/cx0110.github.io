@@ -73,3 +73,72 @@ image:
 | 9 | [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | 1,195 | 🤖 该项目是一个Telegram机器人，提供远程访问Claude Code的功能，实现开发者可以在任何地方与项目交互，具有全面的AI辅助和会话持久化。 |
 | 10 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 72,957 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-21 02:33 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 886 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 629 | 🤖 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 3 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 323 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 🔥 276 | 🤖 Claude Code 的超级能力：核心技能库。 |
+| 5 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | 🔥 236 | 🤖 LobsterAI 是一个全场景 AI 助手，帮助用户完成各种任务。 |
+| 6 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 208 | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 7 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 177 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 8 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 165 | Monitor what's happening in the world |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 77 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 10 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 140 | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon win... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 174 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 2 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 137 | 🤖 vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 3 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 79 | 🤖 该项目是一个快速、智能的命令行工具，用于无缝发布App Store应用。 |
+| 4 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 37 | 🤖 GitHub 代理工作流程，简化工作流管理。 |
+| 5 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 31 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 6 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 27 | Beads - A memory upgrade for your coding agent |
+| 7 | [taleshape-com/shaper](https://github.com/taleshape-com/shaper) | 🔥 31 | Build Data Dashboards all in SQL. Powered by DuckDB. |
+| 8 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 30 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 9 | [entireio/cli](https://github.com/entireio/cli) | 🔥 18 | Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its contex... |
+| 10 | [louisho5/picobot](https://github.com/louisho5/picobot) | 🔥 16 | A lightweight self-hosted bot in a single binary, written in Go. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 75 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 2 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 128 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 3 | [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | 🔥 108 | 🤖 一个Telegram机器人，提供远程访问Claude Code，实现开发者随时随地与项目交互。 |
+| 4 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 119 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 5 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 117 | 🤖 该项目实现了语言模型的自动审查内容去除功能。 |
+| 6 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | 🔥 114 | Free Motion Capture for Everyone 💀✨ |
+| 7 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 65 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 60 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 9 | [google-research/timesfm](https://github.com/google-research/timesfm) | 🔥 102 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| 10 | [GetBindu/Bindu](https://github.com/GetBindu/Bindu) | 🔥 52 | Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 517 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 2 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 78 | 🤖 终端天气应用，带有ASCII动画。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 47 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [microclaw/microclaw](https://github.com/microclaw/microclaw) | 🔥 26 | 🤖 微信小助手：一个基于Rust的AI助手，集成于聊天平台。 |
+| 5 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 25 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 26 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 7 | [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) | 🔥 24 | An AI agent for teams, communities, and multi-user environments. |
+| 8 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 25 | 🎃 A fast, out-of-the-box terminal built for AI coding. |
+| 9 | [dev-protocol/polymarket-trading-tools-telegram-bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot) | 🔥 18 | 🚀https://t.me/soulcrancerdev polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket ... |
+| 10 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 20 | Get 10X more out of Claude Code, Codex or any coding agent |
+
