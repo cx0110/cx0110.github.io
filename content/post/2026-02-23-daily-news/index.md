@@ -72,3 +72,72 @@ image:
 | 9 | [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | 1,519 | 🤖 该项目是一个Telegram机器人，提供远程访问Claude Code的功能，实现开发者可以在任何地方与项目交互，具有全面的AI辅助和会话持久化。 |
 | 10 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 9,797 | 🤖 该项目的核心功能是构建、管理和部署人工智能/机器学习系统。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-23 02:21 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 946 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 712 | 🤖 vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 3 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 🔥 542 | 🤖 一个轻量级的容器化WhatsApp机器人，具有记忆和定时任务功能。 |
+| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 580 | 🤖 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 5 | [alibaba/zvec](https://github.com/alibaba/zvec) | 🔥 410 | 🤖 alibaba/zvec是一个超快的内存向量数据库。 |
+| 6 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 308 | claw done right 🦀 |
+| 7 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 214 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 8 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 225 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 9 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 🔥 190 | A community collection of OpenClaw use cases for making life easier. |
+| 10 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 179 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 689 | 🤖 vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 198 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 63 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 4 | [louisho5/picobot](https://github.com/louisho5/picobot) | 🔥 51 | 🤖 这是一个轻量级的自托管机器人，使用Go语言编写，打包成单个二进制文件。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 43 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 37 | Gas Town - multi-agent workspace manager |
+| 7 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 24 | Beads - A memory upgrade for your coding agent |
+| 8 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 24 | Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and m... |
+| 9 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 21 | GitHub Agentic Workflows |
+| 10 | [surge-downloader/Surge](https://github.com/surge-downloader/Surge) | 🔥 23 | Blazing fast TUI download manager built in Go for power users |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 215 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 2 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 160 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 62 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | 🔥 105 | 🤖 ClawWork是一个开源项目，旨在将AI作为协作工具，帮助用户提高工作效率。 |
+| 5 | [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | 🔥 102 | 🤖 一个Telegram机器人，提供远程访问Claude Code，实现开发者随时随地与项目交互。 |
+| 6 | [huggingface/skills](https://github.com/huggingface/skills) | 🔥 105 |  |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 102 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [google-research/timesfm](https://github.com/google-research/timesfm) | 🔥 122 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| 9 | [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) | 🔥 96 |  |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 82 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 255 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 2 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 82 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 3 | [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) | 🔥 45 | 🤖 Spacebot是一个为团队和社区提供的AI智能助手。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 46 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) | 🔥 41 | 🤖 该项目是一个高性能的AI编码代理命令行工具，使用Rust语言开发，实现零不安全代码。 |
+| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 38 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 7 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 29 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+| 8 | [Veirt/weathr](https://github.com/Veirt/weathr) | 🔥 30 | a terminal weather app with ascii animation |
+| 9 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 32 | 🎃 A fast, out-of-the-box terminal built for AI coding. |
+| 10 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 19 | Get 10X more out of Claude Code, Codex or any coding agent |
+
