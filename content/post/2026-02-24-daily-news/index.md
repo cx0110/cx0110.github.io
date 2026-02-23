@@ -73,3 +73,72 @@ image:
 | 9 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 2,039 | 🤖 该项目提供了斯坦福大学2025年秋季CS146S：现代软件开发课程的作业任务。 |
 | 10 | [usestrix/strix](https://github.com/usestrix/strix) | 20,510 | 🤖 该项目提供开源的AI渗透测试代理，用于自动化渗透测试。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-24 02:50 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1044 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 673 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 3 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 🔥 578 | 🤖 一个轻量级的容器化WhatsApp机器人，具有记忆和定时任务功能。 |
+| 4 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 583 | 🤖 vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 5 | [huggingface/skills](https://github.com/huggingface/skills) | 🔥 524 | 🤖 huggingface/skills 项目提供了一种技能评估和认证的开源平台。 |
+| 6 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 303 | practice made claude perfect |
+| 7 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 298 | claw done right 🦀 |
+| 8 | [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) | 🔥 297 | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. |
+| 9 | [alibaba/zvec](https://github.com/alibaba/zvec) | 🔥 280 | A lightweight, lightning-fast, in-process vector database |
+| 10 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 238 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 605 | 🤖 vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 237 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 49 | 🤖 该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。 |
+| 4 | [louisho5/picobot](https://github.com/louisho5/picobot) | 🔥 50 | 🤖 这是一个轻量级的自托管机器人，使用Go语言编写，打包成单个二进制文件。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 41 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 39 | GitHub Agentic Workflows |
+| 7 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 31 | Beads - A memory upgrade for your coding agent |
+| 8 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 31 | Gas Town - multi-agent workspace manager |
+| 9 | [mickamy/sql-tap](https://github.com/mickamy/sql-tap) | 🔥 29 | Watch SQL traffic in real-time with a TUI |
+| 10 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 23 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [huggingface/skills](https://github.com/huggingface/skills) | 🔥 514 | 🤖 huggingface/skills 项目提供了一种技能评估和认证的开源平台。 |
+| 2 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 318 | 🤖 该项目旨在实践和改进 Claude 的代码最佳实践。 |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 220 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 201 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 5 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 155 | 🤖 PageIndex：为无向量文档创建索引，实现基于推理的文档检索。 |
+| 6 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 142 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 57 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 8 | [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) | 🔥 97 |  |
+| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 92 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 10 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | 🔥 95 | "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours" |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | 🔥 293 | 🤖 该项目是一个爬虫框架，旨在更好地实现爬取功能。 |
+| 2 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 85 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 68 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) | 🔥 54 | 🤖 Spacebot是一个为团队和社区提供的AI智能助手。 |
+| 5 | [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs) | 🔥 38 | 🤖 OpenCrabs 是一个用 Rust 编写的 AI 终端原生编排层，用于软件开发。 |
+| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 33 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 7 | [baker42757/15min-crypto-polymarket-trading-bot](https://github.com/baker42757/15min-crypto-polymarket-trading-bot) | 🔥 16 | 15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket a... |
+| 8 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 🔥 23 | A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-chann... |
+| 9 | [datahaven-xyz/datahaven](https://github.com/datahaven-xyz/datahaven) | 🔥 27 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer |
+| 10 | [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) | 🔥 23 | Modern, fast and obfuscated VPN protocol |
+
