@@ -73,3 +73,72 @@ image:
 | 9 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 73,702 | 🤖 RAGFlow是一个开源的检索增强生成（RAG）引擎，融合了先进的RAG和智能代理能力，创建了一个更好的上下文层用于大型语言模型。 |
 | 10 | [anthropics/skills](https://github.com/anthropics/skills) | 75,653 | 🤖 该项目是一个公共仓库，用于存储和开发智能代理的技能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-26 02:52 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1126 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 🔥 425 | 🤖 该项目使用前端技术创建漂亮的网页幻灯片。 |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 450 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 4 | [huggingface/skills](https://github.com/huggingface/skills) | 🔥 416 | 🤖 huggingface/skills 项目提供了一种技能评估和认证的开源平台。 |
+| 5 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 338 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 6 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 🔥 240 | A community collection of OpenClaw use cases for making life easier. |
+| 7 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 216 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| 8 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 241 | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Dr... |
+| 9 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 209 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 |
+| 10 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 238 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 163 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 2 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 🔥 57 | 🤖 该项目是一个快速、智能的命令行工具，用于无缝发布App Store应用。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 45 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [louisho5/picobot](https://github.com/louisho5/picobot) | 🔥 31 | 🤖 这是一个轻量级的自托管机器人，使用Go语言编写，打包成单个二进制文件。 |
+| 5 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 20 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 6 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 26 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 7 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 23 | Beads - A memory upgrade for your coding agent |
+| 8 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 19 | MCP for xiaohongshu.com |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 15 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [surge-downloader/Surge](https://github.com/surge-downloader/Surge) | 🔥 15 | Blazing fast TUI download manager built in Go for power users |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 429 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 2 | [huggingface/skills](https://github.com/huggingface/skills) | 🔥 394 | 🤖 huggingface/skills 项目提供了一种技能评估和认证的开源平台。 |
+| 3 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 232 | 🤖 该项目提供多代理系统的上下文管理技能集合，用于优化和调试代理系统。 |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 184 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 106 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 128 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 7 | [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | 🔥 114 | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming |
+| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 109 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 9 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 86 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 84 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 220 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 2 | [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 🔥 111 | 🤖 该项目是一个快速开发平台，旨在加速开发速度。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 92 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 🔥 51 | 🤖 RuVector 是一个高性能的向量和图数据库，用于人工智能和实时分析。 |
+| 5 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 43 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 37 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 7 | [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) | 🔥 72 | PostgreSQL connection pooler, load balancer and database sharder. |
+| 8 | [blockcell-labs/blockcell](https://github.com/blockcell-labs/blockcell) | 🔥 36 | Blockcell is a self‑evolving agent |
+| 9 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 28 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 10 | [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) | 🔥 28 | An AI agent for teams, communities, and multi-user environments. |
+
