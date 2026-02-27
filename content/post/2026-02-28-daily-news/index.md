@@ -73,3 +73,72 @@ image:
 | 9 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | 12,797 | 🤖 该项目使用PEFT或全参数方法对600多个大型语言模型（LLM）和300多个多模态语言模型（MLLM）进行微调和优化。 |
 | 10 | [4thfever/cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) | 1,148 | 🤖 该项目是一个基于AI智能体工作流的修仙世界模拟器，旨在创建一个动态、开放的仙侠世界。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-02-28 02:28 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | 🔥 1145 | 🤖 这是一个跨平台的个人AI助手项目。 |
+| 2 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | 🔥 478 | 🤖 该项目提供金融服务插件，扩展金融功能。 |
+| 3 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 🔥 407 | 🤖 一个社区驱动的项目，收集OpenClaw的用例，旨在简化生活。 |
+| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 402 | 🤖 GitNexus：一个浏览器内运行的代码智能引擎，生成交互式知识图谱。 |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 335 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 6 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 🔥 302 | Create beautiful slides on the web using Claude's frontend skills |
+| 7 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 260 | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon win... |
+| 8 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 237 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+| 9 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 220 | Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situationa... |
+| 10 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 219 | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, opt... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 140 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 2 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 36 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 37 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 28 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 25 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 6 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 29 | MCP for xiaohongshu.com |
+| 7 | [surge-downloader/Surge](https://github.com/surge-downloader/Surge) | 🔥 28 | Blazing fast TUI download manager built in Go for power users |
+| 8 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 24 | Glamourous agentic coding for all 💘 |
+| 9 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 18 | AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio. |
+| 10 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 21 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | 🔥 460 | 🤖 该项目提供金融服务插件，扩展金融功能。 |
+| 2 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 299 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 3 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 🔥 217 | 🤖 该项目提供多代理系统的上下文管理技能集合，用于优化和调试代理系统。 |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 172 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 5 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 185 | 🤖 PageIndex：为无向量文档创建索引，实现基于推理的文档检索。 |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 89 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 7 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 125 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 8 | [huggingface/skills](https://github.com/huggingface/skills) | 🔥 120 |  |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 111 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 100 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 169 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 129 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 3 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 🔥 111 | 🤖 RuVector 是一个高性能的向量和图数据库，用于人工智能和实时分析。 |
+| 4 | [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 🔥 123 | 🤖 该项目是一个快速开发平台，旨在加速开发速度。 |
+| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 58 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 6 | [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) | 🔥 54 |  |
+| 7 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 36 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 8 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 19 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 18 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 10 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 14 | 🎃 A fast, out-of-the-box terminal built for AI coding. |
+
