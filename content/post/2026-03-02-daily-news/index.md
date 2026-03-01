@@ -73,3 +73,72 @@ image:
 | 9 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 35,933 | 🤖 微舆是一个多Agent舆情分析助手，旨在打破信息茧房，实时还原舆情原貌，并预测未来走向以辅助决策。 |
 | 10 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 44,891 | 🤖 CrewAI是一个框架，用于编排角色扮演的自治AI代理，使得代理可以合作完成复杂任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-02 02:20 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 1713 | 🤖 利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。 |
+| 2 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 731 | 🤖 开源智能代理操作系统，实现自动化任务处理。 |
+| 3 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 🔥 652 | 🤖 一个社区驱动的项目，收集OpenClaw的用例，旨在简化生活。 |
+| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 522 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 5 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 603 | 🤖 CoPaw 是一个个人 AI 助手，支持多个聊天应用，易于安装和部署。 |
+| 6 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 🔥 423 | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes ru... |
+| 7 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 407 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+| 8 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 355 | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon win... |
+| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🔥 318 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversati... |
+| 10 | [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) | 🔥 269 | Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [taigrr/spank](https://github.com/taigrr/spank) | 🔥 230 | 🤖 这个项目可以让MacBook感知到物理冲击，并发出声音反馈。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 124 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 74 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 72 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 57 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 90 | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 7 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 49 | Gas Town - multi-agent workspace manager |
+| 8 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 44 | MCP for xiaohongshu.com |
+| 9 | [surge-downloader/Surge](https://github.com/surge-downloader/Surge) | 🔥 46 | Blazing fast TUI download manager built in Go for power users |
+| 10 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 26 | High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 1589 | 🤖 利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。 |
+| 2 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 565 | 🤖 CoPaw 是一个个人 AI 助手，支持多个聊天应用，易于安装和部署。 |
+| 3 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 🔥 417 | 🤖 OpenSandbox是一个通用AI沙箱平台，提供多语言SDK和统一API。 |
+| 4 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 226 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 245 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 6 | [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 🔥 199 | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 |
+| 7 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 146 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 8 | [eooce/python-ws](https://github.com/eooce/python-ws) | 🔥 120 | build vless / trojan /shadowsocks  proxies on python server,no need core |
+| 9 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 132 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 78 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 674 | 🤖 开源智能代理操作系统，实现自动化任务处理。 |
+| 2 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 253 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 176 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 108 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 5 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 🔥 68 | 🤖 RuVector 是一个高性能的向量和图数据库，用于人工智能和实时分析。 |
+| 6 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 66 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 7 | [stoolap/stoolap](https://github.com/stoolap/stoolap) | 🔥 53 | A Modern Embedded SQL Database written in Rust |
+| 8 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 40 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 9 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | 🔥 32 | High-performance GraphRAG inspired from LightRag written in Rust |
+| 10 | [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 🔥 77 | Development at the speed of light |
+
