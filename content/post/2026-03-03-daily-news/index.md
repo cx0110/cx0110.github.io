@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2026-03-03"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-03T09:00:00+08:00
+lastmod: 2026-03-03T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-03 01:50 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 21,007 | 🤖 该项目实现了一个基于WiFi的密集人体姿势估计系统，可以实时通过墙壁追踪人体全身姿势。 |
+| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 21,255 | 🤖 该项目是一个自托管的AI伴侣，可以实现实时语音聊天、玩Minecraft和Factorio等游戏，并支持Web、macOS和Windows平台。 |
+| 3 | [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 31,355 | 🤖 Anthropic的交互式提示工程教程是一个帮助用户学习和提高提示工程技能的在线平台。 |
+| 4 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,866 | 🤖 该项目是一个智能多代理编排平台，能够部署智能代理群、协调自主工作流程，并构建对话式人工智能系统。 |
+| 5 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 4,000 | 🤖 OpenSandbox是一个通用的人工智能沙盒平台，提供多语言SDK、统一的沙盒API和Docker/Kubernetes运行环境，支持多种人工智能应用场景。 |
+| 6 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 89,476 | 🤖 该项目是一个Python工具，用于将文件和办公文档转换为Markdown格式。 |
+| 7 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 10,902 | 🤖 该项目为Claude提供了一套预先设置好的科学技能，用于支持其进行科学计算和分析等任务。 |
+| 8 | [superset-sh/superset](https://github.com/superset-sh/superset) | 3,355 | 🤖 该项目是一个集成开发环境（IDE），允许用户在本地机器上运行和管理多个AI代理，如Claude Code和Codex。 |
+| 9 | [servo/servo](https://github.com/servo/servo) | 35,694 | 🤖 Servo 是一个轻量级、高性能的项目，旨在为应用程序提供嵌入 Web 技术的替代方案。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | 1,220 | 🤖 该项目是一个终端会话管理器，用于管理多个AI编码代理（如Claude、Gemini、OpenCode、Codex等）的交互界面。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 2,609 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 3 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 39,426 | 🤖 Fabric 是一个开源框架，利用人工智能来增强人类的能力，通过众包的方式提供模块化的解决方案。 |
+| 4 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | 15,522 | 🤖 该项目是一个多功能的网络资源下载工具，支持下载包括视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等在内的各种常见网络资源。 |
+| 5 | [ollama/ollama](https://github.com/ollama/ollama) | 163,856 | 🤖 该项目提供了一种快速部署和使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3等模型的解决方案。 |
+| 6 | [redis/go-redis](https://github.com/redis/go-redis) | 21,945 | 🤖 该项目是一个Redis的Go语言客户端，用于连接和操作Redis数据库。 |
+| 7 | [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) | 7,329 | 🤖 该项目是一个基于人工智能的Kubernetes助手，旨在帮助用户更高效地管理和优化Kubernetes集群。 |
+| 8 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | 2,510 | 🤖 该项目实现了可靠的模型交换功能，支持在本地OpenAI/Anthropic兼容服务器（如llama.cpp、vllm等）上进行模型切换。 |
+| 9 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 54,004 | 🤖 Gitea是一个自托管的全功能软件开发服务平台，集成了Git托管、代码审查、团队协作、包注册和CI/CD等功能。 |
+| 10 | [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | 13,308 | 🤖 Cloudflare Tunnel 客户端（cloudflared）是一个连接本地网络和Cloudflare服务的隧道客户端，实现安全、快速和可靠的互联网访问。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 4,000 | 🤖 OpenSandbox是一个通用的人工智能沙盒平台，提供多语言SDK、统一的沙盒API和Docker/Kubernetes运行环境，支持多种人工智能应用场景。 |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 89,476 | 🤖 该项目是一个Python工具，用于将文件和办公文档转换为Markdown格式。 |
+| 3 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 10,902 | 🤖 该项目为Claude提供了一套预先设置好的科学技能，用于支持其进行科学计算和分析等任务。 |
+| 4 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 44,707 | 🤖 该项目是一个多平台爬虫，主要功能是爬取小红书、抖音、快手、B站、微博、百度贴吧和知乎等平台的帖子、评论和回复信息。 |
+| 5 | [scrapy/scrapy](https://github.com/scrapy/scrapy) | 60,489 | 🤖 Scrapy是一个用于Python的快速高级网页爬取和数据抽取框架。 |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 402,813 | 🤖 该项目收集并整理了一份免费API的清单，供开发者使用。 |
+| 7 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 3,321 | 🤖 该项目“jamwithai/production-agentic-rag-course”主要关注于生产性智能体和RAG（检索、问答、生成）课程的开发和应用。 |
+| 8 | [Polymarket/agents](https://github.com/Polymarket/agents) | 2,345 | 🤖 该项目利用人工智能代理在Polymarket平台上进行自动交易。 |
+| 9 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | 7,880 | 🤖 Mobile-Agent是一个功能强大的GUI代理家族，提供了移动设备的远程控制和管理能力。 |
+| 10 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 605 | 🤖 该项目是一个用于创建长篇、SEO优化的博客内容的工作空间，帮助用户研究、撰写、分析和优化内容以提高排名和满足目标受众需求。 |
+
