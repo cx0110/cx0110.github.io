@@ -73,3 +73,72 @@ image:
 | 9 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 23,928 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
 | 10 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 5,373 | 🤖 UltraRAG v3是一个低代码的MCP框架，用于构建复杂和创新性的RAG管道。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-04 02:35 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 1146 | 🤖 利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。 |
+| 2 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 903 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 3 | [maderix/ANE](https://github.com/maderix/ANE) | 🔥 779 | 🤖 该项目通过逆向工程的私有API，在苹果神经引擎上训练神经网络。 |
+| 4 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 553 | 🤖 CoPaw 是一个个人 AI 助手，支持多个聊天应用，易于安装和部署。 |
+| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 350 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 6 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 🔥 333 | A community collection of OpenClaw use cases for making life easier. |
+| 7 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 315 | The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. |
+| 8 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 🔥 256 | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes ru... |
+| 9 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 234 | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Dr... |
+| 10 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 221 | Open-source Agent Operating System |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 137 | 🤖 该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 72 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 73 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [taigrr/spank](https://github.com/taigrr/spank) | 🔥 34 | 🤖 这个项目可以让MacBook感知到物理冲击，并发出声音反馈。 |
+| 5 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 34 | 🤖 小红书的内容管理平台。 |
+| 6 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 24 | Gas Town - multi-agent workspace manager |
+| 7 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 25 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 8 | [memohai/Memoh](https://github.com/memohai/Memoh) | 🔥 27 | Multi-Member, Structured Long-Memory, Containerized AI Agent System ✨ |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 19 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [entireio/cli](https://github.com/entireio/cli) | 🔥 14 | Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its contex... |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 1082 | 🤖 利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。 |
+| 2 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 512 | 🤖 CoPaw 是一个个人 AI 助手，支持多个聊天应用，易于安装和部署。 |
+| 3 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 🔥 256 | 🤖 OpenSandbox是一个通用AI沙箱平台，提供多语言SDK和统一API。 |
+| 4 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 🔥 190 | 🤖 为Claude提供一套可直接使用的科学技能。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 111 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 119 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 7 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 143 | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| 8 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 98 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 96 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 93 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 407 | 🤖 开源智能代理操作系统，实现自动化任务处理。 |
+| 2 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 136 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 44 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
+| 4 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | 🔥 35 | 🤖 该项目是一个高性能的图形渲染引擎，使用Rust编写。 |
+| 5 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 🔥 38 | 🤖 RuVector 是一个高性能的向量和图数据库，用于人工智能和实时分析。 |
+| 6 | [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) | 🔥 28 | A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI. |
+| 7 | [second-state/qwen3_tts_rs](https://github.com/second-state/qwen3_tts_rs) | 🔥 23 | A Rust implementation of the Qwen3 Text-to-Speech (TTS) model inference. |
+| 8 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 17 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 9 | [block/goose](https://github.com/block/goose) | 🔥 56 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| 10 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 19 | 🎃 A fast, out-of-the-box terminal built for AI coding. |
+
