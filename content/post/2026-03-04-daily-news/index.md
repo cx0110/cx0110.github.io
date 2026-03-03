@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-04"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-04T09:00:00+08:00
+lastmod: 2026-03-04T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-04 01:49 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 24,869 | 🤖 该项目利用WiFi信号实现实时的人体姿势估计、生命体征监测和存在检测，无需任何视频图像。 |
+| 2 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11,712 | 🤖 该项目为Claude提供了一套预先设置好的科学技能，用于支持其进行科学计算和分析等任务。 |
+| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 22,033 | 🤖 该项目是一个自托管的AI伴侣，可以实现实时语音聊天、玩Minecraft和Factorio等游戏，并支持Web、macOS和Windows平台。 |
+| 4 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3,197 | 🤖 该项目允许用户通过终端输入命令来生成代码。 |
+| 5 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 16,927 | 🤖 该项目的核心功能是构建和运行可视化、可理解和可信赖的智能代理。 |
+| 6 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1,210 | 🤖 ReMe是一个智能体记忆管理工具包，旨在帮助智能体记忆和改进其行为。 |
+| 7 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 7,333 | 🤖 LMCache项目提供了一个快速的键值缓存层，以加速大型语言模型（LLM）的性能。 |
+| 8 | [superset-sh/superset](https://github.com/superset-sh/superset) | 3,960 | 🤖 该项目是一个集成开发环境（IDE），允许用户在本地机器上运行和管理多个AI代理，如Claude Code和Codex。 |
+| 9 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 431 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 10 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5,194 | 🤖 OpenSandbox是一个通用的人工智能沙盒平台，提供多语言SDK、统一的沙盒API和Docker/Kubernetes运行环境，支持多种人工智能应用场景。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 431 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 2,714 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 3 | [redis/go-redis](https://github.com/redis/go-redis) | 21,952 | 🤖 该项目是一个Redis的Go语言客户端，用于连接和操作Redis数据库。 |
+| 4 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 9,929 | 🤖 该项目是一个小红书的内容爬取和监测平台，用于收集和分析小红书网站的数据。 |
+| 5 | [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) | 6,298 | 🤖 OpenTelemetry Go API 和 SDK 提供了一套用于分布式追踪和遥测的 Go 语言实现。 |
+| 6 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88,152 | 🤖 Gin是一个高性能的Go语言HTTP网页框架，用于构建REST APIs、Web应用和微服务。 |
+| 7 | [lima-vm/lima](https://github.com/lima-vm/lima) | 20,358 | 🤖 Lima是一个用于运行Linux虚拟机的项目，专注于容器化环境的支持。 |
+| 8 | [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | 9,649 | 🤖 KrillinAI是一个基于LLM的视频翻译和配音工具，支持100种语言的双向翻译和一键部署全流程。 |
+| 9 | [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | 45,189 | 🤖 该项目是一个Windows下的Node.js版本管理工具。 |
+| 10 | [samber/lo](https://github.com/samber/lo) | 21,056 | 🤖 Samber/lo 是一个基于 Go 1.18+ 泛型的类 Lodash 库，提供了诸如 map、filter、contains、find 等功能。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11,712 | 🤖 该项目为Claude提供了一套预先设置好的科学技能，用于支持其进行科学计算和分析等任务。 |
+| 2 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 16,927 | 🤖 该项目的核心功能是构建和运行可视化、可理解和可信赖的智能代理。 |
+| 3 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1,210 | 🤖 ReMe是一个智能体记忆管理工具包，旨在帮助智能体记忆和改进其行为。 |
+| 4 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 7,333 | 🤖 LMCache项目提供了一个快速的键值缓存层，以加速大型语言模型（LLM）的性能。 |
+| 5 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5,194 | 🤖 OpenSandbox是一个通用的人工智能沙盒平台，提供多语言SDK、统一的沙盒API和Docker/Kubernetes运行环境，支持多种人工智能应用场景。 |
+| 6 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 13,851 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 7 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 403,332 | 🤖 该项目收集并整理了一份免费API的清单，供开发者使用。 |
+| 8 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 89,951 | 🤖 该项目是一个Python工具，用于将文件和办公文档转换为Markdown格式。 |
+| 9 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 23,928 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 10 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 5,373 | 🤖 UltraRAG v3是一个低代码的MCP框架，用于构建复杂和创新性的RAG管道。 |
+
