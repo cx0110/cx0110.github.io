@@ -73,3 +73,72 @@ image:
 | 9 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 41,387 | 🤖 Aider是一个人工智能编程助手，能够在终端中提供配对编程功能。 |
 | 10 | [NVIDIA-NeMo/Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) | 477 | 🤖 该项目是一个用于训练Megatron模型的库，支持与Hugging Face模型之间的双向转换。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-05 02:34 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 860 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 2 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 634 | 🤖 利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。 |
+| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 503 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 4 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 484 | 🤖 Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。 |
+| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 451 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 6 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 343 | practice made claude perfect |
+| 7 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 340 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 8 | [maderix/ANE](https://github.com/maderix/ANE) | 🔥 311 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| 9 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 298 | The official go implementation of the Canopy Network protocol |
+| 10 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 🔥 282 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 132 | 🤖 Canopy网络协议的Go语言实现。 |
+| 2 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 114 | 🤖 该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 85 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 63 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 5 | [taigrr/spank](https://github.com/taigrr/spank) | 🔥 42 | 🤖 这个项目可以让MacBook感知到物理冲击，并发出声音反馈。 |
+| 6 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 25 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 7 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 22 | Beads - A memory upgrade for your coding agent |
+| 8 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 23 | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-b... |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 25 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 🔥 59 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 🔥 608 | 🤖 利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。 |
+| 2 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 313 | 🤖 CoPaw 是一个个人 AI 助手，支持多个聊天应用，易于安装和部署。 |
+| 3 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 🔥 211 | 🤖 为Claude提供一套可直接使用的科学技能。 |
+| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 215 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 5 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 🔥 193 | 🤖 OpenSandbox是一个通用AI沙箱平台，提供多语言SDK和统一API。 |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 145 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 7 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 151 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 8 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 124 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 82 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 108 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 212 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 2 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 131 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 3 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 121 | 🤖 开源智能代理操作系统，实现自动化任务处理。 |
+| 4 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 35 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
+| 5 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 🔥 42 | 🤖 RuVector 是一个高性能的向量和图数据库，用于人工智能和实时分析。 |
+| 6 | [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) | 🔥 39 | A GUI manager for WSL. A modern, high-performance, and lightweight WSL instance management dashboard.  |
+| 7 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 39 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 8 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 23 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 9 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 22 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 10 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 24 | Get 10X more out of Claude Code, Codex or any coding agent |
+
