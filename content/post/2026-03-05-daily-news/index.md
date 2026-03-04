@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-05"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-05T09:00:00+08:00
+lastmod: 2026-03-05T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-05 01:43 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 29,531 | 🤖 该项目是一个名为Shannon的全自主AI黑客工具，用于自动发现Web应用程序中的实际漏洞。 |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 5,033 | 🤖 该项目是一个完整的AI代理机构，提供多种专业代理，每个代理都具有独特的个性、流程和成熟的交付成果。 |
+| 3 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 779 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 4 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 12,594 | 🤖 该项目为Claude提供了一套预先设置好的科学技能，用于支持其进行科学计算和分析等任务。 |
+| 5 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3,506 | 🤖 该项目允许用户通过终端输入命令来生成代码。 |
+| 6 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1,556 | 🤖 ReMe是一个智能体记忆管理工具包，旨在帮助智能体记忆和改进其行为。 |
+| 7 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5,844 | 🤖 OpenSandbox是一个通用的人工智能沙盒平台，提供多语言SDK、统一的沙盒API和Docker/Kubernetes运行环境，支持多种人工智能应用场景。 |
+| 8 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14,086 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 9 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 30,642 | 🤖 Perplexica是一个由人工智能驱动的回答引擎。 |
+| 10 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 17,315 | 🤖 该项目的核心功能是构建和运行可视化、可理解和可信赖的智能代理。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 779 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 2 | [spf13/viper](https://github.com/spf13/viper) | 30,153 | 🤖 Viper是一个Go语言的配置管理库，提供了灵活且强大的配置加载、解析和管理功能。 |
+| 3 | [moby/moby](https://github.com/moby/moby) | 71,475 | 🤖 Moby项目是一个协作项目，旨在打造基于容器的系统，提供容器生态系统的解决方案。 |
+| 4 | [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | 9,663 | 🤖 KrillinAI是一个基于LLM的视频翻译和配音工具，支持100种语言的双向翻译和一键部署全流程。 |
+| 5 | [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 33,974 | 🤖 1Panel 为 Linux 服务器提供了一个直观的网页界面，方便管理各种资源和服务。 |
+| 6 | [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) | 7,554 | 🤖 Chaos-mesh是一个针对Kubernetes的混沌工程平台，用于模拟和测试分布式系统的容错能力。 |
+| 7 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 54,066 | 🤖 Gitea是一个自托管的全功能软件开发服务平台，集成了Git托管、代码审查、团队协作、包注册和CI/CD等功能。 |
+| 8 | [inngest/inngest](https://github.com/inngest/inngest) | 4,975 | 🤖 Inngest是一个工作流编排平台，允许用户在无服务器、服务器或边缘环境中运行有状态的步骤函数和AI工作流。 |
+| 9 | [alibaba/higress](https://github.com/alibaba/higress) | 7,636 | 🤖 Alibaba/higress是一个原生支持AI的API网关，用于管理和代理AI服务的流量和请求。 |
+| 10 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 27,472 | 🤖 该项目是GitHub官方的MCP（Minecraft协议）服务器，用于管理和运行Minecraft服务器。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 12,594 | 🤖 该项目为Claude提供了一套预先设置好的科学技能，用于支持其进行科学计算和分析等任务。 |
+| 2 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1,556 | 🤖 ReMe是一个智能体记忆管理工具包，旨在帮助智能体记忆和改进其行为。 |
+| 3 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5,844 | 🤖 OpenSandbox是一个通用的人工智能沙盒平台，提供多语言SDK、统一的沙盒API和Docker/Kubernetes运行环境，支持多种人工智能应用场景。 |
+| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14,086 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 5 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 17,315 | 🤖 该项目的核心功能是构建和运行可视化、可理解和可信赖的智能代理。 |
+| 6 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 53,233 | 🤖 该项目实现了对大型语言模型（LLMs）的微调和强化学习，能够以更快的速度和更低的VRAM占用率训练多种语言模型。 |
+| 7 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 1,084 | 🤖 该项目是一个用于创建长篇、SEO优化的博客内容的工作空间，帮助用户研究、撰写、分析和优化内容以提高排名和满足目标受众需求。 |
+| 8 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 7,506 | 🤖 LMCache项目提供了一个快速的键值缓存层，以加速大型语言模型（LLM）的性能。 |
+| 9 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 41,387 | 🤖 Aider是一个人工智能编程助手，能够在终端中提供配对编程功能。 |
+| 10 | [NVIDIA-NeMo/Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) | 477 | 🤖 该项目是一个用于训练Megatron模型的库，支持与Hugging Face模型之间的双向转换。 |
+
