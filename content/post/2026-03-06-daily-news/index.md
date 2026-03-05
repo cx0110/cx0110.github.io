@@ -73,3 +73,72 @@ image:
 | 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 41,053 | 🤖 该项目提供了一个精选的Claude技能、资源和工具列表，用于自定义Claude AI工作流程。 |
 | 10 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 33,127 | 🤖 该项目是一个自托管的AI第二大脑，能够从网络或本地文档中获取答案，支持自定义代理、自动化调度和深度研究，并可将各种在线或本地LLM模型转化为个人自主AI。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-06 03:08 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [openai/symphony](https://github.com/openai/symphony) | 🔥 699 | 🤖 Symphony 将项目工作转化为独立的实现运行，帮助团队管理工作。 |
+| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 🔥 714 | 🤖 这是一个自托管的AI伴侣项目，支持实时语音聊天、游戏等功能。 |
+| 3 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 601 | 🤖 Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。 |
+| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 431 | 🤖 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 388 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 6 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 338 | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all wit... |
+| 7 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 309 | practice made claude perfect |
+| 8 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 305 | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| 9 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 259 | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 |
+| 10 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 251 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 250 | 🤖 Canopy网络协议的Go语言实现。 |
+| 2 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 201 | 🤖 该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 69 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 62 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 5 | [taigrr/spank](https://github.com/taigrr/spank) | 🔥 51 | 🤖 这个项目可以让MacBook感知到物理冲击，并发出声音反馈。 |
+| 6 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 47 | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-b... |
+| 7 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 53 | MCP for xiaohongshu.com |
+| 8 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 27 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 26 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 24 | Glamourous agentic coding for all 💘 |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 290 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 2 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 241 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 3 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 🔥 149 | 🤖 为Claude提供一套可直接使用的科学技能。 |
+| 4 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 148 | 🤖 CoPaw 是一个个人 AI 助手，支持多个聊天应用，易于安装和部署。 |
+| 5 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 112 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 6 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 🔥 125 | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes ru... |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 76 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 111 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 97 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 10 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🔥 72 | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 478 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 2 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 134 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 3 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 122 | 🤖 开源智能代理操作系统，实现自动化任务处理。 |
+| 4 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 125 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 5 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 86 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 6 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 🔥 40 | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. |
+| 7 | [dev-protocol/polymarket-trading-bots-telegram-service](https://github.com/dev-protocol/polymarket-trading-bots-telegram-service) | 🔥 21 | Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarke... |
+| 8 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 33 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 9 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 25 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 10 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 26 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+
