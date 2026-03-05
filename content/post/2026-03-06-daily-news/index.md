@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-06"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-06T09:00:00+08:00
+lastmod: 2026-03-06T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-06 02:48 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 6,892 | 🤖 该项目是一个完整的AI代理机构，提供多种专业代理，每个代理都具有独特的个性、流程和成熟的交付成果。 |
+| 2 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 1,470 | 🤖 该项目是一个用于创建长篇、SEO优化的博客内容的工作空间，帮助用户研究、撰写、分析和优化内容以提高排名和满足目标受众需求。 |
+| 3 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 31,659 | 🤖 该项目是一个名为Shannon的全自主AI黑客工具，用于自动发现Web应用程序中的实际漏洞。 |
+| 4 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32,837 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 5 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 27,074 | 🤖 该项目是一个自托管的AI伴侣，可以实现实时语音聊天、玩Minecraft和Factorio等游戏，并支持Web、macOS和Windows平台。 |
+| 6 | [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4,027 | 🤖 该项目旨在开发一种快速、简单、灵活的强化学习框架，用于大型语言模型的推理和智能体的训练。 |
+| 7 | [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 14,812 | 🤖 该项目是一个开源的课程，通过多语言实例介绍Model Context Protocol（MCP）的基础知识，帮助开发者构建模块化、可扩展和安全的AI工作流。 |
+| 8 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3,804 | 🤖 该项目允许用户通过终端输入命令来生成代码。 |
+| 9 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14,599 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 10 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1,752 | 🤖 ReMe是一个智能体记忆管理工具包，旨在帮助智能体记忆和改进其行为。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32,837 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 2 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 17,825 | 🤖 Waveterm 是一个开源、跨平台的终端模拟器，旨在为用户提供无缝的工作流体验。 |
+| 3 | [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) | 1,586 | 🤖 VictoriaMetrics/VictoriaLogs是一个高效的日志数据库，能够轻松处理数十亿条日志数据。 |
+| 4 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 120,939 | 🤖 该项目是一个容器编排系统，用于自动化部署、扩展和管理容器化应用。 |
+| 5 | [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) | 6,068 | 🤖 该项目是一个Kubernetes控制器，用于管理GitHub Actions的自托管运行器。 |
+| 6 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 10,357 | 🤖 该项目是一个小红书的内容爬取和监测平台，用于收集和分析小红书网站的数据。 |
+| 7 | [jackc/pgx](https://github.com/jackc/pgx) | 13,508 | 🤖 jackc/pgx 是一个用于 Go 语言的 PostgreSQL 驱动程序和工具包。 |
+| 8 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 11,040 | 🤖 Gas Town是一个多代理工作空间管理器，用于管理和协调多个代理之间的工作流程和资源。 |
+| 9 | [steipete/gogcli](https://github.com/steipete/gogcli) | 5,660 | 🤖 该项目是一个Google套件的命令行接口，支持Gmail、GCal、GDrive和GContacts等服务。 |
+| 10 | [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) | 16,640 | 🤖 Chaos Monkey是一个帮助应用程序容忍随机实例故障的弹性工具。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 1,470 | 🤖 该项目是一个用于创建长篇、SEO优化的博客内容的工作空间，帮助用户研究、撰写、分析和优化内容以提高排名和满足目标受众需求。 |
+| 2 | [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4,027 | 🤖 该项目旨在开发一种快速、简单、灵活的强化学习框架，用于大型语言模型的推理和智能体的训练。 |
+| 3 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14,599 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 4 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1,752 | 🤖 ReMe是一个智能体记忆管理工具包，旨在帮助智能体记忆和改进其行为。 |
+| 5 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 404,474 | 🤖 该项目收集并整理了一份免费API的清单，供开发者使用。 |
+| 6 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 4,984 | 🤖 该项目提供了65种专门技能，用于帮助全栈开发者将Claude代码转化为专家级的配对编程工具。 |
+| 7 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 41,513 | 🤖 Aider是一个人工智能编程助手，能够在终端中提供配对编程功能。 |
+| 8 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | 43,746 | 🤖 Streamlit是一个用于快速构建和分享数据应用的开源平台。 |
+| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 41,053 | 🤖 该项目提供了一个精选的Claude技能、资源和工具列表，用于自定义Claude AI工作流程。 |
+| 10 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 33,127 | 🤖 该项目是一个自托管的AI第二大脑，能够从网络或本地文档中获取答案，支持自定义代理、自动化调度和深度研究，并可将各种在线或本地LLM模型转化为个人自主AI。 |
+
