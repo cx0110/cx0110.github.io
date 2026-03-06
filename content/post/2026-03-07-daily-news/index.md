@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-07"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-07T09:00:00+08:00
+lastmod: 2026-03-07T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-07 01:39 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 29,303 | 🤖 该项目是一个自托管的AI伴侣，可以实现实时语音聊天、玩Minecraft和Factorio等游戏，并支持Web、macOS和Windows平台。 |
+| 2 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14,475 | 🤖 Qwen-Agent是一个基于Qwen 3.0以上版本的智能代理框架，集成了函数调用、MCP、代码解释器、RAG和Chrome扩展等功能。 |
+| 3 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | 490 | 🤖 该项目提供了一套精炼的超级工程组件，用于帮助用户启动或升级项目，以充分利用所有Copilots的功能。 |
+| 4 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 1,503 | 🤖 CyberStrikeAI是一个集成了100多个安全工具的AI原生安全测试平台，具有智能编排、角色化测试、技能系统和生命周期管理等功能。 |
+| 5 | [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4,345 | 🤖 该项目旨在开发一种快速、简单、灵活的强化学习框架，用于大型语言模型的推理和智能体的训练。 |
+| 6 | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 737 | 🤖 该项目是一个基于Claude Code的长篇网文辅助创作系统，旨在解决AI写作中的“遗忘”和“幻觉”问题，支持大规模连载创作。 |
+| 7 | [openai/skills](https://github.com/openai/skills) | 11,721 | 🤖 该项目是一个技能目录，用于为Codex提供一个全面且结构化的技能库，以支持其代码生成和自动化编码能力。 |
+| 8 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 2,041 | 🤖 该项目是一个用于创建长篇、SEO优化的博客内容的工作空间，帮助用户研究、撰写、分析和优化内容以提高排名和满足目标受众需求。 |
+| 9 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46,270 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 10 | [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | 5,886 | 🤖 该项目允许用户直接从网站中选择代码上下文，以供编码代理使用。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 1,503 | 🤖 CyberStrikeAI是一个集成了100多个安全工具的AI原生安全测试平台，具有智能编排、角色化测试、技能系统和生命周期管理等功能。 |
+| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32,985 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 3 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 11,135 | 🤖 Gas Town是一个多代理工作空间管理器，用于管理和协调多个代理之间的工作流程和资源。 |
+| 4 | [steipete/gogcli](https://github.com/steipete/gogcli) | 5,749 | 🤖 该项目是一个Google套件的命令行接口，支持Gmail、GCal、GDrive和GContacts等服务。 |
+| 5 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | 10,792 | 🤖 该项目的核心功能是允许Terraform管理和配置AWS资源。 |
+| 6 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 2,687 | 🤖 该项目是Canopy网络协议的官方Go语言实现。 |
+| 7 | [containerd/containerd](https://github.com/containerd/containerd) | 20,467 | 🤖 containerd是一个开源且可靠的容器运行时，用于管理和执行容器。 |
+| 8 | [livekit/livekit](https://github.com/livekit/livekit) | 17,457 | 🤖 Livekit是一个实时通信栈，用于连接人类和AI，实现端到端的实时交互。 |
+| 9 | [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6,691 | 🤖 OpenTelemetry Collector是一个可扩展的代理程序，用于收集、处理和导出遥测数据（指标、日志和跟踪），支持多种数据源和目标。 |
+| 10 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 43,338 | 🤖 Mudler/LocalAI是一个免费、开源的本地人工智能项目，能够在不需要GPU的消费级硬件上运行，支持文本、音频、视频、图像、语音克隆等功能。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14,475 | 🤖 Qwen-Agent是一个基于Qwen 3.0以上版本的智能代理框架，集成了函数调用、MCP、代码解释器、RAG和Chrome扩展等功能。 |
+| 2 | [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4,345 | 🤖 该项目旨在开发一种快速、简单、灵活的强化学习框架，用于大型语言模型的推理和智能体的训练。 |
+| 3 | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 737 | 🤖 该项目是一个基于Claude Code的长篇网文辅助创作系统，旨在解决AI写作中的“遗忘”和“幻觉”问题，支持大规模连载创作。 |
+| 4 | [openai/skills](https://github.com/openai/skills) | 11,721 | 🤖 该项目是一个技能目录，用于为Codex提供一个全面且结构化的技能库，以支持其代码生成和自动化编码能力。 |
+| 5 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 2,041 | 🤖 该项目是一个用于创建长篇、SEO优化的博客内容的工作空间，帮助用户研究、撰写、分析和优化内容以提高排名和满足目标受众需求。 |
+| 6 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46,270 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 7 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 10,530 | 🤖 该项目的核心功能是实现语言模型的全自动审查内容去除。 |
+| 8 | [apache/airflow](https://github.com/apache/airflow) | 44,518 | 🤖 Apache Airflow是一个用于编写、调度和监控工作流的平台。 |
+| 9 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14,889 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 10 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,928 | 🤖 该项目提供社区贡献的指令、提示和配置，以帮助用户充分利用GitHub Copilot。 |
+
