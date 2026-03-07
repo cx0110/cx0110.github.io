@@ -73,3 +73,72 @@ image:
 | 9 | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 966 | 🤖 该项目是一个基于Claude Code的长篇网文辅助创作系统，旨在解决AI写作中的“遗忘”和“幻觉”问题，支持大规模连载创作。 |
 | 10 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 36,444 | 🤖 微舆是一个多Agent舆情分析助手，旨在打破信息茧房，实时还原舆情原貌，并预测未来走向以辅助决策。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-08 02:20 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 702 | 🤖 T3code 是一个开源的代码生成工具，帮助开发者快速生成后端 API 代码。 |
+| 2 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 592 | 🤖 Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 3 | [openai/symphony](https://github.com/openai/symphony) | 🔥 490 | 🤖 Symphony 将项目工作转化为独立的实现运行，帮助团队管理工作。 |
+| 4 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 419 | 🤖 Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。 |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 364 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 6 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 🔥 364 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama... |
+| 7 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 337 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 8 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 259 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
+| 9 | [openai/skills](https://github.com/openai/skills) | 🔥 235 | Skills Catalog for Codex |
+| 10 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 223 | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 77 | 🤖 Canopy网络协议的Go语言实现。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 103 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 81 | 🤖 该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。 |
+| 4 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 55 | 🤖 CyberStrikeAI是一个集成多种安全工具的AI安全测试平台。 |
+| 5 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 54 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 6 | [taigrr/spank](https://github.com/taigrr/spank) | 🔥 47 | Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. |
+| 7 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 45 | MCP for xiaohongshu.com |
+| 8 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 27 | Gas Town - multi-agent workspace manager |
+| 9 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 29 | Beads - A memory upgrade for your coding agent |
+| 10 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 27 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [openai/skills](https://github.com/openai/skills) | 🔥 221 | 🤖 该项目为Codex提供技能目录，帮助开发者快速找到所需技能。 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 75 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 3 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 143 | 🤖 该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。 |
+| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 169 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 5 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 90 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 6 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 🔥 133 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
+| 7 | [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) | 🔥 83 | An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology |
+| 8 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 98 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| 9 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 82 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 10 | [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | 🔥 90 | The most powerful local music generation model that outperforms most commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 563 | 🤖 Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。 |
+| 2 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 346 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 3 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 235 | 🤖 开源智能代理操作系统，实现自动化任务处理。 |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 171 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 5 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 99 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 6 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 88 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 103 | Browser automation CLI for AI agents |
+| 8 | [GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv](https://github.com/GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv) | 🔥 8 | Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarke... |
+| 9 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | 🔥 33 | Media downloader. Paste a link. Get your file. Udemy, Hotmart, Telegram and 1000+ Downloader |
+| 10 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 25 | Get 10X more out of Claude Code, Codex or any coding agent |
+
