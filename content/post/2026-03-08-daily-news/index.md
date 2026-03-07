@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-08"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-08T09:00:00+08:00
+lastmod: 2026-03-08T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-08 01:26 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 5,472 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 2 | [openai/skills](https://github.com/openai/skills) | 12,565 | 🤖 该项目是一个技能目录，用于为Codex提供一个全面且结构化的技能库，以支持其代码生成和自动化编码能力。 |
+| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 10,611 | 🤖 该项目是一个完整的AI代理机构，提供多种专业代理，每个代理都具有独特的个性、流程和成熟的交付成果。 |
+| 4 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 13,379 | 🤖 该项目提供了在Google Cloud上使用Vertex AI的Gemini进行生成式人工智能的示例代码和笔记本。 |
+| 5 | [agentjido/jido](https://github.com/agentjido/jido) | 1,380 | 🤖 该项目是一个Elixir的自主代理框架，用于构建分布式、自治的行为和动态工作流。 |
+| 6 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14,938 | 🤖 Qwen-Agent是一个基于Qwen 3.0以上版本的智能代理框架，集成了函数调用、MCP、代码解释器、RAG和Chrome扩展等功能。 |
+| 7 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46,502 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 8 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | 699 | 🤖 该项目提供了一套精炼的超级工程组件，用于帮助用户启动或升级项目，以充分利用所有Copilots的功能。 |
+| 9 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 64,513 | 🤖 AFFiNE是一个下一代的知识库，集计划、分类和创作于一体，注重隐私、开源、可定制。 |
+| 10 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 108,055 | 🤖 shadcn-ui/ui 是一个开源的、设计精美且可访问的组件集合和代码分发平台，支持多种框架。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 23,056 | 🤖 GopeedLab/gopeed是一个支持所有平台的现代下载管理器，使用Golang和Flutter开发。 |
+| 2 | [wailsapp/wails](https://github.com/wailsapp/wails) | 33,091 | 🤖 该项目允许开发者使用Go语言创建桌面应用程序。 |
+| 3 | [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 13,303 | 🤖 该项目是一个开源的MCP服务器，用于管理和操作数据库。 |
+| 4 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 10,778 | 🤖 该项目提供了一组样式定义，用于创建漂亮的终端布局。 |
+| 5 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 40,351 | 🤖 Charmbracelet/bubbletea是一个用于构建终端用户界面的强大框架。 |
+| 6 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | 7,946 | 🤖 该项目提供了一套终端用户界面（TUI）组件，用于构建Bubble Tea应用程序。 |
+| 7 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 15,753 | 🤖 Weaviate是一个开源的向量数据库，能够存储对象和向量，支持向量搜索和结构化过滤，并具有云原生数据库的容错性和可扩展性。 |
+| 8 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 3,198 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 9 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | 2,678 | 🤖 该项目实现了可靠的模型交换功能，支持在本地OpenAI/Anthropic兼容服务器（如llama.cpp、vllm等）上进行模型切换。 |
+| 10 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 1,853 | 🤖 CyberStrikeAI是一个集成了100多个安全工具的AI原生安全测试平台，具有智能编排、角色化测试、技能系统和生命周期管理等功能。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 5,473 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 2 | [openai/skills](https://github.com/openai/skills) | 12,565 | 🤖 该项目是一个技能目录，用于为Codex提供一个全面且结构化的技能库，以支持其代码生成和自动化编码能力。 |
+| 3 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14,938 | 🤖 Qwen-Agent是一个基于Qwen 3.0以上版本的智能代理框架，集成了函数调用、MCP、代码解释器、RAG和Chrome扩展等功能。 |
+| 4 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46,502 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 5 | [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy) | 3,192 | 🤖 pgmpy是一个Python库，用于因果推理和概率图模型的建模、推理和学习。 |
+| 6 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 2,914 | 🤖 该项目是一个利用AI技术全自动生成短视频的引擎。 |
+| 7 | [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) | 22,598 | 🤖 该项目实现了快速且内存高效的精确注意力机制。 |
+| 8 | [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4,511 | 🤖 该项目旨在开发一种快速、简单、灵活的强化学习框架，用于大型语言模型的推理和智能体的训练。 |
+| 9 | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 966 | 🤖 该项目是一个基于Claude Code的长篇网文辅助创作系统，旨在解决AI写作中的“遗忘”和“幻觉”问题，支持大规模连载创作。 |
+| 10 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 36,444 | 🤖 微舆是一个多Agent舆情分析助手，旨在打破信息茧房，实时还原舆情原貌，并预测未来走向以辅助决策。 |
+
