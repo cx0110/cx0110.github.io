@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-09"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-09T09:00:00+08:00
+lastmod: 2026-03-09T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-09 01:28 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 14,057 | 🤖 该项目提供了在Google Cloud上使用Vertex AI的Gemini进行生成式人工智能的示例代码和笔记本。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 6,704 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 108,524 | 🤖 shadcn-ui/ui 是一个开源的、设计精美且可访问的组件集合和代码分发平台，支持多种框架。 |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 279,798 | 🤖 该项目旨在开发一个个人AI助手，支持任何操作系统和平台，实现跨平台的智能助手功能。 |
+| 5 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 65,046 | 🤖 AFFiNE是一个下一代的知识库，集计划、分类和创作于一体，注重隐私、开源、可定制。 |
+| 6 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 2,145 | 🤖 CyberStrikeAI是一个集成了100多个安全工具的AI原生安全测试平台，具有智能编排、角色化测试、技能系统和生命周期管理等功能。 |
+| 7 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 23,728 | 🤖 该项目旨在使用Bash编写一个名为Claude Code的简单程序，实现0-1的基本功能。 |
+| 8 | [openai/skills](https://github.com/openai/skills) | 13,107 | 🤖 该项目是一个技能目录，用于为Codex提供一个全面且结构化的技能库，以支持其代码生成和自动化编码能力。 |
+| 9 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46,752 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 10 | [is-a-dev/register](https://github.com/is-a-dev/register) | 9,704 | 🤖 该项目允许用户注册并拥有自己的“.is-a.dev”子域名。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 2,145 | 🤖 CyberStrikeAI是一个集成了100多个安全工具的AI原生安全测试平台，具有智能编排、角色化测试、技能系统和生命周期管理等功能。 |
+| 2 | [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | 10,648 | 🤖 该项目是一个为GitHub设计的丰富的终端UI界面，旨在不中断用户工作流程的情况下提供便捷的GitHub操作体验。 |
+| 3 | [wailsapp/wails](https://github.com/wailsapp/wails) | 33,135 | 🤖 该项目允许开发者使用Go语言创建桌面应用程序。 |
+| 4 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 35,682 | 🤖 XTLS/Xray-core是一个开源平台，提供了一个强大的核心功能，用于实现各种网络代理和穿透技术。 |
+| 5 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | 2,703 | 🤖 该项目实现了可靠的模型交换功能，支持在本地OpenAI/Anthropic兼容服务器（如llama.cpp、vllm等）上进行模型切换。 |
+| 6 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 23,124 | 🤖 GopeedLab/gopeed是一个支持所有平台的现代下载管理器，使用Golang和Flutter开发。 |
+| 7 | [projectdiscovery/katana](https://github.com/projectdiscovery/katana) | 15,819 | 🤖 该项目是一个下一代的网页爬虫和蜘蛛框架，用于高效地爬取和抓取网络数据。 |
+| 8 | [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) | 7,888 | 🤖 该项目维护一个社区管理的域名列表，以生成V2Ray的geosite.dat文件。 |
+| 9 | [ipfs/kubo](https://github.com/ipfs/kubo) | 16,944 | 🤖 该项目是IPFS（星际文件系统）的Go语言实现，提供了一个去中心化的文件存储和共享系统。 |
+| 10 | [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) | 33,725 | 🤖 该项目是一个基于Web的文件浏览器，允许用户通过网页界面浏览和管理文件。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 6,704 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 2 | [openai/skills](https://github.com/openai/skills) | 13,107 | 🤖 该项目是一个技能目录，用于为Codex提供一个全面且结构化的技能库，以支持其代码生成和自动化编码能力。 |
+| 3 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46,752 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 4 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 3,605 | 🤖 该项目是一个非官方的Python API，用于访问和操作Google NotebookLM。 |
+| 5 | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 1,058 | 🤖 该项目是一个基于Claude Code的长篇网文辅助创作系统，旨在解决AI写作中的“遗忘”和“幻觉”问题，支持大规模连载创作。 |
+| 6 | [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | 3,212 | 🤖 该项目为ComfyUI提供LTX视频支持。 |
+| 7 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 15,169 | 🤖 Qwen-Agent是一个基于Qwen 3.0以上版本的智能代理框架，集成了函数调用、MCP、代码解释器、RAG和Chrome扩展等功能。 |
+| 8 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 10,840 | 🤖 该项目的核心功能是实现语言模型的全自动审查内容去除。 |
+| 9 | [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) | 884 | 🤖 该项目是一个自托管平台，旨在通过一个AI准备就绪的API来统一可穿戴设备的健康数据。 |
+| 10 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 5,668 | 🤖 该项目提供了65种专门技能，用于帮助全栈开发者将Claude代码转化为专家级的配对编程工具。 |
+
