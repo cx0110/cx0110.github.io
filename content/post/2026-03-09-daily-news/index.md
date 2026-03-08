@@ -73,3 +73,72 @@ image:
 | 9 | [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) | 884 | 🤖 该项目是一个自托管平台，旨在通过一个AI准备就绪的API来统一可穿戴设备的健康数据。 |
 | 10 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 5,668 | 🤖 该项目提供了65种专门技能，用于帮助全栈开发者将Claude代码转化为专家级的配对编程工具。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-09 02:20 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 🔥 970 | 🤖 Claude Code 的完整配置集合，包含代理、技能、钩子等。 |
+| 2 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 944 | 🤖 Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 3 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 700 | 🤖 T3code 是一个开源的代码生成工具，帮助开发者快速生成后端 API 代码。 |
+| 4 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 372 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 5 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 400 | 🤖 VoltAgent/awesome-openclaw-skills 项目是一个开源的技能集合。 |
+| 6 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 405 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discove... |
+| 7 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 321 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent i... |
+| 8 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 322 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 203 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 10 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 🔥 327 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 107 | 🤖 CyberStrikeAI是一个集成多种安全工具的AI安全测试平台。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 91 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 86 | 🤖 Canopy网络协议的Go语言实现。 |
+| 4 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 60 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 5 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 51 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 6 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 52 | MCP for xiaohongshu.com |
+| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 45 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 8 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 46 | High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard. |
+| 9 | [taigrr/spank](https://github.com/taigrr/spank) | 🔥 39 | Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. |
+| 10 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 25 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 342 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 204 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 3 | [openai/skills](https://github.com/openai/skills) | 🔥 231 | 🤖 该项目为Codex提供技能目录，帮助开发者快速找到所需技能。 |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 186 | 🤖 nanobot 是一个超轻量级的机器人框架。 |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 204 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 6 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 119 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 7 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 125 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 123 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 127 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 105 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 374 | 🤖 Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。 |
+| 2 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 365 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 213 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 183 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 5 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 171 | 🤖 开源智能代理操作系统，实现自动化任务处理。 |
+| 6 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 120 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 |
+| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 89 | Browser automation CLI for AI agents |
+| 8 | [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 🔥 91 | Development at the speed of light |
+| 9 | [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) | 🔥 67 |  |
+| 10 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 31 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+
