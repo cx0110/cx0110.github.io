@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-10"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-10T09:00:00+08:00
+lastmod: 2026-03-10T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-10 01:50 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 15,169 | 🤖 该项目提供了在Google Cloud上使用Vertex AI的Gemini进行生成式人工智能的示例代码和笔记本。 |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 289,266 | 🤖 该项目旨在开发一个个人AI助手，支持任何操作系统和平台，实现跨平台的智能助手功能。 |
+| 3 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 10,205 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 4 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 45,343 | 🤖 该项目是一个基于ChatGPT的对话式人工智能模型，旨在提供一个经济实惠的解决方案，仅需100美元即可拥有一个功能齐全的聊天机器人。 |
+| 5 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 37,255 | 🤖 微舆是一个多Agent舆情分析助手，旨在打破信息茧房，实时还原舆情原貌，并预测未来走向以辅助决策。 |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 2,752 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 2,772 | 🤖 该项目是一个设计语言，旨在提高人工智能在设计方面的能力。 |
+| 8 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 17,003 | 🤖 该项目是一个完整的AI代理机构，提供多种专业代理，每个代理都具有独特的个性、流程和成熟的交付成果。 |
+| 9 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 2,398 | 🤖 该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。 |
+| 10 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 3,164 | 🤖 该项目提供169个可用于Claude Code、OpenAI Codex和OpenClaw的生产就绪技能和插件。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [m1k1o/neko](https://github.com/m1k1o/neko) | 19,100 | 🤖 该项目是一个自托管的虚拟浏览器，使用Docker容器化部署，通过WebRTC实现远程浏览。 |
+| 2 | [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | 10,713 | 🤖 该项目是一个为GitHub设计的丰富的终端UI界面，旨在不中断用户工作流程的情况下提供便捷的GitHub操作体验。 |
+| 3 | [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) | 33,765 | 🤖 该项目是一个基于Web的文件浏览器，允许用户通过网页界面浏览和管理文件。 |
+| 4 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 2,580 | 🤖 CyberStrikeAI是一个集成了100多个安全工具的AI原生安全测试平台，具有智能编排、角色化测试、技能系统和生命周期管理等功能。 |
+| 5 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 4,931 | 🤖 该项目提供了一种现代化的Docker管理方式，旨在让所有人都能轻松使用和管理Docker。 |
+| 6 | [google/gvisor](https://github.com/google/gvisor) | 17,845 | 🤖 Google/gvisor是一个运行在用户空间的应用程序内核，用于为容器提供安全性和隔离性。 |
+| 7 | [grafana/pyroscope](https://github.com/grafana/pyroscope) | 11,278 | 🤖 Grafana/Pyroscope是一个连续性能分析平台，能够帮助开发者调试代码中的性能问题，精确到单行代码。 |
+| 8 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 23,167 | 🤖 GopeedLab/gopeed是一个支持所有平台的现代下载管理器，使用Golang和Flutter开发。 |
+| 9 | [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 6,697 | 🤖 Hatchet-dev/hatchet是一个用于大规模运行后台任务的项目。 |
+| 10 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 80,653 | 🤖 Syncthing是一个开源的持续文件同步工具，实现多设备之间的自动文件同步。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 10,205 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 2 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 45,343 | 🤖 该项目是一个基于ChatGPT的对话式人工智能模型，旨在提供一个经济实惠的解决方案，仅需100美元即可拥有一个功能齐全的聊天机器人。 |
+| 3 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 37,255 | 🤖 微舆是一个多Agent舆情分析助手，旨在打破信息茧房，实时还原舆情原貌，并预测未来走向以辅助决策。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 2,752 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 5 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 3,164 | 🤖 该项目提供169个可用于Claude Code、OpenAI Codex和OpenClaw的生产就绪技能和插件。 |
+| 6 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 4,089 | 🤖 该项目是一个非官方的Python API，用于访问和操作Google NotebookLM。 |
+| 7 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 47,093 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 8 | [strands-agents/samples](https://github.com/strands-agents/samples) | 680 | 🤖 该项目提供了使用Strands Agents SDK构建的智能代理样例。 |
+| 9 | [exo-explore/exo](https://github.com/exo-explore/exo) | 42,396 | 🤖 该项目允许用户使用日常设备（如手机、电脑、手表等）在家中搭建和运行自己的AI集群。 |
+| 10 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 6,191 | 🤖 Blaizzy/mlx-audio是一个基于苹果MLX框架的语音处理库，支持文本转语音、语音转文本和语音转语音功能。 |
+
