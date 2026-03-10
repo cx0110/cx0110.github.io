@@ -73,3 +73,72 @@ image:
 | 9 | [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | 361 | 🤖 Sirchmunk项目旨在将原始数据转化为自我进化的智能，实现实时处理和分析。 |
 | 10 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 5,594 | 🤖 OpenViking是一个开源的上下文数据库，通过文件系统范式统一管理AI代理所需的上下文（内存、资源和技能），实现分层上下文交付和自我演化。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-11 02:35 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 1059 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 779 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 391 | 🤖 Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 4 | [andrewyng/context-hub](https://github.com/andrewyng/context-hub) | 🔥 345 | 🤖 Context Hub 是一个开源项目，提供了一个集中式的上下文管理系统。 |
+| 5 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 313 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 6 | [jundot/omlx](https://github.com/jundot/omlx) | 🔥 285 | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
+| 7 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 🔥 250 | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handle... |
+| 8 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 233 | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 |
+| 9 | [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) | 🔥 237 | Perfect Green Screen Keys |
+| 10 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 196 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discove... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 108 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 92 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 74 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 4 | [m1k1o/neko](https://github.com/m1k1o/neko) | 🔥 113 | 🤖 一个自托管的虚拟浏览器，使用Docker和WebRTC技术。 |
+| 5 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 55 | 🤖 CyberStrikeAI是一个集成多种安全工具的AI安全测试平台。 |
+| 6 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 62 | The official go implementation of the Canopy Network protocol |
+| 7 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 37 | High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard. |
+| 8 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 35 | MCP for xiaohongshu.com |
+| 9 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 25 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 10 | [steipete/gogcli](https://github.com/steipete/gogcli) | 🔥 21 | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 759 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 2 | [jundot/omlx](https://github.com/jundot/omlx) | 🔥 278 | 🤖 该项目是一个LLM推理服务器，支持连续批处理和SSD缓存，适用于苹果芯片设备。 |
+| 3 | [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) | 🔥 220 | 🤖 该项目为视频提供完美的绿幕抠图功能。 |
+| 4 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 🔥 142 | 🤖 该项目提供169个可用的技能和插件，用于Claude Code、OpenAI Codex和OpenClaw。 |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🔥 165 | 🤖 D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。 |
+| 6 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 🔥 137 | The best ChatGPT that $100 can buy. |
+| 7 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 🔥 157 | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| 8 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 133 | The agent that grows with you |
+| 9 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 🔥 127 | The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including o... |
+| 10 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 125 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 401 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 2 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 162 | 🤖 Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。 |
+| 3 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 181 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 4 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 117 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 5 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 105 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 6 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 101 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 7 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 84 | Open-source Agent Operating System |
+| 8 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 59 | Browser automation CLI for AI agents |
+| 9 | [baker42757/15min-crypto-polymarket-trading-bot](https://github.com/baker42757/15min-crypto-polymarket-trading-bot) | 🔥 17 | Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This ... |
+| 10 | [jshachm/pi-rs](https://github.com/jshachm/pi-rs) | 🔥 24 | 基于pi-mono，rust轻量化版本 |
+
