@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-11"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-11T09:00:00+08:00
+lastmod: 2026-03-11T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-11 01:51 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 23,734 | 🤖 该项目是一个完整的AI代理机构，提供多种专业代理，每个代理都具有独特的个性、流程和成熟的交付成果。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 13,731 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 3,489 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 11,785 | 🤖 该项目是一个用于测试和评估大语言模型（LLM）安全性和性能的平台，支持多种模型如GPT、Claude、Gemini、Llama等。 |
+| 5 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 15,619 | 🤖 该项目提供了在Google Cloud上使用Vertex AI的Gemini进行生成式人工智能的示例代码和笔记本。 |
+| 6 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 47,403 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 7 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 46,069 | 🤖 该项目是一个基于ChatGPT的对话式人工智能模型，旨在提供一个经济实惠的解决方案，仅需100美元即可拥有一个功能齐全的聊天机器人。 |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | 76,270 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 9 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 3,333 | 🤖 该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。 |
+| 10 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | 2,118 | 🤖 IPED是一款开源的数字取证工具，用于处理和分析数字证据。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 4,336 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 2 | [docker/docker-agent](https://github.com/docker/docker-agent) | 2,263 | 🤖 该项目是一个由Docker工程团队开发的AI智能代理构建和运行工具。 |
+| 3 | [spf13/cobra](https://github.com/spf13/cobra) | 43,464 | 🤖 该项目提供了一个现代化的Go语言命令行接口（CLI）框架，用于构建和管理命令行应用程序。 |
+| 4 | [m1k1o/neko](https://github.com/m1k1o/neko) | 19,529 | 🤖 该项目是一个自托管的虚拟浏览器，使用Docker容器化部署，通过WebRTC实现远程浏览。 |
+| 5 | [pingcap/tidb](https://github.com/pingcap/tidb) | 39,935 | 🤖 TiDB 是一个开源的、云原生的、分布式 SQL 数据库，旨在支持现代应用程序。 |
+| 6 | [uber-go/zap](https://github.com/uber-go/zap) | 24,442 | 🤖 该项目提供了一个快速、结构化和分级的日志记录库，用于Go语言。 |
+| 7 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 43,302 | 🤖 Milvus是一个高性能、云原生的向量数据库，用于大规模向量近似最近邻（ANN）搜索。 |
+| 8 | [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) | 9,650 | 🤖 httpx是一个快速且多功能的HTTP工具包，允许使用retryablehttp库运行多个探测。 |
+| 9 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 3,191 | 🤖 该项目是一个多模型协作开发工具集，整合了多个后端能力，提供了包括智能路由、代码审查、Git 工具等在内的 17+ 个命令。 |
+| 10 | [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | 13,497 | 🤖 Cloudflare Tunnel 客户端（cloudflared）是一个连接本地网络和Cloudflare服务的隧道客户端，实现安全、快速和可靠的互联网访问。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 13,731 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 3,489 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 3 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 47,403 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 4 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 46,069 | 🤖 该项目是一个基于ChatGPT的对话式人工智能模型，旨在提供一个经济实惠的解决方案，仅需100美元即可拥有一个功能齐全的聊天机器人。 |
+| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 28,304 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 6 | [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) | 4,636 | 🤖 FastF1是一个Python包，用于访问和分析一级方程式赛车的结果、赛程、计时数据和遥测数据。 |
+| 7 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 37,842 | 🤖 微舆是一个多Agent舆情分析助手，旨在打破信息茧房，实时还原舆情原貌，并预测未来走向以辅助决策。 |
+| 8 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 20,530 | 🤖 AstrBot是一个集成多个即时通讯平台、语言模型、插件和AI功能的聊天机器人基础设施。 |
+| 9 | [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | 361 | 🤖 Sirchmunk项目旨在将原始数据转化为自我进化的智能，实现实时处理和分析。 |
+| 10 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 5,594 | 🤖 OpenViking是一个开源的上下文数据库，通过文件系统范式统一管理AI代理所需的上下文（内存、资源和技能），实现分层上下文交付和自我演化。 |
+
