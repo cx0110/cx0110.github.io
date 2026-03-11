@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2026-03-12"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-12T09:00:00+08:00
+lastmod: 2026-03-12T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-12 01:51 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 29,152 | 🤖 该项目是一个完整的AI代理机构，提供多种专业代理，每个代理都具有独特的个性、流程和成熟的交付成果。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 16,472 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 12,443 | 🤖 该项目是一个用于测试和评估大语言模型（LLM）安全性和性能的平台，支持多种模型如GPT、Claude、Gemini、Llama等。 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 77,750 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 5 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 25,658 | 🤖 该项目是一个开源的、最先进的文本转语音（TTS）系统。 |
+| 6 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 48,045 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 7 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 4,542 | 🤖 该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。 |
+| 8 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 4,958 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 9 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 20,946 | 🤖 AstrBot是一个集成多个即时通讯平台、语言模型、插件和AI功能的聊天机器人基础设施。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 3,295 | 🤖 该项目是一个多模型协作开发工具集，整合了多个后端能力，提供了包括智能路由、代码审查、Git 工具等在内的 17+ 个命令。 |
+| 2 | [docker/docker-agent](https://github.com/docker/docker-agent) | 2,335 | 🤖 该项目是一个由Docker工程团队开发的AI智能代理构建和运行工具。 |
+| 3 | [nats-io/nats-server](https://github.com/nats-io/nats-server) | 19,316 | 🤖 该项目是一个高性能的NATS服务器，用于提供云原生和边缘计算环境下的消息传递服务。 |
+| 4 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 22,334 | 🤖 Argo CD 是一个 Kubernetes 的声明式持续部署工具，用于自动化应用程序的部署和管理。 |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 4,520 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 6 | [gravitational/teleport](https://github.com/gravitational/teleport) | 19,994 | 🤖 该项目提供了一种简单且安全的方式来访问和保护所有基础设施。 |
+| 7 | [m1k1o/neko](https://github.com/m1k1o/neko) | 19,739 | 🤖 该项目是一个自托管的虚拟浏览器，使用Docker容器化部署，通过WebRTC实现远程浏览。 |
+| 8 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 73,985 | 🤖 Lazygit是一个简单的终端UI工具，用于简化和可视化Git命令的操作。 |
+| 9 | [anchore/grype](https://github.com/anchore/grype) | 11,704 | 🤖 该项目是一个用于扫描容器镜像和文件系统中漏洞的扫描器。 |
+| 10 | [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | 10,819 | 🤖 该项目是一个基于Web的Nginx配置管理界面。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 16,472 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 2 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 25,658 | 🤖 该项目是一个开源的、最先进的文本转语音（TTS）系统。 |
+| 3 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 48,045 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 4,958 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 20,946 | 🤖 AstrBot是一个集成多个即时通讯平台、语言模型、插件和AI功能的聊天机器人基础设施。 |
+| 6 | [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | 405 | 🤖 Sirchmunk项目旨在将原始数据转化为自我进化的智能，实现实时处理和分析。 |
+| 7 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 756 | 🤖 OpenRAG是一个基于Langflow、Docling和Opensearch的全方位检索增强生成平台。 |
+| 8 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 38,108 | 🤖 微舆是一个多Agent舆情分析助手，旨在打破信息茧房，实时还原舆情原貌，并预测未来走向以辅助决策。 |
+| 9 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 46,563 | 🤖 该项目是一个基于ChatGPT的对话式人工智能模型，旨在提供一个经济实惠的解决方案，仅需100美元即可拥有一个功能齐全的聊天机器人。 |
+| 10 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 2,579 | 🤖 Hindsight是一个能够学习的智能体记忆系统，用于增强智能体的决策能力。 |
+
