@@ -4,9 +4,9 @@ authors:
 date: 2021-09-07 10:00:00
 image:
   filename: go-logo.png
-tags:
-- Golang
-- Web
+tags:tags:
+  - Golang
+  - Web
 title: Onion Model 洋葱模型
 ---
 

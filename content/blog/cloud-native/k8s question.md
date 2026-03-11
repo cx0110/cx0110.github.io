@@ -4,13 +4,12 @@ subtitle: "K8s故障排除与问题解决"
 summary: "Kubernetes集群运维中的常见问题、故障排除方法和解决方案"
 authors:
   - admin
-tags:
-  - Kubernetes
-  - 故障排除
+tags:tags:
+  - 云原生
   - 问题解决
   - 运维
 categories:
-  - Cloud Native
+  - 云原生
 date: 2022-01-24T08:24:00+08:00
 lastmod: 2025-12-24T10:00:00+08:00
 featured: false

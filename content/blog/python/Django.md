@@ -4,10 +4,9 @@ subtitle: "Python Django Web框架实践"
 summary: "深入学习Django Web框架，包括项目创建、模型设计、视图开发和部署实践"
 authors:
   - admin
-tags:
+tags:tags:
   - Python
-  - Django
-  - Web框架
+  - Web
   - 后端开发
 categories:
   - Python

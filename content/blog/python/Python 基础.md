@@ -4,10 +4,9 @@ subtitle: "Python编程语言基础教程"
 summary: "Python编程语言的基础知识，包括语法、数据类型、控制结构和面向对象编程"
 authors:
   - admin
-tags:
+tags:tags:
   - Python
-  - 基础教程
-  - 编程语言
+  - 教程
 categories:
   - Python
 date: 2022-01-19T08:04:00+08:00

@@ -4,11 +4,10 @@ subtitle: ""
 summary: ""
 authors:
   - admin
-tags:
-  - golang
+tags:tags:
+  - Golang
 categories:
-  - 技术博客
-date: 2026-01-10T23:21:38+08:00
+  date: 2026-01-10T23:21:38+08:00
 lastmod: 2026-01-10T23:21:38+08:00
 featured: false
 draft: false

@@ -4,11 +4,9 @@ subtitle: "Linux系统管理实用脚本集合"
 summary: "收集整理Linux系统管理中常用的Shell脚本，包括系统监控、自动化部署和运维工具"
 authors:
   - admin
-tags:
+tags:tags:
   - Linux
-  - Shell脚本
-  - 系统管理
-  - 自动化
+  - AI
 categories:
   - Linux
 date: 2022-01-09T21:56:39+08:00

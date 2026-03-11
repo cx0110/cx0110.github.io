@@ -6,8 +6,8 @@ image:
   filename: rust-logo.svg
   focal_point: Smart
   preview_only: false
-tags:
-- Rust
+tags:tags:
+  - Rust
 title: Rust 编程第一课-基础篇
 ---
 

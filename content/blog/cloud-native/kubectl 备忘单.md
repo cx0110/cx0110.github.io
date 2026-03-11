@@ -4,8 +4,8 @@ authors:
 date: 2022-01-06 15:17:12
 image:
   filename: kubernetes-logo.svg
-tags:
-- Kubernetes
+tags:tags:
+  - 云原生
 title: 常用的 “kubectl” 命令和标志
 ---
 

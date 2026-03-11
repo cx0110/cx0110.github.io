@@ -4,11 +4,9 @@ subtitle: "Go语言设计模式实践"
 summary: "深入学习Go语言中的设计模式实现，包括创建型、结构型和行为型模式的Go语言实践"
 authors:
   - admin
-tags:
+tags:tags:
   - Golang
-  - 设计模式
   - 架构
-  - 最佳实践
 categories:
   - Golang
 date: 2022-06-22T15:43:40+08:00

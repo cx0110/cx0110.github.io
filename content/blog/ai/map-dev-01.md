@@ -6,12 +6,10 @@ authors:
   - admin
 tags:
   - MCP
-  - Go
-  - LLM
-  - AI Agent
-  - Model Context Protocol
+  - Golang
+  - AI
 categories:
-  - AI & Machine Learning
+  - AI
 date: 2026-03-07T10:00:00+08:00
 lastmod: 2026-03-07T10:00:00+08:00
 featured: true

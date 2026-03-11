@@ -4,9 +4,8 @@ subtitle: "Go语言常见问题与解决方案"
 summary: "收集整理Go语言开发中常见的Bug和问题，提供详细的解决方案和最佳实践"
 authors:
   - admin
-tags:
+tags:tags:
   - Golang
-  - Bug
   - 调试
   - 问题解决
 categories:

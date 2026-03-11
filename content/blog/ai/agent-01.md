@@ -5,14 +5,10 @@ summary: "深入解析 AI Agent 的核心概念、系统架构与关键能力，
 authors:
   - admin
 tags:
-  - AI Agent
-  - LLM
-  - Autonomous Systems
   - AI
   - LangChain
-  - AutoGPT
 categories:
-  - AI & Machine Learning
+  - AI
 date: 2026-03-07T10:00:00+08:00
 lastmod: 2026-03-07T10:00:00+08:00
 featured: true

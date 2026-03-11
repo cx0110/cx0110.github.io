@@ -4,11 +4,8 @@ subtitle: "探索Go语言最新版本的重要更新和改进"
 summary: "深入分析Go 1.23版本的新特性，包括泛型增强、性能优化、标准库更新和工具链改进"
 authors:
   - admin
-tags:
+tags:tags:
   - Golang
-  - Go 1.23
-  - 新特性
-  - 泛型
   - 性能优化
 categories:
   - Golang

@@ -6,8 +6,8 @@ image:
   filename: python-logo.svg
   focal_point: Smart
   preview_only: false
-tags:
-- Python
+tags:tags:
+  - Python
 title: Python核心技术与实战-基础篇
 ---
 

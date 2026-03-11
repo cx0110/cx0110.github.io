@@ -4,13 +4,10 @@ subtitle: "本地Kubernetes开发环境搭建"
 summary: "使用Minikube搭建本地Kubernetes开发环境，包括安装、配置和基本使用"
 authors:
   - admin
-tags:
-  - Minikube
-  - Kubernetes
-  - 本地开发
-  - 容器
+tags:tags:
+  - 云原生
 categories:
-  - Cloud Native
+  - 云原生
 date: 2022-04-24T16:26:08+08:00
 lastmod: 2025-12-24T10:00:00+08:00
 featured: false

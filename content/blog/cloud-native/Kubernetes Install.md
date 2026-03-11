@@ -4,13 +4,12 @@ subtitle: "Kubernetes集群安装与配置"
 summary: "详细的Kubernetes集群安装指南，包括系统准备、组件安装和集群配置"
 authors:
   - admin
-tags:
-  - Kubernetes
-  - 安装
-  - 集群
+tags:tags:
+  - 云原生
+  - 教程
   - 运维
 categories:
-  - Cloud Native
+  - 云原生
 date: 2021-10-25T11:25:09+08:00
 lastmod: 2025-12-24T10:00:00+08:00
 featured: false

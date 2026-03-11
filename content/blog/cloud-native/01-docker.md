@@ -4,8 +4,8 @@ authors:
 date: 2022-01-11 08:00:00
 image:
   filename: python-logo.svg
-tags:
-- Kubernetes
+tags:tags:
+  - 云原生
 title: K8S-M-Docker
 ---
 

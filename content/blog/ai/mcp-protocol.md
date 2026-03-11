@@ -6,11 +6,9 @@ authors:
   - admin
 tags:
   - MCP
-  - Protocol
-  - AI工具
-  - Claude
+  - AI
 categories:
-  - AI & Machine Learning
+  - AI
 date: 2025-12-24T12:00:00+08:00
 lastmod: 2025-12-24T12:00:00+08:00
 featured: true

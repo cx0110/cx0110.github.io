@@ -4,10 +4,9 @@ subtitle: "Linux系统配置与初始化指南"
 summary: "Linux系统的初始化配置，包括系统设置、服务配置和环境优化"
 authors:
   - admin
-tags:
+tags:tags:
   - Linux
-  - 系统配置
-  - 初始化
+  - 教程
   - 运维
 categories:
   - Linux

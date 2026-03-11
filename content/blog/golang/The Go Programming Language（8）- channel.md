@@ -4,8 +4,8 @@ authors:
 date: 2020-11-22 10:00:00
 image:
   filename: go-logo.png
-tags:
-- GoLearn
+tags:tags:
+  - Golang
 title: The Go Programming Language（8）- channel
 ---
 

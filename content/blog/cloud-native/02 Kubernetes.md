@@ -4,8 +4,8 @@ authors:
 date: 2022-01-07 15:33:06
 image:
   filename: python-logo.svg
-tags:
-- Kubernetes
+tags:tags:
+  - 云原生
 title: 02 Kubernetes
 ---
 

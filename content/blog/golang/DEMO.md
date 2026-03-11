@@ -4,9 +4,8 @@ authors:
 date: 2021-09-08 10:00:00
 image:
   filename: go-logo.png
-tags:
-- golang
-- web
+tags:tags:
+  - Golang
 title: Go Web
 ---
 

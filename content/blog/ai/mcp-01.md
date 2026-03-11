@@ -6,12 +6,9 @@ authors:
   - admin
 tags:
   - MCP
-  - LLM
-  - AI Agent
-  - AI Infrastructure
-  - Protocol
+  - AI
 categories:
-  - AI & Machine Learning
+  - AI
 date: 2025-12-24T10:00:00+08:00
 lastmod: 2025-12-24T10:00:00+08:00
 featured: true

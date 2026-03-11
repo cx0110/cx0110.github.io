@@ -7,10 +7,9 @@ authors:
 tags:
   - LangGraph
   - LangChain
-  - AI工作流
-  - 多智能体
+  - AI
 categories:
-  - AI & Machine Learning
+  - AI
 date: 2025-12-24T11:00:00+08:00
 lastmod: 2025-12-24T11:00:00+08:00
 featured: true

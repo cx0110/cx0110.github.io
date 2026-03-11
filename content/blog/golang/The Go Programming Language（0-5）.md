@@ -4,11 +4,9 @@ subtitle: "Go语言基础入门"
 summary: "Go程序设计语言教程的前5章内容，包括基础语法、数据类型和程序结构"
 authors:
   - admin
-tags:
+tags:tags:
   - Golang
   - 教程
-  - 基础语法
-  - 编程语言
 categories:
   - Golang
 date: 2020-11-20T10:00:00+08:00

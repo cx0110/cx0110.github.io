@@ -4,11 +4,9 @@ subtitle: "Go语言系统学习指南"
 summary: "Go语言100天学习计划，包括基础语法、高级特性和实战项目"
 authors:
   - admin
-tags:
+tags:tags:
   - Golang
-  - 学习计划
-  - 基础教程
-  - 编程语言
+  - 教程
 categories:
   - Golang
 date: 2020-11-05T10:00:00+08:00

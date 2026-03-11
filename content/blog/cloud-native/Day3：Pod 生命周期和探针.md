@@ -4,13 +4,10 @@ subtitle: "Kubernetes Pod 状态管理与健康检查"
 summary: "深入了解 Kubernetes Pod 的生命周期、状态管理、探针配置和重启策略"
 authors:
   - admin
-tags:
-  - Kubernetes
-  - Pod
-  - 探针
-  - 生命周期
+tags:tags:
+  - 云原生
 categories:
-  - Cloud Native
+  - 云原生
 date: 2022-02-24T08:35:11+08:00
 lastmod: 2025-12-24T10:00:00+08:00
 featured: false

@@ -4,10 +4,8 @@ subtitle: "Go语言高级编程技巧与实践"
 summary: "深入Go语言内部机制，包括常见数据结构实现原理、并发编程和性能优化"
 authors:
   - admin
-tags:
+tags:tags:
   - Golang
-  - 高级编程
-  - 数据结构
   - 并发编程
 categories:
   - Golang

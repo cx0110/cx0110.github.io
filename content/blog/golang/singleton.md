@@ -4,8 +4,8 @@ authors:
 date: 2021-08-07 10:00:00
 image:
   filename: go-logo.png
-tags:
-- Design Parttern
+tags:tags:
+  - 架构
 title: GO 设计模式
 ---
 
