@@ -72,3 +72,72 @@ image:
 | 9 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 46,563 | 🤖 该项目是一个基于ChatGPT的对话式人工智能模型，旨在提供一个经济实惠的解决方案，仅需100美元即可拥有一个功能齐全的聊天机器人。 |
 | 10 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 2,579 | 🤖 Hindsight是一个能够学习的智能体记忆系统，用于增强智能体的决策能力。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-12 02:41 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 1038 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 550 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 385 | 🤖 Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 237 | 🤖 Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 5 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🔥 230 | 🤖 VoltAgent/awesome-openclaw-skills 项目是一个开源的技能集合。 |
+| 6 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 231 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 7 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 🔥 185 | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handle... |
+| 8 | [andrewyng/context-hub](https://github.com/andrewyng/context-hub) | 🔥 198 |  |
+| 9 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 167 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discove... |
+| 10 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 158 | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all wit... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 82 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 78 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 72 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 52 | 🤖 该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。 |
+| 5 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 36 | 🤖 小红书的内容管理平台。 |
+| 6 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 33 | MCP server that indexes your codebase into a persistent knowledge graph. 35 languages, sub-ms queries, 99% fewer tokens than grep. Single Go binary... |
+| 7 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 26 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+| 8 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 47 | The official go implementation of the Canopy Network protocol |
+| 9 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 29 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 10 | [mem9-ai/mem9](https://github.com/mem9-ai/mem9) | 🔥 23 |  |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 515 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 220 | 🤖 Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 3 | [jundot/omlx](https://github.com/jundot/omlx) | 🔥 153 | 🤖 该项目是一个LLM推理服务器，支持连续批处理和SSD缓存，适用于苹果芯片设备。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 67 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 🔥 110 | 🤖 一个低成本的ChatGPT聊天机器人项目。 |
+| 6 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 96 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 7 | [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) | 🔥 111 | Perfect Green Screen Keys |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 81 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 83 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 77 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 195 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 2 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 192 | 🤖 Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。 |
+| 3 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 125 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 4 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 99 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 5 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 101 | 🤖 IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。 |
+| 6 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 92 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 7 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 58 | Open-source Agent Operating System |
+| 8 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 42 | Browser automation CLI for AI agents |
+| 9 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 21 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 10 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 🔥 12 | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. |
+
