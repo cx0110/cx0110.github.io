@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-13"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-13T09:00:00+08:00
+lastmod: 2026-03-13T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-13 01:52 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 31,799 | 🤖 微软的BitNet项目是一个针对1位超大语言模型（LLM）的官方推理框架。 |
+| 2 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26,243 | 🤖 该项目是一个开源的、最先进的文本转语音（TTS）系统。 |
+| 3 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 1,338 | 🤖 OpenRAG是一个基于Langflow、Docling和Opensearch的全方位检索增强生成平台。 |
+| 4 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | 2,813 | 🤖 InsForge项目为开发者提供了一个全栈应用的后端解决方案，旨在让开发者能够快速构建和部署完整的应用。 |
+| 5 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 2,912 | 🤖 Hindsight是一个能够学习的智能体记忆系统，用于增强智能体的决策能力。 |
+| 6 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 5,710 | 🤖 该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。 |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 79,556 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 8 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 5,974 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 9 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 18,146 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 10 | [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | 1,612 | 🤖 LiteRT是一个高性能的边缘设备机器学习和通用人工智能部署框架，能够高效地转换、运行和优化模型。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 3,363 | 🤖 该项目是一个多模型协作开发工具集，整合了多个后端能力，提供了包括智能路由、代码审查、Git 工具等在内的 17+ 个命令。 |
+| 2 | [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 6,554 | 🤖 该项目是一个基于Web的文件浏览器，允许用户通过网页界面浏览和管理文件。 |
+| 3 | [gravitational/teleport](https://github.com/gravitational/teleport) | 20,005 | 🤖 该项目提供了一种简单且安全的方式来访问和保护所有基础设施。 |
+| 4 | [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | 14,016 | 🤖 该项目是一个反向代理服务器，提供与Google、Azure、OpenID Connect等多个身份提供商的身份验证功能。 |
+| 5 | [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) | 16,513 | 🤖 Argo Workflows是一个基于Kubernetes的工作流引擎，用于管理和自动化复杂的工作流程。 |
+| 6 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 15,809 | 🤖 Open-IM-Server是一个开源的即时通讯服务器，支持多平台和多协议，提供实时聊天、消息推送和其他IM相关功能。 |
+| 7 | [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | 3,358 | 🤖 该项目的核心功能是开发一种智能路由器，用于管理和优化多模型的混合使用。 |
+| 8 | [docker/docker-agent](https://github.com/docker/docker-agent) | 2,402 | 🤖 该项目是一个由Docker工程团队开发的AI智能代理构建和运行工具。 |
+| 9 | [junegunn/fzf](https://github.com/junegunn/fzf) | 78,594 | 🤖 junegunn/fzf是一个命令行模糊搜索工具，允许用户快速搜索和查找文件、命令和其他内容。 |
+| 10 | [fleetdm/fleet](https://github.com/fleetdm/fleet) | 6,136 | 🤖 Fleet 是一个开源的设备管理平台，用于远程管理和监控设备，包括设备注册、软件更新、安全扫描和事件日志等功能。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 31,799 | 🤖 微软的BitNet项目是一个针对1位超大语言模型（LLM）的官方推理框架。 |
+| 2 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26,243 | 🤖 该项目是一个开源的、最先进的文本转语音（TTS）系统。 |
+| 3 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 1,338 | 🤖 OpenRAG是一个基于Langflow、Docling和Opensearch的全方位检索增强生成平台。 |
+| 4 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 2,912 | 🤖 Hindsight是一个能够学习的智能体记忆系统，用于增强智能体的决策能力。 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 5,974 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 6 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 18,146 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 7 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 10,096 | 🤖 该项目是一个Anthropic官方管理的高质量Claude代码插件目录。 |
+| 8 | [anthropics/skills](https://github.com/anthropics/skills) | 91,699 | 🤖 该项目是一个公共仓库，用于存储和开发智能代理的技能。 |
+| 9 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 48,763 | 🤖 该项目是一个基于AI的舆情监控分析工具，能够监控多个平台的热点新闻资讯，并提供智能筛选、自动推送和深度分析等功能。 |
+| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 29,757 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+
