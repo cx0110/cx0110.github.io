@@ -73,3 +73,72 @@ image:
 | 9 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 6,630 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
 | 10 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 21,312 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-14 02:29 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 1071 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 528 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 3 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 507 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🔥 372 | 🤖 该项目是一个设计语言，帮助人工智能更好地理解设计。 |
+| 5 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 355 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 6 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 🔥 364 | Official inference framework for 1-bit LLMs |
+| 7 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 311 | Open-source orchestration for zero-human companies |
+| 8 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 314 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 9 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 🔥 313 | Lightpanda: the headless browser designed for AI and automation |
+| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 🔥 292 | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, L... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 71 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 64 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 62 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 51 | 🤖 该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。 |
+| 5 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 38 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 6 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 24 | Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. |
+| 7 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 45 | The official go implementation of the Canopy Network protocol |
+| 8 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 20 | Beads - A memory upgrade for your coding agent |
+| 9 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 21 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005 |
+| 10 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 17 | MCP for xiaohongshu.com |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 503 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 2 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 481 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 3 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 353 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 4 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 🔥 355 | 🤖 微软的BitNet项目是一个用于1位超大语言模型的官方推理框架。 |
+| 5 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 222 | 🤖 该项目实现了语言模型的自动审查内容去除功能。 |
+| 6 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 🔥 225 | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨ |
+| 7 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 🔥 171 | The best ChatGPT that $100 can buy. |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 83 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 9 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 🔥 154 | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.  |
+| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 143 | The agent that grows with you |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 126 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 2 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 105 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 3 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 108 | 🤖 Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。 |
+| 4 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 85 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 63 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 6 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 51 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 7 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 49 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 8 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 49 | Open-source Agent Operating System |
+| 9 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 30 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 10 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 🔥 20 | Fast File Finder for your AI and neovim, with memory built-in |
+
