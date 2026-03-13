@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-14"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-14T09:00:00+08:00
+lastmod: 2026-03-14T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-14 01:39 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 33,620 | 🤖 微软的BitNet项目是一个针对1位超大语言模型（LLM）的官方推理框架。 |
+| 2 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2,093 | 🤖 OpenRAG是一个基于Langflow、Docling和Opensearch的全方位检索增强生成平台。 |
+| 3 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 15,002 | 🤖 Lightpanda是一个无头浏览器，专为人工智能和自动化而设计。 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 81,573 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 5 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 409,158 | 🤖 该项目收集并整理了一份免费API的清单，供开发者使用。 |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 14,940 | 🤖 该项目是一个用于测试和评估大语言模型（LLM）安全性和性能的平台，支持多种模型如GPT、Claude、Gemini、Llama等。 |
+| 7 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 39,094 | 🤖 该项目是一个完整的AI代理机构，提供多种专业代理，每个代理都具有独特的个性、流程和成熟的交付成果。 |
+| 8 | [dolthub/dolt](https://github.com/dolthub/dolt) | 20,969 | 🤖 Dolt是一个用于管理和版本控制数据的工具，类似于Git，但专门针对数据而设计。 |
+| 9 | [google/A2UI](https://github.com/google/A2UI) | 12,975 | 🤖 Google的A2UI项目是一个用于构建和管理Android应用程序用户界面的框架。 |
+| 10 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26,737 | 🤖 该项目是一个开源的、最先进的文本转语音（TTS）系统。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [dolthub/dolt](https://github.com/dolthub/dolt) | 20,969 | 🤖 Dolt是一个用于管理和版本控制数据的工具，类似于Git，但专门针对数据而设计。 |
+| 2 | [keploy/keploy](https://github.com/keploy/keploy) | 16,280 | 🤖 Keploy是一个API、集成和端到端测试代理，能够自动生成测试用例、模拟和存根，帮助开发者高效测试API。 |
+| 3 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 11,997 | 🤖 Gas Town是一个多代理工作空间管理器，用于管理和协调多个代理之间的工作流程和资源。 |
+| 4 | [docker/docker-agent](https://github.com/docker/docker-agent) | 2,431 | 🤖 该项目是一个由Docker工程团队开发的AI智能代理构建和运行工具。 |
+| 5 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 18,088 | 🤖 Waveterm 是一个开源、跨平台的终端模拟器，旨在为用户提供无缝的工作流体验。 |
+| 6 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 74,108 | 🤖 Lazygit是一个简单的终端UI工具，用于简化和可视化Git命令的操作。 |
+| 7 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 13,244 | 🤖 ZITADEL是一个简化的身份认证基础设施项目，提供统一的身份管理和认证服务。 |
+| 8 | [usememos/memos](https://github.com/usememos/memos) | 57,827 | 🤖 usememos/memos 是一个开源的、自托管的笔记服务，允许用户完全控制自己的数据和笔记。 |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 5,135 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 10 | [authelia/authelia](https://github.com/authelia/authelia) | 27,174 | 🤖 Authelia是一个单点登录和多因素认证门户，用于保护Web应用程序。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 33,620 | 🤖 微软的BitNet项目是一个针对1位超大语言模型（LLM）的官方推理框架。 |
+| 2 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2,093 | 🤖 OpenRAG是一个基于Langflow、Docling和Opensearch的全方位检索增强生成平台。 |
+| 3 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 409,158 | 🤖 该项目收集并整理了一份免费API的清单，供开发者使用。 |
+| 4 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26,737 | 🤖 该项目是一个开源的、最先进的文本转语音（TTS）系统。 |
+| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 10,670 | 🤖 该项目是一个Anthropic官方管理的高质量Claude代码插件目录。 |
+| 6 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 23,657 | 🤖 AstrBot是一个集成多个即时通讯平台、语言模型、插件和AI功能的聊天机器人基础设施。 |
+| 7 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 3,491 | 🤖 Hindsight是一个能够学习的智能体记忆系统，用于增强智能体的决策能力。 |
+| 8 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 12,749 | 🤖 该项目的核心功能是实现语言模型的全自动审查内容去除。 |
+| 9 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 6,630 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 10 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 21,312 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+
