@@ -73,3 +73,72 @@ image:
 | 9 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 34,521 | 🤖 微软的BitNet项目是一个针对1位超大语言模型（LLM）的官方推理框架。 |
 | 10 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 13,434 | 🤖 该项目为AI代理提供了一个记忆功能，允许它们存储和检索信息以实现更智能的决策。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-15 02:24 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 946 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 2 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 567 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 3 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 479 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 4 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 🔥 413 | 🤖 Lightpanda是一个无头浏览器，用于AI和自动化。 |
+| 5 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 318 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 6 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 283 | Open-source orchestration for zero-human companies |
+| 7 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 🔥 308 | Official inference framework for 1-bit LLMs |
+| 8 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 288 | practice made claude perfect |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 141 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 10 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 269 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 66 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 61 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 50 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 50 | 🤖 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 5 | [Compresr-ai/Context-Gateway](https://github.com/Compresr-ai/Context-Gateway) | 🔥 28 | 🤖 Context Gateway 是一个代理工具，优化 AI 工作流程，提供实时历史压缩和上下文优化功能。 |
+| 6 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 42 | High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard. |
+| 7 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 28 | 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令 |
+| 8 | [jrswab/axe](https://github.com/jrswab/axe) | 🔥 35 | A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the t... |
+| 9 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 53 | The official go implementation of the Canopy Network protocol |
+| 10 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 17 |  |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 533 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 461 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 3 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 296 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 4 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 🔥 291 | 🤖 微软的BitNet项目是一个用于1位超大语言模型的官方推理框架。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 130 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 🔥 186 | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
+| 7 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 135 | Fully automatic censorship removal for language models |
+| 8 | [nasscomAI/prompt-to-production](https://github.com/nasscomAI/prompt-to-production) | 🔥 2 | nasscom scaffoldings for the vibe sessions |
+| 9 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 🔥 113 | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.  |
+| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 111 | The agent that grows with you |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 120 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 88 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 3 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 83 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 4 | [dev-protocol/polymarket-ai-synth-trading-bot-telegram](https://github.com/dev-protocol/polymarket-ai-synth-trading-bot-telegram) | 🔥 35 | 🤖 该项目是一个自动化交易机器人，用于在Polymarket平台进行交易和套利。 |
+| 5 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 71 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 6 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 74 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discove... |
+| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 64 | Browser automation CLI for AI agents |
+| 8 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 31 | Open-source Agent Operating System |
+| 9 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 31 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 10 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 31 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+
