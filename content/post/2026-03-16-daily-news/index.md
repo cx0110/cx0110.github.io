@@ -73,3 +73,72 @@ image:
 | 9 | [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | 12,086 | 🤖 MapToPoster是一个可以将城市地图转换为简洁美观的海报设计的工具。 |
 | 10 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 161,749 | 🤖 该项目是一个基于Stable Diffusion模型的网页界面，允许用户通过网页界面生成和编辑图像。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-16 02:25 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 1044 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 855 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 3 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 771 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 595 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 5 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 🔥 447 | 🤖 Lightpanda是一个无头浏览器，用于AI和自动化。 |
+| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 324 | Fully automatic censorship removal for language models |
+| 7 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 288 | Open-source orchestration for zero-human companies |
+| 8 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 282 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
+| 9 | [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) | 🔥 267 | Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw |
+| 10 | [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | 🔥 251 | Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 212 | 🤖 Canopy网络协议的Go语言实现。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 85 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 79 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 68 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 5 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 43 | 🤖 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 6 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 39 | 多模型协作开发系统 - Claude 编排 + Codex 后端 + Gemini 前端，28 个命令覆盖开发全流程，一键安装零配置 |
+| 7 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 23 | Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. |
+| 8 | [Compresr-ai/Context-Gateway](https://github.com/Compresr-ai/Context-Gateway) | 🔥 32 | Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools |
+| 9 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 29 | High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard. |
+| 10 | [dolthub/dolt](https://github.com/dolthub/dolt) | 🔥 85 | Dolt – Git for Data |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 813 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 2 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 738 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 3 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 588 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 4 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 317 | 🤖 该项目实现了语言模型的自动审查内容去除功能。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 132 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 164 | 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io standard · Claude Code, Copilot, Codex CLI, Cursor, Gemin... |
+| 7 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 182 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 8 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 🔥 136 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 9 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 142 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 10 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 🔥 121 | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-eq... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 140 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 135 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 3 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 132 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 4 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 102 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 5 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 79 | 🤖 快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。 |
+| 6 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 91 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discove... |
+| 7 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 65 | Open-source Agent Operating System |
+| 8 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 33 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+| 9 | [dev-protocol/polymarket-ai-synth-trading-bot-telegram](https://github.com/dev-protocol/polymarket-ai-synth-trading-bot-telegram) | 🔥 14 | polymarket trading bot polymarket copy trading bot polymarket copytrading bot polymarket arbitrage bot polymarket trading bot polymarket bot polyma... |
+| 10 | [Superagentsys/novalclaw](https://github.com/Superagentsys/novalclaw) | 🔥 30 | novalclaw is next generation AI format |
+
