@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-17"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-17T09:00:00+08:00
+lastmod: 2026-03-17T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-17 02:01 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 29,501 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 36,511 | 🤖 该项目是一个Claude Code插件，能够自动记录和压缩编码过程，并将相关上下文注入到未来的编码会话中。 |
+| 3 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 1,643 | 🤖 Project N.O.M.A.D是一个自成体系的离线生存计算机，内置关键工具、知识和人工智能，能够在任何时候、任何地方为用户提供信息和支持。 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 88,143 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 5 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 15,346 | 🤖 GitNexus是一个客户端知识图谱创建工具，能够在浏览器中运行，支持用户上传GitHub仓库或ZIP文件，并生成交互式知识图谱。 |
+| 6 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 20,010 | 🤖 Lightpanda是一个无头浏览器，专为人工智能和自动化而设计。 |
+| 7 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 13,863 | 🤖 OpenViking是一个开源的上下文数据库，通过文件系统范式统一管理AI代理所需的上下文（内存、资源和技能），实现分层上下文交付和自我演化。 |
+| 8 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 29,179 | 🤖 该项目旨在使用Bash编写一个名为Claude Code的简单程序，实现0-1的基本功能。 |
+| 9 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 15,165 | 🤖 该项目的核心功能是实现语言模型的全自动审查内容去除。 |
+| 10 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 12,568 | 🤖 该项目是一个基于LangChain和LangGraph的智能代理框架，具备规划工具、文件系统后端和子代理生成能力。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 43,709 | 🤖 Mudler/LocalAI是一个免费、开源的本地人工智能项目，能够在不需要GPU的消费级硬件上运行，支持文本、音频、视频、图像、语音克隆等功能。 |
+| 2 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 39,959 | 🤖 Fabric 是一个开源框架，利用人工智能来增强人类的能力，通过众包的方式提供模块化的解决方案。 |
+| 3 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 10,925 | 🤖 该项目是一个多AI、多交易所的交易基础设施，包含策略工作室，用于实现自动化交易。 |
+| 4 | [evcc-io/evcc](https://github.com/evcc-io/evcc) | 6,264 | 🤖 evcc-io/evcc项目的核心功能是优化电动汽车的充电过程，利用太阳能发电来为汽车充电，减少对电网的依赖。 |
+| 5 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 9,811 | 🤖 该项目是一个全自主的AI代理系统，能够执行复杂的渗透测试任务。 |
+| 6 | [psviderski/uncloud](https://github.com/psviderski/uncloud) | 4,873 | 🤖 该项目是一个轻量级工具，用于在多个Docker主机网络中部署和管理容器化应用程序。 |
+| 7 | [projectdiscovery/katana](https://github.com/projectdiscovery/katana) | 16,036 | 🤖 该项目是一个下一代的网页爬虫和蜘蛛框架，用于高效地爬取和抓取网络数据。 |
+| 8 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 3,835 | 🤖 该项目是一个多模型协作开发工具集，整合了多个后端能力，提供了包括智能路由、代码审查、Git 工具等在内的 17+ 个命令。 |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 5,991 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 10 | [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) | 7,950 | 🤖 该项目维护一个社区管理的域名列表，以生成V2Ray的geosite.dat文件。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 29,501 | 🤖 该项目是一种简洁通用的群体智能引擎，能够预测各种事物和事件。 |
+| 2 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 13,863 | 🤖 OpenViking是一个开源的上下文数据库，通过文件系统范式统一管理AI代理所需的上下文（内存、资源和技能），实现分层上下文交付和自我演化。 |
+| 3 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 15,165 | 🤖 该项目的核心功能是实现语言模型的全自动审查内容去除。 |
+| 4 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 12,568 | 🤖 该项目是一个基于LangChain和LangGraph的智能代理框架，具备规划工具、文件系统后端和子代理生成能力。 |
+| 5 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 161,810 | 🤖 该项目是一个基于Stable Diffusion模型的网页界面，允许用户通过网页界面生成和编辑图像。 |
+| 6 | [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 1,491 | 🤖 该项目的核心功能是提供一个维度框架，用于构建和管理多维数据和应用程序。 |
+| 7 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 14,175 | 🤖 该项目为AI代理提供了一个记忆功能，允许它们存储和检索信息以实现更智能的决策。 |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 21,374 | 🤖 该项目是一个LLM驱动的智能股票分析系统，集成了多数据源行情、实时新闻、LLM决策仪表盘和多渠道推送功能。 |
+| 9 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 13,585 | 🤖 该项目是一个TikTok和抖音的数据采集和下载工具，支持下载和采集发布、喜欢、合辑、直播、视频、图集、音乐等内容。 |
+| 10 | [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | 12,148 | 🤖 MapToPoster是一个可以将城市地图转换为简洁美观的海报设计的工具。 |
+
