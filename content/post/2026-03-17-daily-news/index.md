@@ -73,3 +73,72 @@ image:
 | 9 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 13,585 | 🤖 该项目是一个TikTok和抖音的数据采集和下载工具，支持下载和采集发布、喜欢、合辑、直播、视频、图集、音乐等内容。 |
 | 10 | [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | 12,148 | 🤖 MapToPoster是一个可以将城市地图转换为简洁美观的海报设计的工具。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-17 02:48 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 817 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 716 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 525 | 🤖 Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 4 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 551 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 5 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 482 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 6 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 🔥 441 | Lightpanda: the headless browser designed for AI and automation |
+| 7 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 412 | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Dr... |
+| 8 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 343 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 206 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 10 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 298 | practice made claude perfect |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 84 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 74 | 🤖 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 77 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 38 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 5 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 36 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 6 | [MadAppGang/dingo](https://github.com/MadAppGang/dingo) | 🔥 33 |   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility |
+| 7 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 31 | High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard. |
+| 8 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 40 | The official go implementation of the Canopy Network protocol |
+| 9 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 39 | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 10 | [mem9-ai/mem9](https://github.com/mem9-ai/mem9) | 🔥 25 |  |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 793 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 2 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 525 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 3 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 454 | 🤖 OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 192 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 🔥 248 | 🤖 该项目是一个智能代理框架，能够处理复杂任务，并具备规划、文件存储和子代理创建等功能。 |
+| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 202 | Fully automatic censorship removal for language models |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 174 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 153 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 9 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 131 | 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io standard · Claude Code, Copilot, Codex CLI, Cursor, Gemin... |
+| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 123 | The agent that grows with you |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 128 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 2 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 103 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 3 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 90 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 78 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 5 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 76 | 🤖 Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。 |
+| 6 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 54 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 |
+| 7 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 35 | Open-source Agent Operating System |
+| 8 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 🔥 27 | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 9 | [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) | 🔥 31 |  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager f... |
+| 10 | [tw93/Kaku](https://github.com/tw93/Kaku) | 🔥 22 | 🎃 A fast, out-of-the-box terminal built for AI coding. |
+
