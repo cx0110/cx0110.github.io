@@ -1,0 +1,68 @@
+---
+title: "🔥 每日技术热点 2026-03-18"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-18T09:00:00+08:00
+lastmod: 2026-03-18T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-18 02:01 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 91,449 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 2 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 479,488 | 🤖 这个项目通过让用户从零开始重新构建自己喜欢的技术，来帮助用户掌握编程技能。 |
+| 3 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 16,504 | 🤖 GitNexus是一个客户端知识图谱创建工具，能够在浏览器中运行，支持用户上传GitHub仓库或ZIP文件，并生成交互式知识图谱。 |
+| 4 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 13,793 | 🤖 该项目是一个基于LangChain和LangGraph的智能代理框架，具备规划工具、文件系统后端和子代理生成能力。 |
+| 5 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 5,394 | 🤖 该项目是一个Claude Code插件，用于显示上下文使用情况、活动工具、运行中的代理和待办事项进度。 |
+| 6 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | 7,738 | 🤖 Cloudflare Workerd 是一个 JavaScript 和 Wasm 运行时环境，用于支持 Cloudflare Workers 的功能。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 9,947 | 🤖 该项目是一个全自主的AI代理系统，能够执行复杂的渗透测试任务。 |
+| 2 | [projectdiscovery/katana](https://github.com/projectdiscovery/katana) | 16,079 | 🤖 该项目是一个下一代的网页爬虫和蜘蛛框架，用于高效地爬取和抓取网络数据。 |
+| 3 | [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 16,541 | 🤖 VictoriaMetrics是一个快速、成本有效的监控解决方案和时间序列数据库。 |
+| 4 | [go-chi/chi](https://github.com/go-chi/chi) | 21,850 | 🤖 go-chi/chi 是一个轻量级、符合 Go 语言习惯且可组合的路由器，用于构建 Go HTTP 服务。 |
+| 5 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 22,335 | 🤖 Argo CD 是一个 Kubernetes 的声明式持续部署工具，用于自动化应用程序的部署和管理。 |
+| 6 | [psviderski/uncloud](https://github.com/psviderski/uncloud) | 4,892 | 🤖 该项目是一个轻量级工具，用于在多个Docker主机网络中部署和管理容器化应用程序。 |
+| 7 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | 87,124 | 🤖 Hugo是一个用于构建网站的快速框架。 |
+| 8 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 25,083 | 🤖 该项目主要功能是测试Cloudflare CDN的延迟和速度，并获取最快的IP。 |
+| 9 | [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) | 4,426 | 🤖 该项目为Go语言提供了Google Cloud服务的客户端库，用于访问和管理Google Cloud平台的各种服务。 |
+| 10 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88,280 | 🤖 Gin是一个高性能的Go语言HTTP网页框架，用于构建REST APIs、Web应用和微服务。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 13,793 | 🤖 该项目是一个基于LangChain和LangGraph的智能代理框架，具备规划工具、文件系统后端和子代理生成能力。 |
+| 2 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 23,569 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 3 | [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 1,617 | 🤖 该项目的核心功能是提供一个维度框架，用于构建和管理多维数据和应用程序。 |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 32,539 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 5 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 6,991 | 🤖 MiroThinker是一个开源搜索代理项目，旨在提升工具增强推理和信息检索能力。 |
+| 6 | [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) | 1,638 | 🤖 该项目是一个MCP服务器，用于与金融数据集股票市场API进行交互。 |
+| 7 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 15,039 | 🤖 OpenViking是一个开源的上下文数据库，通过文件系统范式统一管理AI代理所需的上下文（内存、资源和技能），实现分层上下文交付和自我演化。 |
+
