@@ -1,0 +1,71 @@
+---
+title: "🔥 每日技术热点 2026-03-19"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-19T09:00:00+08:00
+lastmod: 2026-03-19T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-19 02:01 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 6,645 | 🤖 该项目是一个Claude Code插件，用于显示上下文使用情况、活动工具、运行中的代理和待办事项进度。 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | 95,484 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55,528 | 🤖 该项目实现了对大型语言模型（LLMs）的微调和强化学习，能够以更快的速度和更低的VRAM占用率训练多种语言模型。 |
+| 4 | [newton-physics/newton](https://github.com/newton-physics/newton) | 2,832 | 🤖 该项目是一个开源的、基于NVIDIA Warp的GPU加速物理模拟引擎，专门为机器人学和模拟研究人员设计。 |
+| 5 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 29,713 | 🤖 shadPS4是一个用C++编写的PlayStation 4模拟器，支持在Windows、Linux和macOS上运行。 |
+| 6 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6,108 | 🤖 该项目是一个开源的异步编码代理，能够帮助开发人员自动化编码任务。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rancher/rancher](https://github.com/rancher/rancher) | 25,420 | 🤖 Rancher是一个完整的容器管理平台，提供容器的创建、管理、监控和安全等功能。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 6,772 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 3 | [9seconds/mtg](https://github.com/9seconds/mtg) | 2,595 | 🤖 该项目是一个针对Telegram的MTPROTO代理服务器，提供高度可定制化的代理功能。 |
+| 4 | [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6,725 | 🤖 OpenTelemetry Collector是一个可扩展的代理程序，用于收集、处理和导出遥测数据（指标、日志和跟踪），支持多种数据源和目标。 |
+| 5 | [envoyproxy/gateway](https://github.com/envoyproxy/gateway) | 2,571 | 🤖 该项目管理Envoy Proxy作为独立或基于Kubernetes的应用程序网关。 |
+| 6 | [cloudwego/eino](https://github.com/cloudwego/eino) | 10,120 | 🤖 cloudwego/eino是一个使用Golang开发的终极大型语言模型（LLM）和人工智能（AI）应用开发框架。 |
+| 7 | [spf13/cobra](https://github.com/spf13/cobra) | 43,472 | 🤖 该项目提供了一个现代化的Go语言命令行接口（CLI）框架，用于构建和管理命令行应用程序。 |
+| 8 | [grafana/tempo](https://github.com/grafana/tempo) | 5,125 | 🤖 Grafana Tempo是一个高容量、依赖性最小的分布式跟踪后端系统。 |
+| 9 | [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | 15,102 | 🤖 Plandex-ai/plandex是一个开源的AI编码代理，旨在协助完成大型项目和实际任务的编码工作。 |
+| 10 | [metallb/metallb](https://github.com/metallb/metallb) | 8,095 | 🤖 MetalLB是一个为Kubernetes提供网络负载均衡的实现，使用标准路由协议。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55,528 | 🤖 该项目实现了对大型语言模型（LLMs）的微调和强化学习，能够以更快的速度和更低的VRAM占用率训练多种语言模型。 |
+| 2 | [newton-physics/newton](https://github.com/newton-physics/newton) | 2,832 | 🤖 该项目是一个开源的、基于NVIDIA Warp的GPU加速物理模拟引擎，专门为机器人学和模拟研究人员设计。 |
+| 3 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6,108 | 🤖 该项目是一个开源的异步编码代理，能够帮助开发人员自动化编码任务。 |
+| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 15,612 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 5 | [roboflow/trackers](https://github.com/roboflow/trackers) | 3,075 | 🤖 该项目提供了多目标跟踪算法的清晰、模块化的重新实现，允许用户将其与任意检测模型结合使用。 |
+| 6 | [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) | 12,806 | 🤖 该项目介绍了上下文工程（Context Engineering）的概念，旨在提高AI编码助手（如Claude Code）的工作效率。 |
+| 7 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 23,711 | 🤖 该项目是一个开源的最先进（SoTA）的文本转语音（TTS）系统。 |
+| 8 | [am-will/codex-skills](https://github.com/am-will/codex-skills) | 773 | 🤖 该项目codex-skills似乎是一个技能库或框架，用于管理和开发人工智能模型的技能和能力。 |
+| 9 | [PostHog/posthog](https://github.com/PostHog/posthog) | 32,101 | 🤖 PostHog是一个全面的开发者平台，提供产品分析、会话回放、错误跟踪、特性开关、实验、调查等功能，帮助开发者调试代码、快速发布功能并管理用户数据。 |
+| 10 | [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 20,429 | 🤖 MaxKB是一个开源平台，用于构建企业级智能体。 |
+
