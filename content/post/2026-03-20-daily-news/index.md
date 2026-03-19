@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-20"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-20T09:00:00+08:00
+lastmod: 2026-03-20T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-20 01:54 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 5,249 | 🤖 该项目是一个开源的PDF解析器，旨在将PDF文件转换为AI可用的数据格式，并实现PDF的自动化无障碍化。 |
+| 2 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6,910 | 🤖 该项目是一个开源的异步编码代理，能够帮助开发人员自动化编码任务。 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | 98,694 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 4 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 8,330 | 🤖 该项目是一个Claude Code插件，用于显示上下文使用情况、活动工具、运行中的代理和待办事项进度。 |
+| 5 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 56,537 | 🤖 该项目实现了对大型语言模型（LLMs）的微调和强化学习，能够以更快的速度和更低的VRAM占用率训练多种语言模型。 |
+| 6 | [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | 12,332 | 🤖 该项目Maestro提供了无痛的端到端自动化测试解决方案，用于移动和Web应用。 |
+| 7 | [newton-physics/newton](https://github.com/newton-physics/newton) | 3,160 | 🤖 该项目是一个开源的、基于NVIDIA Warp的GPU加速物理模拟引擎，专门为机器人学和模拟研究人员设计。 |
+| 8 | [louis-e/arnis](https://github.com/louis-e/arnis) | 10,518 | 🤖 该项目可以在Minecraft中生成任何现实世界地点，具有高细节度。 |
+| 9 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 15,900 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 10 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 35,770 | 🤖 这个项目是一个轻量级且强大的元提示、上下文工程和规格驱动开发系统。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 44,031 | 🤖 Mudler/LocalAI是一个免费、开源的本地人工智能项目，能够在不需要GPU的消费级硬件上运行，支持文本、音频、视频、图像、语音克隆等功能。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 7,089 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 3 | [9seconds/mtg](https://github.com/9seconds/mtg) | 2,646 | 🤖 该项目是一个针对Telegram的MTPROTO代理服务器，提供高度可定制化的代理功能。 |
+| 4 | [entireio/cli](https://github.com/entireio/cli) | 3,676 | 🤖 Entire是一个开发者平台，通过集成Git工作流，能够在每次推送代码时捕获AI代理会话，统一代码及其上下文和推理。 |
+| 5 | [distribution/distribution](https://github.com/distribution/distribution) | 10,324 | 🤖 该项目是一个工具包，用于打包、分发、存储和交付容器内容。 |
+| 6 | [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 18,321 | 🤖 gofr-dev/gofr 是一个用于加速微服务开发的 Go 语言框架，内置了数据库和可观察性支持。 |
+| 7 | [containerd/containerd](https://github.com/containerd/containerd) | 20,483 | 🤖 containerd是一个开源且可靠的容器运行时，用于管理和执行容器。 |
+| 8 | [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) | 2,371 | 🤖 Kueue是一个原生Kubernetes的作业队列系统，用于管理和调度批处理作业。 |
+| 9 | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | 6,741 | 🤖 kubevirt项目提供了Kubernetes虚拟化API和运行时，用于定义和管理虚拟机。 |
+| 10 | [grafana/mimir](https://github.com/grafana/mimir) | 4,991 | 🤖 Grafana Mimir 为 Prometheus 提供了水平扩展、 高可用、多租户的长期存储解决方案。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6,910 | 🤖 该项目是一个开源的异步编码代理，能够帮助开发人员自动化编码任务。 |
+| 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 56,537 | 🤖 该项目实现了对大型语言模型（LLMs）的微调和强化学习，能够以更快的速度和更低的VRAM占用率训练多种语言模型。 |
+| 3 | [newton-physics/newton](https://github.com/newton-physics/newton) | 3,160 | 🤖 该项目是一个开源的、基于NVIDIA Warp的GPU加速物理模拟引擎，专门为机器人学和模拟研究人员设计。 |
+| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 15,900 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 5 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 33,208 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 6 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 8,739 | 🤖 OpenSandbox是一个通用的人工智能沙盒平台，提供多语言SDK、统一的沙盒API和Docker/Kubernetes运行环境，支持多种人工智能应用场景。 |
+| 7 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 7,237 | 🤖 MiroThinker是一个开源搜索代理项目，旨在提升工具增强推理和信息检索能力。 |
+| 8 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 29,609 | 🤖 LightRAG是一个简单且快速的检索增强生成模型，能够高效地检索和生成相关文本。 |
+| 9 | [microsoft/qlib](https://github.com/microsoft/qlib) | 39,034 | 🤖 Qlib是一个面向量化投资的AI平台，利用AI技术支持多种机器学习模型和强化学习，实现从研究到生产的自动化。 |
+| 10 | [github/spec-kit](https://github.com/github/spec-kit) | 78,558 | 🤖 该项目提供了一套工具包，帮助开发者快速开始使用基于规格的开发方法。 |
+
