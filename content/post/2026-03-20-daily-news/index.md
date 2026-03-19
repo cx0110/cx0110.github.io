@@ -73,3 +73,72 @@ image:
 | 9 | [microsoft/qlib](https://github.com/microsoft/qlib) | 39,034 | 🤖 Qlib是一个面向量化投资的AI平台，利用AI技术支持多种机器学习模型和强化学习，实现从研究到生产的自动化。 |
 | 10 | [github/spec-kit](https://github.com/github/spec-kit) | 78,558 | 🤖 该项目提供了一套工具包，帮助开发者快速开始使用基于规格的开发方法。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-20 02:42 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | 🔥 350 | 🤖 该项目是一个技能管理系统，用于记录和展示个人技能。 |
+| 2 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 🔥 305 | 🤖 Claude HUD 插件显示代码上下文、工具、代理和待办事项进度。 |
+| 3 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 288 | 🤖 OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 4 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 258 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 259 | 🤖 一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。 |
+| 6 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 230 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| 7 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 234 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 122 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+| 9 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 🔥 230 | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. |
+| 10 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 🔥 199 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 75 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 65 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 20 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 4 | [steveyegge/gastown](https://github.com/steveyegge/gastown) | 🔥 14 | 🤖 Gastown 是一个多智能体工作空间管理器。 |
+| 5 | [c0m4r/kula](https://github.com/c0m4r/kula) | 🔥 16 | 🤖 一个轻量级的Linux服务器监控工具，用于监测服务器性能和状态。 |
+| 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 11 | Glamourous agentic coding for all 💘 |
+| 7 | [taigrr/spank](https://github.com/taigrr/spank) | 🔥 14 | Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. |
+| 8 | [antflydb/antfly](https://github.com/antflydb/antfly) | 🔥 12 |  |
+| 9 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 16 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 10 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 10 | 多模型协作开发系统 - Claude 编排 + Codex 后端 + Gemini 前端，28 个命令覆盖开发全流程，一键安装零配置 |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 🔥 246 | 🤖 该项目实现了自动化的AI研究，使用单个GPU训练对话模型。 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 217 | 🤖 该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 117 | 🤖 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 176 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 5 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 🔥 146 | 🤖 该项目实现从想法到论文的全自动化和自我进化的研究。 |
+| 6 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 🔥 129 | An Open-Source Asynchronous Coding Agent |
+| 7 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 🔥 107 | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-eq... |
+| 8 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 86 | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews an... |
+| 9 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 67 | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (... |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🔥 69 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 103 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 77 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 47 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 4 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 41 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 5 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 40 | 🤖 Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。 |
+| 6 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 41 | Hundreds of models & providers. One command to find what runs on your hardware. |
+| 7 | [louis-e/arnis](https://github.com/louis-e/arnis) | 🔥 56 | Generate any location from the real world in Minecraft with a high level of detail. |
+| 8 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 27 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 |
+| 9 | [brontoguana/krasis](https://github.com/brontoguana/krasis) | 🔥 24 | Krasis is a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware |
+| 10 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 17 | Open-source Agent Operating System |
+
