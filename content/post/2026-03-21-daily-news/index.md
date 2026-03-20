@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2026-03-21"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-21T09:00:00+08:00
+lastmod: 2026-03-21T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-21 01:38 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 9,350 | 🤖 该项目是一个Claude Code插件，用于显示上下文使用情况、活动工具、运行中的代理和待办事项进度。 |
+| 2 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7,522 | 🤖 该项目是一个开源的异步编码代理，能够帮助开发人员自动化编码任务。 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | 101,155 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 4 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 6,803 | 🤖 该项目是一个开源的PDF解析器，旨在将PDF文件转换为AI可用的数据格式，并实现PDF的自动化无障碍化。 |
+| 5 | [louis-e/arnis](https://github.com/louis-e/arnis) | 11,438 | 🤖 该项目可以在Minecraft中生成任何现实世界地点，具有高细节度。 |
+| 6 | [newton-physics/newton](https://github.com/newton-physics/newton) | 3,413 | 🤖 该项目是一个开源的、基于NVIDIA Warp的GPU加速物理模拟引擎，专门为机器人学和模拟研究人员设计。 |
+| 7 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 1,778 | 🤖 该项目是一个自托管的AI会计应用，使用LLM分析收据、发票、交易，并支持自定义提示和分类。 |
+| 8 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 33,831 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 9 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 2,139 | 🤖 该项目是一个模型火箭空气动力学和轨迹模拟软件。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 121,254 | 🤖 该项目是一个容器编排系统，用于自动化部署、扩展和管理容器化应用。 |
+| 2 | [github/gh-aw](https://github.com/github/gh-aw) | 4,145 | 🤖 该项目提供了一种工作流管理系统，允许用户在GitHub上创建和管理基于代理的工作流程。 |
+| 3 | [grpc/grpc-go](https://github.com/grpc/grpc-go) | 22,841 | 🤖 该项目是gRPC的Go语言实现，基于HTTP/2的RPC框架。 |
+| 4 | [go-chi/chi](https://github.com/go-chi/chi) | 21,855 | 🤖 go-chi/chi 是一个轻量级、符合 Go 语言习惯且可组合的路由器，用于构建 Go HTTP 服务。 |
+| 5 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 18,431 | 🤖 Waveterm 是一个开源、跨平台的终端模拟器，旨在为用户提供无缝的工作流体验。 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik) | 62,287 | 🤖 Traefik是一个云原生应用代理，用于管理和代理微服务架构中的服务流量。 |
+| 7 | [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 18,252 | 🤖 该项目提供了一个Go语言库和命令行工具，用于管理数据库迁移。 |
+| 8 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 162 | 🤖 该项目是一个高级的DNS隧道VPN，用于突破网络审查，具有低开销的自动重传请求、SOCKS5多路复用、解析器负载均衡和高丢包稳定性。 |
+| 9 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | 51,688 | 🤖 etcd 是一个分布式的可靠键值存储系统，用于存储分布式系统中最关键的数据。 |
+| 10 | [vitessio/vitess](https://github.com/vitessio/vitess) | 20,859 | 🤖 Vitess是一个数据库集群系统，用于水平扩展MySQL。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7,522 | 🤖 该项目是一个开源的异步编码代理，能够帮助开发人员自动化编码任务。 |
+| 2 | [newton-physics/newton](https://github.com/newton-physics/newton) | 3,413 | 🤖 该项目是一个开源的、基于NVIDIA Warp的GPU加速物理模拟引擎，专门为机器人学和模拟研究人员设计。 |
+| 3 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 33,831 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 16,537 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 5 | [huggingface/skills](https://github.com/huggingface/skills) | 9,499 | 🤖 Hugging Face的Skills项目是一个用于构建和部署人工智能技能的框架，支持多种NLP任务和应用场景。 |
+| 6 | [astral-sh/ty](https://github.com/astral-sh/ty) | 17,910 | 🤖 该项目是一个使用Rust编写的极快的Python类型检查器和语言服务器。 |
+| 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 57,083 | 🤖 该项目实现了对大型语言模型（LLMs）的微调和强化学习，能够以更快的速度和更低的VRAM占用率训练多种语言模型。 |
+| 8 | [microsoft/apm](https://github.com/microsoft/apm) | 622 | 🤖 该项目是一个代理包管理器，用于管理和维护应用性能监控代理的安装、更新和配置。 |
+| 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 5,049 | 🤖 该项目是一个OCR模型，能够处理复杂表格、表单、手写体，并保留完整的布局。 |
+| 10 | [github/spec-kit](https://github.com/github/spec-kit) | 78,885 | 🤖 该项目提供了一套工具包，帮助开发者快速开始使用基于规格的开发方法。 |
+
