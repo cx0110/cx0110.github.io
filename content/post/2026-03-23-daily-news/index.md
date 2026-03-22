@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-23"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-23T09:00:00+08:00
+lastmod: 2026-03-23T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-23 01:30 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 19,100 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 36,588 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 3 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 11,672 | 🤖 该项目是一个全自主的AI代理系统，能够执行复杂的渗透测试任务。 |
+| 4 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 4,664 | 🤖 该项目“jamwithai/production-agentic-rag-course”主要关注于生产性智能体和RAG（检索、问答、生成）课程的开发和应用。 |
+| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 97,034 | 🤖 该项目旨在优化Claude Code等代码模型的性能，涵盖技能、直觉、记忆、安全和研究驱动开发等方面。 |
+| 6 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 11,045 | 🤖 该项目是一个Claude Code插件，用于显示上下文使用情况、活动工具、运行中的代理和待办事项进度。 |
+| 7 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 8,569 | 🤖 Project N.O.M.A.D是一个自成体系的离线生存计算机，内置关键工具、知识和人工智能，能够在任何时候、任何地方为用户提供信息和支持。 |
+| 8 | [systemd/systemd](https://github.com/systemd/systemd) | 15,922 | 🤖 systemd是一个系统和服务管理器，负责管理和控制Linux系统的启动、服务、进程和资源。 |
+| 9 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 82,312 | 🤖 该项目旨在让网站能够被AI代理访问，并实现在线任务的自动化。 |
+| 10 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 29,955 | 🤖 LightRAG是一个简单且快速的检索增强生成模型，能够高效地检索和生成相关文本。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 11,672 | 🤖 该项目是一个全自主的AI代理系统，能够执行复杂的渗透测试任务。 |
+| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33,579 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 3 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 18,511 | 🤖 Waveterm 是一个开源、跨平台的终端模拟器，旨在为用户提供无缝的工作流体验。 |
+| 4 | [looplj/axonhub](https://github.com/looplj/axonhub) | 2,627 | 🤖 AxonHub是一个现代的AI网关系统，提供统一的OpenAI、Anthropic、Gemini和AI SDK兼容API。 |
+| 5 | [traefik/traefik](https://github.com/traefik/traefik) | 62,337 | 🤖 Traefik是一个云原生应用代理，用于管理和代理微服务架构中的服务流量。 |
+| 6 | [meshery/meshery](https://github.com/meshery/meshery) | 10,084 | 🤖 Meshery是一个云原生管理器，用于管理和编排服务网格。 |
+| 7 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 36,119 | 🤖 XTLS/Xray-core是一个开源平台，提供了一个强大的核心功能，用于实现各种网络代理和穿透技术。 |
+| 8 | [vitessio/vitess](https://github.com/vitessio/vitess) | 20,877 | 🤖 Vitess是一个数据库集群系统，用于水平扩展MySQL。 |
+| 9 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 57,011 | 🤖 Pocketbase是一个开源的实时后端项目，提供了一种简单的方式来构建实时应用程序，只需一个文件即可使用。 |
+| 10 | [keploy/keploy](https://github.com/keploy/keploy) | 16,422 | 🤖 Keploy是一个API、集成和端到端测试代理，能够自动生成测试用例、模拟和存根，帮助开发者高效测试API。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 19,100 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 36,588 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 3 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 4,664 | 🤖 该项目“jamwithai/production-agentic-rag-course”主要关注于生产性智能体和RAG（检索、问答、生成）课程的开发和应用。 |
+| 4 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 82,312 | 🤖 该项目旨在让网站能够被AI代理访问，并实现在线任务的自动化。 |
+| 5 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 29,955 | 🤖 LightRAG是一个简单且快速的检索增强生成模型，能够高效地检索和生成相关文本。 |
+| 6 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 19,680 | 🤖 该项目是一个基于多智能体LLM的中文金融交易框架，用于模拟和优化金融交易决策。 |
+| 7 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 34,735 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 50,818 | 🤖 该项目利用AI大模型实现一键生成高清短视频的功能。 |
+| 9 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 6,924 | 🤖 该项目是一个非官方的Python API，用于访问和操作Google NotebookLM。 |
+| 10 | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) | 7,028 | 🤖 该项目是一个抖音批量下载工具，支持去水印、视频、图集、合集、音乐等多种内容的下载。 |
+
