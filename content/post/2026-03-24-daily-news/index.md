@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-24"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-24T09:00:00+08:00
+lastmod: 2026-03-24T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-24 01:54 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 22,277 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 38,567 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 3 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 12,787 | 🤖 Project N.O.M.A.D是一个自成体系的离线生存计算机，内置关键工具、知识和人工智能，能够在任何时候、任何地方为用户提供信息和支持。 |
+| 4 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 12,835 | 🤖 该项目是一个全自主的AI代理系统，能够执行复杂的渗透测试任务。 |
+| 5 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 83,443 | 🤖 该项目旨在让网站能够被AI代理访问，并实现在线任务的自动化。 |
+| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 38,890 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 7 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | 31,837 | 🤖 Tinygrad是一个迷你版的深度学习框架，结合了PyTorch和Micrograd的特点，提供了一个简洁高效的神经网络实现。 |
+| 8 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 101,251 | 🤖 该项目旨在优化Claude Code等代码模型的性能，涵盖技能、直觉、记忆、安全和研究驱动开发等方面。 |
+| 9 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 11,258 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 42,499 | 🤖 该项目实现了从零开始仅用2小时训练出一个拥有2600万参数的GPT模型。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 12,835 | 🤖 该项目是一个全自主的AI代理系统，能够执行复杂的渗透测试任务。 |
+| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33,832 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 3 | [keploy/keploy](https://github.com/keploy/keploy) | 16,480 | 🤖 Keploy是一个API、集成和端到端测试代理，能够自动生成测试用例、模拟和存根，帮助开发者高效测试API。 |
+| 4 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 11,138 | 🤖 该项目是一个多AI、多交易所的交易基础设施，包含策略工作室，用于实现自动化交易。 |
+| 5 | [supabase/cli](https://github.com/supabase/cli) | 1,742 | 🤖 Supabase CLI是一个命令行工具，用于管理Postgres迁移、运行Supabase本地开发环境、部署边缘函数、备份Postgres数据库以及从数据库模式生成类型定义。 |
+| 6 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 36,151 | 🤖 XTLS/Xray-core是一个开源平台，提供了一个强大的核心功能，用于实现各种网络代理和穿透技术。 |
+| 7 | [meshery/meshery](https://github.com/meshery/meshery) | 10,090 | 🤖 Meshery是一个云原生管理器，用于管理和编排服务网格。 |
+| 8 | [looplj/axonhub](https://github.com/looplj/axonhub) | 2,666 | 🤖 AxonHub是一个现代的AI网关系统，提供统一的OpenAI、Anthropic、Gemini和AI SDK兼容API。 |
+| 9 | [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 20,035 | 🤖 gofr-dev/gofr 是一个用于加速微服务开发的 Go 语言框架，内置了数据库和可观察性支持。 |
+| 10 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 28,178 | 🤖 该项目是GitHub官方的MCP（Minecraft协议）服务器，用于管理和运行Minecraft服务器。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 22,278 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 38,567 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 3 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 83,443 | 🤖 该项目旨在让网站能够被AI代理访问，并实现在线任务的自动化。 |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 38,890 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 5 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | 31,837 | 🤖 Tinygrad是一个迷你版的深度学习框架，结合了PyTorch和Micrograd的特点，提供了一个简洁高效的神经网络实现。 |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 11,258 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 7 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 42,499 | 🤖 该项目实现了从零开始仅用2小时训练出一个拥有2600万参数的GPT模型。 |
+| 8 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 20,265 | 🤖 该项目是一个基于多智能体LLM的中文金融交易框架，用于模拟和优化金融交易决策。 |
+| 9 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 30,715 | 🤖 该项目为Claude Code提供了一个精选的命令、文件和工作流列表。 |
+| 10 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 30,301 | 🤖 LightRAG是一个简单且快速的检索增强生成模型，能够高效地检索和生成相关文本。 |
+
