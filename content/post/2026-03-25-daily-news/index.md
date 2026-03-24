@@ -73,3 +73,72 @@ image:
 | 9 | [usestrix/strix](https://github.com/usestrix/strix) | 21,337 | 🤖 该项目提供开源的AI渗透测试代理，用于自动化渗透测试。 |
 | 10 | [github/spec-kit](https://github.com/github/spec-kit) | 81,822 | 🤖 该项目提供了一套工具包，帮助开发者快速开始使用基于规格的开发方法。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-25 02:49 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) | 🔥 483 | 🤖 这是一个基于React Native的第三方B站客户端，支持多平台和直播功能。 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 🔥 565 | 🤖 该项目是一个开源的超级智能代理框架，能够处理不同级别的任务。 |
+| 3 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 🔥 386 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 4 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔥 275 | 🤖 项目N.O.M.A.D是一款离线生存电脑，内置关键工具、知识和AI，随时随地提供信息和支持。 |
+| 5 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🔥 225 | 🤖 该项目是一个多智能体金融交易框架，用于研究和开发人工智能交易策略。 |
+| 6 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 177 |  |
+| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🔥 163 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversati... |
+| 8 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 156 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
+| 9 | [jackwener/opencli](https://github.com/jackwener/opencli) | 🔥 151 |  |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🔥 134 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent i... |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 125 | 🤖 vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 38 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 29 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 31 | 🤖 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 5 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 22 | 🤖 这是一个基于Go语言的全网音乐搜索与下载工具，支持多平台搜索和下载。 |
+| 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 15 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 7 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 13 |  |
+| 8 | [xiaolajiaoyyds/regplatformm](https://github.com/xiaolajiaoyyds/regplatformm) | 🔥 19 |  |
+| 9 | [carlos7ags/folio](https://github.com/carlos7ags/folio) | 🔥 7 | Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0. |
+| 10 | [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) | 🔥 8 | Unofficial CLI for Toss Securities web workflows |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 🔥 542 | 🤖 该项目是一个开源的超级智能代理框架，能够处理不同级别的任务。 |
+| 2 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 🔥 375 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 3 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🔥 220 | 🤖 该项目是一个多智能体金融交易框架，用于研究和开发人工智能交易策略。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 148 | 🤖 Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 5 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 🔥 127 | 🤖 该项目为Claude Code提供了一个精选的技能、插件和应用列表。 |
+| 6 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 109 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 99 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+| 8 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 🔥 86 | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🔥 101 | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 33 | LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行 |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 125 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 65 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 3 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 38 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 4 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 30 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 32 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 6 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 22 | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
+| 7 | [mayocream/koharu](https://github.com/mayocream/koharu) | 🔥 24 | ML-powered manga translator, written in Rust. |
+| 8 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 18 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discove... |
+| 9 | [antithesishq/bombadil](https://github.com/antithesishq/bombadil) | 🔥 14 | Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier |
+| 10 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 18 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+
