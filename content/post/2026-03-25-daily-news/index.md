@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-25"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-25T09:00:00+08:00
+lastmod: 2026-03-25T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-25 01:59 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pascalorg/editor](https://github.com/pascalorg/editor) | 4,772 | 🤖 PascalOrg/editor 项目是一个基于网络的代码编辑器。 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 42,684 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 3 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 18,414 | 🤖 该项目是一个极其快速且可扩展的记忆引擎和应用程序，提供了针对人工智能时代的记忆API。 |
+| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 24,548 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 5 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 52,494 | 🤖 该项目利用AI大模型实现一键生成高清短视频的功能。 |
+| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 14,822 | 🤖 Project N.O.M.A.D是一个自成体系的离线生存计算机，内置关键工具、知识和人工智能，能够在任何时候、任何地方为用户提供信息和支持。 |
+| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 40,554 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 8 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 5,258 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 24,774 | 🤖 该项目是一个智能多代理编排平台，能够部署智能代理群、协调自主工作流程，并构建对话式人工智能系统。 |
+| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 12,311 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33,952 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 2 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 13,394 | 🤖 该项目是一个全自主的AI代理系统，能够执行复杂的渗透测试任务。 |
+| 3 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 1,457 | 🤖 agent-sandbox 项目实现了对隔离、有状态、单例工作负载的易于管理，特别适用于像 AI 代理运行时这样的用例。 |
+| 4 | [keploy/keploy](https://github.com/keploy/keploy) | 16,563 | 🤖 Keploy是一个API、集成和端到端测试代理，能够自动生成测试用例、模拟和存根，帮助开发者高效测试API。 |
+| 5 | [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) | 2,118 | 🤖 该项目是一个Telegram机器人，可以将任意Telegram文件保存到多种存储平台，如Alist、Disk、Webdav、S3、Rclone等。 |
+| 6 | [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) | 6,585 | 🤖 该项目的核心功能是管理多个AI终端代理，如Claude Code、Codex、OpenCode和Amp。 |
+| 7 | [deepflowio/deepflow](https://github.com/deepflowio/deepflow) | 3,868 | 🤖 该项目DeepFlow提供了基于eBPF的分布式追踪和性能分析功能。 |
+| 8 | [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 3,136 | 🤖 Project-HAMi/HAMi是一个异构人工智能计算虚拟化中间件，旨在为多样化的AI计算资源提供统一的虚拟化和管理能力。 |
+| 9 | [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 3,494 | 🤖 AWS SDK for Go 提供了一组用于访问和管理亚马逊网络服务（AWS）的 Go 语言库。 |
+| 10 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | 25,560 | 🤖 该项目是一个基于Go语言的微服务框架，用于构建云原生应用。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 42,684 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 2 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 24,548 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 3 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 52,494 | 🤖 该项目利用AI大模型实现一键生成高清短视频的功能。 |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 40,554 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 5 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 5,259 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 12,311 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 7 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 31,646 | 🤖 该项目为Claude Code提供了一个精选的命令、文件和工作流列表。 |
+| 8 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 20,839 | 🤖 该项目是一个基于多智能体LLM的中文金融交易框架，用于模拟和优化金融交易决策。 |
+| 9 | [usestrix/strix](https://github.com/usestrix/strix) | 21,337 | 🤖 该项目提供开源的AI渗透测试代理，用于自动化渗透测试。 |
+| 10 | [github/spec-kit](https://github.com/github/spec-kit) | 81,822 | 🤖 该项目提供了一套工具包，帮助开发者快速开始使用基于规格的开发方法。 |
+
