@@ -73,3 +73,72 @@ image:
 | 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 43,688 | 🤖 该项目实现了从零开始仅用2小时训练出一个拥有2600万参数的GPT模型。 |
 | 10 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 32,343 | 🤖 该项目为Claude Code提供了一个精选的命令、文件和工作流列表。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-26 02:43 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 🔥 490 | 🤖 该项目是一个开源的超级智能代理框架，能够处理不同级别的任务。 |
+| 2 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 311 | 🤖 PascalORG/editor 是一个基于网页的代码编辑器。 |
+| 3 | [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) | 🔥 188 | 🤖 这是一个基于React Native的第三方B站客户端，支持多平台和直播功能。 |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🔥 208 | 🤖 该项目是一个多智能体金融交易框架，用于研究和开发人工智能交易策略。 |
+| 5 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔥 191 | 🤖 项目N.O.M.A.D是一款离线生存电脑，内置关键工具、知识和AI，随时随地提供信息和支持。 |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 169 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 165 | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all wit... |
+| 8 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🔥 125 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversati... |
+| 9 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 126 | The agent that grows with you |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 121 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 51 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 48 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 46 | 🤖 这是一个基于Go语言的全网音乐搜索与下载工具，支持多平台搜索和下载。 |
+| 4 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 69 | 🤖 vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 5 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 29 | 🤖 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 6 | [cacggghp/vk-turn-proxy](https://github.com/cacggghp/vk-turn-proxy) | 🔥 20 |  |
+| 7 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 21 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 8 | [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 🔥 55 | An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. |
+| 9 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 13 | Beads - A memory upgrade for your coding agent |
+| 10 | [AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) | 🔥 10 | AI Agents Command Center |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 🔥 488 | 🤖 该项目是一个开源的超级智能代理框架，能够处理不同级别的任务。 |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🔥 197 | 🤖 该项目是一个多智能体金融交易框架，用于研究和开发人工智能交易策略。 |
+| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 175 | 🤖 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 124 | 🤖 Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 118 | 🤖 该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。 |
+| 6 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 🔥 124 | Build and run agents you can see, understand and trust. |
+| 7 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 🔥 148 | Automate the process of making money online. |
+| 8 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 🔥 108 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic |
+| 9 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 93 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 40 | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 125 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 65 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 3 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 38 | 🤖 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 4 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 30 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 32 | 🤖 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 6 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 22 | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
+| 7 | [mayocream/koharu](https://github.com/mayocream/koharu) | 🔥 24 | ML-powered manga translator, written in Rust. |
+| 8 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 18 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discove... |
+| 9 | [antithesishq/bombadil](https://github.com/antithesishq/bombadil) | 🔥 14 | Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier |
+| 10 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 18 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust)... |
+
