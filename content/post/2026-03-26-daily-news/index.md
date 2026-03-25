@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-26"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-26T09:00:00+08:00
+lastmod: 2026-03-26T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-26 02:01 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 7,016 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 45,879 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 40,559 | 🤖 该项目是一个Python SDK和代理服务器（AI网关），用于以OpenAI或本地格式调用100多个大语言模型（LLM）API，并提供成本跟踪、防护、负载均衡和日志记录功能。 |
+| 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | 6,691 | 🤖 PascalOrg/editor 项目是一个基于网络的代码编辑器。 |
+| 5 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | 1,326 | 🤖 该项目旨在为Claude Code赋予“潜意识”，使其能够更好地理解和处理复杂的编程任务和决策。 |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 25,890 | 🤖 该项目是一个智能多代理编排平台，能够部署智能代理群、协调自主工作流程，并构建对话式人工智能系统。 |
+| 7 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 16,325 | 🤖 Project N.O.M.A.D是一个自成体系的离线生存计算机，内置关键工具、知识和人工智能，能够在任何时候、任何地方为用户提供信息和支持。 |
+| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 42,036 | 🤖 该项目利用WiFi信号实现实时的人体姿势估计、生命体征监测和存在检测，无需任何视频图像。 |
+| 9 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 19,114 | 🤖 该项目是一个极其快速且可扩展的记忆引擎和应用程序，提供了针对人工智能时代的记忆API。 |
+| 10 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 25,457 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | 24,579 | 🤖 该项目是TypeScript的原生移植版本的开发仓库。 |
+| 2 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 2,427 | 🤖 该项目kagent-dev/kagent是一个云原生智能代理AI系统。 |
+| 3 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 34,111 | 🤖 该项目是一个安全扫描工具，用于检测容器、Kubernetes、代码仓库、云平台等中的漏洞、配置错误、秘密信息和软件清单。 |
+| 4 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | 11,447 | 🤖 Open Policy Agent（OPA）是一个开源的通用策略引擎，用于统一管理和执行策略决策。 |
+| 5 | [grpc/grpc-go](https://github.com/grpc/grpc-go) | 22,853 | 🤖 该项目是gRPC的Go语言实现，基于HTTP/2的RPC框架。 |
+| 6 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | 13,713 | 🤖 该项目自动化在Kubernetes中颁发和管理TLS证书。 |
+| 7 | [tmc/langchaingo](https://github.com/tmc/langchaingo) | 8,945 | 🤖 LangChain for Go 是一个 Go 语言库，用于简化基于大语言模型（LLM）的程序开发。 |
+| 8 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 8,430 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 9 | [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | 14,083 | 🤖 该项目是一个反向代理服务器，提供与Google、Azure、OpenID Connect等多个身份提供商的身份验证功能。 |
+| 10 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | 87,271 | 🤖 Hugo是一个用于构建网站的快速框架。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 7,017 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 45,879 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 40,559 | 🤖 该项目是一个Python SDK和代理服务器（AI网关），用于以OpenAI或本地格式调用100多个大语言模型（LLM）API，并提供成本跟踪、防护、负载均衡和日志记录功能。 |
+| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 25,457 | 🤖 该项目旨在自动化在线赚钱的过程。 |
+| 5 | [usestrix/strix](https://github.com/usestrix/strix) | 21,591 | 🤖 该项目提供开源的AI渗透测试代理，用于自动化渗透测试。 |
+| 6 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 21,251 | 🤖 该项目是一个基于多智能体LLM的中文金融交易框架，用于模拟和优化金融交易决策。 |
+| 7 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 53,123 | 🤖 该项目利用AI大模型实现一键生成高清短视频的功能。 |
+| 8 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 41,690 | 🤖 该项目是一个多智能体的大语言模型金融交易框架，用于实现自动化交易。 |
+| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 43,688 | 🤖 该项目实现了从零开始仅用2小时训练出一个拥有2600万参数的GPT模型。 |
+| 10 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 32,343 | 🤖 该项目为Claude Code提供了一个精选的命令、文件和工作流列表。 |
+
