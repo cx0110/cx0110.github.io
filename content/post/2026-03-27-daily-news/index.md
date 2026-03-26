@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2026-03-27"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-27T09:00:00+08:00
+lastmod: 2026-03-27T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-27 02:01 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 9,645 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 2 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 12,330 | 🤖 该项目实现了团队优先的多智能体编排，用于Claude Code，提高多智能体系统的协调和管理能力。 |
+| 3 | [virattt/dexter](https://github.com/virattt/dexter) | 18,832 | 🤖 该项目是一个自主智能代理，用于进行深度金融研究。 |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 42,966 | 🤖 该项目利用WiFi信号实现实时的人体姿势估计、生命体征监测和存在检测，无需任何视频图像。 |
+| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 48,073 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 6 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 10,928 | 🤖 该项目是一个名为“insanely-fast-whisper”的开源项目，旨在实现快速的语音识别和转录功能。 |
+| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 20,251 | 🤖 该项目的核心功能是构建和运行可视化、可理解和可信赖的智能代理。 |
+| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41,131 | 🤖 Twenty项目旨在打造一个现代化的社区驱动型Salesforce替代方案。 |
+| 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 5,953 | 🤖 该项目是一个OCR模型，能够处理复杂表格、表单、手写体，并保留完整的布局。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [coder/coder](https://github.com/coder/coder) | 12,658 | 🤖 该项目为开发人员和代理提供安全的环境。 |
+| 2 | [kyverno/kyverno](https://github.com/kyverno/kyverno) | 7,549 | 🤖 Kyverno是一个云原生策略管理项目，用于定义和执行Kubernetes集群的安全策略和合规性规则。 |
+| 3 | [grafana/loki](https://github.com/grafana/loki) | 27,879 | 🤖 Grafana Loki 是一个日志聚合系统，类似于 Prometheus，但专注于日志数据的收集、存储和查询。 |
+| 4 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | 11,485 | 🤖 Open Policy Agent（OPA）是一个开源的通用策略引擎，用于统一管理和执行策略决策。 |
+| 5 | [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli) | 527 | 🤖 该项目是一个Feishu飞书的命令行接口工具，允许用户通过命令行与飞书平台进行交互。 |
+| 6 | [anchore/syft](https://github.com/anchore/syft) | 8,577 | 🤖 该项目是一个命令行工具和库，用于从容器镜像和文件系统中生成软件清单（Software Bill of Materials）。 |
+| 7 | [gofiber/fiber](https://github.com/gofiber/fiber) | 39,470 | 🤖 这是一个使用Go语言编写的，受Express框架启发的Web开发框架。 |
+| 8 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | 16,040 | 🤖 该项目是一个多功能的网络资源下载工具，支持下载包括视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等在内的各种常见网络资源。 |
+| 9 | [anchore/grype](https://github.com/anchore/grype) | 11,865 | 🤖 该项目是一个用于扫描容器镜像和文件系统中漏洞的扫描器。 |
+| 10 | [steveyegge/beads](https://github.com/steveyegge/beads) | 19,777 | 🤖 Beads是一个为编码代理提供的内存升级，旨在增强其记忆和编码能力。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 9,645 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 48,073 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 3 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 20,251 | 🤖 该项目的核心功能是构建和运行可视化、可理解和可信赖的智能代理。 |
+| 4 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 5,953 | 🤖 该项目是一个OCR模型，能够处理复杂表格、表单、手写体，并保留完整的布局。 |
+| 5 | [usestrix/strix](https://github.com/usestrix/strix) | 22,014 | 🤖 该项目提供开源的AI渗透测试代理，用于自动化渗透测试。 |
+| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 17,362 | 🤖 该项目的核心功能是实现语言模型的全自动审查内容去除。 |
+| 7 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 21,647 | 🤖 该项目是一个基于多智能体LLM的中文金融交易框架，用于模拟和优化金融交易决策。 |
+| 8 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 32,710 | 🤖 该项目为Claude Code提供了一个精选的命令、文件和工作流列表。 |
+| 9 | [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) | 1,561 | 🤖 该项目是一个用于构建、管理和部署人工智能优化的上下文图（Context Graphs）的工厂。 |
+| 10 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 31,168 | 🤖 该项目提供了一个从零开始构建智能体的教程，涵盖智能体原理与实践。 |
+
