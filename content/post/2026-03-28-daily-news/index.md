@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-28"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-28T09:00:00+08:00
+lastmod: 2026-03-28T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-28 01:52 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 12,261 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 2 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 82,621 | 🤖 该项目实现了实时人脸替换和一键视频深度伪造，只需使用单张图像。 |
+| 3 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 2,754 | 🤖 该项目的核心功能是通过代理树搜索算法实现工作坊级别的自动化科学发现。 |
+| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 24,552 | 🤖 Microsoft/VibeVoice是一个开源的边缘智能语音AI项目，旨在实现边缘设备上的实时语音识别和交互。 |
+| 5 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41,836 | 🤖 Twenty项目旨在打造一个现代化的社区驱动型Salesforce替代方案。 |
+| 6 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 6,860 | 🤖 该项目是一个OCR模型，能够处理复杂表格、表单、手写体，并保留完整的布局。 |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 118,072 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 8 | [virattt/dexter](https://github.com/virattt/dexter) | 19,554 | 🤖 该项目是一个自主智能代理，用于进行深度金融研究。 |
+| 9 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 13,717 | 🤖 该项目实现了团队优先的多智能体编排，用于Claude Code，提高多智能体系统的协调和管理能力。 |
+| 10 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 29,540 | 🤖 FreeCAD是一个免费开源的三维参数化建模软件，支持多平台，能够创建和编辑三维模型。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [moby/moby](https://github.com/moby/moby) | 71,565 | 🤖 Moby项目是一个协作项目，旨在打造基于容器的系统，提供容器生态系统的解决方案。 |
+| 2 | [grafana/alloy](https://github.com/grafana/alloy) | 3,015 | 🤖 Grafana Alloy是一个OpenTelemetry Collector的发行版，支持可编程的数据处理管道。 |
+| 3 | [coder/coder](https://github.com/coder/coder) | 12,694 | 🤖 该项目为开发人员和代理提供安全的环境。 |
+| 4 | [basecamp/basecamp-cli](https://github.com/basecamp/basecamp-cli) | 113 | 🤖 Basecamp CLI是一个命令行工具，用于与Basecamp项目管理平台交互，提供了一种更高效的方式来管理项目和团队。 |
+| 5 | [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 13,557 | 🤖 该项目是一个开源的MCP服务器，用于管理和操作数据库。 |
+| 6 | [containers/podman](https://github.com/containers/podman) | 31,139 | 🤖 Podman是一个用于管理OCI容器和Pod的工具。 |
+| 7 | [spiffe/spire](https://github.com/spiffe/spire) | 2,277 | 🤖 SPIFFE Runtime Environment是一个安全身份框架，提供一种标准化的方式来识别和验证分布式系统中的服务身份。 |
+| 8 | [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) | 9,921 | 🤖 Velero是一个用于备份和迁移Kubernetes应用程序及其持久卷的工具。 |
+| 9 | [anchore/syft](https://github.com/anchore/syft) | 8,598 | 🤖 该项目是一个命令行工具和库，用于从容器镜像和文件系统中生成软件清单（Software Bill of Materials）。 |
+| 10 | [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 3,177 | 🤖 Project-HAMi/HAMi是一个异构人工智能计算虚拟化中间件，旨在为多样化的AI计算资源提供统一的虚拟化和管理能力。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 12,261 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 2 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 82,621 | 🤖 该项目实现了实时人脸替换和一键视频深度伪造，只需使用单张图像。 |
+| 3 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 2,754 | 🤖 该项目的核心功能是通过代理树搜索算法实现工作坊级别的自动化科学发现。 |
+| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 24,552 | 🤖 Microsoft/VibeVoice是一个开源的边缘智能语音AI项目，旨在实现边缘设备上的实时语音识别和交互。 |
+| 5 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 6,860 | 🤖 该项目是一个OCR模型，能够处理复杂表格、表单、手写体，并保留完整的布局。 |
+| 6 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 18,899 | 🤖 Onyx是一个开源的AI平台，提供高级功能的AI聊天服务，兼容所有大型语言模型（LLM）。 |
+| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 21,120 | 🤖 该项目的核心功能是构建和运行可视化、可理解和可信赖的智能代理。 |
+| 8 | [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) | 1,687 | 🤖 该项目是一个用于构建、管理和部署人工智能优化的上下文图（Context Graphs）的工厂。 |
+| 9 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 49,965 | 🤖 DeerFlow是一个集成语言模型、网页搜索、爬虫和Python执行的深度研究框架。 |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 26,319 | 🤖 该项目是一个LLM驱动的智能股票分析系统，集成了多数据源行情、实时新闻、LLM决策仪表盘和多渠道推送功能。 |
+
