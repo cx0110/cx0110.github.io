@@ -73,3 +73,72 @@ image:
 | 9 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 20,034 | 🤖 Onyx是一个开源的AI平台，提供高级功能的AI聊天服务，兼容所有大型语言模型（LLM）。 |
 | 10 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 3,790 | 🤖 该项目的核心功能是通过代理树搜索算法实现工作坊级别的自动化科学发现。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+> 更新时间: 2026-03-30 02:27 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 356 | 🤖 Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 249 | 🤖 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 235 | 🤖 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 4 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 194 | 🤖 该项目提供 Claude Code 的视觉化教程和示例，涵盖基础到高级内容。 |
+| 5 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 🔥 169 | 🤖 该项目实现多智能体编排，优化 Claude Code 的团队协作功能。 |
+| 6 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 166 | practice made claude perfect |
+| 7 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 167 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
+| 8 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 160 | The agent that grows with you |
+| 9 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 156 | Open-Source Frontier Voice AI |
+| 10 | [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | 🔥 148 | LIBERATED AI CHAT |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 44 | 🤖 一个开源的交易操作系统，集成了人工智能和多交易所支持。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 29 | 🤖 PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 30 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 🔥 19 | 🤖 该项目是一个Go语言技能库，提供多种技能函数。 |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 18 | 🤖 Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) | 🔥 15 |  |
+| 7 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 16 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 8 | [cacggghp/vk-turn-proxy](https://github.com/cacggghp/vk-turn-proxy) | 🔥 13 |  |
+| 9 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 12 |  |
+| 10 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 13 | Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels. |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 252 | 🤖 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 236 | 🤖 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 186 | 🤖 该项目提供 Claude Code 的视觉化教程和示例，涵盖基础到高级内容。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 158 | 🤖 Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 5 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 145 | 🤖 微软的VibeVoice项目是一个开源的前沿语音AI技术。 |
+| 6 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 🔥 134 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| 7 | [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) | 🔥 120 | "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/ |
+| 8 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 🔥 109 | OCR model that handles complex tables, forms, handwriting with full layout. |
+| 9 | [QuipNetwork/quip-protocol](https://github.com/QuipNetwork/quip-protocol) | 🔥 109 | experimental quip protocol network node |
+| 10 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🔥 112 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [yologdev/yoyo-evolve](https://github.com/yologdev/yoyo-evolve) | 🔥 68 | 🤖 该项目是一个每天自动提交代码的智能代理，通过不断演化提高自身能力。 |
+| 2 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 60 | 🤖 该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。 |
+| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🔥 59 | 🤖 RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。 |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 67 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 5 | [microsoft/RustTraining](https://github.com/microsoft/RustTraining) | 🔥 54 | 🤖 微软的Rust编程语言培训材料，包含初级、中级和高级内容。 |
+| 6 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 45 | Browser automation CLI for AI agents |
+| 7 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 26 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 8 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🔥 17 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discove... |
+| 9 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🔥 17 | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
+| 10 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 🔥 17 | Open-source Agent Operating System |
+
