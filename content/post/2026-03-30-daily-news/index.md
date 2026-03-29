@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-03-30"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-03-30T09:00:00+08:00
+lastmod: 2026-03-30T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-03-30 01:37 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 5,711 | 🤖 该项目提供了一个视觉化的、示例驱动的Claude代码指南，涵盖了从基本概念到高级代理的所有内容，并提供了可复制的模板。 |
+| 2 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 15,712 | 🤖 该项目实现了团队优先的多智能体编排，用于Claude Code，提高多智能体系统的协调和管理能力。 |
+| 3 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 26,659 | 🤖 Microsoft/VibeVoice是一个开源的边缘智能语音AI项目，旨在实现边缘设备上的实时语音识别和交互。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 16,231 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 5 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 63,907 | 🤖 OpenBB是一个为分析师、量化交易者和AI代理提供的金融数据平台。 |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | 122,428 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 7 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 42,345 | 🤖 该项目是一个Claude Code插件，能够自动记录和压缩编码过程，并将相关上下文注入到未来的编码会话中。 |
+| 8 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 85,048 | 🤖 该项目实现了实时人脸替换和一键视频深度伪造，只需使用单张图像。 |
+| 9 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 15,059 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 10 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 42,545 | 🤖 该项目旨在使用Bash编写一个名为Claude Code的简单程序，实现0-1的基本功能。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [wailsapp/wails](https://github.com/wailsapp/wails) | 33,478 | 🤖 该项目允许开发者使用Go语言创建桌面应用程序。 |
+| 2 | [owncast/owncast](https://github.com/owncast/owncast) | 11,093 | 🤖 该项目允许用户自行托管直播视频流媒体和聊天室，实现对直播内容的完全控制。 |
+| 3 | [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) | 5,572 | 🤖 HomeBox是一个用于家庭用户的库存和组织系统，帮助用户管理和跟踪家中物品。 |
+| 4 | [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | 16,126 | 🤖 该项目是一个用于收集电话号码信息的框架，能够对目标电话号码进行信息收集和分析。 |
+| 5 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 36,346 | 🤖 XTLS/Xray-core是一个开源平台，提供了一个强大的核心功能，用于实现各种网络代理和穿透技术。 |
+| 6 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 18,804 | 🤖 Waveterm 是一个开源、跨平台的终端模拟器，旨在为用户提供无缝的工作流体验。 |
+| 7 | [supabase/cli](https://github.com/supabase/cli) | 1,878 | 🤖 Supabase CLI是一个命令行工具，用于管理Postgres迁移、运行Supabase本地开发环境、部署边缘函数、备份Postgres数据库以及从数据库模式生成类型定义。 |
+| 8 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | 2,953 | 🤖 该项目实现了可靠的模型交换功能，支持在本地OpenAI/Anthropic兼容服务器（如llama.cpp、vllm等）上进行模型切换。 |
+| 9 | [authelia/authelia](https://github.com/authelia/authelia) | 27,337 | 🤖 Authelia是一个单点登录和多因素认证门户，用于保护Web应用程序。 |
+| 10 | [henrygd/beszel](https://github.com/henrygd/beszel) | 20,322 | 🤖 该项目是一个轻量级的服务器监控中心，提供历史数据、Docker 统计和告警功能。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 5,711 | 🤖 该项目提供了一个视觉化的、示例驱动的Claude代码指南，涵盖了从基本概念到高级代理的所有内容，并提供了可复制的模板。 |
+| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 26,659 | 🤖 Microsoft/VibeVoice是一个开源的边缘智能语音AI项目，旨在实现边缘设备上的实时语音识别和交互。 |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 16,231 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 4 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 63,907 | 🤖 OpenBB是一个为分析师、量化交易者和AI代理提供的金融数据平台。 |
+| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 85,048 | 🤖 该项目实现了实时人脸替换和一键视频深度伪造，只需使用单张图像。 |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 15,059 | 🤖 该项目是一个AI智能代理技能，能够在Reddit、X、YouTube、HN、Polymarket和网络上研究任何主题，并生成一个有根据的总结。 |
+| 7 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 56,100 | 🤖 该项目是一个集成多种黑客工具的综合平台，旨在为黑客提供一个全面的工具集合。 |
+| 8 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 49,729 | 🤖 该项目是一个利用人工智能技术来管理对冲基金的团队，旨在使用AI算法进行投资决策和风险管理。 |
+| 9 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 20,034 | 🤖 Onyx是一个开源的AI平台，提供高级功能的AI聊天服务，兼容所有大型语言模型（LLM）。 |
+| 10 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 3,790 | 🤖 该项目的核心功能是通过代理树搜索算法实现工作坊级别的自动化科学发现。 |
+
