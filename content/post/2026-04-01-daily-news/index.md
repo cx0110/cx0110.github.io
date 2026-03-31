@@ -1,0 +1,75 @@
+---
+title: "🔥 每日技术热点 2026-04-01"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-04-01T09:00:00+08:00
+lastmod: 2026-04-01T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-04-01 01:57 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 12,347 | 🤖 该项目提供了一个视觉化的、示例驱动的Claude代码指南，涵盖了从基本概念到高级代理的所有内容，并提供了可复制的模板。 |
+| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 32,810 | 🤖 Microsoft/VibeVoice是一个开源的边缘智能语音AI项目，旨在实现边缘设备上的实时语音识别和交互。 |
+| 3 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 18,542 | 🤖 该项目实现了团队优先的多智能体编排，用于Claude Code，提高多智能体系统的协调和管理能力。 |
+| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 28,112 | 🤖 该项目旨在实践和改进代码的最佳实践，以使Claude的代码达到完美状态。 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 19,960 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | 127,754 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+| 7 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 16,155 | 🤖 该项目是一个用于训练和优化AI智能体的绝对训练工具。 |
+| 8 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 74,022 | 🤖 PaddleOCR是一个强大的OCR工具包，可以将PDF或图像文档转换为结构化数据，支持100多种语言，连接图像/PDF与LLM之间的桥梁。 |
+| 9 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | 2,770 | 🤖 该项目“Dimillian/Skills”旨在创建一个名为“My Codex Skills”的技能库，用于记录和管理个人技能。 |
+| 10 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 75,335 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 19,040 | 🤖 Waveterm 是一个开源、跨平台的终端模拟器，旨在为用户提供无缝的工作流体验。 |
+| 2 | [harness/harness](https://github.com/harness/harness) | 34,255 | 🤖 Harness Open Source是一个端到端的开发者平台，集成了源代码管理、CI/CD流水线、托管开发环境和构件注册中心等功能。 |
+| 3 | [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli) | 739 | 🤖 该项目是一个Feishu飞书的命令行接口工具，允许用户通过命令行与飞书平台进行交互。 |
+| 4 | [5rahim/seanime](https://github.com/5rahim/seanime) | 3,127 | 🤖 该项目是一个开源的媒体服务器，具有网页界面和桌面应用，用于管理和播放动漫和漫画。 |
+| 5 | [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 6,376 | 🤖 该项目是一个快速且轻量级的DNS代理，用于局域网广告拦截，具有多种功能。 |
+| 6 | [go-chi/chi](https://github.com/go-chi/chi) | 21,871 | 🤖 go-chi/chi 是一个轻量级、符合 Go 语言习惯且可组合的路由器，用于构建 Go HTTP 服务。 |
+| 7 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | 16,242 | 🤖 该项目是一个多功能的网络资源下载工具，支持下载包括视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等在内的各种常见网络资源。 |
+| 8 | [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | 58,384 | 🤖 mkcert是一个简单的零配置工具，用于生成任意名称的本地可信任开发证书。 |
+| 9 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 771 | 🤖 该项目是一个高性能的Deepseek客户端对话转API，支持多账号轮询和后台管理系统，兼容多种工具。 |
+| 10 | [mikefarah/yq](https://github.com/mikefarah/yq) | 15,135 | 🤖 yq是一个命令行工具，用于处理和处理YAML、JSON、XML、CSV、TOML、HCL和属性文件。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 12,347 | 🤖 该项目提供了一个视觉化的、示例驱动的Claude代码指南，涵盖了从基本概念到高级代理的所有内容，并提供了可复制的模板。 |
+| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 32,810 | 🤖 Microsoft/VibeVoice是一个开源的边缘智能语音AI项目，旨在实现边缘设备上的实时语音识别和交互。 |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 19,960 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 4 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 16,155 | 🤖 该项目是一个用于训练和优化AI智能体的绝对训练工具。 |
+| 5 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 74,022 | 🤖 PaddleOCR是一个强大的OCR工具包，可以将PDF或图像文档转换为结构化数据，支持100多种语言，连接图像/PDF与LLM之间的桥梁。 |
+| 6 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 75,335 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
+| 7 | [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 32,361 | 🤖 ChatDev 2.0 项目利用大语言模型（LLM）实现多智能体协作，全面提升开发者在整个开发过程中的工作效率和体验。 |
+| 8 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 57,013 | 🤖 该项目是一个集成多种黑客工具的综合平台，旨在为黑客提供一个全面的工具集合。 |
+| 9 | [google-research/timesfm](https://github.com/google-research/timesfm) | 11,454 | 🤖 TimesFM是一个预训练的时间序列基础模型，用于时间序列预测。 |
+| 10 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64,804 | 🤖 OpenBB是一个为分析师、量化交易者和AI代理提供的金融数据平台。 |
+
