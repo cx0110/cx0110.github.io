@@ -1,0 +1,66 @@
+---
+title: "🔥 每日技术热点 2026-04-03"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-04-03T09:00:00+08:00
+lastmod: 2026-04-03T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-04-03 01:53 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 15,152 | 🤖 该项目是一个开源的演示制作工具，允许用户免费创建惊人的演示，无需订阅、无水印，并可用于商业用途。 |
+| 2 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 10,974 | 🤖 该项目为代码库添加了钩子、代理团队、HUD等功能，扩展了代码管理和交互能力。 |
+| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 36,030 | 🤖 该项目收集和整理了来自ChatGPT、Claude和Gemini等流行聊天机器人的系统提示。 |
+| 4 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 76,945 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/adk-go](https://github.com/google/adk-go) | 7,375 | 🤖 Google/adk-go是一个开源的Go语言工具包，用于构建、评估和部署复杂的AI代理。 |
+| 2 | [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) | 458 | 🤖 该项目是一个跨平台的智能通知插件，支持六种类型的通知，点击即可聚焦，并且可以通过Webhooks集成ntfy、Slack、Telegram等平台。 |
+| 3 | [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | 9,809 | 🤖 KrillinAI是一个基于LLM的视频翻译和配音工具，支持100种语言的双向翻译和一键部署全流程。 |
+| 4 | [go-resty/resty](https://github.com/go-resty/resty) | 11,618 | 🤖 这是一个简单的Go语言HTTP、REST和SSE客户端库。 |
+| 5 | [labstack/echo](https://github.com/labstack/echo) | 32,277 | 🤖 Labstack/echo是一个高性能、极简主义的Go语言Web框架。 |
+| 6 | [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) | 12,005 | 🤖 该项目提供了一种自定义Kubernetes YAML配置文件的方法，允许用户通过overlay和patch来定制化部署配置。 |
+| 7 | [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6,803 | 🤖 OpenTelemetry Collector是一个可扩展的代理程序，用于收集、处理和导出遥测数据（指标、日志和跟踪），支持多种数据源和目标。 |
+| 8 | [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 18,311 | 🤖 该项目提供了一个Go语言库和命令行工具，用于管理数据库迁移。 |
+| 9 | [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | 4,555 | 🤖 OpenTelemetry Collector 的贡献仓库，用于收集和处理遥测数据。 |
+| 10 | [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) | 4,158 | 🤖 该项目为Kubernetes集群提供了一种声明式的API，用于管理和生命周期管理。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 76,945 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
+| 2 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | 6,290 | 🤖 PraisonAI是一个低代码的多智能体AI平台，能够自动化和解决复杂挑战，并通过Telegram、Discord和WhatsApp等渠道交付结果。 |
+| 3 | [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 12,102 | 🤖 该项目可以自动将文档网站、GitHub仓库和PDF文件转换为Claude AI技能，并具备自动冲突检测功能。 |
+| 4 | [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) | 5,203 | 🤖 GLM-OCR是一个高精度、快速和全面的光学字符识别（OCR）系统。 |
+| 5 | [google-research/timesfm](https://github.com/google-research/timesfm) | 13,194 | 🤖 TimesFM是一个预训练的时间序列基础模型，用于时间序列预测。 |
+| 6 | [roboflow/supervision](https://github.com/roboflow/supervision) | 37,389 | 🤖 该项目提供可重用的计算机视觉工具。 |
+| 7 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 1,409 | 🤖 该项目允许用户在终端、VSCode扩展或Discord中免费使用Claude代码。 |
+
