@@ -1,0 +1,71 @@
+---
+title: "🔥 每日技术热点 2026-04-05"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-04-05T09:00:00+08:00
+lastmod: 2026-04-05T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-04-05 01:37 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3,477 | 🤖 MLX-VLM是一个用于在Mac上使用MLX进行视觉语言模型（VLMs）的推理和微调的包。 |
+| 2 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 23,985 | 🤖 Onyx是一个开源的AI平台，提供高级功能的AI聊天服务，兼容所有大型语言模型（LLM）。 |
+| 3 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 15,302 | 🤖 该项目为代码库添加了钩子、代理团队、HUD等功能，扩展了代码管理和交互能力。 |
+| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 19,227 | 🤖 该项目是一个开源的演示制作工具，允许用户免费创建惊人的演示，无需订阅、无水印，并可用于商业用途。 |
+| 5 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 30,766 | 🤖 Telegram Desktop是一个跨平台的即时通讯应用，允许用户发送消息、图片、视频和文件，并支持群聊和加密通话等功能。 |
+| 6 | [block/goose](https://github.com/block/goose) | 35,488 | 🤖 Block/Goose是一个开源的可扩展人工智能代理，能够超越代码建议，支持安装、执行、编辑和测试任何大型语言模型（LLM）。 |
+| 7 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 8,621 | 🤖 该项目是一个用于构建、编排和部署AI代理和多代理工作流的框架，支持Python和.NET语言。 |
+| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 79,141 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ollama/ollama](https://github.com/ollama/ollama) | 167,133 | 🤖 该项目提供了一种快速部署和使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3等模型的解决方案。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 10,240 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 3 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 24,821 | 🤖 该项目是一个统一的AI模型中心，支持将各种LLM模型转换为OpenAI、Claude或Gemini兼容格式，并提供个人和企业模型管理的集中门户。 |
+| 4 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 470 | 🤖 该项目是一个高级的DNS隧道VPN，用于突破网络审查，具有低开销的自动重传请求、SOCKS5多路复用、解析器负载均衡和高丢包稳定性。 |
+| 5 | [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 13,689 | 🤖 该项目是一个开源的MCP服务器，用于管理和操作数据库。 |
+| 6 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 121,488 | 🤖 该项目是一个容器编排系统，用于自动化部署、扩展和管理容器化应用。 |
+| 7 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 44,873 | 🤖 Mudler/LocalAI是一个免费、开源的本地人工智能项目，能够在不需要GPU的消费级硬件上运行，支持文本、音频、视频、图像、语音克隆等功能。 |
+| 8 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 27,429 | 🤖 该项目是一个小型、快速、可部署的自动化工具，旨在自动化重复性任务，释放创造力。 |
+| 9 | [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | 3,608 | 🤖 该项目的核心功能是开发一种智能路由器，用于管理和优化多模型的混合使用。 |
+| 10 | [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) | 16,785 | 🤖 Chaos Monkey是一个帮助应用程序容忍随机实例故障的弹性工具。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3,477 | 🤖 MLX-VLM是一个用于在Mac上使用MLX进行视觉语言模型（VLMs）的推理和微调的包。 |
+| 2 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 23,985 | 🤖 Onyx是一个开源的AI平台，提供高级功能的AI聊天服务，兼容所有大型语言模型（LLM）。 |
+| 3 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 8,621 | 🤖 该项目是一个用于构建、编排和部署AI代理和多代理工作流的框架，支持Python和.NET语言。 |
+| 4 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 79,141 | 🤖 该项目可以通过用户名跨社交网络搜索和定位相关社交媒体账户。 |
+| 5 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 32,051 | 🤖 LightRAG是一个简单且快速的检索增强生成模型，能够高效地检索和生成相关文本。 |
+| 6 | [imbue-ai/mngr](https://github.com/imbue-ai/mngr) | 164 | 🤖 该项目是一个命令行界面（CLI）工具，用于管理智能体（agents）。 |
+| 7 | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 30,952 | 🤖 该项目是一个网站变更检测工具，能够监测网页内容变化、价格变动、库存变化和网站篡改等情况，并提供实时警报。 |
+| 8 | [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) | 4,422 | 🤖 该项目的核心功能是使用MLX运行大型语言模型（LLMs）。 |
+
