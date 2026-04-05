@@ -1,0 +1,72 @@
+---
+title: "🔥 每日技术热点 2026-04-06"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-04-06T09:00:00+08:00
+lastmod: 2026-04-06T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-04-06 01:37 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 16,671 | 🤖 该项目是一个展示端边缘设备机器学习和通用人工智能用例的画廊，允许用户在本地尝试和使用模型。 |
+| 2 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3,840 | 🤖 MLX-VLM是一个用于在Mac上使用MLX进行视觉语言模型（VLMs）的推理和微调的包。 |
+| 3 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 22,100 | 🤖 该项目是一个开源的演示制作工具，允许用户免费创建惊人的演示，无需订阅、无水印，并可用于商业用途。 |
+| 4 | [block/goose](https://github.com/block/goose) | 36,582 | 🤖 Block/Goose是一个开源的可扩展人工智能代理，能够超越代码建议，支持安装、执行、编辑和测试任何大型语言模型（LLM）。 |
+| 5 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 24,822 | 🤖 Onyx是一个开源的AI平台，提供高级功能的AI聊天服务，兼容所有大型语言模型（LLM）。 |
+| 6 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 31,789 | 🤖 该项目是一个人工智能代理工具包，提供命令行界面、统一的大语言模型API、文本用户界面和Web用户界面库、Slack机器人等功能。 |
+| 7 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3,600 | 🤖 该项目是一个快速且准确的文件搜索工具包，支持Neovim、Rust、C和NodeJS等多种环境。 |
+| 8 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1,432 | 🤖 LiteRT-LM是一个轻量级的语言模型，能够在边缘设备上高效运行，实现实时的自然语言处理和生成任务。 |
+| 9 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 31,010 | 🤖 Telegram Desktop是一个跨平台的即时通讯应用，允许用户发送消息、图片、视频和文件，并支持群聊和加密通话等功能。 |
+| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 441,343 | 🤖 freeCodeCamp是一个开源的编程学习平台，提供免费的数学、编程和计算机科学课程。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ollama/ollama](https://github.com/ollama/ollama) | 167,277 | 🤖 该项目提供了一种快速部署和使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3等模型的解决方案。 |
+| 2 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | 32,172 | 🤖 SagerNet/sing-box是一个通用的代理平台，支持多种代理协议和模式，提供灵活的代理解决方案。 |
+| 3 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 27,559 | 🤖 该项目是一个小型、快速、可部署的自动化工具，旨在自动化重复性任务，释放创造力。 |
+| 4 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 36,625 | 🤖 XTLS/Xray-core是一个开源平台，提供了一个强大的核心功能，用于实现各种网络代理和穿透技术。 |
+| 5 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 3,683 | 🤖 该项目是一个快速、可脚本化的命令行工具，用于自动化App Store Connect API的各种操作，包括TestFlight、构建、提交、签名、分析、截图、订阅等。 |
+| 6 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 30,096 | 🤖 Tailscale是一个使用WireGuard和两步验证的安全网络工具，提供简单易用的VPN解决方案。 |
+| 7 | [github/gh-aw](https://github.com/github/gh-aw) | 4,220 | 🤖 该项目提供了一种工作流管理系统，允许用户在GitHub上创建和管理基于代理的工作流程。 |
+| 8 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 25,522 | 🤖 Trufflehog是一个用于发现、验证和分析泄露凭证的工具。 |
+| 9 | [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) | 3,835 | 🤖 该项目是一个待办事项应用，用于组织和管理用户的日常任务和生活。 |
+| 10 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | 3,101 | 🤖 该项目实现了可靠的模型交换功能，支持在本地OpenAI/Anthropic兼容服务器（如llama.cpp、vllm等）上进行模型切换。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3,840 | 🤖 MLX-VLM是一个用于在Mac上使用MLX进行视觉语言模型（VLMs）的推理和微调的包。 |
+| 2 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 24,822 | 🤖 Onyx是一个开源的AI平台，提供高级功能的AI聊天服务，兼容所有大型语言模型（LLM）。 |
+| 3 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 8,868 | 🤖 该项目是一个用于构建、编排和部署AI代理和多代理工作流的框架，支持Python和.NET语言。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 25,957 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 5 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 15,196 | 🤖 RAG-Anything是一个全面的RAG（检索、聚合、生成）框架，能够集成多种功能以实现高效的信息检索和生成。 |
+| 6 | [google-deepmind/gemma](https://github.com/google-deepmind/gemma) | 4,391 | 🤖 Gemma是一个开源的、基于权重的大型语言模型（LLM）库，由Google DeepMind开发。 |
+| 7 | [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 663 | 🤖 该项目是一个高级的TradingView市场分析服务器，支持实时加密货币和股票筛选、技术指标、布林带智能和蜡烛图形态识别等功能。 |
+
