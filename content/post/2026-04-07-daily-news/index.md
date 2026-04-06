@@ -1,0 +1,73 @@
+---
+title: "🔥 每日技术热点 2026-04-07"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-04-07T09:00:00+08:00
+lastmod: 2026-04-07T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-04-07 01:52 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 23,222 | 🤖 GitNexus是一个客户端知识图谱创建工具，能够在浏览器中运行，支持用户上传GitHub仓库或ZIP文件，并生成交互式知识图谱。 |
+| 2 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 17,699 | 🤖 该项目是一个展示端边缘设备机器学习和通用人工智能用例的画廊，允许用户在本地尝试和使用模型。 |
+| 3 | [block/goose](https://github.com/block/goose) | 37,887 | 🤖 Block/Goose是一个开源的可扩展人工智能代理，能够超越代码建议，支持安装、执行、编辑和测试任何大型语言模型（LLM）。 |
+| 4 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1,906 | 🤖 LiteRT-LM是一个轻量级的语言模型，能够在边缘设备上高效运行，实现实时的自然语言处理和生成任务。 |
+| 5 | [immich-app/immich](https://github.com/immich-app/immich) | 96,714 | 🤖 该项目是一个自托管的高性能照片和视频管理解决方案。 |
+| 6 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 36,303 | 🤖 该项目是一个名为Shannon的全自主AI黑客工具，用于自动发现Web应用程序中的实际漏洞。 |
+| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 27,672 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 8 | [tobi/qmd](https://github.com/tobi/qmd) | 18,563 | 🤖 该项目是一个本地的命令行搜索引擎，用于搜索文档、知识库、会议记录等内容。 |
+| 9 | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 8,272 | 🤖 Telegram-iOS是一个为iOS设备开发的即时通讯软件，允许用户进行跨平台的文字、语音、图片和视频等多种形式的消息交流。 |
+| 10 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 20,311 | 🤖 该项目旨在为Obsidian开发智能代理技能，包括Markdown、数据库、JSON画布和命令行界面等功能。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ollama/ollama](https://github.com/ollama/ollama) | 167,556 | 🤖 该项目提供了一种快速部署和使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3等模型的解决方案。 |
+| 2 | [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 13,926 | 🤖 该项目是一个开源的MCP服务器，用于管理和操作数据库。 |
+| 3 | [navidrome/navidrome](https://github.com/navidrome/navidrome) | 20,279 | 🤖 Navidrome是一个个人音乐流媒体服务项目，允许用户创建自己的音乐流媒体服务器并在任何地方访问音乐库。 |
+| 4 | [henrygd/beszel](https://github.com/henrygd/beszel) | 20,626 | 🤖 该项目是一个轻量级的服务器监控中心，提供历史数据、Docker 统计和告警功能。 |
+| 5 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 81,468 | 🤖 Syncthing是一个开源的持续文件同步工具，实现多设备之间的自动文件同步。 |
+| 6 | [github/gh-aw](https://github.com/github/gh-aw) | 4,227 | 🤖 该项目提供了一种工作流管理系统，允许用户在GitHub上创建和管理基于代理的工作流程。 |
+| 7 | [golang/go](https://github.com/golang/go) | 133,296 | 🤖 Go语言项目是Google开发的一种静态类型、编译型、并发型的编程语言。 |
+| 8 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | 32,220 | 🤖 SagerNet/sing-box是一个通用的代理平台，支持多种代理协议和模式，提供灵活的代理解决方案。 |
+| 9 | [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) | 3,859 | 🤖 该项目是一个待办事项应用，用于组织和管理用户的日常任务和生活。 |
+| 10 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 5,212 | 🤖 该项目提供了一种现代化的Docker管理方式，旨在让所有人都能轻松使用和管理Docker。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 27,672 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 2 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 7,166 | 🤖 PersonaPlex是一个由NVIDIA开发的人工智能模型，用于生成和控制虚拟角色，实现逼真的人物交互和对话。 |
+| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 11,511 | 🤖 DeepTutor是一个智能的个性化学习助手，利用人工智能技术为每个学生提供针对性的学习指导和支持。 |
+| 4 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 4,100 | 🤖 MLX-VLM是一个用于在Mac上使用MLX进行视觉语言模型（VLMs）的推理和微调的包。 |
+| 5 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 9,325 | 🤖 该项目是一个非官方的Python API，用于访问和操作Google NotebookLM。 |
+| 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 341,615 | 🤖 该项目提供大规模系统设计的学习资源和Anki闪存卡，帮助用户准备系统设计面试。 |
+| 7 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 25,394 | 🤖 Onyx是一个开源的AI平台，提供高级功能的AI聊天服务，兼容所有大型语言模型（LLM）。 |
+| 8 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 7,898 | 🤖 该项目提供了65种专门技能，用于帮助全栈开发者将Claude代码转化为专家级的配对编程工具。 |
+
