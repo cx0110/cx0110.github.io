@@ -72,3 +72,72 @@ image:
 | 9 | [NVIDIA-NeMo/DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) | 1,475 | 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data. |
 | 10 | [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) | 8,977 | "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目，由 AI (MiniMax M2 / OpenAI) 辅助分析。
+> 更新时间: 2026-04-08 01:46 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 🔥 1679 | 🤖[Unknown] 该项目收集了流行网站的设计系统文档，方便开发者快速构建匹配的UI界面。 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 686 | Claude Code skill. Drop code, papers, images, or notes into a folder and get a knowledge graph with community detection, god nodes, and honest audi... |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 🔥 650 | 🤖[Unknown] 该项目为AI编码代理提供生产级工程技能。 |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 425 | 🤖[Unknown] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 5 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 479 | 🤖[Unknown] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
+| 6 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔥 335 | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  |
+| 7 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 256 | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Dr... |
+| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 236 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 9 | [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) | 🔥 198 | Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and p... |
+| 10 | [chenglou/pretext](https://github.com/chenglou/pretext) | 🔥 204 | Fast, accurate & comprehensive text measurement & layout |
+
+## 🐹 Go 语言精选 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [maaslalani/sheets](https://github.com/maaslalani/sheets) | 🔥 98 | 🤖[Unknown] 终端基于的电子表格工具。 |
+| 2 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 51 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale w... |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 53 | 🤖[Unknown] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 33 | 🤖[Unknown] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 22 | 🤖[Unknown] PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 6 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 24 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 7 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 18 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
+| 8 | [sivchari/kumo](https://github.com/sivchari/kumo) | 🔥 13 | A lightweight AWS service emulator written in Go |
+| 9 | [xoai/sage-wiki](https://github.com/xoai/sage-wiki) | 🔥 15 | An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — w... |
+| 10 | [cacggghp/vk-turn-proxy](https://github.com/cacggghp/vk-turn-proxy) | 🔥 15 |  |
+
+## 🐍 Python 热门 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 652 | Claude Code skill. Drop code, papers, images, or notes into a folder and get a knowledge graph with community detection, god nodes, and honest audi... |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 413 | 🤖[Unknown] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 454 | 🤖[Unknown] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
+| 4 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 223 | 🤖[Unknown] 该项目提供 Claude Code 的视觉化教程和示例，涵盖基础到高级内容。 |
+| 5 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 132 | 🤖[Unknown] PersonaPlex 是一个开源项目，提供人工智能驱动的个性化交互技术。 |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 122 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 7 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 105 | Open-Source Frontier Voice AI |
+| 8 | [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) | 🔥 75 | AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 \| Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok /... |
+| 9 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 🔥 81 | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）.  |
+| 10 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 73 | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews an... |
+
+## 🦀 Rust 新秀 (24h)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [block/goose](https://github.com/block/goose) | 🔥 241 | 🤖[Unknown] block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 147 | 🤖[Unknown] 该项目是一款命令行代理，能减少大语言模型的令牌消耗。 |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 102 | 🤖[Unknown] 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 4 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🔥 80 | 🤖[Unknown] 该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。 |
+| 5 | [memvid/memvid](https://github.com/memvid/memvid) | 🔥 63 | 🤖[Unknown] 该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。 |
+| 6 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 🔥 50 | Hundreds of models & providers. One command to find what runs on your hardware. |
+| 7 | [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) | 🔥 48 | Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter. |
+| 8 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 🔥 36 | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS |
+| 9 | [microsoft/RustTraining](https://github.com/microsoft/RustTraining) | 🔥 32 | Beginner, advanced, expert level Rust training material |
+| 10 | [edwardkim/rhwp](https://github.com/edwardkim/rhwp) | 🔥 26 | 아래한글 hwp viewer and editor by rust and wasm |
+
