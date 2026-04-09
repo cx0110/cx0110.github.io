@@ -193,3 +193,95 @@ image:
 | 9 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 58,940 | 🤖 [llama-3.3-70b-versatile] 该项目提供了ChatGPT的中文调教指南和各种场景使用指南，帮助用户学习如何有效地与ChatGPT交互。 |
 | 10 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 34,821 | 🤖 [llama-3.3-70b-versatile] 本项目教你如何正确地提出技术问题以获得满意的答案。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
+> 更新时间: 2026-04-10 02:50 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5320 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 3826 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 3 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 2105 | 🤖 [Legacy] 这是一个人工智能代理工具包，提供命令行界面、API和图形界面等功能。 |
+| 4 | [block/goose](https://github.com/block/goose) | 🔥 1603 | 🤖 [Legacy] block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 5 | [openai/codex](https://github.com/openai/codex) | 🔥 1491 | 🤖 [qwen/qwen3-32b] <think>
+好的，用户让我用中文一句话概括openai/codex项目的核心功能，不超过50字。首先，我需要确认这个项目到底是什么。根据描述，是“Lightweight coding agent that runs in your terminal”，... |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 1663 | 🤖 [qwen/qwen3-32b] <think>
+好的，用户让我用中文一句话概括Fission-AI/OpenSpec项目的核心功能，不超过50字。首先，我需要理解项目描述中的关键词：Spec-driven development (SDD) for AI coding assistant... |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 1011 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 848 | 🤖 [qwen/qwen3-32b] <think>
+好的，用户让我用中文一句话概括safishamsi/graphify项目的核心功能，不超过50字。首先，我需要仔细阅读项目描述。项目名称是graphify，描述中提到Claude Code skill，可以拖放代码、论文、图片或笔记到文件夹... |
+| 3 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 🔥 609 | 🤖 [Legacy] 该项目收集了流行网站的设计系统文档，方便开发者快速构建匹配的UI界面。 |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 240 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 🔥 207 | ⛔ [无描述]  |
+| 6 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 220 | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 220 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman |
+| 8 | [webadderall/Recordly](https://github.com/webadderall/Recordly) | 🔥 148 | Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overla... |
+| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 174 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 🔥 155 | Production-grade engineering skills for AI coding agents. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 965 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 820 | 🤖 [qwen/qwen3-32b] <think>
+好的，用户让我用中文一句话概括safishamsi/graphify项目的核心功能，不超过50字。首先，我需要仔细阅读项目描述。项目名称是graphify，描述中提到Claude Code skill，可以拖放代码、论文、图片或笔记到文件夹... |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 214 | 🤖 [Legacy] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 209 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 133 | 🤖 [Legacy] 该项目提供 Claude Code 的视觉化教程和示例，涵盖基础到高级内容。 |
+| 6 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 106 | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews an... |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 7519 | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+| 8 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 8718 | PersonaPlex code. |
+| 9 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 37976 | Open-Source Frontier Voice AI |
+| 10 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 8702 | Hindsight: Agent Memory That  Learns |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 24429 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 11287 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) | 🔥 42 | ⛔ [无描述]  |
+| 4 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2386 | 🤖 [qwen/qwen3-32b] <think>
+好的，我现在要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我需要仔细理解项目描述。
+
+项目名称是GoClaw，是OpenClaw用Go重写的版本。描述中提到多租户隔离、五层安全、原生并发，可以大规模部署AI代理团队而不影响... |
+| 5 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 4718 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 27925 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 7 | [xoai/sage-wiki](https://github.com/xoai/sage-wiki) | 🔥 318 | An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — w... |
+| 8 | [maaslalani/sheets](https://github.com/maaslalani/sheets) | 🔥 1733 | Terminal based spreadsheet tool |
+| 9 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 🔥 977 | Deepseek客户端对话转API全栈开源工具，高性能，多账号轮询，支持纯vercel、docker部署使用。Google、Claude、ChatGPT多接口格式兼容 |
+| 10 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 22754 | Glamourous agentic coding for all 💘 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 🔥 172 | 🤖 [Legacy] 该项目为代码库添加钩子、智能代理、HUD等功能，增强代码管理和开发体验。 |
+| 2 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔥 147 | 🤖 [Legacy] 开源屏幕录制工具，免费创建演示，无水印，无订阅，无商用限制。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 4130 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 132 | 🤖 [Legacy] GitNexus：一个浏览器内运行的代码智能引擎，生成交互式知识图谱。 |
+| 5 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 🔥 124 | 🤖 [llama-3.3-70b-versatile] 开源人工智能协作工具，具备记忆功能。 |
+| 6 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 103 | Open-source orchestration for zero-human companies |
+| 7 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 120 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
+| 8 | [chenglou/pretext](https://github.com/chenglou/pretext) | 🔥 42234 | Fast, accurate & comprehensive text measurement & layout |
+| 9 | [tobi/qmd](https://github.com/tobi/qmd) | 🔥 102 | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local |
+| 10 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 🔥 26865 | Teams-first Multi-agent orchestration for Claude Code |
+
