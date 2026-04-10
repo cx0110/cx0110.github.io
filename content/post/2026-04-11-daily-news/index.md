@@ -193,3 +193,95 @@ image:
 | 9 | [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) | 10,165 | 🤖 该项目是一个基于WeChaty和多个AI服务的微信机器人，可以实现自动回复微信消息、社群分析、好友管理和检测僵尸粉等功能。 |
 | 10 | [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 23,146 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个中文独立博客的列表，方便用户找到并访问这些博客。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
+> 更新时间: 2026-04-11 02:39 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5339 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 3823 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 3 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 2107 | 🤖 [Legacy] 这是一个人工智能代理工具包，提供命令行界面、API和图形界面等功能。 |
+| 4 | [block/goose](https://github.com/block/goose) | 🔥 1657 | 🤖 [Legacy] block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
+| 5 | [openai/codex](https://github.com/openai/codex) | 🔥 1490 | 🤖 [qwen/qwen3-32b] <think>
+好的，用户让我用中文一句话概括openai/codex项目的核心功能，不超过50字。首先，我需要确认这个项目到底是什么。根据描述，是“Lightweight coding agent that runs in your terminal”，... |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 1674 | 🤖 [qwen/qwen3-32b] <think>
+好的，用户让我用中文一句话概括Fission-AI/OpenSpec项目的核心功能，不超过50字。首先，我需要理解项目描述中的关键词：Spec-driven development (SDD) for AI coding assistant... |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 1347 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 742 | 🤖 [qwen/qwen3-32b] <think>
+好的，用户让我用中文一句话概括safishamsi/graphify项目的核心功能，不超过50字。首先，我需要仔细阅读项目描述。项目名称是graphify，描述中提到Claude Code skill，可以拖放代码、论文、图片或笔记到文件夹... |
+| 3 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 🔥 615 | 🤖 [Legacy] 该项目收集了流行网站的设计系统文档，方便开发者快速构建匹配的UI界面。 |
+| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 300 | 🤖 [Legacy] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
+| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 304 | 🤖 [Legacy] 该项目旨在实践和改进 Claude 的代码最佳实践。 |
+| 6 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 🔥 267 | ⛔ [无描述]  |
+| 7 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 245 | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| 8 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 245 | Multica turns coding agents into real teammates. Assign issues to an agent like you'd assign to a colleague — they'll pick up the work, write code,... |
+| 9 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 🔥 229 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 🔥 191 | Production-grade engineering skills for AI coding agents. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 1306 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 710 | 🤖 [qwen/qwen3-32b] <think>
+好的，用户让我用中文一句话概括safishamsi/graphify项目的核心功能，不超过50字。首先，我需要仔细阅读项目描述。项目名称是graphify，描述中提到Claude Code skill，可以拖放代码、论文、图片或笔记到文件夹... |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 282 | 🤖 [Legacy] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 243 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 155 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 6 | [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) | 🔥 132 | reverse engineering Gemini's SynthID detection |
+| 7 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 117 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 8 | [coleam00/Archon](https://github.com/coleam00/Archon) | 🔥 113 | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| 9 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 20369 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 29158 | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 24750 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 11551 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) | 🔥 22 | ⛔ [无描述]  |
+| 4 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2441 | 🤖 [qwen/qwen3-32b] <think>
+好的，我现在要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我需要仔细理解项目描述。
+
+项目名称是GoClaw，是OpenClaw用Go重写的版本。描述中提到多租户隔离、五层安全、原生并发，可以大规模部署AI代理团队而不影响... |
+| 5 | [maaslalani/sheets](https://github.com/maaslalani/sheets) | 🔥 1803 | 🤖 [Legacy] 终端基于的电子表格工具。 |
+| 6 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 4833 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 7 | [sivchari/kumo](https://github.com/sivchari/kumo) | 🔥 594 | A lightweight AWS service emulator written in Go |
+| 8 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 22809 | Glamourous agentic coding for all 💘 |
+| 9 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 12 | ⛔ [无描述]  |
+| 10 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 27974 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 291 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [webadderall/Recordly](https://github.com/webadderall/Recordly) | 🔥 224 | 🤖 [llama-3.3-70b-versatile] Recordly是一款开源的屏幕录制和编辑工具，支持自动缩放、摄像头叠加、光标动画等功能。 |
+| 3 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 🔥 154 | 🤖 [Legacy] 该项目为代码库添加钩子、智能代理、HUD等功能，增强代码管理和开发体验。 |
+| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔥 121 | 🤖 [Legacy] 开源屏幕录制工具，免费创建演示，无水印，无订阅，无商用限制。 |
+| 5 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 107 | 🤖 [Legacy] 该项目是一个使用Bash构建的微型Claude Code智能代理。 |
+| 6 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 110 | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Dr... |
+| 7 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 🔥 27332 | Teams-first Multi-agent orchestration for Claude Code |
+| 8 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | 🔥 7203 | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault |
+| 9 | [getcompanion-ai/feynman](https://github.com/getcompanion-ai/feynman) | 🔥 94 | ⛔ [无描述]  |
+| 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 🔥 116 | Open-source AI coworker, with memory |
+
