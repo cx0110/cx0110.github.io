@@ -1,0 +1,195 @@
+---
+title: "🔥 每日技术热点 2026-04-11"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-04-11T09:00:00+08:00
+lastmod: 2026-04-11T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-04-11 01:51 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 98,980 | 🤖 该项目是一个Python工具，用于将文件和办公文档转换为Markdown格式。 |
+| 2 | [coleam00/Archon](https://github.com/coleam00/Archon) | 15,265 | 🤖 该项目是一个开源的工具，旨在使AI编码变得确定性和可重复，通过构建编码框架来实现这一目标。 |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 51,131 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 4 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 11,597 | 🤖 该项目是一个开源的AI协作工具，具备记忆功能。 |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 5,640 | 🤖 该项目是一个开源的智能代理管理平台，能够让编码代理像真正的团队成员一样工作，接受任务、跟踪进度和积累技能。 |
+| 6 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 11,486 | 🤖 该项目记录和总结了Andrej Karpathy的技能和经验，包括深度学习、计算机视觉和自然语言处理等领域的知识和技术。 |
+| 7 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12,597 | 🤖 Kronos是一个针对金融市场语言的基础模型，旨在理解和处理金融市场相关的语言和数据。 |
+| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 15,766 | 🤖 DeepTutor是一个智能的个性化学习助手，利用人工智能技术为每个学生提供针对性的学习指导和支持。 |
+| 9 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 14,632 | 🤖 该项目是一个开源的PDF解析器，旨在将PDF文件转换为AI可用的数据格式，并实现PDF的自动化无障碍化。 |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | 145,451 | 🤖 Claude Code超能力项目是一个核心技能库，提供一系列的编程超能力。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 76,145 | 🤖 Lazygit是一个简单的终端UI工具，用于简化和可视化Git命令的操作。 |
+| 2 | [goharbor/harbor](https://github.com/goharbor/harbor) | 28,229 | 🤖 Harbor是一个开源的云原生注册中心项目，用于存储、签名和扫描容器镜像等内容。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 11,546 | 🤖 Sub2API-CRS2 是一站式开源中转服务，实现 Claude、Openai 、Gemini、Antigravity 等订阅服务的统一接入和拼车共享。 |
+| 4 | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) | 2,771 | 🤖 该项目是一个MCP服务器，用于为Grafana提供服务。 |
+| 5 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 14,726 | 🤖 该项目是一个全自主的AI代理系统，能够执行复杂的渗透测试任务。 |
+| 6 | [docker/compose](https://github.com/docker/compose) | 37,260 | 🤖 该项目允许用户定义和运行多容器的Docker应用程序。 |
+| 7 | [helm/helm](https://github.com/helm/helm) | 29,681 | 🤖 Helm是一个Kubernetes包管理器，用于简化Kubernetes应用的安装、升级和管理。 |
+| 8 | [spf13/cobra](https://github.com/spf13/cobra) | 43,638 | 🤖 该项目提供了一个现代化的Go语言命令行接口（CLI）框架，用于构建和管理命令行应用程序。 |
+| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 3,663 | 🤖 maximhq/bifrost是一个企业级AI网关，支持1000多个模型，具有自适应负载均衡、集群模式、防护措施等功能，并且具有极低的延迟和高吞吐量。 |
+| 10 | [pingcap/tidb](https://github.com/pingcap/tidb) | 39,950 | 🤖 TiDB 是一个开源的、云原生的、分布式 SQL 数据库，旨在支持现代应用程序。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 98,980 | 🤖 该项目是一个Python工具，用于将文件和办公文档转换为Markdown格式。 |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 51,131 | 🤖 Hermes-agent是一个用于管理和监控分布式系统的代理程序，提供资源监控、日志收集和告警通知等功能。 |
+| 3 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12,597 | 🤖 Kronos是一个针对金融市场语言的基础模型，旨在理解和处理金融市场相关的语言和数据。 |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 15,766 | 🤖 DeepTutor是一个智能的个性化学习助手，利用人工智能技术为每个学生提供针对性的学习指导和支持。 |
+| 5 | [FloatingPragma/observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) | 388 | ⛔ [总星数 388 < 500] OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency. |
+| 6 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 35,728 | 🤖 D4Vinci/Scrapling是一个自适应的网页抓取框架，能够处理从单个请求到大规模爬取的所有任务。 |
+| 7 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | 22,127 | 🤖 [llama-3.3-70b-versatile] Prefect 是一个 Python 工作流编排框架，用于构建强健的数据管道。 |
+| 8 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 150,126 | 🤖 该项目分享和整理了GitHub上有趣且适合入门的开源项目。 |
+| 9 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 8,514 | 🤖 VoxCPM是一个无需分词器的语音合成和语音克隆系统，能够实现上下文感知的语音生成和真实的语音克隆。 |
+| 10 | [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 1,585 | 🤖 该项目是一个高级的TradingView市场分析服务器，支持实时加密货币和股票筛选、技术指标、布林带智能和蜡烛图形态识别等功能。 |
+
+## 🟨 JavaScript/TypeScript 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Anil-matcha/Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) | 4,097 | 🤖 Open-Higgsfield-AI是一个开源的AI图像生成和电影工作室，支持20多种模型，自托管、可定制，并遵循MIT许可协议。 |
+| 2 | [decolua/9router](https://github.com/decolua/9router) | 2,221 | 🤖 该项目旨在连接多个AI代码工具与40多个AI服务提供商和100多个AI模型，实现全面集成。 |
+| 3 | [mui/material-ui](https://github.com/mui/material-ui) | 98,105 | 🤖 Material UI是一个全面实现谷歌Material Design的React组件库。 |
+| 4 | [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) | 28,741 | 🤖 [llama-3.3-70b-versatile] Swagger UI 是一个根据 Swagger 规范自动生成 API 文档的前端项目。 |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 18,151 | 🤖 该项目是一个设计语言，旨在提高人工智能在设计方面的能力。 |
+| 6 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 41,280 | 🤖 Zen Browser是一个旨在提供更平静和专注的上网体验的浏览器。 |
+| 7 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 1,757 | 🤖 [llama-3.3-70b-versatile] 该项目是一个无头浏览器自动化服务器，允许AI代理访问通常被阻止的网站。 |
+| 8 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 86,274 | 🤖 [llama-3.3-70b-versatile] Svelte是一个用于构建Web应用的JavaScript框架，允许开发者使用简单的语法和组件化方式创建高性能的Web应用。 |
+| 9 | [eslint/eslint](https://github.com/eslint/eslint) | 27,183 | 🤖 该项目的核心功能是查找和修复JavaScript代码中的问题。 |
+| 10 | [lazaroagomez/BeatDock](https://github.com/lazaroagomez/BeatDock) | 131 | ⛔ [总星数 131 < 500] 🎵 Free, open-source, self-hosted Discord music bot with slash commands and Docker deployment. Features YouTube playback, queue ma... |
+
+## ☕ Java 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 14,632 | 🤖 该项目是一个开源的PDF解析器，旨在将PDF文件转换为AI可用的数据格式，并实现PDF的自动化无障碍化。 |
+| 2 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 66,937 | 🤖 [llama-3.3-70b-versatile] Ghidra是一个软件逆向工程框架，用于分析和逆向工程二进制代码。 |
+| 3 | [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 36,377 | 🤖 该项目是一个基于Spring Boot和Vue的后台管理系统，支持多种功能如RBAC权限、数据权限、SaaS多租户、工作流等。 |
+| 4 | [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25,384 | 🤖 [llama-3.3-70b-versatile] CodePhiliaX/Chat2DB是一个人工智能驱动的数据库工具和SQL客户端，支持多种数据库管理系统，包括MySQL、Oracle、PostgreSQL等。 |
+| 5 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 33,819 | 🤖 Keycloak是一个开源的身份和访问管理系统，为现代应用和服务提供安全的身份验证和授权功能。 |
+| 6 | [crimera/piko](https://github.com/crimera/piko) | 3,105 | 🤖 [llama-3.3-70b-versatile] 该项目“crimera/piko”主要是为Twitter创建Morphe补丁。 |
+| 7 | [openjdk/jdk](https://github.com/openjdk/jdk) | 22,758 | 🤖 该项目是Java开发工具包（JDK）的主线开发，负责开发和维护Java的核心功能和特性。 |
+| 8 | [datahub-project/datahub](https://github.com/datahub-project/datahub) | 11,778 | 🤖 [llama-3.3-70b-versatile] 该项目是一个元数据平台，用于管理和整合数据和人工智能栈中的元数据。 |
+| 9 | [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) | 14,341 | 🤖 [llama-3.3-70b-versatile] 该项目是一个支持25多种语言的风格和语法检查工具。 |
+| 10 | [apache/iceberg](https://github.com/apache/iceberg) | 8,713 | 🤖 [llama-3.3-70b-versatile] Apache Iceberg 是一个开源的表格格式和查询引擎，用于高效地管理和查询大规模数据集。 |
+
+## 🦀 Rust 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [astral-sh/uv](https://github.com/astral-sh/uv) | 83,018 | 🤖 [llama-3.3-70b-versatile] 该项目是一个极快的Python包和项目管理器，使用Rust编写。 |
+| 2 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 46,979 | 🤖 [llama-3.3-70b-versatile] astral-sh/ruff是一个使用Rust编写的极快的Python代码检查和格式化工具。 |
+| 3 | [mayocream/koharu](https://github.com/mayocream/koharu) | 2,418 | 🤖 [llama-3.3-70b-versatile] 该项目是一个使用机器学习技术的漫画翻译器，使用Rust编程语言开发。 |
+| 4 | [denoland/deno](https://github.com/denoland/deno) | 106,439 | 🤖 [llama-3.3-70b-versatile] Deno是一个现代的JavaScript和TypeScript运行时环境。 |
+| 5 | [casey/just](https://github.com/casey/just) | 32,763 | 🤖 [llama-3.3-70b-versatile] Just 是一个命令行运行器，用于执行和管理命令。 |
+| 6 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) | 5,508 | 🤖 [llama-3.3-70b-versatile] 该项目是一个使用Rust语言实现的、模块化、对贡献者友好且执行速度极快的以太坊协议。 |
+| 7 | [TabbyML/tabby](https://github.com/TabbyML/tabby) | 33,369 | 🤖 [llama-3.3-70b-versatile] TabbyML/tabby是一个自托管的AI编码助手，能够帮助用户自动完成编码任务。 |
+| 8 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 110,962 | 🤖 [llama-3.3-70b-versatile] RustDesk是一个开源的远程桌面应用程序，允许用户自行托管，实现远程控制和访问计算机。 |
+| 9 | [lance-format/lance](https://github.com/lance-format/lance) | 6,297 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个名为Lance的开源湖仓格式，允许以2行代码从Parquet转换，实现100倍随机访问、向量索引和数据版本控制等功能。 |
+| 10 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 42,388 | 🤖 该项目是一个跨平台的桌面工具，集成了Claude Code、Codex、OpenCode和Gemini CLI的功能，提供一个全面的助手工具。 |
+
+## cpp C/C++ 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | 37,342 | 🤖 [llama-3.3-70b-versatile] DuckDB是一个内嵌式的SQL数据库管理系统，用于分析处理数据。 |
+| 2 | [facebook/react-native](https://github.com/facebook/react-native) | 125,636 | 🤖 [llama-3.3-70b-versatile] 该项目是一个使用React构建原生应用的框架。 |
+| 3 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 46,800 | 🤖 [llama-3.3-70b-versatile] ClickHouse是一种实时分析数据库管理系统。 |
+| 4 | [microsoft/WSL](https://github.com/microsoft/WSL) | 31,788 | 🤖 Windows Subsystem for Linux（WSL）允许直接在Windows操作系统中运行原生Linux二进制可执行文件。 |
+| 5 | [gabime/spdlog](https://github.com/gabime/spdlog) | 28,627 | 🤖 该项目是一个快速的C++日志库。 |
+| 6 | [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) | 1,385 | 🤖 [llama-3.3-70b-versatile] GR00T Whole-Body Control是一个统一的平台，用于开发和部署先进的人形机器人控制器。 |
+| 7 | [jd-opensource/xllm](https://github.com/jd-opensource/xllm) | 1,199 | 🤖 该项目是一个针对多种AI加速器优化的高性能LLM推理引擎。 |
+| 8 | [opencv/opencv](https://github.com/opencv/opencv) | 87,022 | 🤖 [llama-3.3-70b-versatile] OpenCV是一个开源的计算机视觉库，提供了大量的图像和视频处理、特征检测、物体识别等功能。 |
+| 9 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 71,059 | 🤖 Protocol Buffers 是一种由 Google 开发的数据交换格式，用于结构化数据的序列化和反序列化。 |
+| 10 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 194,628 | 🤖 TensorFlow是一个开源的机器学习框架，用于构建和训练各种机器学习模型。 |
+
+## 🔷 C# 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [dotnet/runtime](https://github.com/dotnet/runtime) | 17,795 | 🤖 [llama-3.3-70b-versatile] dotnet/runtime 项目是为云计算、移动设备、桌面和物联网应用程序提供的跨平台运行时环境。 |
+| 2 | [microsoft/aspire](https://github.com/microsoft/aspire) | 5,803 | 🤖 Aspire是一个支持代码优先、可扩展和可观察的开发和部署工具。 |
+| 3 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 52,362 | 🤖 该项目旨在为每个系统提供PowerShell支持。 |
+| 4 | [microsoft/mcp](https://github.com/microsoft/mcp) | 2,937 | 🤖 [llama-3.3-70b-versatile] 该项目提供了微软MCP（模型上下文协议）服务器的官方实现，用于实现AI驱动的数据访问和工具集成。 |
+| 5 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 101,529 | 🤖 该项目是一个跨平台的图形界面客户端，支持Xray、sing-box等多种协议，适用于Windows、Linux和macOS系统。 |
+| 6 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | 22,370 | 🤖 UniGetUI是一个图形化界面，用于管理和统一多个包管理器。 |
+| 7 | [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) | 4,158 | 🤖 [llama-3.3-70b-versatile] Radzen Blazor是一个免费的UI组件库，提供110+个原生组件，包括DataGrid、Scheduler、Charts等，并支持Material Design和Fluent UI主题。 |
+| 8 | [ScottPlot/ScottPlot](https://github.com/ScottPlot/ScottPlot) | 6,502 | 🤖 [llama-3.3-70b-versatile] ScottPlot是一个用于.NET的交互式绘图库。 |
+| 9 | [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | 10,725 | 🤖 [llama-3.3-70b-versatile] mRemoteNG是一个开源的、多协议的远程连接管理器，支持多个远程连接的标签式管理。 |
+| 10 | [mob-sakai/ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) | 5,653 | 🤖 该项目实现了在Unity的UI界面中渲染粒子特效，支持遮罩、排序，并且无需额外的相机、渲染纹理或画布。 |
+
+## 🎯 TypeScript 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [coleam00/Archon](https://github.com/coleam00/Archon) | 15,265 | 🤖 该项目是一个开源的工具，旨在使AI编码变得确定性和可重复，通过构建编码框架来实现这一目标。 |
+| 2 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 11,597 | 🤖 该项目是一个开源的AI协作工具，具备记忆功能。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 5,640 | 🤖 该项目是一个开源的智能代理管理平台，能够让编码代理像真正的团队成员一样工作，接受任务、跟踪进度和积累技能。 |
+| 4 | [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) | 14,663 | 🤖 [llama-3.3-70b-versatile] 该项目使用HTML5 canvas构建高性能的金融图表。 |
+| 5 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | 7,202 | 🤖 该项目是一个Obsidian插件，用于将Claude Code嵌入到您的Obsidian库中，作为您的AI协作工具。 |
+| 6 | [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) | 2,504 | 🤖 [llama-3.3-70b-versatile] 该项目是一个GUI插件，用于集成Jetbrains Claude Code和Codex代码补全工具到Jetbrains开发环境中。 |
+| 7 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 37,650 | 🤖 该项目是一个自托管的AI伴侣，可以实现实时语音聊天、玩Minecraft和Factorio等游戏，并支持Web、macOS和Windows平台。 |
+| 8 | [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) | 7,111 | 🤖 [llama-3.3-70b-versatile] WeFlow是一个本地应用，能够导出微信聊天记录并生成年度报告。 |
+| 9 | [continuedev/continue](https://github.com/continuedev/continue) | 32,464 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个源代码控制的AI检查工具，能够在持续集成（CI）中强制执行代码检查。 |
+| 10 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) | 7,236 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个命令行界面，用于记录和生成Playwright代码、检查选择器以及截取屏幕截图。 |
+
+## 💜 Vue 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [hoowhoami/EchoMusic](https://github.com/hoowhoami/EchoMusic) | 1,097 | 🤖 该项目是一个简约的第三方酷狗音乐概念版播放器，提供音乐播放功能。 |
+| 2 | [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) | 20,129 | 🤖 [llama-3.3-70b-versatile] BongoCat是一个跨平台的互动桌宠，旨在为桌面增添乐趣。 |
+| 3 | [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | 32,042 | 🤖 该项目是一个基于Vue3、Shadcn UI、Vite、TypeScript和Monorepo的现代化Vue管理面板。 |
+| 4 | [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) | 5,113 | 🤖 该项目是一个基于Vue 3、Vite和TypeScript的管理面板模板，使用Element Plus组件库，专注于用户体验和视觉设计。 |
+| 5 | [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | 2,501 | ⛔ [无描述] 无描述 |
+| 6 | [primefaces/primevue](https://github.com/primefaces/primevue) | 14,242 | 🤖 PrimeVue是一个基于Vue.js的下一代UI组件库，提供了一套丰富的、可定制的UI组件用于构建Web应用程序。 |
+| 7 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 20,570 | 🤖 [llama-3.3-70b-versatile] FreeTube是一个开源的YouTube应用程序，旨在保护用户隐私。 |
+| 8 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | 38,052 | 🤖 该项目提供了一系列在线工具，帮助开发人员提高工作效率，拥有良好的用户体验。 |
+| 9 | [nuxt/ui](https://github.com/nuxt/ui) | 6,461 | 🤖 Nuxt/UI是一个基于Reka UI和Tailwind CSS的直观Vue UI库。 |
+| 10 | [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 7,069 | 🤖 HuLa是一个基于Rust和Vue3的跨平台即时通讯桌面应用，支持Windows、macOS、Linux、Android和iOS等多个操作系统。 |
+
+## 🤖 AI/ML 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 150,126 | 🤖 该项目分享和整理了GitHub上有趣且适合入门的开源项目。 |
+| 2 | [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 36,377 | 🤖 该项目是一个基于Spring Boot和Vue的后台管理系统，支持多种功能如RBAC权限、数据权限、SaaS多租户、工作流等。 |
+| 3 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 16,461 | 🤖 该项目为Rime输入法提供了一个名为“雾凇拼音”的配置，包含长期维护的简体词库。 |
+| 4 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 88,095 | 🤖 该项目是一个每周五发布的科技爱好者周刊，提供最新的科技资讯和信息。 |
+| 5 | [xszyou/Fay](https://github.com/xszyou/Fay) | 12,639 | 🤖 [llama-3.3-70b-versatile] Fay是一个agent框架，帮助数字人和大语言模型与业务系统进行连接和交互。 |
+| 6 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 43,173 | 🤖 该项目是一个开源、免费的离线OCR软件，支持截屏、批量导入图片、PDF文档识别、排除水印、扫描和生成二维码等功能，并内置多国语言库。 |
+| 7 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 58,951 | 🤖 该项目提供了ChatGPT的中文调教指南和各种场景使用指南，帮助用户学习如何有效地与ChatGPT交互。 |
+| 8 | [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | 3,780 | 🤖 Bili23-Downloader是一款跨平台的B站视频下载工具，支持音视频流分离下载、多线程加速、弹幕与字幕获取等功能。 |
+| 9 | [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) | 10,165 | 🤖 该项目是一个基于WeChaty和多个AI服务的微信机器人，可以实现自动回复微信消息、社群分析、好友管理和检测僵尸粉等功能。 |
+| 10 | [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 23,146 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个中文独立博客的列表，方便用户找到并访问这些博客。 |
+
