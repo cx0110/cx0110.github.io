@@ -193,3 +193,87 @@ image:
 | 9 | [shadow1ng/fscan](https://github.com/shadow1ng/fscan) | 13,769 | 🤖 [llama-3.3-70b-versatile] 该项目是一款内网综合扫描工具，实现一键自动化、全方位的漏洞扫描。 |
 | 10 | [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) | 25,983 | 🤖 [llama-3.3-70b-versatile] 该项目是一个在线维基，旨在为OI（信息学奥林匹克）和ICPC（国际大学生程序设计竞赛）提供一个综合的知识和资源平台。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-14 03:40 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 2232 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 1760 | 🤖 [Legacy] 这是一个人工智能代理工具包，提供命令行界面、API和图形界面等功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 1332 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 4 | [openai/codex](https://github.com/openai/codex) | 🔥 1004 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 924 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 122 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 7348 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 3 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 5010 | 🤖 [llama-3.3-70b-versatile] 该项目是一个私人、简单且强大的个人AI超级智能系统。 |
+| 4 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 🔥 4566 | 🤖 [llama-3.3-70b-versatile] Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。 |
+| 5 | [floci-io/floci](https://github.com/floci-io/floci) | 🔥 9468 | 🤖 [llama-3.3-70b-versatile] Floci是一个轻量级的本地AWS模拟器，用于测试和开发AWS应用程序。 |
+| 6 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 48991 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 7 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | 🔥 50 | ⛔ [无描述]  |
+| 8 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 🔥 17014 | "AI-Trader: 100% Fully-Automated Agent-Native Trading"   |
+| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🔥 50236 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversati... |
+| 10 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 47323 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 118 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 2 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 48991 | 🤖 [Legacy] 该项目提供智能体原理与实践教程，从零开始构建智能体。 |
+| 3 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | 🔥 49 | ⛔ [无描述]  |
+| 4 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 🔥 17014 | 🤖 [llama-3.3-70b-versatile] AI-Trader是一个100%全自动的智能交易系统，实现无人干预的交易操作。 |
+| 5 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 15873 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 6 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 47588 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers,... |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 18691 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 35768 | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| 9 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🔥 16118 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+| 10 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 24335 | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 14845 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 32520 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 15442 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 4 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 3297 | 🤖 [Legacy] 该项目是一个高级的DNS隧道VPN，用于突破网络审查。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 24253 | 🤖 [Legacy] Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [ajavadinezhad/zyrln](https://github.com/ajavadinezhad/zyrln) | 🔥 473 | Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy |
+| 7 | [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) | 🔥 565 | 🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel. |
+| 8 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 3874 | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. |
+| 9 | [openlibrecommunity/olcrtc](https://github.com/openlibrecommunity/olcrtc) | 🔥 1013 | olc - implementation of BB22, using side channels to access web outside the whitelist |
+| 10 | [looplj/axonhub](https://github.com/looplj/axonhub) | 🔥 3734 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 7348 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 2 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 🔥 4566 | 🤖 [llama-3.3-70b-versatile] Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。 |
+| 3 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🔥 50236 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能多代理编排平台，支持部署智能代理群、协调自主工作流和构建对话式AI系统。 |
+| 4 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | 🔥 2694 | 🤖 [llama-3.3-70b-versatile] 这是一个基于Rust、Tauri和React的轻量级（7MB）AI终端模拟器。 |
+| 5 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 🔥 12814 | 🤖 [llama-3.3-70b-versatile] 利用人工智能技术赚取收益。 |
+| 6 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 🔥 49867 | The open-source CapCut alternative |
+| 7 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 🔥 9202 | Let coding agents diagnose and fix your React code |
+| 8 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 48999 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| 9 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 28038 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 10 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 15448 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+
