@@ -193,3 +193,85 @@ image:
 | 9 | [wanglin2/mind-map](https://github.com/wanglin2/mind-map) | 12,191 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个强大的思维导图工具，能够帮助用户创建和组织思维导图。 |
 | 10 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 100,136 | 🤖 [llama-3.3-70b-versatile] 该项目提供程序员在家做饭的指南和方法。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-18 02:53 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 2147 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 955 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 887 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 294 | 🤖 [llama-3.3-70b-versatile] 该项目是一个私人、简单且强大的个人AI超级智能系统。 |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 218 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 3 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 164 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 4 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 155 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 150 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 128 | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 7 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 🔥 131 | Coding agent for DeepSeek models that runs in your terminal |
+| 8 | [compozy/compozy](https://github.com/compozy/compozy) | 🔥 153 | Drive the full lifecycle of AI-assisted development — from idea to shipped code. |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 7637 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 🔥 131 | Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjour... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 198 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 161 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 138 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 4 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 7637 | 🤖 [llama-3.3-70b-versatile] 该项目提供符合nature论文学术表达和科研绘图的技能。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 36559 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | 🔥 3655 | Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/... |
+| 7 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 87 | ⛔ [无描述]  |
+| 8 | [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) | 🔥 2763 | The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App |
+| 9 | [NVlabs/Sana](https://github.com/NVlabs/Sana) | 🔥 6059 | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| 10 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🔥 17737 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [compozy/compozy](https://github.com/compozy/compozy) | 🔥 154 | 🤖 [llama-3.3-70b-versatile] Compozy是一个AI辅助开发平台，驱动从想法到发布代码的整个生命周期。 |
+| 2 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 16960 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 3 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 11202 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 33142 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 21458 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 9550 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 7 | [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) | 🔥 811 | A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free! |
+| 8 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 23779 | Beads - A memory upgrade for your coding agent |
+| 9 | [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library) | 🔥 1120 | Official library of CLIs generated by the CLI Printing Press. Endorsed, tested, and community-contributed. |
+| 10 | [hkdb/aerion](https://github.com/hkdb/aerion) | 🔥 422 | An Open Source Lightweight E-Mail Client |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) | 🔥 137 | 🤖 [llama-3.3-70b-versatile] 该项目是一个图像到现实世界的技能集，用于Claude，实现图像识别和处理。 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 114 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 3 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 110 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 4 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | 🔥 3561 | 🤖 [llama-3.3-70b-versatile] 这是一个基于Rust、Tauri和React的轻量级（7MB）AI终端模拟器。 |
+| 5 | [Tencent/TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) | 🔥 2864 | 🤖 [llama-3.3-70b-versatile] 腾讯智能代理内存项目，为AI代理提供四层进阶管道的本地长期内存，实现零外部API依赖。 |
+| 6 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 50725 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| 7 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 42609 | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and e... |
+| 8 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 16434 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 9 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 🔥 6940 | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic ev... |
+| 10 | [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) | 🔥 42 | ⛔ [无描述]  |
+
