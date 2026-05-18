@@ -193,3 +193,85 @@ image:
 | 9 | [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 24,799 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的音乐播放器，支持插件化和定制化，且无广告。 |
 | 10 | [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) | 2,676 | ⛔ [无描述] 无描述 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-19 03:23 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 2118 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 950 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 882 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 317 | 🤖 [llama-3.3-70b-versatile] 该项目是一个私人、简单且强大的个人AI超级智能系统。 |
+| 2 | [MinishLab/semble](https://github.com/MinishLab/semble) | 🔥 123 | 🤖 [llama-3.3-70b-versatile] MinishLab/semble是一个快速准确的代码搜索工具，使用令牌数远少于传统的grep+read方法。 |
+| 3 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 115 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 4 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 126 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 5 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 110 | 🤖 [llama-3.3-70b-versatile] OpenWA 是一个免费、开源的自托管 WhatsApp API 网关。 |
+| 6 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 110 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| 7 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 104 | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local |
+| 8 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 🔥 7634 | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic ev... |
+| 9 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 74 | ⛔ [无描述]  |
+| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 36504 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MinishLab/semble](https://github.com/MinishLab/semble) | 🔥 113 | 🤖 [llama-3.3-70b-versatile] MinishLab/semble是一个快速准确的代码搜索工具，使用令牌数远少于传统的grep+read方法。 |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 123 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 3 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 110 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 4 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 70 | ⛔ [无描述]  |
+| 5 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 36504 | 🤖 [llama-3.3-70b-versatile] CLI-Anything是一个开源项目，旨在将所有软件转化为命令行界面（CLI）形式，实现无缝集成和控制。 |
+| 6 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 🔥 2121 | Open Source Voice Agent Platform |
+| 7 | [Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer) | 🔥 1461 | Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions. |
+| 8 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 24314 | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 8336 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega) | 🔥 952 | [CVPR 2026 Oral] VGGT Omega |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 11591 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
+| 2 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 17055 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 21722 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 3678 | 🤖 [Legacy] 该项目是一个高级的DNS隧道VPN，用于突破网络审查。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 33365 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 1036 | Claude / Codex / Gemini API Proxy - CCX |
+| 7 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 9685 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 15184 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 9 | [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library) | 🔥 1147 | Official library of CLIs generated by the CLI Printing Press. Endorsed, tested, and community-contributed. |
+| 10 | [Kianmhz/GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN) | 🔥 1115 | Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted). |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 135 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 143 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 3 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 2313 | 🤖 [llama-3.3-70b-versatile] OpenWA 是一个免费、开源的自托管 WhatsApp API 网关。 |
+| 4 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 🔥 7634 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源情报平台，统一跟踪全球私人飞机、间谍卫星和地震事件等信息。 |
+| 5 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 🔥 3958 | 🤖 [llama-3.3-70b-versatile] 该项目是一个安全、验证的技能注册表，用于专业AI编码代理，扩展多个AI工具的功能。 |
+| 6 | [Tencent/TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) | 🔥 3305 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
+| 7 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 17100 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 19322 | Write HTML. Render video. Built for agents. |
+| 9 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 26678 | The open-source AI voice studio. Clone, dictate, create. |
+| 10 | [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) | 🔥 3440 | An image-to-world skillset for Claude. |
+
