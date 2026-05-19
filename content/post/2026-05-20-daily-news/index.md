@@ -193,3 +193,85 @@ image:
 | 9 | [crmeb/crmeb_java](https://github.com/crmeb/crmeb_java) | 2,754 | 🤖 [llama-3.3-70b-versatile] CRMEB商城JAVA版是一个基于SpringBoot的开源商城系统，集成了移动端、小程序、PC后台、Api接口等功能，涵盖产品、用户、订单、营销等模块。 |
 | 10 | [continew-org/continew-admin](https://github.com/continew-org/continew-admin) | 2,015 | 🤖 [llama-3.3-70b-versatile] ContiNew-admin是一个基于SpringBoot和Vue3的高质量多租户中后台管理系统框架，提供开箱即用的功能和舒适的开发体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-20 03:42 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 2024 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 910 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 849 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 170 | 🤖 [llama-3.3-70b-versatile] 该项目是一个私人、简单且强大的个人AI超级智能系统。 |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 140 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 3 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 4010 | 🤖 [llama-3.3-70b-versatile] OpenWA 是一个免费、开源的自托管 WhatsApp API 网关。 |
+| 4 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 13975 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 5 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 6328 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 37599 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 16394 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 37789 | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| 9 | [truelockmc/streambert](https://github.com/truelockmc/streambert) | 🔥 2100 | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking |
+| 10 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 35 | ⛔ [无描述]  |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 133 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 16394 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 37599 | 🤖 [llama-3.3-70b-versatile] CLI-Anything是一个开源项目，旨在将所有软件转化为命令行界面（CLI）形式，实现无缝集成和控制。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 37789 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 38 | ⛔ [无描述]  |
+| 6 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 24767 | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| 7 | [MinishLab/semble](https://github.com/MinishLab/semble) | 🔥 2984 | Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read |
+| 8 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 8860 | 符合nature论文学术表达和科研绘图的Skill |
+| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 26222 | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+| 10 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 51376 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 21981 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 33572 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 5244 | 🤖 [Legacy] 多模型协作开发系统，实现一键安装零配置的开发流程。 |
+| 4 | [harnessclaw/harnessclaw-engine](https://github.com/harnessclaw/harnessclaw-engine) | 🔥 413 | 🤖 [llama-3.3-70b-versatile] 该项目是一个LLM编程助手引擎，支持WebSocket、多轮对话、工具调用、权限控制和技能扩展。 |
+| 5 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 3726 | 🤖 [Legacy] 该项目是一个高级的DNS隧道VPN，用于突破网络审查。 |
+| 6 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 9839 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 7 | [wesm/agentsview](https://github.com/wesm/agentsview) | 🔥 1051 | Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement... |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 15231 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 9 | [looplj/axonhub](https://github.com/looplj/axonhub) | 🔥 3871 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. |
+| 10 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 🔥 4499 | Deepseek to API - 客户端转API全栈开源工具，高性能，多账号轮询，支持纯vercel、docker部署使用。Google、Claude、ChatGPT多接口格式兼容 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 4010 | 🤖 [llama-3.3-70b-versatile] OpenWA 是一个免费、开源的自托管 WhatsApp API 网关。 |
+| 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 100 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 6328 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 4 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 🔥 8201 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源情报平台，统一跟踪全球私人飞机、间谍卫星和地震事件等信息。 |
+| 5 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 26929 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 6 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 17483 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 7 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 🔥 4298 | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute con... |
+| 8 | [Tencent/TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) | 🔥 3507 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 19654 | Write HTML. Render video. Built for agents. |
+| 10 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | 🔥 10286 | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI... |
+
