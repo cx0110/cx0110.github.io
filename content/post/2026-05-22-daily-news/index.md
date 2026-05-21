@@ -1,0 +1,195 @@
+---
+title: "🔥 每日技术热点 2026-05-22"
+subtitle: "GitHub Trending & 技术动态"
+summary: "今日热门开源项目与技术资讯汇总"
+authors:
+  - admin
+tags:
+  - GitHub
+  - Trending
+  - 技术热点
+categories:
+  - 每日热点
+date: 2026-05-22T09:00:00+08:00
+lastmod: 2026-05-22T09:00:00+08:00
+featured: false
+draft: false
+image:
+  filename: github-logo.svg
+  focal_point: Smart
+  preview_only: false
+---
+
+## 📈 GitHub Trending
+
+
+自动抓取 GitHub 官方热榜，由 AI 辅助生成中文摘要。
+
+> 更新时间: 2026-05-22 03:01 UTC
+
+
+## 🔥 全球热榜 (General)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 22,006 | 🤖 [llama-3.3-70b-versatile] 该项目是一个由Anthropic官方管理的高质量Claude代码插件目录。 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 12,905 | 🤖 [llama-3.3-70b-versatile] 该项目创建了一个预索引的代码知识图谱，实现了Claude Code的本地化，减少了令牌数量和工具调用次数。 |
+| 3 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 142,858 | 🤖 [llama-3.3-70b-versatile] 该项目旨在通过总结Andrej Karpathy的观察，创建一个单一的CLAUDE.md文件，以改善Claude代码行为，避免大型语言模型（LLM）编码中的常见陷阱。 |
+| 4 | [dotnet/skills](https://github.com/dotnet/skills) | 2,121 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供.NET和C#技能的仓库，以辅助其编码工作。 |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | 201,353 | 🤖 [llama-3.3-70b-versatile] 该项目是一个代理技能框架和软件开发方法论，旨在提供有效的解决方案。 |
+| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 39,023 | 🤖 [llama-3.3-70b-versatile] CLI-Anything 项目旨在将所有软件转化为命令行界面（CLI）形式，使其可以通过命令行交互来使用。 |
+| 7 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 5,318 | 🤖 [llama-3.3-70b-versatile] OpenWA是一个免费、开源、自托管的WhatsApp API网关，允许用户自行部署和管理自己的WhatsApp API服务。 |
+| 8 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40,403 | 🤖 [llama-3.3-70b-versatile] Chrome DevTools 为编码代理提供了一套开发和调试工具。 |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 10,580 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程，提供一个完整的AI开发和部署流程。 |
+| 10 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 14,304 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个Python API和智能代理技能，实现对Google NotebookLM的全部功能进行程序化访问。 |
+
+## 🐹 Go 语言热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 30,598 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能代理平台，允许用户将编码代理转化为真实团队成员，实现任务分配、进度跟踪和技能复合等功能。 |
+| 2 | [alireza0/s-ui](https://github.com/alireza0/s-ui) | 8,909 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高级的Web面板，专门为SagerNet/Sing-Box设计，提供了一个强大的管理和控制界面。 |
+| 3 | [containerd/containerd](https://github.com/containerd/containerd) | 20,739 | 🤖 [llama-3.3-70b-versatile] containerd是一个开源且可靠的容器运行时环境。 |
+| 4 | [cinar/indicator](https://github.com/cinar/indicator) | 1,075 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一套丰富的技术分析指标、可定制的策略和强大的回测框架，帮助用户进行技术分析和策略优化。 |
+| 5 | [hashicorp/vault](https://github.com/hashicorp/vault) | 35,646 | 🤖 [llama-3.3-70b-versatile] Hashicorp/Vault是一个用于管理机密信息、提供加密服务和特权访问管理的工具。 |
+| 6 | [TwiN/gatus](https://github.com/TwiN/gatus) | 11,009 | 🤖 [llama-3.3-70b-versatile] TwiN/gatus是一个自动化的开发者导向的状态页面，提供警报和事件支持。 |
+| 7 | [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 7,117 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个基于Web的文件浏览器，允许用户通过网页界面浏览和管理文件。 |
+| 8 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 10,997 | 🤖 [llama-3.3-70b-versatile] 该项目是Canopy网络协议的官方Go语言实现。 |
+| 9 | [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) | 621 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI代理防火墙，用于MCP安全，提供代理出站控制、数据泄露防护、服务器请求伪造防护和提示注入防护等功能。 |
+| 10 | [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) | 3,623 | 🤖 [llama-3.3-70b-versatile] Datadog Agent 是一个主仓库，用于收集和监控系统、应用程序和服务的性能和日志数据。 |
+
+## 🐍 Python 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 22,006 | 🤖 [llama-3.3-70b-versatile] 该项目是一个由Anthropic官方管理的高质量Claude代码插件目录。 |
+| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 39,023 | 🤖 [llama-3.3-70b-versatile] CLI-Anything 项目旨在将所有软件转化为命令行界面（CLI）形式，使其可以通过命令行交互来使用。 |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 10,580 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程，提供一个完整的AI开发和部署流程。 |
+| 4 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 14,304 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个Python API和智能代理技能，实现对Google NotebookLM的全部功能进行程序化访问。 |
+| 5 | [antoinezambelli/forge](https://github.com/antoinezambelli/forge) | 1,428 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Python框架，用于自托管LLM工具调用和多步骤智能工作流。 |
+| 6 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 18,026 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导用户掌握学术研究技能，通过研究、写作、审阅、修订和最终完成的流程来提高学术研究能力。 |
+| 7 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 27,350 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展或Discord中免费使用Claude代码。 |
+| 8 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 82,545 | 🤖 [llama-3.3-70b-versatile] 该项目实现了使用单个GPU自动训练微型聊天模型的AI代理。 |
+| 9 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 124,357 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Python工具，用于将文件和办公文档转换为Markdown格式。 |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 38,319 | 🤖 [llama-3.3-70b-versatile] 该项目是一个LLM驱动的智能股票分析系统，集成了多数据源行情、实时新闻、LLM决策仪表盘和多渠道推送功能。 |
+
+## 🟨 JavaScript/TypeScript 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [truelockmc/streambert](https://github.com/truelockmc/streambert) | 3,809 | 🤖 [llama-3.3-70b-versatile] 该项目是一款跨平台的Electron桌面应用，允许用户流媒体播放和下载全球任何电影、电视剧或动漫，且无广告和追踪。 |
+| 2 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 60,418 | 🤖 [llama-3.3-70b-versatile] Mintplex-Labs/anything-llm是一个集成式的AI生产力加速器，优先考虑设备端处理和隐私保护，无需繁琐的设置和配置。 |
+| 3 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 11,356 | 🤖 [llama-3.3-70b-versatile] Stremio是一个流媒体播放器，允许用户从各种来源发现、播放和管理视频内容。 |
+| 4 | [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) | 4,441 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个免费的大语言模型（LLM）API的列表，包含可用的API密钥。 |
+| 5 | [presenton/presenton](https://github.com/presenton/presenton) | 5,603 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI演示文稿生成器和API，能够自动生成演示文稿。 |
+| 6 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 29,899 | 🤖 [llama-3.3-70b-versatile] 该项目为Claude代码和AI代理提供营销技能，包括转化率优化、文案撰写、搜索引擎优化、分析和增长工程等。 |
+| 7 | [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) | 27,417 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一份包含1000个JavaScript面试题的清单。 |
+| 8 | [npm/cli](https://github.com/npm/cli) | 9,769 | 🤖 [llama-3.3-70b-versatile] npm/cli 是一个用于管理JavaScript项目依赖的包管理器。 |
+| 9 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | 13,567 | 🤖 [llama-3.3-70b-versatile] LibreSpark/LibreTV是一个快速搭建影视站的项目，支持多种部署方式，如Vercel和Docker，实现快速上线。 |
+| 10 | [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) | 9,479 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个基于Socket的WhatsApp Web API，允许开发者使用TypeScript或JavaScript与WhatsApp Web进行交互。 |
+
+## ☕ Java 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,281 | 🤖 [llama-3.3-70b-versatile] OpenAPI Generator是一个可以根据OpenAPI规范自动生成API客户端库、服务器端代码、文档和配置的工具。 |
+| 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,841 | 🤖 [llama-3.3-70b-versatile] Dependency-Track是一个智能组件分析平台，帮助组织识别和减少软件供应链中的风险。 |
+| 3 | [nageoffer/ragent](https://github.com/nageoffer/ragent) | 2,262 | 🤖 [llama-3.3-70b-versatile] 该项目是一个企业级的智能体系统，实现文档解析、多路检索、意图识别、问题重写、会话记忆等功能，全面支持真实业务场景的智能处理。 |
+| 4 | [dataease/dataease](https://github.com/dataease/dataease) | 23,952 | 🤖 [llama-3.3-70b-versatile] Dataease 是一个开源的商业智能（BI）工具，提供数据可视化和分析功能，帮助用户轻松创建和分享数据报告和仪表盘。 |
+| 5 | [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,683 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Java数据结构和算法的学习仓库，包含代码示例、作业和笔记，用于帮助开发者准备面试。 |
+| 6 | [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | 8,758 | 🤖 [llama-3.3-70b-versatile] Spring AI是一个应用框架，用于支持人工智能工程的开发，提供了一套集成的工具和组件来简化AI应用的构建和部署。 |
+| 7 | [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25,616 | 🤖 [llama-3.3-70b-versatile] CodePhiliaX/Chat2DB是一个人工智能驱动的数据库工具和SQL客户端，支持多种数据库管理系统。 |
+| 8 | [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,430 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Java软件开发工具包（SDK），用于构建和连接Model Context Protocol服务器和客户端。 |
+| 9 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12,055 | 🤖 [llama-3.3-70b-versatile] LangChain4j是一个Java库，提供统一的API简化LLM的集成，支持多种LLM和向量数据库，并易于实现RAG、工具调用和代理功能。 |
+| 10 | [apache/iceberg](https://github.com/apache/iceberg) | 8,880 | 🤖 [llama-3.3-70b-versatile] Apache Iceberg 是一个开源的表格格式和查询引擎，用于高效地管理和查询大规模数据集。 |
+
+## 🦀 Rust 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 62,869 | 🤖 [llama-3.3-70b-versatile] 该项目利用WiFi信号实现实时的人体姿势估计、生命体征监测和存在检测，无需任何视频图像。 |
+| 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 52,343 | 🤖 [llama-3.3-70b-versatile] 该项目是一个命令行代理，通过优化LLM令牌的使用，减少了60-90%的令牌消耗，适用于常见的开发命令。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 84,390 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，可以在终端中运行，帮助用户编写代码。 |
+| 4 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 24,707 | 🤖 [llama-3.3-70b-versatile] 该项目旨在创建一个私人、简单且极其强大的个人人工智能超级智能系统。 |
+| 5 | [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) | 14,502 | 🤖 [llama-3.3-70b-versatile] 该项目分析本地数据以跟踪和计算编码代理CLI令牌的使用情况和相关成本。 |
+| 6 | [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) | 528 | ⛔ [无描述] 无描述 |
+| 7 | [qxcnm/Codex-Manager](https://github.com/qxcnm/Codex-Manager) | 2,188 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Codex CLI账号管理与切换工具，提供本地网关转发功能。 |
+| 8 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 6,865 | 🤖 [llama-3.3-70b-versatile] ai-dynamo/dynamo是一个大规模分布式推理服务框架，用于支持数据中心级别的AI模型部署和推理。 |
+| 9 | [lance-format/lance](https://github.com/lance-format/lance) | 6,485 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个名为Lance的开源格式，允许以2行代码从Parquet转换，实现100倍速的随机访问、向量索引和数据版本控制。 |
+| 10 | [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) | 7,958 | 🤖 [llama-3.3-70b-versatile] Kata Containers是一个开源项目，旨在创建一种轻量级虚拟机（VM），它在性能和体验上类似于容器，但提供了虚拟机的工作负载隔离和安全优势。 |
+
+## cpp C/C++ 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 112,109 | 🤖 [llama-3.3-70b-versatile] 该项目实现了一个大语言模型（LLM）的C/C++推理引擎，用于高效地进行自然语言处理任务。 |
+| 2 | [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) | 6,561 | 🤖 [llama-3.3-70b-versatile] OpenToonz是一个开源的全功能2D动画创作软件。 |
+| 3 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 71,256 | 🤖 [llama-3.3-70b-versatile] Protocol Buffers 是一种由 Google 开发的数据交换格式，用于高效地序列化和反序列化结构化数据。 |
+| 4 | [OpenTenBase/TXSQL](https://github.com/OpenTenBase/TXSQL) | 139 | ⛔ [无描述] 无描述 |
+| 5 | [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) | 2,957 | 🤖 [llama-3.3-70b-versatile] 该项目是一个透明代理注入工具，用于强制将Windows系统上的流量通过SOCKS5/HTTP代理转发，而无需启用TUN模式。 |
+| 6 | [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) | 6,783 | 🤖 [llama-3.3-70b-versatile] Flax Engine是一个跨平台的3D游戏引擎。 |
+| 7 | [MrNeRF/LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) | 3,089 | 🤖 [llama-3.3-70b-versatile] 该项目是一个名为LichtFeld-Studio的应用程序，用于训练、检查、编辑、自动化和导出3D高斯斑点渲染场景。 |
+| 8 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 195,218 | 🤖 [llama-3.3-70b-versatile] TensorFlow是一个开源的机器学习框架，提供了广泛的工具和资源用于构建和训练机器学习模型。 |
+| 9 | [apache/arrow](https://github.com/apache/arrow) | 16,763 | 🤖 [llama-3.3-70b-versatile] Apache Arrow是一个通用的列式数据格式和多语言工具箱，用于快速的数据交换和内存分析。 |
+| 10 | [gabime/spdlog](https://github.com/gabime/spdlog) | 28,799 | 🤖 [llama-3.3-70b-versatile] 该项目是一个快速的C++日志库。 |
+
+## 🔷 C# 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [dotnet/skills](https://github.com/dotnet/skills) | 2,121 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供.NET和C#技能的仓库，以辅助其编码工作。 |
+| 2 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 37,937 | 🤖 [llama-3.3-70b-versatile] ASP.NET Core 是一个跨平台的 .NET 框架，用于在 Windows、Mac 或 Linux 上构建现代基于云的 Web 应用程序。 |
+| 3 | [actions/runner](https://github.com/actions/runner) | 6,032 | 🤖 [llama-3.3-70b-versatile] 该项目是GitHub Actions的运行器，负责执行自动化工作流和任务。 |
+| 4 | [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) | 2,154 | 🤖 [llama-3.3-70b-versatile] 该项目是一个集成AI工作流、热更、代码混淆和资源管理的Unity商用开发框架。 |
+| 5 | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 9,849 | 🤖 [llama-3.3-70b-versatile] 该项目允许AI助手通过本地MCP客户端直接与Unity编辑器交互，实现管理资产、控制场景、编辑脚本和自动化任务等功能。 |
+| 6 | [Cysharp/UniTask](https://github.com/Cysharp/UniTask) | 10,832 | 🤖 [llama-3.3-70b-versatile] 该项目为Unity提供了高效、无内存分配的异步/等待集成。 |
+| 7 | [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | 30,841 | 🤖 [llama-3.3-70b-versatile] AvaloniaUI/Avalonia是一个使用C#和XAML开发桌面、嵌入式、移动和WebAssembly应用程序的框架。 |
+| 8 | [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) | 9,970 | 🤖 [llama-3.3-70b-versatile] StockSharp是一个开源的算法交易和量化交易平台，用于开发交易机器人，支持股票、外汇、加密货币、比特币和期权交易。 |
+| 9 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 51,853 | 🤖 [llama-3.3-70b-versatile] Jellyfin是一个免费的媒体系统，提供服务器后端和API，用于管理和播放媒体文件。 |
+| 10 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | 15,069 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户从YouTube下载视频和播放列表。 |
+
+## 🎯 TypeScript 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 12,907 | 🤖 [llama-3.3-70b-versatile] 该项目创建了一个预索引的代码知识图谱，实现了Claude Code的本地化，减少了令牌数量和工具调用次数。 |
+| 2 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 5,318 | 🤖 [llama-3.3-70b-versatile] OpenWA是一个免费、开源、自托管的WhatsApp API网关，允许用户自行部署和管理自己的WhatsApp API服务。 |
+| 3 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40,403 | 🤖 [llama-3.3-70b-versatile] Chrome DevTools 为编码代理提供了一套开发和调试工具。 |
+| 4 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 5,787 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供哈希锚点编辑、优化工具集成、语言服务器协议（LSP）支持、Python集成、浏览器集成、子代理等功能。 |
+| 5 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 16,402 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转换为交互式知识图谱，允许用户探索、搜索和提问。 |
+| 6 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 5,606 | 🤖 [llama-3.3-70b-versatile] 该项目是一个库，包含了一系列符合Agent Skills开放标准的技能，用于与Stitch MCP服务器兼容，支持多种编码代理。 |
+| 7 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 54,625 | 🤖 [llama-3.3-70b-versatile] 该项目是一个实时的全球情报仪表盘，集成了人工智能新闻聚合、地缘政治监测和基础设施跟踪功能。 |
+| 8 | [microsoft/vscode](https://github.com/microsoft/vscode) | 185,185 | 🤖 [llama-3.3-70b-versatile] Visual Studio Code是一款轻量级、开源的代码编辑器，支持多种编程语言和开发环境。 |
+| 9 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 104,444 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI代理，允许用户直接在终端中使用Gemini的功能。 |
+| 10 | [software-mansion/argent](https://github.com/software-mansion/argent) | 822 | 🤖 [llama-3.3-70b-versatile] 该项目是一个工具包，用于控制、调试和分析iOS和Android应用程序。 |
+
+## 💜 Vue 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [julyx10/lap](https://github.com/julyx10/lap) | 903 | 🤖 [llama-3.3-70b-versatile] 该项目是一个离线优先的照片管理工具，用于管理大型本地照片库。 |
+| 2 | [requarks/wiki](https://github.com/requarks/wiki) | 28,332 | 🤖 [llama-3.3-70b-versatile] Wiki.js是一个基于Node.js的现代化和强大的维基应用程序。 |
+| 3 | [AutomaApp/automa](https://github.com/AutomaApp/automa) | 21,318 | 🤖 [llama-3.3-70b-versatile] AutomaApp/automa是一个浏览器扩展，通过连接积木块来自动化浏览器操作。 |
+| 4 | [nuxt-ui-templates/dashboard](https://github.com/nuxt-ui-templates/dashboard) | 1,007 | 🤖 [llama-3.3-70b-versatile] 该项目是一个使用Nuxt UI创建的Nuxt仪表板模板。 |
+| 5 | [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) | 12,803 | 🤖 [llama-3.3-70b-versatile] Tiny RDM是一个超轻量级的Redis桌面管理客户端，支持Mac、Windows、Linux和Web版本。 |
+| 6 | [fastapiadmin/FastapiAdmin](https://github.com/fastapiadmin/FastapiAdmin) | 780 | 🤖 [llama-3.3-70b-versatile] FastAdmin 是一个开源的快速开发平台，帮助开发者快速搭建高质量的中后台系统。 |
+| 7 | [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) | 3,564 | 🤖 [llama-3.3-70b-versatile] WGDashboard是一个使用Python和Vue.js开发的简单的WireGuard VPN仪表盘。 |
+| 8 | [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | 32,423 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Vue3、Shadcn UI、Vite、TypeScript和Monorepo的现代化Vue管理面板。 |
+| 9 | [miantiao-me/Sink](https://github.com/miantiao-me/Sink) | 6,678 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Cloudflare的快速、安全、带有分析功能的链接缩短工具。 |
+| 10 | [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 21,496 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Ant Design和Vue的企业级UI组件库。 |
+
+## 🤖 AI/ML 热门
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) | 8,548 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是将V2ray运行在边缘计算或无服务器环境中。 |
+| 2 | [higress-group/higress](https://github.com/higress-group/higress) | 8,431 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
+| 3 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 17,338 | 🤖 [llama-3.3-70b-versatile] 该项目为Rime输入法提供了一个名为“雾凇拼音”的配置方案，包含长期维护的简体中文词库。 |
+| 4 | [wanglin2/mind-map](https://github.com/wanglin2/mind-map) | 12,242 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个强大的思维导图工具，能够帮助用户创建和组织思维导图。 |
+| 5 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 21,124 | 🤖 [llama-3.3-70b-versatile] 该项目是一个全自动化工具，能够一键完成《明日方舟》游戏中的日常任务。 |
+| 6 | [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) | 7,463 | 🤖 [llama-3.3-70b-versatile] 该项目提供FongMi影视和tvbox的配置文件，供用户Fork和自用。 |
+| 7 | [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 37,216 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Spring Boot和Vue的后台管理系统，支持RBAC动态权限、数据权限、SaaS多租户等功能。 |
+| 8 | [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 24,867 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的音乐播放器，支持插件化和定制化，且无广告。 |
+| 9 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 44,689 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
+| 10 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 35,101 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一份指南，教你如何智能地提出技术问题，以获得满意的答案。 |
+
