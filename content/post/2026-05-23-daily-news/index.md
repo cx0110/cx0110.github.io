@@ -192,3 +192,85 @@ image:
 | 9 | [higress-group/higress](https://github.com/higress-group/higress) | 8,448 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 | 10 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 14,518 | 🤖 [llama-3.3-70b-versatile] 该项目是一个TikTok和抖音的数据采集和下载工具，可以下载和采集包括发布、喜欢、合辑、直播、视频、图集、音乐等多种类型的内容。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-23 03:22 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 1851 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 856 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 763 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 249 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 153 | 🤖 [Legacy] Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。 |
+| 3 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 104 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 4 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 25613 | 🤖 [llama-3.3-70b-versatile] 该项目是一个私人、简单且强大的个人AI超级智能系统。 |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 11645 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [truelockmc/streambert](https://github.com/truelockmc/streambert) | 🔥 4446 | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking |
+| 7 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 31357 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 18988 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 9 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 🔥 2377 | A vector index built on TurboQuant, written in Rust with Python bindings |
+| 10 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 16342 | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 157 | 🤖 [Legacy] Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。 |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 11645 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 3 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 18988 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 4 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 51626 | 🤖 [llama-3.3-70b-versatile] 将代码、文档、论文或图片转化为可查询的知识图谱。 |
+| 5 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 18668 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 27946 | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+| 7 | [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) | 🔥 1811 | CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images |
+| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 39533 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 10565 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 🔥 14595 | Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI ... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 22801 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 12370 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 34223 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 1434 | 🤖 [llama-3.3-70b-versatile] CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。 |
+| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 15368 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 6 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 15514 | Gas Town - multi-agent workspace manager |
+| 7 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 24009 | Beads - A memory upgrade for your coding agent |
+| 8 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 3915 | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-b... |
+| 9 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 🔥 2318 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. |
+| 10 | [gastownhall/gascity](https://github.com/gastownhall/gascity) | 🔥 808 | Orchestration-builder SDK for multi-agent coding workflows |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 288 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 18225 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 3917 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 4 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 16342 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 31357 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 6 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 5713 | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| 7 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 40907 | Chrome DevTools for coding agents |
+| 8 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 5950 | Harness engineering official style beginner tutorial, from 0 to 1 |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 20483 | Write HTML. Render video. Built for agents. |
+| 10 | [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 🔥 1999 | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative |
+
