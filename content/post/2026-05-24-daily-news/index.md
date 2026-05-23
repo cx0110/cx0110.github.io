@@ -192,3 +192,85 @@ image:
 | 9 | [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 11,629 | 🤖 [llama-3.3-70b-versatile] 该项目是一个视觉小说翻译器，用于帮助用户翻译和理解视觉小说中的文本内容。 |
 | 10 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 44,746 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-24 02:55 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 1830 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 858 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 761 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 334 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 271 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 263 | 🤖 [Legacy] Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。 |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 215 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 5 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 102 | 🤖 [llama-3.3-70b-versatile] 将代码、文档、论文或图片转化为可查询的知识图谱。 |
+| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 26225 | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| 7 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 19589 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 28497 | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+| 9 | [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 🔥 2453 | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative |
+| 10 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 4444 | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 243 | 🤖 [Legacy] Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。 |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 199 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 3 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 52369 | 🤖 [llama-3.3-70b-versatile] 将代码、文档、论文或图片转化为可查询的知识图谱。 |
+| 4 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 19589 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 5 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 19431 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 28497 | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+| 7 | [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) | 🔥 2278 | SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles |
+| 8 | [alistaitsacle/free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) | 🔥 769 | Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed. |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 10908 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 🔥 23039 | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for inte... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 23006 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [ShahabSL/Skirk](https://github.com/ShahabSL/Skirk) | 🔥 584 | 🤖 [llama-3.3-70b-versatile] ShahabSL/Skirk项目实现了通过Google Drive作为中继，建立安全的SOCKS代理连接。 |
+| 3 | [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | 🔥 2436 | 🤖 [llama-3.3-70b-versatile] 该项目旨在创建一个功能强大的CLI工具，集成多个竞争对手的功能，支持SQLite同步、离线搜索和复合命令。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 34396 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 3953 | 🤖 [Legacy] 该项目是一个高级的DNS隧道VPN，用于突破网络审查。 |
+| 6 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 12446 | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messen... |
+| 7 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 10263 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 8 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 5321 | 多模型协作开发系统 - Claude 编排 + Codex 后端 + Gemini 前端，28 个命令覆盖开发全流程，一键安装零配置 |
+| 9 | [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library) | 🔥 1262 | Official library of CLIs generated by the CLI Printing Press. Endorsed, tested, and community-contributed. |
+| 10 | [Kianmhz/GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN) | 🔥 1260 | Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted). |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 255 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 195 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 🔥 2453 | 🤖 [llama-3.3-70b-versatile] 开源全球情报平台，实时开放源情报（OSINT）仪表盘，替代Palantir。 |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 31810 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 16749 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 6 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 4444 | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only. |
+| 7 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 41279 | Chrome DevTools for coding agents |
+| 8 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 6183 | Harness engineering official style beginner tutorial, from 0 to 1 |
+| 9 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 27882 | The open-source AI voice studio. Clone, dictate, create. |
+| 10 | [anomalyco/models.dev](https://github.com/anomalyco/models.dev) | 🔥 4125 | An open-source database of AI models. |
+
