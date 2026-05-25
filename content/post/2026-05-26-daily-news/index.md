@@ -193,3 +193,85 @@ image:
 | 9 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 14,563 | 🤖 [llama-3.3-70b-versatile] 该项目是一个TikTok和抖音的数据采集和下载工具，可以下载和采集包括发布、喜欢、合辑、直播、视频、图集、音乐等多种类型的内容。 |
 | 10 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | 31,453 | 🤖 [llama-3.3-70b-versatile] 该项目是LEDE（Linux Embedded Development Environment）源代码的精简版，用于构建嵌入式Linux系统。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-26 03:14 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 1769 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 860 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 764 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 606 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 328 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 327 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 142 | 🤖 [Legacy] 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
+| 5 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 101 | 🤖 [llama-3.3-70b-versatile] 该项目是一个私人、简单且强大的个人AI超级智能系统。 |
+| 6 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 102 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 7 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 9073 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+| 8 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 20895 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| 9 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 27729 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 10 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 🔥 19418 | Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 331 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 140 | 🤖 [Legacy] 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
+| 3 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 102 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 4 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 9073 | 🤖 [Legacy] 该项目提供700多项结构化的网络安全技能，用于AI代理。 |
+| 5 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 20895 | 🤖 [llama-3.3-70b-versatile] CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。 |
+| 6 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 27729 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 7 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 53612 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scri... |
+| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 29585 | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+| 9 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 20970 | AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed |
+| 10 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 25853 | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 34738 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 10539 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 3 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 12641 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
+| 4 | [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) | 🔥 742 | 🤖 [llama-3.3-70b-versatile] 这是一个基于Markdown的文件系统，用于为代理和团队提供文件管理和协作功能。 |
+| 5 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 1852 | 🤖 [llama-3.3-70b-versatile] CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。 |
+| 6 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 4174 | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet... |
+| 7 | [ShahabSL/Skirk](https://github.com/ShahabSL/Skirk) | 🔥 721 | Socks over Google Drive. |
+| 8 | [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | 🔥 2531 | Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents ... |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 15515 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 10 | [venkatkrishna07/mkdev](https://github.com/venkatkrishna07/mkdev) | 🔥 122 | Trusted localhost HTTPS — local CA, /etc/hosts, mDNS LAN sharing, reverse proxy. Maps https://name.local →    localhost:port |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 722 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 439 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 3 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 17765 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 33005 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 5195 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 6 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 7273 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 7 | [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 🔥 3083 | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative |
+| 8 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 18924 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 9 | [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) | 🔥 48 | ⛔ [无描述]  |
+| 10 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 28358 | The open-source AI voice studio. Clone, dictate, create. |
+
