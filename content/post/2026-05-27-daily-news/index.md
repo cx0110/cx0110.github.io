@@ -193,3 +193,84 @@ image:
 | 9 | [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | 8,620 | 🤖 [llama-3.3-70b-versatile] BilibiliToolPro是一个自动化工具，支持多种部署方式，帮助用户自动完成B站任务。 |
 | 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 92,101 | 🤖 [llama-3.3-70b-versatile] 该项目是一个每周五发布的科技爱好者周刊，分享科技相关的新闻、文章和资源。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-27 03:55 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 1688 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 759 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 300 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 224 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 151 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 108 | 🤖 [Legacy] 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 21235 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 9967 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+| 7 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 22112 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 8 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 12551 | 符合nature论文学术表达和科研绘图的Skill |
+| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 28261 | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| 10 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 54251 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scri... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 144 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 107 | 🤖 [Legacy] 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
+| 3 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 9967 | 🤖 [Legacy] 该项目提供700多项结构化的网络安全技能，用于AI代理。 |
+| 4 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 22112 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 5 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 12551 | 🤖 [llama-3.3-70b-versatile] 该项目提供符合nature论文学术表达和科研绘图的技能。 |
+| 6 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 54251 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scri... |
+| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 21385 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 29972 | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+| 9 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 27957 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 10 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 53718 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 23673 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 🔥 2544 | 🤖 [llama-3.3-70b-versatile] agent-sandbox 项目实现了隔离、有状态、单例工作负载的易管理，适用于 AI agent 运行时等场景。 |
+| 3 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 34914 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 4 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 12748 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
+| 5 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 2003 | 🤖 [llama-3.3-70b-versatile] CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。 |
+| 6 | [google/ax](https://github.com/google/ax) | 🔥 1073 | Google's open source distributed agent runtime |
+| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 15563 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| 8 | [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) | 🔥 753 | Markdown filesystem for agents and teams. |
+| 9 | [ShahabSL/Skirk](https://github.com/ShahabSL/Skirk) | 🔥 741 | Socks over Google Drive. |
+| 10 | [nobiyou/wx_channel](https://github.com/nobiyou/wx_channel) | 🔥 1970 | 微信视频号下载工具 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 452 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 303 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 3 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 18170 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 4 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 🔥 7614 | 🤖 [llama-3.3-70b-versatile] Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。 |
+| 5 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 5551 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 6 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 33315 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 21368 | Write HTML. Render video. Built for agents. |
+| 8 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 7503 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 9 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 26686 | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more \| 🌟 Sta... |
+| 10 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 40362 | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Dr... |
+
