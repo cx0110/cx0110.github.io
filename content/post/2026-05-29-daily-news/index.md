@@ -193,3 +193,12 @@ image:
 | 9 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 78,049 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 | 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 92,302 | 🤖 [llama-3.3-70b-versatile] 该项目是一个每周五发布的科技爱好者周刊，分享科技相关的新闻、文章和资源。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-29 04:05 UTC
+
