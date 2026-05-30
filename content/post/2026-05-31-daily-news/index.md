@@ -192,3 +192,12 @@ image:
 | 9 | [czy0729/Bangumi](https://github.com/czy0729/Bangumi) | 5,539 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个第三方客户端，提供无广告、可自定义的追番记录功能，适配iOS和Android移动端。 |
 | 10 | [LorisYounger/VPet](https://github.com/LorisYounger/VPet) | 6,242 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的虚拟桌宠模拟器，可以内置到任何WPF应用程序中，为用户提供虚拟的桌面宠物体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-05-31 02:58 UTC
+
