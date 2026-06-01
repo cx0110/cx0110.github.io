@@ -193,3 +193,78 @@ image:
 | 9 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 44,716 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源、免费的离线OCR软件，支持截屏、批量导入图片、PDF文档识别、排除水印、扫描和生成二维码等功能。 |
 | 10 | [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) | 10,671 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于WeChaty和多个AI服务的微信机器人，实现自动回复、社群分析、好友管理和检测僵尸粉等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-02 05:20 UTC
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 646 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 36623 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 48666 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 26702 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 4 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 24164 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 30880 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 6 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 🔥 11111 | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| 7 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 4041 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 25681 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 9 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | 🔥 7132 | Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices... |
+| 10 | [revfactory/harness](https://github.com/revfactory/harness) | 🔥 5093 | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 26702 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 2 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 24164 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 3 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 🔥 11111 | 🤖 [llama-3.3-70b-versatile] Hermes WebUI是一个网页界面，允许用户从网页或手机访问Hermes Agent。 |
+| 4 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 4041 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 5 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 25681 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 6 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 23120 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| 7 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 14979 | 符合nature论文学术表达和科研绘图的Skill |
+| 8 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 57900 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scri... |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 39774 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| 10 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 23312 | AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 4057 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于AI编码代理的持久性内存系统，支持SQLite和FTS5数据库。 |
+| 2 | [microsoft/waza](https://github.com/microsoft/waza) | 🔥 963 | 🤖 [llama-3.3-70b-versatile] 微软Waza项目是一个CLI框架，用于创建、测试、衡量和改进智能代理技能的质量和有效性。 |
+| 3 | [mathomhaus/guild](https://github.com/mathomhaus/guild) | 🔥 311 | 🤖 [llama-3.3-70b-versatile] 该项目实现了共享上下文、内存和任务协调，支持混合关键词和语义搜索。 |
+| 4 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 17619 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 5 | [Gridea-Pro/gridea-pro](https://github.com/Gridea-Pro/gridea-pro) | 🔥 402 | 🤖 [llama-3.3-70b-versatile] Gridea Pro 是一款桌面静态博客写作客户端，提供类似 Notion 的写作体验。 |
+| 6 | [looplj/axonhub](https://github.com/looplj/axonhub) | 🔥 4088 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. |
+| 7 | [runkids/skillshare](https://github.com/runkids/skillshare) | 🔥 2104 | 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more |
+| 8 | [ShahabSL/Skirk](https://github.com/ShahabSL/Skirk) | 🔥 763 | Socks over Google Drive. |
+| 9 | [hanxi/cups-web](https://github.com/hanxi/cups-web) | 🔥 957 | 把家用 USB 打印机变成随时可访问的网络打印服务 |
+| 10 | [nobiyou/wx_channel](https://github.com/nobiyou/wx_channel) | 🔥 2051 | 微信视频号下载工具 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 20477 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 2 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 9414 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 3 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 20363 | 🤖 [llama-3.3-70b-versatile] Garry的OpenClaw/Hermes智能代理大脑项目，实现智能决策和自动化。 |
+| 4 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 15906 | 🤖 [llama-3.3-70b-versatile] Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。 |
+| 5 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 🔥 9114 | 🤖 [llama-3.3-70b-versatile] Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。 |
+| 6 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 6970 | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only. |
+| 7 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 7457 | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| 8 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 3920 | Orca is the next-gen IDE for building with coding agents |
+| 9 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 🔥 30135 | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
+| 10 | [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 🔥 4092 | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative |
+
