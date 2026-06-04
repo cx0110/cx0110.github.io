@@ -193,3 +193,78 @@ image:
 | 9 | [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | 28,821 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是解决GitHub访问时图裂、加载慢的问题，帮助用户更流畅地使用GitHub。 |
 | 10 | [gdy666/lucky](https://github.com/gdy666/lucky) | 7,807 | 🤖 [llama-3.3-70b-versatile] 该项目是一个路由器工具，提供端口转发、反向代理、DDNS、WOL、内网穿透、自动化任务等功能，支持IPv6和IPv4协议。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-05 03:53 UTC
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 548 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 🔥 335 | 🤖 [llama-3.3-70b-versatile] Odysseus是一个自托管的AI工作空间，提供人工智能工具和环境。 |
+| 2 | [unicity-astrid/astrid](https://github.com/unicity-astrid/astrid) | 🔥 199 | 🤖 [llama-3.3-70b-versatile] Astrid是一个为AI代理设计的操作系统。 |
+| 3 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 117 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 4 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 40782 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 5 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 10606 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 6 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 1612 | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover let... |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 40737 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| 8 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 51930 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ... |
+| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 33057 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
+| 10 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 🔥 13361 | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 118 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 10606 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 40737 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 59292 | 🤖 [llama-3.3-70b-versatile] 将代码、文档、论文或图片转化为可查询的知识图谱。 |
+| 5 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 🔥 13361 | 🤖 [llama-3.3-70b-versatile] Hermes WebUI是一个网页界面，允许用户从网页或手机访问Hermes Agent。 |
+| 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 14123 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+| 7 | [sandroandric/AgentHandover](https://github.com/sandroandric/AgentHandover) | 🔥 701 | What if OpenClaw, Claude Code, Codex etc. knew how to do your work without you saying it? AgentHandover observes you, learns and teaches your agent... |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 28335 | Learn it. Build it. Ship it for others. |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 16589 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 25815 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 25266 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 36061 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 11622 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 4 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 3157 | 🤖 [llama-3.3-70b-versatile] CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。 |
+| 5 | [Lingtai-AI/lingtai](https://github.com/Lingtai-AI/lingtai) | 🔥 137 | 🤖 [llama-3.3-70b-versatile] LingTai AI是一个智能语言处理平台，提供自然语言理解和生成能力。 |
+| 6 | [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | 🔥 2883 | Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents ... |
+| 7 | [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox) | 🔥 1243 | Another Better Mihomo Client |
+| 8 | [sivchari/kumo](https://github.com/sivchari/kumo) | 🔥 1370 | A lightweight AWS service emulator written in Go |
+| 9 | [steipete/sag](https://github.com/steipete/sag) | 🔥 532 | Like the macOS say command, but with a modern voice. |
+| 10 | [Infisical/agent-vault](https://github.com/Infisical/agent-vault) | 🔥 1586 | A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 40782 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 51930 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 1612 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 4 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 10516 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 5 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 🔥 10233 | 🤖 [llama-3.3-70b-versatile] Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。 |
+| 6 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 🔥 7757 | Orchestrate coding agents remotely from your phone, desktop and CLI |
+| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 24278 | Write HTML. Render video. Built for agents. |
+| 8 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔥 28665 | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—... |
+| 9 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 35238 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 10 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 20965 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+
