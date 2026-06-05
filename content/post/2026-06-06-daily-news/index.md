@@ -193,3 +193,78 @@ image:
 | 9 | [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | 11,520 | 🤖 [llama-3.3-70b-versatile] NotionNext是一个使用NextJS和Notion API构建的静态博客平台，支持多种部署方案，无需服务器即可搭建网站。 |
 | 10 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | 26,913 | 🤖 [llama-3.3-70b-versatile] 该项目是一个计算机书籍和学习资源的集合，涵盖了多种编程语言、数据结构、操作系统、数据库等方面的经典书籍和学习资料。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-06 03:41 UTC
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 536 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 🔥 242 | 🤖 [llama-3.3-70b-versatile] Odysseus是一个自托管的AI工作空间，提供人工智能工具和环境。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 14343 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [unicity-astrid/astrid](https://github.com/unicity-astrid/astrid) | 🔥 7124 | 🤖 [llama-3.3-70b-versatile] Astrid是一个为AI代理设计的操作系统。 |
+| 4 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 42186 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 5 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 28132 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 6 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 24662 | Write HTML. Render video. Built for agents. |
+| 7 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 2172 | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover let... |
+| 8 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 59707 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scri... |
+| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 33805 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 28785 | Learn it. Build it. Ship it for others. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 14343 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 28132 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 3 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 59707 | 🤖 [llama-3.3-70b-versatile] 将代码、文档、论文或图片转化为可查询的知识图谱。 |
+| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 48185 | 🤖 [Legacy] 微软的VibeVoice项目是一个开源的前沿语音AI技术。 |
+| 5 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 16988 | 🤖 [llama-3.3-70b-versatile] 该项目提供符合nature论文学术表达和科研绘图的技能。 |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 40958 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 28785 | Learn it. Build it. Ship it for others. |
+| 8 | [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | 🔥 3236 | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density |
+| 9 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 27657 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 10 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 14365 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Lingtai-AI/lingtai](https://github.com/Lingtai-AI/lingtai) | 🔥 155 | 🤖 [llama-3.3-70b-versatile] LingTai AI是一个智能语言处理平台，提供自然语言理解和生成能力。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 25465 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [google/ax](https://github.com/google/ax) | 🔥 1563 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 4 | [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) | 🔥 1121 | 🤖 [llama-3.3-70b-versatile] 该项目扫描全球网络，寻找并揭露秘密信息。 |
+| 5 | [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 🔥 1979 | 🤖 [Legacy] 该项目是一个Go语言技能库，提供多种技能函数。 |
+| 6 | [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) | 🔥 687 | Markdown filesystem for agents and teams. |
+| 7 | [steipete/sag](https://github.com/steipete/sag) | 🔥 543 | Like the macOS say command, but with a modern voice. |
+| 8 | [thecodearcher/limen](https://github.com/thecodearcher/limen) | 🔥 350 | Modern, composable authentication for Go |
+| 9 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 36136 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy... |
+| 10 | [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox) | 🔥 1282 | Another Better Mihomo Client |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 42186 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 2172 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 3 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 24662 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 4 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 52795 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 5 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 🔥 10538 | 🤖 [llama-3.3-70b-versatile] Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。 |
+| 6 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 10701 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 7 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔥 28928 | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—... |
+| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 7849 | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only. |
+| 9 | [Tencent/TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) | 🔥 4989 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
+| 10 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 35454 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+
