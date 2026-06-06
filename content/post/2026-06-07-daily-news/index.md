@@ -193,3 +193,78 @@ image:
 | 9 | [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) | 10,574 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个C#/.NET/.NET Core学习和工作指南，收集和总结了相关的基础知识、学习路线、开发实战等资源。 |
 | 10 | [didi/LogicFlow](https://github.com/didi/LogicFlow) | 11,410 | 🤖 [llama-3.3-70b-versatile] 该项目是一个流程图编辑框架，支持实现各种图编辑场景，如脑图、ER图、UML、工作流等，并专注于业务自定义。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-07 03:04 UTC
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 531 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 🔥 237 | 🤖 [llama-3.3-70b-versatile] Odysseus是一个自托管的AI工作空间，提供人工智能工具和环境。 |
+| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 115 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 3 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 15623 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 4 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 60479 | 🤖 [llama-3.3-70b-versatile] 将代码、文档、论文或图片转化为可查询的知识图谱。 |
+| 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 27094 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 22200 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 7 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 53458 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ... |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 29342 | Learn it. Build it. Ship it for others. |
+| 9 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 2576 | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover let... |
+| 10 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 🔥 26514 | An Open Source implementation of Notebook LM with more flexibility and features |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 15623 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 60479 | 🤖 [llama-3.3-70b-versatile] 将代码、文档、论文或图片转化为可查询的知识图谱。 |
+| 3 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 27094 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 4 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 22200 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 29342 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 28658 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 7 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 17279 | 符合nature论文学术表达和科研绘图的Skill |
+| 8 | [next-1688/1688-shopkeeper](https://github.com/next-1688/1688-shopkeeper) | 🔥 2344 | 1688 AI版 开店Claw 官方Skill |
+| 9 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 28025 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 10 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 24435 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) | 🔥 771 | 🤖 [llama-3.3-70b-versatile] 这是一个基于Markdown的文件系统，用于为代理和团队提供文件管理和协作功能。 |
+| 2 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 3320 | 🤖 [llama-3.3-70b-versatile] CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。 |
+| 3 | [chrissnell/graywolf](https://github.com/chrissnell/graywolf) | 🔥 138 | 🤖 [llama-3.3-70b-versatile] 一个具有现代Web界面的全功能APRS（自动位置报告系统）栈。 |
+| 4 | [palemoky/fight-the-landlord](https://github.com/palemoky/fight-the-landlord) | 🔥 197 | 🤖 [llama-3.3-70b-versatile] 该项目旨在创建一个无控牌、真公平的斗地主游戏。 |
+| 5 | [Lingtai-AI/lingtai](https://github.com/Lingtai-AI/lingtai) | 🔥 165 | 🤖 [llama-3.3-70b-versatile] LingTai AI是一个智能语言处理平台，提供自然语言理解和生成能力。 |
+| 6 | [agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw) | 🔥 4751 | An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. |
+| 7 | [steipete/sag](https://github.com/steipete/sag) | 🔥 546 | Like the macOS say command, but with a modern voice. |
+| 8 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 2 | ⛔ [无描述]  |
+| 9 | [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) | 🔥 424 | Your feedback loop with the agent |
+| 10 | [multigres/multigres](https://github.com/multigres/multigres) | 🔥 2266 | Vitess for Postgres |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 43003 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 53458 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 🔥 26514 | 🤖 [Legacy] 开源笔记本项目，实现灵活的笔记本功能。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 2576 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 🔥 10760 | 🤖 [llama-3.3-70b-versatile] Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。 |
+| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔥 29216 | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—... |
+| 7 | [withastro/flue](https://github.com/withastro/flue) | 🔥 4695 | The sandbox agent framework. |
+| 8 | [Makisuo/maple](https://github.com/Makisuo/maple) | 🔥 850 | OpenTelemetry observability platform |
+| 9 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 8024 | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only. |
+| 10 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 21548 | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+
