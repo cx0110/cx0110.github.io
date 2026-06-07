@@ -193,3 +193,78 @@ image:
 | 9 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 45,124 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
 | 10 | [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 11,821 | 🤖 [llama-3.3-70b-versatile] 该项目是一个视觉小说翻译器，用于帮助用户翻译和理解视觉小说中的文本内容。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-08 03:05 UTC
+
+## 🤖 AI Assistants (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 525 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 🔥 237 | 🤖 [llama-3.3-70b-versatile] Odysseus是一个自托管的AI工作空间，提供人工智能工具和环境。 |
+| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 115 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 3 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 16759 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 4 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 61555 | 🤖 [llama-3.3-70b-versatile] 将代码、文档、论文或图片转化为可查询的知识图谱。 |
+| 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 27475 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 23091 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 7 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 54263 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ... |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 29810 | Learn it. Build it. Ship it for others. |
+| 9 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 2822 | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover let... |
+| 10 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 🔥 27081 | An Open Source implementation of Notebook LM with more flexibility and features |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 123 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 131 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 23091 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 4 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 27475 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 5 | [next-1688/1688-shopkeeper](https://github.com/next-1688/1688-shopkeeper) | 🔥 2621 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI版的开店助手，帮助1688店主自动化管理店铺。 |
+| 6 | [roboflow/supervision](https://github.com/roboflow/supervision) | 🔥 41224 | We write your reusable computer vision tools. 💜 |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 29810 | Learn it. Build it. Ship it for others. |
+| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 28495 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 9 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 48646 | Open-Source Frontier Voice AI |
+| 10 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 11110 | "Vibe-Trading: Your Personal Trading Agent" |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 25932 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 36393 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) | 🔥 341 | 🤖 [llama-3.3-70b-versatile] DEEIX-AI/DEEIX-Chat是一个企业级AI工作空间，集成模型路由、多模态聊天、文件管理等功能。 |
+| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 11800 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 5 | [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) | 🔥 832 | 🤖 [llama-3.3-70b-versatile] 这是一个基于Markdown的文件系统，用于为代理和团队提供文件管理和协作功能。 |
+| 6 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | 🔥 22921 | A new AList Fork to Anti Trust Crisis |
+| 7 | [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) | 🔥 1249 | Free, Micro AI Code Reviews That Run on Commit |
+| 8 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 4540 | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet... |
+| 9 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 3131 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005 |
+| 10 | [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 🔥 2009 | 🧑‍🎨 A collection of Golang agentic skills that works |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 43666 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 54263 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) | 🔥 1470 | 🤖 [llama-3.3-70b-versatile] AIEraDev/Clypra是一个现代视频编辑器，模仿CapCut的高级功能，使用Tauri、React和TypeScript构建。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 2822 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 🔥 27081 | 🤖 [Legacy] 开源笔记本项目，实现灵活的笔记本功能。 |
+| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔥 29598 | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—... |
+| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 11062 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 8 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 12770 | Desktop app to manage markdown knowledge bases |
+| 9 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 8456 | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only. |
+| 10 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 21713 | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+
