@@ -193,3 +193,72 @@ image:
 | 9 | [pymumu/smartdns](https://github.com/pymumu/smartdns) | 10,902 | 🤖 [llama-3.3-70b-versatile] 该项目是一个本地DNS服务器，能够获取最快的网站IP，支持DoH、DoT、DoQ协议，提供最佳上网体验。 |
 | 10 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 45,176 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-10 03:55 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 36990 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 20335 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 🔥 10037 | 🤖 [llama-3.3-70b-versatile] TurboVec是一个基于TurboQuant的向量索引，使用Rust编写并提供Python绑定。 |
+| 4 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 39452 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 25477 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 6 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 45827 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+| 7 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 55855 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ... |
+| 8 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 14233 | Desktop app to manage markdown knowledge bases |
+| 9 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 29461 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 10 | [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) | 🔥 2521 | AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 36990 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 20335 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 25477 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 4 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 29461 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 5 | [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) | 🔥 2521 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是润色文本，使其看起来不像由AI生成。 |
+| 6 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 36193 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 25569 | AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 30706 | Learn it. Build it. Ship it for others. |
+| 9 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 9 | ⛔ [无描述]  |
+| 10 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 28010 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 5732 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 36964 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 26713 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 1174 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 5 | [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox) | 🔥 1450 | 🤖 [llama-3.3-70b-versatile] 该项目是一个更好的Mihomo客户端，提供更好的用户体验和功能。 |
+| 6 | [huabeitech/agent-desk](https://github.com/huabeitech/agent-desk) | 🔥 122 | Open-source AI customer support system. AI-first support, human-ready operations. |
+| 7 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 11966 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 16131 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 9 | [cacggghp/vk-turn-proxy](https://github.com/cacggghp/vk-turn-proxy) | 🔥 2 | ⛔ [无描述]  |
+| 10 | [officecli/officedex](https://github.com/officecli/officedex) | 🔥 314 | OfficeDex is the first Al-Native VibeOfficing platform  for documents, slides, and spreadsheets |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 45827 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 55855 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [XingYu-Zhong/DeepSeek-GUI](https://github.com/XingYu-Zhong/DeepSeek-GUI) | 🔥 3331 | 🤖 [llama-3.3-70b-versatile] DeepSeek-GUI是一个AI智能工作空间，集成了Code和Claw两种模式，用于DeepSeek模型的开发和应用。 |
+| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 14233 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，用于管理基于Markdown的知识库。 |
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 26049 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 6 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 9095 | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only. |
+| 7 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 🔥 2384 | Skills for Design Engineers |
+| 8 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 21864 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 9 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔥 2066 | 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 10 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 11500 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+
