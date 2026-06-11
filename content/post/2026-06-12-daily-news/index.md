@@ -193,3 +193,72 @@ image:
 | 9 | [shadow1ng/fscan](https://github.com/shadow1ng/fscan) | 13,966 | 🤖 [llama-3.3-70b-versatile] 该项目是一款内网综合扫描工具，实现一键自动化、全方位的漏洞扫描。 |
 | 10 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | 13,074 | 🤖 [llama-3.3-70b-versatile] Nightingale是一个监控和告警平台，提供实时数据监控和告警功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-12 04:09 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 🔥 54393 | 🤖 [Legacy] 该项目为AI编码代理提供生产级工程技能。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 23006 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 41455 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 15342 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，用于管理基于Markdown的知识库。 |
+| 5 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 39665 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 6 | [apple/container](https://github.com/apple/container) | 🔥 31980 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silic... |
+| 7 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 57308 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ... |
+| 8 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 47409 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+| 9 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 36864 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 42173 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 23006 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 39665 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 3 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 36864 | 🤖 [Legacy] 该项目提供 Claude Code 的视觉化教程和示例，涵盖基础到高级内容。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 42173 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 26622 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 6 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 30243 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 7 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 26337 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 31342 | Learn it. Build it. Ship it for others. |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 19100 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 58514 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 27196 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 4420 | 🤖 [Legacy] CyberStrikeAI是一个集成多种安全工具的AI安全测试平台。 |
+| 3 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | 🔥 22995 | 🤖 [Legacy] OpenListTeam/OpenList 是一个新的 AList 分支，旨在应对反垄断危机。 |
+| 4 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 2 | ⛔ [无描述]  |
+| 5 | [usewhale/DeepSeek-Code-Whale](https://github.com/usewhale/DeepSeek-Code-Whale) | 🔥 639 | 🤖 [llama-3.3-70b-versatile] Whale 是为 DeepSeek 模型优化的终端 AI 编码助手，支持多种优化功能。 |
+| 6 | [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) | 🔥 1302 | Free, Micro AI Code Reviews That Run on Commit |
+| 7 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 1566 | Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster r... |
+| 8 | [taigrr/spank](https://github.com/taigrr/spank) | 🔥 4771 | Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. |
+| 9 | [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox) | 🔥 1479 | Another Better Mihomo Client |
+| 10 | [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) | 🔥 1020 | 指纹浏览器 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 15342 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，用于管理基于Markdown的知识库。 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 47409 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 3 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 57308 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 4 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 9734 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 26807 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 6 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 🔥 627 | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop, mobile, and web environments. |
+| 7 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 17137 | Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms |
+| 8 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 22374 | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 9 | [1weiho/open-slide](https://github.com/1weiho/open-slide) | 🔥 5188 | A slide framework built for agents. |
+| 10 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 16893 | Create polished screen recordings without editing. Mac/Windows/Linux |
+
