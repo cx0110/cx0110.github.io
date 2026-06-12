@@ -193,3 +193,72 @@ image:
 | 9 | [shadow1ng/fscan](https://github.com/shadow1ng/fscan) | 13,976 | 🤖 [llama-3.3-70b-versatile] 该项目是一款内网综合扫描工具，实现一键自动化、全方位的漏洞扫描。 |
 | 10 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 126,661 | 🤖 [llama-3.3-70b-versatile] 该项目提供动画图解和一键运行的数据结构与算法教程，支持多种语言和代码实现。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-13 03:52 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [apple/container](https://github.com/apple/container) | 🔥 105 | 🤖 [llama-3.3-70b-versatile] 该项目是一个工具，用于在Mac上创建和运行Linux容器，利用轻量级虚拟机在苹果芯片上运行。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 24444 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 2044 | 🤖 [llama-3.3-70b-versatile] 该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。 |
+| 4 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 42285 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 5 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 48161 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 6 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 58064 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ... |
+| 7 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 🔥 3151 | open-source healthcare ai |
+| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 26975 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
+| 9 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 40229 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 10 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🔥 61875 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 24444 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 🔥 3151 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的医疗人工智能平台，旨在开发和应用AI技术改善医疗保健。 |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 26975 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 40229 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 31660 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 36995 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 7 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 58759 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 8 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 🔥 2664 | Generate draw.io diagrams from natural language with 6 presets and a 2-round self-check loop. Exports to PNG/SVG/PDF/JPG. |
+| 9 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 30652 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 26715 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 2044 | 🤖 [llama-3.3-70b-versatile] 该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 6438 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 5953 | 🤖 [Legacy] 该项目是一个高级的DNS隧道VPN，用于突破网络审查。 |
+| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 12258 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 16230 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 6 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 2 | ⛔ [无描述]  |
+| 7 | [pood1e/wa-app](https://github.com/pood1e/wa-app) | 🔥 2 | ⛔ [无描述]  |
+| 8 | [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) | 🔥 832 | Build AI agents with Go. Multiple providers, multiple models, one API. 🧙 |
+| 9 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 🔥 5514 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabi... |
+| 10 | [i-am-xjizhi/MPScan](https://github.com/i-am-xjizhi/MPScan) | 🔥 224 | MPScan 是一款为安全研究人员与开发者设计的 Windows GUI 一体化工具，专用于对微信小程序进行自动化安全审计。 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 48161 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 15688 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，用于管理基于Markdown的知识库。 |
+| 3 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 22438 | 🤖 [llama-3.3-70b-versatile] Garry的OpenClaw/Hermes智能代理大脑项目，实现智能决策和自动化。 |
+| 4 | [butterbase-ai/butterbase](https://github.com/butterbase-ai/butterbase) | 🔥 1968 | 🤖 [llama-3.3-70b-versatile] 开源后端服务，提供Postgres、认证、存储、函数、AI网关等功能。 |
+| 5 | [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) | 🔥 885 | 🤖 [llama-3.3-70b-versatile] ZenNotes是一个本地Markdown笔记应用，支持Vim快捷键、图表和MCP集成。 |
+| 6 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 8328 | Harness engineering beginner tutorial, from 0 to 1 |
+| 7 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 🔥 693 | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop, mobile, and web environments. |
+| 8 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔥 38505 | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  |
+| 9 | [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) | 🔥 10164 | The best agent harness. |
+| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 27077 | Write HTML. Render video. Built for agents. |
+
