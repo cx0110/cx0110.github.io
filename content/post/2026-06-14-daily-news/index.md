@@ -193,3 +193,72 @@ image:
 | 9 | [higress-group/higress](https://github.com/higress-group/higress) | 8,640 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 | 10 | [Rockyzsu/stock](https://github.com/Rockyzsu/stock) | 7,745 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个30天的量化交易学习计划，通过持续更新的内容帮助用户掌握量化交易的知识和技能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-14 03:07 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 25936 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 41086 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 42986 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 4 | [apple/container](https://github.com/apple/container) | 🔥 36110 | 🤖 [llama-3.3-70b-versatile] 该项目是一个工具，用于在Mac上创建和运行Linux容器，利用轻量级虚拟机在苹果芯片上运行。 |
+| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 27286 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 6 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 48547 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+| 7 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 16062 | Desktop app to manage markdown knowledge bases |
+| 8 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 58458 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ... |
+| 9 | [santifer/career-ops](https://github.com/santifer/career-ops) | 🔥 53497 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
+| 10 | [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | 🔥 3041 | CC GUI 客户端（专为开发者打造的VibeCoding平台） |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 25936 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 41086 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 27286 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 4 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 30983 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 5 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 58917 | 🤖 [Legacy] 该项目提供智能体原理与实践教程，从零开始构建智能体。 |
+| 6 | [QuantFunc/ComfyUI-QuantFunc](https://github.com/QuantFunc/ComfyUI-QuantFunc) | 🔥 12 | ⛔ [无描述]  |
+| 7 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 🔥 2958 | Generate draw.io diagrams from natural language with 6 presets and a 2-round self-check loop. Exports to PNG/SVG/PDF/JPG. |
+| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 27222 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
+| 9 | [browser-act/skills](https://github.com/browser-act/skills) | 🔥 2454 | Give your AI the power to browse, scrape, and extract structured data from complex websites — with faster execution, lower cost, and more reliable ... |
+| 10 | [ace-trump-tech/DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) | 🔥 1117 | 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。5L2G5YW25a6e5Lul5LiK5YWo5piv6aqX5L2g55qE77yM6L+Z5Y+q5piv5Liq5biu5L2g5a6J6KO... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 6170 | 🤖 [Legacy] 该项目是一个高级的DNS隧道VPN，用于突破网络审查。 |
+| 2 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 2278 | 🤖 [llama-3.3-70b-versatile] 该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 27574 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 15886 | 🤖 [llama-3.3-70b-versatile] Gas Town是一个多智能体工作空间管理器，用于管理和协调多个智能体的工作流程。 |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 6607 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 6 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 4477 | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-b... |
+| 7 | [YuJunZhiXue/qwen2API](https://github.com/YuJunZhiXue/qwen2API) | 🔥 846 | A project converting the Qwen web page to an API.   |
+| 8 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 12465 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
+| 9 | [QQ3221197721/cloudai-fusion](https://github.com/QQ3221197721/cloudai-fusion) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [Gridea-Pro/gridea-pro](https://github.com/Gridea-Pro/gridea-pro) | 🔥 416 | Gridea Pro - 下一代桌面静态博客写作客户端 —— 像用 Notion 一样写博客。 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 48547 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 58458 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 3 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 22664 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供了基于真实世界基准的持久内存。 |
+| 4 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 12212 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 5 | [tinyfish-io/bigset](https://github.com/tinyfish-io/bigset) | 🔥 1424 | 🤖 [llama-3.3-70b-versatile] 该项目旨在处理和管理大量数据，提供海量数据的存储和分析解决方案。 |
+| 6 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 36470 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 7 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 🔥 21177 | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| 8 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 🔥 8514 | Orchestrate coding agents remotely from your phone, desktop and CLI |
+| 9 | [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) | 🔥 5460 | Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens |
+| 10 | [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | 🔥 3041 | CC GUI 客户端（专为开发者打造的VibeCoding平台） |
+
