@@ -193,3 +193,72 @@ image:
 | 9 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 161,295 | 🤖 [llama-3.3-70b-versatile] 该项目分享GitHub上有趣、适合初学者的开源项目。 |
 | 10 | [zhimin-dev/iptv-checker](https://github.com/zhimin-dev/iptv-checker) | 1,930 | 🤖 [llama-3.3-70b-versatile] 该项目是一个IPTV检查工具，用于检查IPTV播放列表的可用性，可以在Docker和CMD环境下运行。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-15 03:08 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 102 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 27345 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 41876 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 4 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 59113 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 43586 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 6 | [apple/container](https://github.com/apple/container) | 🔥 36891 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silic... |
+| 7 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 1231 | Google Cloud Knowledge Catalog Tools and Samples |
+| 8 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 48933 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+| 9 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 🔥 12121 | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 32350 | Learn it. Build it. Ship it for others. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 103 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 27345 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 41876 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 4 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 1231 | 🤖 [llama-3.3-70b-versatile] Google Cloud 知识目录工具和示例项目，提供数据管理和发现功能。 |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 32350 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 42522 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| 7 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 🔥 6449 | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 |
+| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 31350 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 9 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🔥 22484 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+| 10 | [QuantFunc/ComfyUI-QuantFunc](https://github.com/QuantFunc/ComfyUI-QuantFunc) | 🔥 15 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 2558 | 🤖 [llama-3.3-70b-versatile] 该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 27692 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 6909 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 37495 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 6245 | 🤖 [Legacy] 该项目是一个高级的DNS隧道VPN，用于突破网络审查。 |
+| 6 | [openclaw/crabbox](https://github.com/openclaw/crabbox) | 🔥 747 | Crabbox: warm a box, sync the diff, run the suite. |
+| 7 | [elvisun/newsjack](https://github.com/elvisun/newsjack) | 🔥 360 | The open-source skills that turn your agent into a full PR team. |
+| 8 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 9222 | High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard. |
+| 9 | [poteto/noodle](https://github.com/poteto/noodle) | 🔥 191 | Orchestrate agents using skills |
+| 10 | [0xjuanma/golazo](https://github.com/0xjuanma/golazo) | 🔥 674 | The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 59113 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 48933 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 3 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 27589 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 16194 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，用于管理基于Markdown的知识库。 |
+| 5 | [KunAgent/Kun](https://github.com/KunAgent/Kun) | 🔥 4149 | 🤖 [llama-3.3-70b-versatile] KunAgent/Kun是一个集成代码和写作模式的AI智能代理工作空间。 |
+| 6 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 22738 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 7 | [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | 🔥 3098 | CC GUI 客户端（专为开发者打造的VibeCoding平台） |
+| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 10286 | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only. |
+| 9 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 🔥 30443 | An Open Source implementation of Notebook LM with more flexibility and features |
+| 10 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 12391 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+
