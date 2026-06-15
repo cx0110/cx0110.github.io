@@ -193,3 +193,72 @@ image:
 | 9 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 161,468 | 🤖 [llama-3.3-70b-versatile] 该项目分享GitHub上有趣、适合初学者的开源项目。 |
 | 10 | [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) | 5,222 | 🤖 [llama-3.3-70b-versatile] xfangfang/wiliwili是一个跨平台的第三方B站客户端，支持在多种设备上运行，包括PC、PSVita、PS4、Xbox和Nintendo Switch。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-16 04:45 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 261 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 28697 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 29958 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 42794 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 5 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 2072 | 🤖 [llama-3.3-70b-versatile] Google Cloud 知识目录工具和示例项目，提供数据管理和发现功能。 |
+| 6 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 49616 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 44435 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
+| 8 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 1781 | A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or co... |
+| 9 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 29700 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 32993 | Learn it. Build it. Ship it for others. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 28697 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 29958 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 42794 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 4 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 2072 | 🤖 [llama-3.3-70b-versatile] Google Cloud 知识目录工具和示例项目，提供数据管理和发现功能。 |
+| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 1781 | 🤖 [llama-3.3-70b-versatile] Omnigent是一个元层框架，集成管理多个AI代理，支持混合搭配、策略控制和实时协作。 |
+| 6 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 29700 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 32993 | Learn it. Build it. Ship it for others. |
+| 8 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🔥 22722 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 59433 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 🔥 30223 | Kronos: A Foundation Model for the Language of Financial Markets |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 7253 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 2668 | 🤖 [llama-3.3-70b-versatile] 该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。 |
+| 3 | [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | 🔥 3413 | 🤖 [llama-3.3-70b-versatile] 该项目旨在创建一个功能强大的CLI工具，集成多个竞争对手的功能，支持SQLite同步、离线搜索和复合命令。 |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 36735 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 27874 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 12433 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 7 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 6298 | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet... |
+| 8 | [arnoldhao/xiadown](https://github.com/arnoldhao/xiadown) | 🔥 247 | 🐣一款支持在线音乐的双引擎视频下载工具    A dual-engine video downloader with online music support |
+| 9 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 1343 | git push no-mistakes |
+| 10 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 37584 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 49616 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 16375 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，用于管理基于Markdown的知识库。 |
+| 3 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 8797 | 🤖 [llama-3.3-70b-versatile] OpenWA 是一个免费、开源的自托管 WhatsApp API 网关。 |
+| 4 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 10440 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 27883 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 6 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 12621 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 7 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔥 30878 | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—... |
+| 8 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 2115 | Your Agent's Integration Layer |
+| 9 | [KunAgent/Kun](https://github.com/KunAgent/Kun) | 🔥 4251 | AI agent workspace with Code and Write modes built into your application. |
+| 10 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 🔥 21435 | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+
