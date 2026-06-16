@@ -193,3 +193,72 @@ image:
 | 9 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 45,285 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源、免费的离线OCR软件，支持截屏、批量导入图片、PDF文档识别、排除水印、扫描和生成二维码等功能。 |
 | 10 | [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | 4,963 | 🤖 [llama-3.3-70b-versatile] Bili23-Downloader 是一款跨平台的 B 站视频下载工具，支持音视频流分离下载、多线程加速、弹幕与字幕获取等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-17 04:37 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 191 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 31907 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 2979 | 🤖 [llama-3.3-70b-versatile] Google Cloud 知识目录工具和示例项目，提供数据管理和发现功能。 |
+| 4 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 45182 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 2663 | 🤖 [llama-3.3-70b-versatile] Omnigent是一个元层框架，集成管理多个AI代理，支持混合搭配、策略控制和实时协作。 |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 43413 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 7 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 🔥 30529 | Kronos: A Foundation Model for the Language of Financial Markets |
+| 8 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 29911 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 33657 | Learn it. Build it. Ship it for others. |
+| 10 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 50268 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 31907 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 2 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 2979 | 🤖 [llama-3.3-70b-versatile] Google Cloud 知识目录工具和示例项目，提供数据管理和发现功能。 |
+| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 2663 | 🤖 [llama-3.3-70b-versatile] Omnigent是一个元层框架，集成管理多个AI代理，支持混合搭配、策略控制和实时协作。 |
+| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 43413 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 5 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 29911 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 6 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 🔥 30529 | Kronos: A Foundation Model for the Language of Financial Markets |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 33657 | Learn it. Build it. Ship it for others. |
+| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 32090 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 9 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 28345 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
+| 10 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 34925 | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 7380 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) | 🔥 742 | 🤖 [llama-3.3-70b-versatile] 该项目为AI编码代理提供版本控制功能。 |
+| 3 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 14239 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
+| 4 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 2738 | 🤖 [llama-3.3-70b-versatile] 该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。 |
+| 5 | [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | 🔥 3513 | 🤖 [llama-3.3-70b-versatile] 该项目旨在创建一个功能强大的CLI工具，集成多个竞争对手的功能，支持SQLite同步、离线搜索和复合命令。 |
+| 6 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 37685 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy... |
+| 7 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 36895 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 8 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 1393 | git push no-mistakes |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 28066 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 552 | 📜 诗泉：高性能中国古诗词 API 服务 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 50268 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 23025 | 🤖 [llama-3.3-70b-versatile] Garry的OpenClaw/Hermes智能代理大脑项目，实现智能决策和自动化。 |
+| 3 | [yuanzhongqiao/ai-interview-platform](https://github.com/yuanzhongqiao/ai-interview-platform) | 🔥 586 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于人工智能的面试平台，实现智能化的面试流程和评估。 |
+| 4 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 🔥 28999 | 🤖 [llama-3.3-70b-versatile] 该项目是一个跨平台、多语言的开源项目，实现了无处不在的运行和使用任何语言的能力。 |
+| 5 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 12828 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 6 | [steipete/oracle](https://github.com/steipete/oracle) | 🔥 2564 | Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files. |
+| 7 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 5018 | Orca is the next-gen IDE for building with coding agents |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 28095 | Write HTML. Render video. Built for agents. |
+| 9 | [KunAgent/Kun](https://github.com/KunAgent/Kun) | 🔥 4335 | AI agent workspace with Code and Write modes built into your application. |
+| 10 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 9024 | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+
