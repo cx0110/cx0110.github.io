@@ -193,3 +193,72 @@ image:
 | 9 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 78,403 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 | 10 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 45,382 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-18 03:59 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 161 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 33032 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 50971 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 4 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 31235 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 45894 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 6 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 3434 | A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or co... |
+| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 28807 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
+| 8 | [VitoHowe/glm-coding](https://github.com/VitoHowe/glm-coding) | 🔥 11 | ⛔ [无描述]  |
+| 9 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 3543 | Google Cloud Knowledge Catalog Tools and Samples |
+| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 43913 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 33032 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 31235 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 3434 | 🤖 [llama-3.3-70b-versatile] Omnigent是一个元层框架，集成管理多个AI代理，支持混合搭配、策略控制和实时协作。 |
+| 4 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 28807 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 5 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 3543 | 🤖 [llama-3.3-70b-versatile] Google Cloud 知识目录工具和示例项目，提供数据管理和发现功能。 |
+| 6 | [VitoHowe/glm-coding](https://github.com/VitoHowe/glm-coding) | 🔥 11 | ⛔ [无描述]  |
+| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 43913 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 42953 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 34047 | Learn it. Build it. Ship it for others. |
+| 10 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 30423 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 28236 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 7720 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 37040 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [tamnd/kage](https://github.com/tamnd/kage) | 🔥 1846 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。 |
+| 5 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 12597 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 6 | [Leo-Mu/montecarlo-ip-searcher](https://github.com/Leo-Mu/montecarlo-ip-searcher) | 🔥 243 | 蒙特卡罗搜索+多头注意力，告别全段扫描的快速优选工具 |
+| 7 | [DingTalk-Real-AI/dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) | 🔥 2224 | DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities in... |
+| 8 | [denoland/clawpatrol](https://github.com/denoland/clawpatrol) | 🔥 840 | Security firewall for agents |
+| 9 | [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak) | 🔥 1113 | Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mimicking Chrome, Firefox, and Safari at the cryp... |
+| 10 | [dannybouwers/trala](https://github.com/dannybouwers/trala) | 🔥 270 | A simple, modern, and dynamic dashboard for your Traefik services. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 50971 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 16621 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，用于管理基于Markdown的知识库。 |
+| 3 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 9301 | 🤖 [llama-3.3-70b-versatile] OpenWA 是一个免费、开源的自托管 WhatsApp API 网关。 |
+| 4 | [KunAgent/Kun](https://github.com/KunAgent/Kun) | 🔥 4411 | 🤖 [llama-3.3-70b-versatile] KunAgent/Kun是一个集成代码和写作模式的AI智能代理工作空间。 |
+| 5 | [xrpcommunity/XRP-community-wallet](https://github.com/xrpcommunity/XRP-community-wallet) | 🔥 3 | ⛔ [星数不足 (增量3/总数80)] Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community. |
+| 6 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 🔥 4 | ⛔ [无描述]  |
+| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 13122 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 8 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 5869 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
+| 9 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 🔥 7590 | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image mode... |
+| 10 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 🔥 2999 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot depe... |
+
