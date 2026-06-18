@@ -193,3 +193,72 @@ image:
 | 9 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 34,900 | 🤖 [llama-3.3-70b-versatile] AstrBot是一个集成多个即时通讯平台、语言模型、插件和人工智能功能的聊天机器人基础设施。 |
 | 10 | [whyour/qinglong](https://github.com/whyour/qinglong) | 19,623 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个支持多种编程语言（Python3、JavaScript、Shell、Typescript）的定时任务管理平台。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-19 04:10 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 36115 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 6856 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的代码智能服务器，能够快速索引代码库并支持毫秒级查询。 |
+| 3 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 33889 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 4 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 34282 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 46534 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
+| 6 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 51596 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+| 7 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 13 | ⛔ [无描述]  |
+| 8 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 3770 | A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or co... |
+| 9 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 19254 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 10 | [dzcmemory-web/bazi-ziwei-skill](https://github.com/dzcmemory-web/bazi-ziwei-skill) | 🔥 376 | AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 33889 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 34282 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 13 | ⛔ [无描述]  |
+| 4 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 29150 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 3770 | 🤖 [llama-3.3-70b-versatile] Omnigent是一个元层框架，集成管理多个AI代理，支持混合搭配、策略控制和实时协作。 |
+| 6 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 19254 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 7 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 32718 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 8 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 🔥 7886 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
+| 9 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 3902 | Google Cloud Knowledge Catalog Tools and Samples |
+| 10 | [VitoHowe/glm-coding](https://github.com/VitoHowe/glm-coding) | 🔥 6 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 7922 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [tamnd/kage](https://github.com/tamnd/kage) | 🔥 1991 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 37163 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 37846 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [Resinat/Resin](https://github.com/Resinat/Resin) | 🔥 1361 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的代理池网关，能够将大量代理订阅转化为稳定、智能且可观察的网络，支持粘性会话。 |
+| 6 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 4491 | Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. |
+| 7 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 4629 | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-b... |
+| 8 | [agentrq/agentrq](https://github.com/agentrq/agentrq) | 🔥 436 | AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. |
+| 9 | [agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw) | 🔥 4879 | An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. |
+| 10 | [gogpu/ui](https://github.com/gogpu/ui) | 🔥 339 | Pure Go GUI toolkit built on GoGPU — widgets, layouts, styling |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 51596 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 13356 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 3 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 28691 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 4 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 9443 | 🤖 [llama-3.3-70b-versatile] OpenWA 是一个免费、开源的自托管 WhatsApp API 网关。 |
+| 5 | [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | 🔥 3577 | 🤖 [llama-3.3-70b-versatile] 为安卓GKD提供第三方订阅规则的Fork版。 |
+| 6 | [whisdev/flash-loan-trading-bot](https://github.com/whisdev/flash-loan-trading-bot) | 🔥 2 | ⛔ [星数不足 (增量2/总数50)] flash loan arbitrage bot in EVM chain three Dex - uniswap, camelot and aerodrome |
+| 7 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | 🔥 475 | Official TestSprite CLI — AI-powered automated testing from your terminal |
+| 8 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔥 2515 | 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 9 | [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 🔥 5755 | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative |
+| 10 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 56761 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational... |
+
