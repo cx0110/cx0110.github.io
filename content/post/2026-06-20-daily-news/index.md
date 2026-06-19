@@ -193,3 +193,72 @@ image:
 | 9 | [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) | 6,900 | 🤖 [llama-3.3-70b-versatile] Salt Player 是一款本地音乐播放器，提供安卓平台上的音乐播放服务。 |
 | 10 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 46,794 | 🤖 [llama-3.3-70b-versatile] JeecgBoot 是一款 AI 驱动的低代码平台，提供“零代码”和“代码生成”双模式，能够快速生成前后端代码和建表 SQL，帮助开发者高效完成 Java 项目的开发。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-20 03:25 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 39684 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 38018 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 8001 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的代码智能服务器，能够快速索引代码库并支持毫秒级查询。 |
+| 4 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 35001 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 5 | [vercel/eve](https://github.com/vercel/eve) | 🔥 1593 | 🤖 [llama-3.3-70b-versatile] Eve是一个构建智能代理的框架，提供了一套开发工具和库，用于创建自主决策和交互的代理。 |
+| 6 | [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) | 🔥 3140 | Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite with SQL notebooks, visual EXPLAIN, AI and MCP built in. Hackable with plugins. |
+| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 47037 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
+| 8 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 4242 | Google Cloud Knowledge Catalog Tools and Samples |
+| 9 | [withastro/flue](https://github.com/withastro/flue) | 🔥 5780 | The sandbox agent framework. |
+| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 44686 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 38018 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 35001 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 🔥 4242 | 🤖 [llama-3.3-70b-versatile] Google Cloud 知识目录工具和示例项目，提供数据管理和发现功能。 |
+| 4 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 35615 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。 |
+| 5 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 44686 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 6 | [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | 🔥 1111 | YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 34690 | Learn it. Build it. Ship it for others. |
+| 8 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 16669 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+| 9 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 🔥 1961 | Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. |
+| 10 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 19508 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 7990 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 37910 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [nudgebee/nudgebee](https://github.com/nudgebee/nudgebee) | 🔥 374 | 🤖 [llama-3.3-70b-versatile] Nudgebee是一个统一的云运营平台，集成了AI-SRE、AI-FinOps、AI-K8sOps等功能。 |
+| 4 | [valkey-io/valkey-operator](https://github.com/valkey-io/valkey-operator) | 🔥 279 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Kubernetes操作员，用于在Kubernetes上管理Valkey。 |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 28453 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | 🔥 253 | Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. |
+| 7 | [maaslalani/sheets](https://github.com/maaslalani/sheets) | 🔥 2263 | Terminal based spreadsheet tool |
+| 8 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 2927 | Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other ... |
+| 9 | [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | 🔥 4458 | System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge |
+| 10 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 12715 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vercel/eve](https://github.com/vercel/eve) | 🔥 1593 | 🤖 [llama-3.3-70b-versatile] Eve是一个构建智能代理的框架，提供了一套开发工具和库，用于创建自主决策和交互的代理。 |
+| 2 | [dzcmemory-web/bazi-ziwei-skill](https://github.com/dzcmemory-web/bazi-ziwei-skill) | 🔥 424 | 🤖 [llama-3.3-70b-versatile] 八字和紫微斗数排盘与综合印证，提供三种分析模式和水墨风HTML命盘海报生成。 |
+| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 51951 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 4 | [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) | 🔥 3140 | 🤖 [llama-3.3-70b-versatile] 开源数据库客户端，支持PostgreSQL、MySQL/MariaDB和SQLite，集成SQL笔记本、可视化EXPLAIN、AI和MCP等功能。 |
+| 5 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 🔥 961 | 🤖 [llama-3.3-70b-versatile] BuilderIO/agent-native是一个用于构建原生智能代理应用的框架。 |
+| 6 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 28877 | Write HTML. Render video. Built for agents. |
+| 7 | [xrpcommunity/XRP-community-wallet](https://github.com/xrpcommunity/XRP-community-wallet) | 🔥 291 | Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community. |
+| 8 | [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) | 🔥 4523 | CADAM is the open source text-to-CAD web application |
+| 9 | [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 🔥 5793 | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative |
+| 10 | [yuanzhongqiao/ai-interview-platform](https://github.com/yuanzhongqiao/ai-interview-platform) | 🔥 771 | ai-interview-platform  |
+
