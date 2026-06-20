@@ -193,3 +193,72 @@ image:
 | 9 | [mootdx/mootdx](https://github.com/mootdx/mootdx) | 2,002 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个简便的封装来读取通达信数据。 |
 | 10 | [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) | 17,967 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，能够实现网页、输入框、PDF、Epub、字幕文件和TXT文件等多种格式的双语翻译。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-21 03:08 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 102 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 42638 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 3 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 9142 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的代码智能服务器，能够快速索引代码库并支持毫秒级查询。 |
+| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 57636 | 🤖 [Legacy] 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 35718 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 6 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 47624 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
+| 7 | [xrpcommunity/XRP-community-wallet](https://github.com/xrpcommunity/XRP-community-wallet) | 🔥 664 | Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community. |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 6908 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 35038 | Learn it. Build it. Ship it for others. |
+| 10 | [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | 🔥 1400 | YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 102 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 35718 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 6908 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 4 | [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | 🔥 1400 | 🤖 [llama-3.3-70b-versatile] YAO是一个用于开发和管理可重用智能体技能的系统，提供工程、评估、治理和移植功能。 |
+| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 4173 | 🤖 [llama-3.3-70b-versatile] Omnigent是一个元层框架，集成管理多个AI代理，支持混合搭配、策略控制和实时协作。 |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 45028 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 7 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 🔥 8614 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 35038 | Learn it. Build it. Ship it for others. |
+| 9 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 29618 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
+| 10 | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | 🔥 8456 | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authorit... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [nudgebee/nudgebee](https://github.com/nudgebee/nudgebee) | 🔥 372 | 🤖 [llama-3.3-70b-versatile] Nudgebee是一个统一的云运营平台，集成了AI-SRE、AI-FinOps、AI-K8sOps等功能。 |
+| 2 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 14431 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
+| 3 | [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) | 🔥 4554 | 🤖 [llama-3.3-70b-versatile] 该项目是一个读取开发者端点的扫描器，用于检查软件供应链中的已知漏洞。 |
+| 4 | [tamnd/kage](https://github.com/tamnd/kage) | 🔥 2157 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。 |
+| 5 | [nianzhibai/91](https://github.com/nianzhibai/91) | 🔥 1167 | 🤖 [llama-3.3-70b-versatile] 该项目是一个名为“九一”的系统，可能与日期或编号相关。 |
+| 6 | [memohai/Memoh](https://github.com/memohai/Memoh) | 🔥 1954 | ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(... |
+| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 28515 | Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports acc... |
+| 8 | [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | 🔥 3622 | Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents ... |
+| 9 | [skyhook-io/radar](https://github.com/skyhook-io/radar) | 🔥 2436 | The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management. |
+| 10 | [Layr-Labs/d-inference](https://github.com/Layr-Labs/d-inference) | 🔥 194 | Private Inference Network on Idle Macs |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [withastro/flue](https://github.com/withastro/flue) | 🔥 6040 | 🤖 [llama-3.3-70b-versatile] Flue是一个沙盒代理框架，提供隔离和管理代理的功能。 |
+| 2 | [vercel/eve](https://github.com/vercel/eve) | 🔥 1829 | 🤖 [llama-3.3-70b-versatile] Eve是一个构建智能代理的框架，提供了一套开发工具和库，用于创建自主决策和交互的代理。 |
+| 3 | [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) | 🔥 3221 | 🤖 [llama-3.3-70b-versatile] 开源数据库客户端，支持PostgreSQL、MySQL/MariaDB和SQLite，集成SQL笔记本、可视化EXPLAIN、AI和MCP等功能。 |
+| 4 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 🔥 12211 | 🤖 [llama-3.3-70b-versatile] LLM Wiki 是一个跨平台的桌面应用，自动将文档转化为组织化的、相互链接的知识库。 |
+| 5 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 30925 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 6 | [getkimchi/kimchi](https://github.com/getkimchi/kimchi) | 🔥 1813 | Terminal coding agent powered by Kimchi's multi-model orchestration  |
+| 7 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 🔥 23017 | The open agent skills tool - npx skills |
+| 8 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 44837 | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and e... |
+| 9 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 44065 | Chrome DevTools for coding agents |
+| 10 | [altnautica/ADOSMissionControl](https://github.com/altnautica/ADOSMissionControl) | 🔥 195 | Open-source web-based Ground Control Station for autonomous drones. FC config, sensor calibration, mission planning, MAVLink protocol, manual fligh... |
+
