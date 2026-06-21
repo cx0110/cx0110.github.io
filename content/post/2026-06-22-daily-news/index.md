@@ -193,3 +193,72 @@ image:
 | 9 | [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | 4,154 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个一步一步的eBPF开发教程，通过实例帮助开发者学习eBPF。 |
 | 10 | [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) | 2,777 | ⛔ [无描述] 无描述 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-22 03:14 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 157 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 140 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 3 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 10097 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的代码智能服务器，能够快速索引代码库并支持毫秒级查询。 |
+| 4 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 36722 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 8297 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 6 | [eooce/transfer-api](https://github.com/eooce/transfer-api) | 🔥 205 | Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes. |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 44295 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| 8 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 48304 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
+| 9 | [lvy010/X-Plore](https://github.com/lvy010/X-Plore) | 🔥 1008 | My 2-Year College Notes Hub — Personal Web · 2000+ Blogs · 262 Repos |
+| 10 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 17501 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 134 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 36722 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 44295 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 8297 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 5 | [lvy010/X-Plore](https://github.com/lvy010/X-Plore) | 🔥 1008 | 🤖 [llama-3.3-70b-versatile] 这是一个个人网页项目，整合了2000+博客和262个代码仓库，作为个人大学笔记的中心枢纽。 |
+| 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 17501 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 45322 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 8 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 21773 | 符合nature论文学术表达和科研绘图的Skill |
+| 9 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 🔥 8969 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
+| 10 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 33339 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 8206 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [sartoopjj/thefeed](https://github.com/sartoopjj/thefeed) | 🔥 1321 | 🤖 [llama-3.3-70b-versatile] 基于DNS的阅读器和即时通讯工具，支持阅读Telegram频道和X账户，并进行端到端加密消息交换。 |
+| 3 | [garybowers/bootimus](https://github.com/garybowers/bootimus) | 🔥 281 | 🤖 [llama-3.3-70b-versatile] 该项目是一个增强版的PXE服务器，支持从ISO文件引导启动，使用Golang编写，可通过容器或二进制文件部署。 |
+| 4 | [tamnd/kage](https://github.com/tamnd/kage) | 🔥 2222 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 38020 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [gykim80/perfectpixel-studio](https://github.com/gykim80/perfectpixel-studio) | 🔥 327 | AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + Re... |
+| 7 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 1510 | git push no-mistakes |
+| 8 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 3068 | Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other ... |
+| 9 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 37360 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 10 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 12797 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 31536 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 2 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 🔥 57960 | 🤖 [Legacy] 该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。 |
+| 3 | [withastro/flue](https://github.com/withastro/flue) | 🔥 6268 | 🤖 [llama-3.3-70b-versatile] Flue是一个沙盒代理框架，提供隔离和管理代理的功能。 |
+| 4 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 11301 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 29376 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 6 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 52568 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+| 7 | [xrpcommunity/XRP-community-wallet](https://github.com/xrpcommunity/XRP-community-wallet) | 🔥 730 | Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community. |
+| 8 | [modem-dev/hunk](https://github.com/modem-dev/hunk) | 🔥 5295 | Review-first terminal diff viewer for agentic coders |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 5779 | Orca is the next-gen IDE for building with coding agents |
+| 10 | [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | 🔥 5912 | AI-native design editor. Open-source Figma alternative. |
+
