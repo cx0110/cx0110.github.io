@@ -190,3 +190,72 @@ image:
 | 9 | [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) | 11,863 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是解锁TikTok的区域限制，支持iPhone和iPad设备，实现区域切换、视频发布、直播、点赞、评论、私信聊天等功能。 |
 | 10 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 18,008 | 🤖 [llama-3.3-70b-versatile] 该项目为Rime输入法提供了一个名为“雾凇拼音”的配置方案，包含长期维护的简体中文词库。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-24 03:49 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 48312 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 52126 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 15195 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 46915 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 12689 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的代码智能服务器，能够快速索引代码库并支持毫秒级查询。 |
+| 6 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 🔥 4305 | The end of web parsing. The beginning of scalable pixel-native search. |
+| 7 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 19519 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+| 8 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 49590 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
+| 9 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 53653 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
+| 10 | [eooce/transfer-api](https://github.com/eooce/transfer-api) | 🔥 319 | Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 48312 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 15195 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 46915 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 🔥 4305 | 🤖 [llama-3.3-70b-versatile] StarTrail-org/PixelRAG项目实现了可扩展的像素级搜索，结束了传统的网页解析方式。 |
+| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 19519 | 🤖 [Legacy] 该项目提供700多项结构化的网络安全技能，用于AI代理。 |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 38529 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 46059 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 30716 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 22574 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 33934 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 8585 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 12918 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 3 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 1685 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 4 | [tamnd/kage](https://github.com/tamnd/kage) | 🔥 2337 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。 |
+| 5 | [Yuan-lab-LLM/ClawManager](https://github.com/Yuan-lab-LLM/ClawManager) | 🔥 1834 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Kubernetes的AI代理实例管理控制平面，实现AI访问治理、运行时编排和资源复用。 |
+| 6 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 38194 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+| 7 | [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) | 🔥 4610 | Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-... |
+| 8 | [agentrq/agentrq](https://github.com/agentrq/agentrq) | 🔥 591 | AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. |
+| 9 | [fish2018/pansou](https://github.com/fish2018/pansou) | 🔥 13623 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。  |
+| 10 | [gykim80/perfectpixel-studio](https://github.com/gykim80/perfectpixel-studio) | 🔥 362 | AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + Re... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 53653 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 2 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 33040 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 3 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 30581 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 4 | [withastro/flue](https://github.com/withastro/flue) | 🔥 6512 | 🤖 [llama-3.3-70b-versatile] Flue是一个沙盒代理框架，提供隔离和管理代理的功能。 |
+| 5 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 17971 | 🤖 [llama-3.3-70b-versatile] Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。 |
+| 6 | [vercel/eve](https://github.com/vercel/eve) | 🔥 2418 | The Framework for Building Agents |
+| 7 | [playRealmRumble/Realm-Rumble](https://github.com/playRealmRumble/Realm-Rumble) | 🔥 692 | Build. Conquer. Earn Solana. An always-on strategy game on Solana where real rulers clash 24/7. Your throne is waiting. |
+| 8 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 42815 | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Dr... |
+| 9 | [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) | 🔥 20296 | 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 |
+| 10 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 17041 | Create and share 3D architectural projects. |
+
