@@ -193,3 +193,72 @@ image:
 | 9 | [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | 11,591 | 🤖 [llama-3.3-70b-versatile] NotionNext是一个使用NextJS和Notion API构建的静态博客平台，支持多种部署方案，无需服务器即可搭建网站。 |
 | 10 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 46,883 | 🤖 [llama-3.3-70b-versatile] JeecgBoot 是一款 AI 驱动的低代码平台，提供“零代码”和“代码生成”双模式，能够快速生成前后端代码和建表 SQL，帮助开发者高效完成 Java 项目的开发。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-26 03:44 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 103 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 41068 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 6303 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 49447 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 7348 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 50838 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| 7 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 2970 | git push no-mistakes |
+| 8 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 20273 | Clone any website with one command using AI coding agents |
+| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 50905 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
+| 10 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 🔥 2702 | AI agent to evaluate and score resumes. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 21838 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 41068 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 49447 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 🔥 50838 | 🤖 [llama-3.3-70b-versatile] 该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。 |
+| 5 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 🔥 2702 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI智能代理，用于评估和评分简历。 |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 46684 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 7 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 21099 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
+| 8 | [fivetaku/insane-search](https://github.com/fivetaku/insane-search) | 🔥 1241 | Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys |
+| 9 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 🔥 5301 | The end of web parsing. The beginning of scalable pixel-native search. |
+| 10 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 1762 | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 2970 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 9274 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 38023 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 3301 | 🤖 [llama-3.3-70b-versatile] 该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。 |
+| 5 | [openclaw/gogcli](https://github.com/openclaw/gogcli) | 🔥 8003 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个终端命令行界面，用于访问和管理Google Workspace服务。 |
+| 6 | [agentrq/agentrq](https://github.com/agentrq/agentrq) | 🔥 659 | AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. |
+| 7 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 3726 | Claude / Codex / Gemini API Proxy - CCX |
+| 8 | [looplj/axonhub](https://github.com/looplj/axonhub) | 🔥 4412 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. |
+| 9 | [alfredxw/nova](https://github.com/alfredxw/nova) | 🔥 334 | An AI-native fiction workspace where powerful agents plan, write, revise, and orchestrate long-form novels and interactive stories. 一个基于 AI 小说 Agen... |
+| 10 | [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry) | 🔥 384 | Fast-track AI innovation with a centralized, trusted, curated registry |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 34152 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 7348 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 20273 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
+| 4 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 54545 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 31294 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 24040 | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 7 | [modem-dev/hunk](https://github.com/modem-dev/hunk) | 🔥 5656 | Review-first terminal diff viewer for agentic coders |
+| 8 | [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) | 🔥 8504 | Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics  |
+| 9 | [vectorize-io/self-driving-agents](https://github.com/vectorize-io/self-driving-agents) | 🔥 5 | ⛔ [无描述]  |
+| 10 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 12599 | OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compat... |
+
