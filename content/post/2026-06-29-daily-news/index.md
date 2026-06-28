@@ -193,3 +193,12 @@ image:
 | 9 | [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) | 26,213 | 🤖 [llama-3.3-70b-versatile] 该项目是一个在线维基，旨在为OI（信息学奥林匹克）和ICPC（国际大学生程序设计竞赛）提供一个综合的知识和资源平台。 |
 | 10 | [pymumu/smartdns](https://github.com/pymumu/smartdns) | 10,943 | 🤖 [llama-3.3-70b-versatile] 该项目是一个本地DNS服务器，能够获取最快的网站IP，支持DoH、DoT、DoQ协议，提供最佳上网体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-06-29 03:02 UTC
+
