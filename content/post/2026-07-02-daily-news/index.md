@@ -193,3 +193,78 @@ image:
 | 9 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 27,655 | 🤖 [llama-3.3-70b-versatile] 该项目主要用于测试Cloudflare CDN的延迟和速度，并帮助用户找到最快的IP。 |
 | 10 | [higress-group/higress](https://github.com/higress-group/higress) | 8,762 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-02 03:28 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 170 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) | 🔥 14615 | 🤖 [Legacy] KittenML/KittenTTS 是一个小于 25MB 的高级语音合成模型。 |
+| 2 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 8089 | 🤖 [llama-3.3-70b-versatile] 基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 48204 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 4 | [XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio) | 🔥 6467 | 🤖 [llama-3.3-70b-versatile] 该项目是一款集电影镜头、粒子视觉和歌词舞台于一体的沉浸式音乐播放器。 |
+| 5 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 29399 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 6 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 2395 | An open source design system that's fully customizable and agent ready |
+| 7 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 13149 | Edit videos with coding agents |
+| 8 | [Yu9191/wloc](https://github.com/Yu9191/wloc) | 🔥 2304 | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 |
+| 9 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 35749 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
+| 10 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 9504 | agent multiplexer that lives in your terminal. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 8089 | 🤖 [llama-3.3-70b-versatile] 基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。 |
+| 2 | [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) | 🔥 14615 | 🤖 [Legacy] KittenML/KittenTTS 是一个小于 25MB 的高级语音合成模型。 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 48204 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 4 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 29399 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 53042 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 13149 | Edit videos with coding agents |
+| 7 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 24993 | 符合nature论文学术表达和科研绘图的Skill |
+| 8 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 🔥 9193 | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+| 9 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 24272 | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. |
+| 10 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 🔥 5729 | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 4710 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 2 | [workweave/router](https://github.com/workweave/router) | 🔥 645 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 29808 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [vibe-coding-labs/JoyCode2Api](https://github.com/vibe-coding-labs/JoyCode2Api) | 🔥 183 | 🤖 [llama-3.3-70b-versatile] 该项目将JoyCode API协议翻译为Anthropic/OpenAI兼容格式，实现Claude Code直接调用JoyCode支持的模型。 |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 38722 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 6 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 38877 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+| 7 | [Delta-Kronecker/V2ray-Config](https://github.com/Delta-Kronecker/V2ray-Config) | 🔥 256 | 🔥 با کیفیت ترین کانفیگ ها برای شرایط فعلی اینترنت ایران، به همراه کانفیگ های مخصوص اسپوف و ساب های کلش 🔥 |
+| 8 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 25009 | Beads - A memory upgrade for your coding agent |
+| 9 | [garybowers/bootimus](https://github.com/garybowers/bootimus) | 🔥 327 | A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries. |
+| 10 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 2 | ⛔ [无描述]  |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 24377 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
+| 2 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 3930 | 🤖 [llama-3.3-70b-versatile] 开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。 |
+| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 36651 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 4 | [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) | 🔥 20 | ⛔ [无描述]  |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 10193 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 🔥 3289 | A framework for building agent-native applications. |
+| 7 | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 🔥 8769 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. |
+| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 14532 | OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compat... |
+| 9 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 24743 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 10 | [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | 🔥 1069 | AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CI... |
+
