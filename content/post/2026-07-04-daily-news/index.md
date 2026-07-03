@@ -193,3 +193,78 @@ image:
 | 9 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | 31,501 | 🤖 [llama-3.3-70b-versatile] 该项目是LEDE（Linux Embedded Development Environment）源代码的精简版，用于构建嵌入式Linux系统。 |
 | 10 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 78,664 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-04 03:01 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 180 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 34272 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 32309 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 3 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 4422 | 🤖 [llama-3.3-70b-versatile] Astryx是一个开源的设计系统，完全可定制且支持代理。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 53832 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 1694 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 6 | [erincatto/box3d](https://github.com/erincatto/box3d) | 🔥 2589 | Box3D is a 3D physics engine for games |
+| 7 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 17674 | "Vibe-Trading: Your Personal Trading Agent" |
+| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 14328 | Edit videos with coding agents |
+| 9 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 22274 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 49749 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 34272 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 53832 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 32309 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 4 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 17674 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 5 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 14328 | 🤖 [llama-3.3-70b-versatile] 该项目使用编码代理编辑视频，实现视频编辑自动化。 |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 49749 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 7 | [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | 🔥 5371 | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density |
+| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 36420 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
+| 9 | [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) | 🔥 3627 | Developer Control Plane for your AI Agents |
+| 10 | [google-research/tabfm](https://github.com/google-research/tabfm) | 🔥 6 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 38986 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [agentrq/agentrq](https://github.com/agentrq/agentrq) | 🔥 951 | 🤖 [llama-3.3-70b-versatile] AgentRQ是一个实时对话任务管理器，用于人工智能代理与人类之间的协作。 |
+| 3 | [hanxi/cups-web](https://github.com/hanxi/cups-web) | 🔥 1167 | 🤖 [llama-3.3-70b-versatile] 将家用USB打印机转换为网络打印服务，实现随时随地访问打印。 |
+| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 17726 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 30122 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 15072 | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messen... |
+| 7 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 25066 | Beads - A memory upgrade for your coding agent |
+| 8 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 1283 | 📜 诗泉：高性能中国古诗词 API 服务 |
+| 9 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 6627 | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet... |
+| 10 | [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | 🔥 7953 |  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code revi... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 4422 | 🤖 [llama-3.3-70b-versatile] Astryx是一个开源的设计系统，完全可定制且支持代理。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 11602 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 37287 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 10712 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 5 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 22274 | 🤖 [llama-3.3-70b-versatile] 该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。 |
+| 6 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 25251 | Clone any website with one command using AI coding agents |
+| 7 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 14959 | OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compat... |
+| 8 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 45436 | Chrome DevTools for coding agents |
+| 9 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 15818 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 32942 | Write HTML. Render video. Built for agents. |
+
