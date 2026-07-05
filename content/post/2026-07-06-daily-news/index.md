@@ -193,3 +193,78 @@ image:
 | 9 | [gdy666/lucky](https://github.com/gdy666/lucky) | 7,900 | 🤖 [llama-3.3-70b-versatile] 该项目是一个路由器工具，提供端口转发、反向代理、DDNS、WOL、内网穿透、自动化任务等功能，支持IPv6和IPv4协议。 |
 | 10 | [fanmingming/live](https://github.com/fanmingming/live) | 28,237 | 🤖 [llama-3.3-70b-versatile] 该项目是一个提供可直连访问的电视和广播图标库，以及相关工具的开源项目。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-06 03:01 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 186 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 4727 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 2 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 🔥 25327 | 🤖 [Legacy] 利用Codex代码审查和任务委托工具，提高编码效率。 |
+| 3 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 🔥 1354 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自主的红队攻击平台，采用多智能体技术进行安全测试。 |
+| 4 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 36914 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 5 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | 🔥 2752 | 🤖 [llama-3.3-70b-versatile] 该项目通过渲染文本上下文为图像来减少Fable 5的令牌使用量。 |
+| 6 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 🔥 13178 | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 54661 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, de... |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 33564 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 9 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 🔥 16555 | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust... |
+| 10 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 🔥 49736 | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Cod... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 36914 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 2 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 🔥 13178 | 🤖 [llama-3.3-70b-versatile] 基于Playwright和AI的闲鱼实时/定时监控与智能分析系统，帮助用户找到心仪产品。 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 54661 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 33564 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 5 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 🔥 9874 | 🤖 [llama-3.3-70b-versatile] 该项目是一个三维基础模型，用于从流数据中重建场景。 |
+| 6 | [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | 🔥 2454 | Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0 |
+| 7 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 3467 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| 8 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 🔥 20437 | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Co... |
+| 9 | [rednote-machine-learning/RedKnot](https://github.com/rednote-machine-learning/RedKnot) | 🔥 569 | Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention |
+| 10 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 26148 | 符合nature论文学术表达和科研绘图的Skill |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 3 | ⛔ [无描述]  |
+| 2 | [Lingtai-AI/lingtai](https://github.com/Lingtai-AI/lingtai) | 🔥 645 | 🤖 [llama-3.3-70b-versatile] LingTai AI是一个智能语言处理平台，提供自然语言理解和生成能力。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 30321 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | 🔥 4795 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由系统，用于混合模型在云、数据中心和边缘计算之间的路由和管理。 |
+| 5 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 5285 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 6 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 16320 | Gas Town - multi-agent workspace manager |
+| 7 | [alove77580/ai-getaway](https://github.com/alove77580/ai-getaway) | 🔥 1 | ⛔ [星数不足 (增量1/总数33)] 轻量级 AI API 中转系统，兼容 OpenAI API 格式，按用户绑定独立上游账号，实现订阅制多租户网关。 |
+| 8 | [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) | 🔥 927 | MCP server and CLI tool for searching and downloading documents from Anna's Archive |
+| 9 | [DanielLavrushin/b4](https://github.com/DanielLavrushin/b4) | 🔥 1551 | Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems. |
+| 10 | [6mb/vohive](https://github.com/6mb/vohive) | 🔥 1 | ⛔ [星数不足 (增量1/总数13)] Backup mirror of vohive source |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | 🔥 2752 | 🤖 [llama-3.3-70b-versatile] 该项目通过渲染文本上下文为图像来减少Fable 5的令牌使用量。 |
+| 2 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 23712 | 🤖 [llama-3.3-70b-versatile] 该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。 |
+| 3 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 5790 | 🤖 [llama-3.3-70b-versatile] Astryx是一个开源的设计系统，完全可定制且支持代理。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 5388 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [cloudflare/kumo](https://github.com/cloudflare/kumo) | 🔥 2764 | 🤖 [llama-3.3-70b-versatile] Cloudflare的组件库，用于构建现代Web应用程序。 |
+| 6 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 45943 | Chrome DevTools for coding agents |
+| 7 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 25790 | Clone any website with one command using AI coding agents |
+| 8 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 12299 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 9 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | 🔥 1943 | Official TestSprite CLI — AI-powered automated testing from your terminal |
+| 10 | [baairon/torlink](https://github.com/baairon/torlink) | 🔥 3050 | A sleek, zero-setup torrent finder and downloader that lives right in your terminal. |
+
