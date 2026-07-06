@@ -193,3 +193,78 @@ image:
 | 9 | [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | 5,476 | 🤖 [llama-3.3-70b-versatile] Bili23-Downloader 是一款跨平台的 B 站视频下载工具，支持音视频流分离下载、多线程加速、弹幕与字幕获取等功能。 |
 | 10 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 16,712 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-07 03:41 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 185 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 7240 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 2 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | 🔥 3969 | 🤖 [llama-3.3-70b-versatile] 该项目通过渲染文本上下文为图像来减少Fable 5的令牌使用量。 |
+| 3 | [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) | 🔥 1243 | 🤖 [llama-3.3-70b-versatile] 该项目创建了一个系统提示和技能库，能够将大语言模型转化为一个注重无障碍和抗AI噪声的设计合作工具。 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 12483 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 6764 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 6 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 6372 | An open source design system that's fully customizable and agent ready |
+| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 34238 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 8 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 🔥 26195 | Use Codex from Claude Code to review code or delegate tasks. |
+| 9 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 24559 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 10 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 🔥 36819 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 11081 | 🤖 [llama-3.3-70b-versatile] 基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。 |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 37897 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 34238 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 4 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 🔥 21070 | 🤖 [Legacy] 该项目提供169个可用的技能和插件，用于Claude Code、OpenAI Codex和OpenClaw。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 55094 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 4089 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| 7 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 🔥 11109 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-g... |
+| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 36567 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 9 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 15405 | Edit videos with coding agents |
+| 10 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 🔥 24911 | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 30496 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 39251 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 3 | [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) | 🔥 672 | 🤖 [llama-3.3-70b-versatile] Kodiqa-Solutions/VaultS3：轻量级、S3兼容的对象存储服务器，内置Web仪表盘，单二进制文件，低内存占用，支持静态加密。 |
+| 4 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 16629 | 🤖 [llama-3.3-70b-versatile] Gas Town是一个多智能体工作空间管理器，用于管理和协调多个智能体的工作流程。 |
+| 5 | [Gitlawb/zero](https://github.com/Gitlawb/zero) | 🔥 943 | 🤖 [llama-3.3-70b-versatile] Gitlawb/zero是一个编码代理，根据用户的模型、机器和规则进行编码。 |
+| 6 | [hardhackerlabs/podwise-cli](https://github.com/hardhackerlabs/podwise-cli) | 🔥 394 | CLI client for podwise.ai — turn any podcast episode into AI-powered insights, designed for use in AI agents and skills workflows. |
+| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 17859 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 8 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 1434 | 📜 诗泉：高性能中国古诗词 API 服务 |
+| 9 | [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | 🔥 8094 |  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code revi... |
+| 10 | [dimetron/pi-go](https://github.com/dimetron/pi-go) | 🔥 1 | ⛔ [星数不足 (增量1/总数90)] Go implementation of AI coding agent |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 7240 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 2 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 🔥 2515 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自主的红队攻击平台，采用多智能体技术进行安全测试。 |
+| 3 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | 🔥 3969 | 🤖 [llama-3.3-70b-versatile] 该项目通过渲染文本上下文为图像来减少Fable 5的令牌使用量。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 6764 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 12483 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 6 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 24559 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 7 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 6372 | An open source design system that's fully customizable and agent ready |
+| 8 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | 🔥 8320 | Lightweight (7MB) Terminal-first AI-native dev workspace |
+| 9 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 46059 | Chrome DevTools for coding agents |
+| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 33467 | Write HTML. Render video. Built for agents. |
+
