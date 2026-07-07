@@ -193,3 +193,78 @@ image:
 | 9 | [gdy666/lucky](https://github.com/gdy666/lucky) | 7,914 | 🤖 [llama-3.3-70b-versatile] 该项目是一个路由器工具，提供端口转发、反向代理、DDNS、WOL、内网穿透、自动化任务等功能，支持IPv6和IPv4协议。 |
 | 10 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 78,741 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-08 03:40 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 186 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 8881 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 10084 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 3 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 38483 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 13061 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 5 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 5029 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 6 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | 🔥 4702 | cut Fable 5 token usage by rendering text context as images |
+| 7 | [BraveAshNozzle/Adobe-Acrobat-Pro](https://github.com/BraveAshNozzle/Adobe-Acrobat-Pro) | 🔥 5 | ⛔ [无描述]  |
+| 8 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 9721 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open... |
+| 9 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 24879 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 10 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 13406 | agent multiplexer that lives in your terminal. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 38483 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 2 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 5029 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 3 | [generative-computing/mellea](https://github.com/generative-computing/mellea) | 🔥 1111 | 🤖 [llama-3.3-70b-versatile] Mellea是一个用于编写生成式程序的库。 |
+| 4 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 11649 | 🤖 [llama-3.3-70b-versatile] 基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。 |
+| 5 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 21270 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 6 | [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | 🔥 3264 | Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0 |
+| 7 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 26838 | 符合nature论文学术表达和科研绘图的Skill |
+| 8 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 🔥 11388 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-g... |
+| 9 | [Dryxio/auto-re-agent](https://github.com/Dryxio/auto-re-agent) | 🔥 777 | Autonomous reverse-engineering agent: source-aware reverser/checker loop, objective verifier, 11-signal parity engine, Ghidra backend |
+| 10 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 🔥 4277 | Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Apple MLX + Py... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 39407 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 16854 | 🤖 [llama-3.3-70b-versatile] Gas Town是一个多智能体工作空间管理器，用于管理和协调多个智能体的工作流程。 |
+| 3 | [thobiasn/tori-cli](https://github.com/thobiasn/tori-cli) | 🔥 258 | 🤖 [llama-3.3-70b-versatile] 该项目提供Docker服务器监控功能，通过SSH提供指标、日志和警报信息。 |
+| 4 | [huabeitech/agent-desk](https://github.com/huabeitech/agent-desk) | 🔥 161 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI客户支持系统，提供AI首先的支持和人类就绪的运营。 |
+| 5 | [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli) | 🔥 299 | 🤖 [llama-3.3-70b-versatile] Mercadona 购物命令行工具，支持搜索产品、查看价格、构建购物车和结账。 |
+| 6 | [skyhook-io/radar](https://github.com/skyhook-io/radar) | 🔥 2531 | The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management. |
+| 7 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 15241 | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messen... |
+| 8 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 1462 | 📜 诗泉：高性能中国古诗词 API 服务 |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 17914 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 10 | [hkfires/EmbyProxy](https://github.com/hkfires/EmbyProxy) | 🔥 1 | ⛔ [星数不足 (增量1/总数62)] 不仅仅是一个Emby反代 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 10084 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 8881 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 13061 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 🔥 3184 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自主的红队攻击平台，采用多智能体技术进行安全测试。 |
+| 5 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | 🔥 4702 | 🤖 [llama-3.3-70b-versatile] 该项目通过渲染文本上下文为图像来减少Fable 5的令牌使用量。 |
+| 6 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 6811 | An open source design system that's fully customizable and agent ready |
+| 7 | [dramaclaw/dramaclaw](https://github.com/dramaclaw/dramaclaw) | 🔥 616 | A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. \| 通用 AIGC 视频引擎 ... |
+| 8 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 24879 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 33623 | Write HTML. Render video. Built for agents. |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 13416 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+
