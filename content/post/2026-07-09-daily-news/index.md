@@ -193,3 +193,78 @@ image:
 | 9 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 15,047 | 🤖 [llama-3.3-70b-versatile] 该项目是一个TikTok和抖音的数据采集和下载工具，可以下载和采集包括发布、喜欢、合辑、直播、视频、图集、音乐等多种类型的内容。 |
 | 10 | [gdy666/lucky](https://github.com/gdy666/lucky) | 7,927 | 🤖 [llama-3.3-70b-versatile] 该项目是一个路由器工具，提供端口转发、反向代理、DDNS、WOL、内网穿透、自动化任务等功能，支持IPv6和IPv4协议。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-09 03:06 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 185 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 14846 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 11526 | 🤖 [llama-3.3-70b-versatile] OfficeCLI 是一款开源工具，允许 AI 代理读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。 |
+| 3 | [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 🔥 1356 | 🤖 [llama-3.3-70b-versatile] 该Chrome扩展程序可以过滤亚马逊上的伪品牌商品，帮助用户从真实的知名品牌购买产品。 |
+| 4 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 14273 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端代理多路复用器，允许同时管理多个代理。 |
+| 5 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 9703 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 13647 | Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT... |
+| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 35533 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 8 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | 🔥 6590 | A TTS that fits in your CPU (and pocket) |
+| 9 | [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) | 🔥 1169 | 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架 |
+| 10 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 28504 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, s... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | 🔥 6590 | 🤖 [llama-3.3-70b-versatile] 该项目是一款轻量级的文本转语音（TTS）系统，能够在CPU上运行。 |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 38982 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 50635 | 🤖 [Legacy] 该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。 |
+| 4 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 36928 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 35533 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 6 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 27120 | 符合nature论文学术表达和科研绘图的Skill |
+| 7 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 5916 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| 8 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🔥 9026 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap... |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 55866 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, de... |
+| 10 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 18704 | "Vibe-Trading: Your Personal Trading Agent" |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 25171 | 🤖 [llama-3.3-70b-versatile] Beads是一个内存升级工具，用于增强编码代理的记忆能力。 |
+| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 39530 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 3 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 13713 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 4 | [openlibrecommunity/olcrtc](https://github.com/openlibrecommunity/olcrtc) | 🔥 1671 | 🤖 [llama-3.3-70b-versatile] olcrtc项目实现了bb22功能，利用合法的会议服务访问白名单以外的网络。 |
+| 5 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 1487 | 🤖 [llama-3.3-70b-versatile] 诗泉：提供高性能的中国古诗词API服务。 |
+| 6 | [ozgurcd/gograph](https://github.com/ozgurcd/gograph) | 🔥 194 | Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact ana... |
+| 7 | [marvinvr/docktail](https://github.com/marvinvr/docktail) | 🔥 955 | Expose Docker containers as Tailscale Services using label-based configuration. |
+| 8 | [zzet/gortex](https://github.com/zzet/gortex) | 🔥 831 | High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, with access via CLI, MCP Server, and A... |
+| 9 | [verygoodplugins/whatsapp-mcp](https://github.com/verygoodplugins/whatsapp-mcp) | 🔥 115 | WhatsApp MCP server - Connect Claude to WhatsApp for reading and sending messages |
+| 10 | [ugzv/ublockdnsclient](https://github.com/ugzv/ublockdnsclient) | 🔥 157 | Cross-platform system DNS client for uBlockDNS with device wide ad and tracker blocking and real time filter updates. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 14846 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 9703 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 13647 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 38700 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 5 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 25173 | 🤖 [llama-3.3-70b-versatile] 该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。 |
+| 6 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | 🔥 5018 | cut Fable 5 token usage by rendering text context as images |
+| 7 | [modem-dev/hunk](https://github.com/modem-dev/hunk) | 🔥 6392 | Review-first terminal diff viewer for agentic coders |
+| 8 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 🔥 10053 | Orchestrate coding agents remotely from your phone, desktop and CLI |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 33788 | Write HTML. Render video. Built for agents. |
+| 10 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | 🔥 988 | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. |
+
