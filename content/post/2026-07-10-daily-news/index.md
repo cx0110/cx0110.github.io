@@ -193,3 +193,78 @@ image:
 | 9 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 45,927 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源、免费的离线OCR软件，支持截屏、批量导入图片、PDF文档识别、排除水印、扫描和生成二维码等功能。 |
 | 10 | [Pik-4/HsMod](https://github.com/Pik-4/HsMod) | 803 | 🤖 [llama-3.3-70b-versatile] Pik-4/HsMod是一个基于BepInEx的《炉石传说》模组，允许用户自定义和扩展游戏功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-10 03:22 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 185 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 18366 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [generative-computing/mellea](https://github.com/generative-computing/mellea) | 🔥 1711 | 🤖 [llama-3.3-70b-versatile] Mellea是一个用于编写生成式程序的库。 |
+| 3 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 6575 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 4 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 14748 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端代理多路复用器，允许同时管理多个代理。 |
+| 5 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 27165 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
+| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 36109 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 56193 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, de... |
+| 8 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 🔥 27128 | Use Codex from Claude Code to review code or delegate tasks. |
+| 9 | [microsoft/flint-chart](https://github.com/microsoft/flint-chart) | 🔥 873 | 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. |
+| 10 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 🔥 9305 | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 6575 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 2 | [generative-computing/mellea](https://github.com/generative-computing/mellea) | 🔥 1711 | 🤖 [llama-3.3-70b-versatile] Mellea是一个用于编写生成式程序的库。 |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 36109 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 56193 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 12328 | 🤖 [llama-3.3-70b-versatile] 基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。 |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🔥 51191 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 30577 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plu... |
+| 8 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | 🔥 6894 | A TTS that fits in your CPU (and pocket) |
+| 9 | [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd) | 🔥 1233 | A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run... |
+| 10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 🔥 10890 | Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps int... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 31101 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 5654 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 3 | [halilkirazkaya/arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) | 🔥 475 | 🤖 [llama-3.3-70b-versatile] 一个快速的、基于Go语言的命令库，内置200+个网络安全作弊表。 |
+| 4 | [edouard-claude/snip](https://github.com/edouard-claude/snip) | 🔥 362 | 🤖 [llama-3.3-70b-versatile] 该项目是一个CLI代理，通过YAML过滤器减少LLM令牌使用量，支持多种代码辅助工具。 |
+| 5 | [github/gh-aw](https://github.com/github/gh-aw) | 🔥 4738 | 🤖 [Legacy] GitHub 代理工作流程，简化工作流管理。 |
+| 6 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 1504 | 📜 诗泉：高性能中国古诗词 API 服务 |
+| 7 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 39650 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 8 | [samosvalishe/free-turn-proxy](https://github.com/samosvalishe/free-turn-proxy) | 🔥 135 | Универсальный прокси-туннель для инкапсуляции UDP/TCP трафика поверх протокола TURN |
+| 9 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 4146 | Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other ... |
+| 10 | [zendev-sh/goai](https://github.com/zendev-sh/goai) | 🔥 161 | Go AI SDK, the Go way.  One unified API across 21+ providers. Streaming, structured output, MCP support, stdlib only. Go AI SDK for AI applications... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 18366 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 27165 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
+| 3 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 43913 | 🤖 [Legacy] GitNexus：一个浏览器内运行的代码智能引擎，生成交互式知识图谱。 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 14220 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 5 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 🔥 8830 | 🤖 [llama-3.3-70b-versatile] Unicity网络的Web3钱包和代理平台，具有双层加密钱包、聊天和市场功能。 |
+| 6 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 14965 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 7 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 7994 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
+| 8 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 29685 | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI \| Customize your as... |
+| 9 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 39926 | The open-source AI voice studio. Clone, dictate, create. |
+| 10 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 🔥 2 | ⛔ [星数不足 (增量2/总数95)] Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatch... |
+
