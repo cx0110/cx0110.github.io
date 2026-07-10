@@ -193,3 +193,78 @@ image:
 | 9 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 27,824 | 🤖 [llama-3.3-70b-versatile] 该项目主要用于测试Cloudflare CDN的延迟和速度，并帮助用户找到最快的IP。 |
 | 10 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 45,964 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源、免费的离线OCR软件，支持截屏、批量导入图片、PDF文档识别、排除水印、扫描和生成二维码等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-11 03:15 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 186 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 20492 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [vercel-labs/native](https://github.com/vercel-labs/native) | 🔥 5665 | 🤖 [llama-3.3-70b-versatile] Vercel Labs Native是一个工具包，用于构建原生桌面应用程序。 |
+| 3 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 14308 | 🤖 [llama-3.3-70b-versatile] OfficeCLI 是一款开源工具，允许 AI 代理读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。 |
+| 4 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 27474 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
+| 5 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 15159 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端代理多路复用器，允许同时管理多个代理。 |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🔥 45380 | The design language that makes your AI harness better at design. |
+| 7 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🔥 25017 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+| 8 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 7116 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| 9 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 29617 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, s... |
+| 10 | [steipete/agent-scripts](https://github.com/steipete/agent-scripts) | 🔥 6268 | Scripts for agents, shared between my repositories. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🔥 25017 | 🤖 [llama-3.3-70b-versatile] 该项目是一款AI全自动短视频引擎，能够自动生成短视频。 |
+| 2 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 7116 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 3 | [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 🔥 684 | 🤖 [llama-3.3-70b-versatile] 该项目创建了无限的虚拟世界，支持多样化的交互功能。 |
+| 4 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | 🔥 7241 | 🤖 [llama-3.3-70b-versatile] 该项目是一款轻量级的文本转语音（TTS）系统，能够在CPU上运行。 |
+| 5 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 40047 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 6 | [Alpha-Dojo/DojoAgents](https://github.com/Alpha-Dojo/DojoAgents) | 🔥 357 | DojoAgents: Full-Market AI Copilot for Personal Investment |
+| 7 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 🔥 27463 | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 36625 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 9 | [MengTo/Skills](https://github.com/MengTo/Skills) | 🔥 1454 | Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents |
+| 10 | [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills) | 🔥 1 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/waza](https://github.com/microsoft/waza) | 🔥 1081 | 🤖 [llama-3.3-70b-versatile] 微软Waza项目是一个CLI框架，用于创建、测试、衡量和改进智能代理技能的质量和有效性。 |
+| 2 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 16954 | 🤖 [llama-3.3-70b-versatile] Gas Town是一个多智能体工作空间管理器，用于管理和协调多个智能体的工作流程。 |
+| 3 | [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) | 🔥 2334 | 🤖 [llama-3.3-70b-versatile] 该项目允许像构建API和微服务一样构建、运行和扩展AI代理，具有可观察、可审计和身份识别的功能。 |
+| 4 | [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 🔥 1635 | 🤖 [llama-3.3-70b-versatile] Cursor 中的无限 BYOK 功能。 |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 10357 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 6 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 13787 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 7 | [fish2018/pansou](https://github.com/fish2018/pansou) | 🔥 13814 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。  |
+| 8 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 39799 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 31358 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) | 🔥 718 | Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 20493 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [microsoft/flint-chart](https://github.com/microsoft/flint-chart) | 🔥 1199 | 🤖 [llama-3.3-70b-versatile] Flint是一种可视化语言，允许AI智能体从简单的图表规格中创建出富有表现力和美观的图表。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 15862 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 🔥 9978 | 🤖 [llama-3.3-70b-versatile] 自托管旅行计划工具，支持实时协作、交互地图、预算和打包清单等功能。 |
+| 5 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 27474 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
+| 6 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 🔥 2521 | Beautiful, AI-native markdown editor and LLM Wiki |
+| 7 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 🔥 4303 | autonomous red teaming platform; multi-agent offensive-security meta-harness |
+| 8 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 🔥 14204 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead o... |
+| 9 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 7689 | An open source design system that's fully customizable and agent ready |
+| 10 | [Jose-Gael-Cruz-Lopez/underclassmen-opportunities](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities) | 🔥 477 | The Underclassmen Opportunities repository is a curated list of internships, programs and resources aimed at freshmen and sophomores in tech‐relate... |
+
