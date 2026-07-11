@@ -193,3 +193,78 @@ image:
 | 9 | [higress-group/higress](https://github.com/higress-group/higress) | 8,830 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 | 10 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 45,982 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源、免费的离线OCR软件，支持截屏、批量导入图片、PDF文档识别、排除水印、扫描和生成二维码等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-12 02:44 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 186 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 9642 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能列表。 |
+| 2 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 10528 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 3 | [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | 🔥 1 | ⛔ [无描述]  |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 21016 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 🔥 2089 | 🤖 [llama-3.3-70b-versatile] 该项目阻止危险的Git和Shell命令被代理执行。 |
+| 6 | [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) | 🔥 5207 | 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu... |
+| 7 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 26014 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 8 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 🔥 6289 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| 9 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 🔥 5552 | AI agent to evaluate and score resumes. |
+| 10 | [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft) | 🔥 7465 | PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ professional tools, you can edit, convert, merge, spli... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 🔥 5552 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI智能代理，用于评估和评分简历。 |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 40480 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 3 | [OluOlus/ops-agent-controller](https://github.com/OluOlus/ops-agent-controller) | 🔥 2 | ⛔ [无描述]  |
+| 4 | [walkingddd/TgtoDrive](https://github.com/walkingddd/TgtoDrive) | 🔥 1620 | 🤖 [llama-3.3-70b-versatile] 该项目实现网盘媒体自动化，从资源找寻到Emby播放，全流程打通。 |
+| 5 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 🔥 6014 | 🤖 [llama-3.3-70b-versatile] 该项目为人机协同学术研究工作流程提供基于Codex的学术研究技能套件。 |
+| 6 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 30690 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plu... |
+| 7 | [Soju06/codex-lb](https://github.com/Soju06/codex-lb) | 🔥 2258 | Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints |
+| 8 | [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS) | 🔥 926 | [ECCV 2026] Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery |
+| 9 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 8466 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 10 | [aristoteleo/PantheonOS](https://github.com/aristoteleo/PantheonOS) | 🔥 472 | A general, evolvable, and distributed agent framework & harness for data science. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [openilink/openilink-hub](https://github.com/openilink/openilink-hub) | 🔥 1466 | 🤖 [llama-3.3-70b-versatile] 开源微信Bot管理平台，支持20+应用和7种语言SDK。 |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 18132 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 39876 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 31492 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 29716 | 🤖 [Legacy] PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 6 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 15484 | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messen... |
+| 7 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 16972 | Gas Town - multi-agent workspace manager |
+| 8 | [palemoky/dnspick](https://github.com/palemoky/dnspick) | 🔥 234 | 🚀 Pick the DNS that fits you |
+| 9 | [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) | 🔥 399 | A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases. |
+| 10 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 26464 | Glamourous agentic coding for all 💘 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [imchine/FinTech-Wallet](https://github.com/imchine/FinTech-Wallet) | 🔥 152 | 🤖 [llama-3.3-70b-versatile] 该项目是一个云原生微服务系统，旨在为数字金融运营提供支持。 |
+| 2 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 27766 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 21016 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 4 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 10528 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 5 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 29837 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费、开源的协同工作应用，支持20多个命令行工具，允许用户自定义助手。 |
+| 6 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 16307 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 7 | [zszz3/agent-session-search](https://github.com/zszz3/agent-session-search) | 🔥 2 | ⛔ [无描述]  |
+| 8 | [lidge-jun/ima2-gen](https://github.com/lidge-jun/ima2-gen) | 🔥 519 | Minimal CLI + web UI for OpenAI GPT Image 2 generation. Dual auth: API Key (paid) or OAuth via ChatGPT (free). Text-to-image, image-to-image, paral... |
+| 9 | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 🔥 10079 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. |
+| 10 | [XeroAPI/xero-command-line](https://github.com/XeroAPI/xero-command-line) | 🔥 1 | ⛔ [星数不足 (增量1/总数26)] A command-line interface tool for the Xero API |
+
