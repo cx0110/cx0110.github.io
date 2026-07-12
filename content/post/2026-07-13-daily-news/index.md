@@ -193,3 +193,78 @@ image:
 | 9 | [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 20,516 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，用于嗅探和捕获网页中的资源，帮助用户方便地下载或查看网页中的图片、视频、音频等资源。 |
 | 10 | [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) | 6,994 | 🤖 [llama-3.3-70b-versatile] 该项目为Android 7.0及以上版本提供数据备份功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-13 02:50 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 185 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 2 | ⛔ [无描述]  |
+| 2 | [malisper/pgrust](https://github.com/malisper/pgrust) | 🔥 2381 | 🤖 [llama-3.3-70b-versatile] 该项目使用Rust重写Postgres数据库，目前已通过100%的Postgres回归测试。 |
+| 3 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 39771 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。 |
+| 4 | [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) | 🔥 1124 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于YouTube/短视频自动化的框架，集成CapCut JSON和ffmpeg工具，附带入门问卷。 |
+| 5 | [IR-NETLIFY/zeus](https://github.com/IR-NETLIFY/zeus) | 🔥 1129 | 🤖 [llama-3.3-70b-versatile] 该项目是一个名为Zeus Panel的云端面板，提供各种功能和服务。 |
+| 6 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 🔥 17913 | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
+| 7 | [openai/plugins](https://github.com/openai/plugins) | 🔥 4497 | OpenAI Plugins |
+| 8 | [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) | 🔥 1351 | K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking,... |
+| 9 | [decolua/9router](https://github.com/decolua/9router) | 🔥 21885 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallbac... |
+| 10 | [baairon/torlink](https://github.com/baairon/torlink) | 🔥 3505 | A sleek, zero-setup torrent finder and downloader that lives right in your terminal. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 2 | ⛔ [无描述]  |
+| 2 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 39771 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。 |
+| 3 | [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) | 🔥 1124 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于YouTube/短视频自动化的框架，集成CapCut JSON和ffmpeg工具，附带入门问卷。 |
+| 4 | [rosemarycox5334-debug/PA_Agent](https://github.com/rosemarycox5334-debug/PA_Agent) | 🔥 2 | ⛔ [无描述]  |
+| 5 | [wquguru/harness-books](https://github.com/wquguru/harness-books) | 🔥 1 | ⛔ [无描述]  |
+| 6 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 20370 | "Vibe-Trading: Your Personal Trading Agent" |
+| 7 | [simonlin1212/TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) | 🔥 1960 | A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bul... |
+| 8 | [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | 🔥 3672 | GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing |
+| 9 | [hero8152/LTX2.3-Multifunctional](https://github.com/hero8152/LTX2.3-Multifunctional) | 🔥 1 | ⛔ [星数不足 (增量1/总数98)] Functionality optimization based on LTX desktop version |
+| 10 | [l429609201/misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server) | 🔥 1197 | 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 弹弹play API 规范。 |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [docker/docker-agent](https://github.com/docker/docker-agent) | 🔥 3175 | 🤖 [llama-3.3-70b-versatile] Docker 的 AI 代理构建器和运行时环境。 |
+| 2 | [sortie-ai/sortie](https://github.com/sortie-ai/sortie) | 🔥 102 | 🤖 [llama-3.3-70b-versatile] 该项目将跟踪票转换为自主代理会话。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 31634 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [openlibrecommunity/twl](https://github.com/openlibrecommunity/twl) | 🔥 391 | 🤖 [llama-3.3-70b-versatile] twl是一个大型科学项目，研究和维护白名单。 |
+| 5 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 26486 | 🤖 [Legacy] Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。 |
+| 6 | [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) | 🔥 3198 | Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage |
+| 7 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 🔥 2242 | A lightweight and full-featured cross-platform desktop client for self-hosted music servers |
+| 8 | [autobrr/autobrr](https://github.com/autobrr/autobrr) | 🔥 2867 | Modern, easy to use download automation for torrents and usenet. |
+| 9 | [release-argus/Argus](https://github.com/release-argus/Argus) | 🔥 688 | Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks. |
+| 10 | [majd/ipatool](https://github.com/majd/ipatool) | 🔥 9599 | Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 10717 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 2 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 26189 | 🤖 [llama-3.3-70b-versatile] 该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。 |
+| 3 | [liliMozi/openhanako](https://github.com/liliMozi/openhanako) | 🔥 5290 | 🤖 [llama-3.3-70b-versatile] 一个具有记忆、个性和自主性的个人AI代理。 |
+| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 1 | ⛔ [无描述]  |
+| 5 | [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) | 🔥 780 | 🤖 [llama-3.3-70b-versatile] 这是一个现代的、自托管的电子邮件客户端，支持电子邮件、日历、联系人和文件管理。 |
+| 6 | [Studio-Saelix/sencho](https://github.com/Studio-Saelix/sencho) | 🔥 265 | Self-hosted Docker Compose management platform. Great for homelabs, small DevOps teams, and platform engineers. |
+| 7 | [modem-dev/hunk](https://github.com/modem-dev/hunk) | 🔥 6661 | Review-first terminal diff viewer for agentic coders |
+| 8 | [8thwall/8thwall](https://github.com/8thwall/8thwall) | 🔥 399 | Build immersive AR and interactive 3D. Free and open. |
+| 9 | [im4codes/imcodes](https://github.com/im4codes/imcodes) | 🔥 881 | The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers. |
+| 10 | [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) | 🔥 590 | Intelligence that compounds. Every single day. |
+
