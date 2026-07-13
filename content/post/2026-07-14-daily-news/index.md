@@ -193,3 +193,78 @@ image:
 | 9 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 36,291 | 🤖 [llama-3.3-70b-versatile] AstrBot是一个集成多个即时通讯平台、语言模型、插件和人工智能功能的聊天机器人基础设施。 |
 | 10 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 15,123 | 🤖 [llama-3.3-70b-versatile] 该项目是一个TikTok和抖音的数据采集和下载工具，可以下载和采集包括发布、喜欢、合辑、直播、视频、图集、音乐等多种类型的内容。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-14 03:11 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 185 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 21564 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 2 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 🔥 3785 | 🤖 [llama-3.3-70b-versatile] 该项目阻止危险的Git和Shell命令被代理执行。 |
+| 3 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 33272 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 37961 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 18068 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 16752 | Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT... |
+| 7 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 31033 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, s... |
+| 8 | [JuneYaooo/nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | 🔥 1287 | 倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 \|  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference... |
+| 9 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 16067 | agent multiplexer that lives in your terminal. |
+| 10 | [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) | 🔥 5595 | 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 21564 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 2 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 33272 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 37961 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 4 | [JuneYaooo/nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | 🔥 1287 | 🤖 [llama-3.3-70b-versatile] 支持中医课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |
+| 5 | [microsoft/ResearchStudio](https://github.com/microsoft/ResearchStudio) | 🔥 788 | 🤖 [llama-3.3-70b-versatile] ResearchStudio是一个AI协同工具，帮助研究人员从问题提出到出版论文的整个过程。 |
+| 6 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🔥 25353 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+| 7 | [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) | 🔥 5054 | ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件 |
+| 8 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 3 | ⛔ [无描述]  |
+| 9 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 3018 | 26m function call model that runs on incredibly small devices |
+| 10 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 🔥 15987 | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) | 🔥 163 | 🤖 [llama-3.3-70b-versatile] 该项目为智能体技能提供任务控制中心，管理和调度技能。 |
+| 2 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 1 | ⛔ [无描述]  |
+| 3 | [hkfires/EmbyProxy](https://github.com/hkfires/EmbyProxy) | 🔥 1 | ⛔ [星数不足 (增量1/总数77)] 不仅仅是一个Emby反代 |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 40190 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) | 🔥 298 | 🤖 [llama-3.3-70b-versatile] 该项目创建了一个个人AI代理，能够自主编写工具并自我修复。 |
+| 6 | [Mininglamp-OSS/octo-cli](https://github.com/Mininglamp-OSS/octo-cli) | 🔥 194 | Metadata-driven CLI for AI Agent Bots — 48 operations across 7 domains, structured JSON envelope I/O, zero interactive prompts. |
+| 7 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 41446 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+| 8 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 6230 | Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch sile... |
+| 9 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 20361 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 10 | [cloudwego/eino](https://github.com/cloudwego/eino) | 🔥 12275 | The ultimate LLM/AI application development framework in Go. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Augani/openreel-video](https://github.com/Augani/openreel-video) | 🔥 4226 | 🤖 [llama-3.3-70b-versatile] OpenReel Video：专业的浏览器内视频编辑器，无需安装、云上传和水印。 |
+| 2 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | 🔥 2344 | 🤖 [llama-3.3-70b-versatile] TestSprite CLI：一款基于人工智能的自动化测试命令行工具。 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 21833 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 4 | [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft) | 🔥 7673 | 🤖 [llama-3.3-70b-versatile] PDFCraft是一个免费、注重隐私的PDF工具箱，提供90+工具，支持编辑、转换、合并、拆分和保护PDF文件。 |
+| 5 | [Eynzof/Hermes-CN-Desktop](https://github.com/Eynzof/Hermes-CN-Desktop) | 🔥 923 | 🤖 [llama-3.3-70b-versatile] Hermes Agent CN 桌面应用，使用 Tauri、Typescript 和 Rust 开发，隔离核心功能。 |
+| 6 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 18068 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 7 | [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) | 🔥 153 | Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting,... |
+| 8 | [tarkovtracker-org/TarkovTracker](https://github.com/tarkovtracker-org/TarkovTracker) | 🔥 1 | ⛔ [星数不足 (增量1/总数56)] Escape from Tarkov quest, hideout, item, and progression tracker for PvP/PvE with squad sync, built with Nuxt 4 and Supabase. |
+| 9 | [modem-dev/hunk](https://github.com/modem-dev/hunk) | 🔥 6760 | Review-first terminal diff viewer for agentic coders |
+| 10 | [srizzon/git-city](https://github.com/srizzon/git-city) | 🔥 5719 | Your GitHub profile as a 3D pixel art building in an interactive city |
+
