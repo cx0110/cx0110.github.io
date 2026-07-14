@@ -193,3 +193,78 @@ image:
 | 9 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 60,951 | 🤖 [llama-3.3-70b-versatile] 该项目提供了ChatGPT的中文调教指南和各种场景使用指南，帮助用户学习如何有效地与ChatGPT交互。 |
 | 10 | [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) | 5,339 | 🤖 [llama-3.3-70b-versatile] xfangfang/wiliwili是一个跨平台的第三方B站客户端，支持在多种设备上运行，包括PC、PSVita、PS4、Xbox和Nintendo Switch。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-15 03:01 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 184 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 16646 | 🤖 [llama-3.3-70b-versatile] OfficeCLI 是一款开源工具，允许 AI 代理读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。 |
+| 2 | [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) | 🔥 4447 | 🤖 [llama-3.3-70b-versatile] 该项目可以生成GitHub代码的交互式架构图，展示文件间的连接关系。 |
+| 3 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 8426 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 4 | [raroque/boop-agent](https://github.com/raroque/boop-agent) | 🔥 1023 | 🤖 [llama-3.3-70b-versatile] 该项目是一个iMessage个人代理，集成了Claude Agent SDK和Codex运行时，支持内存、子代理、自动化和集成。 |
+| 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 33371 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 6 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 12765 | Skills for Design Engineers. |
+| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 35088 | Write HTML. Render video. Built for agents. |
+| 8 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 22412 | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover let... |
+| 9 | [Alpha-Dojo/DojoAgents](https://github.com/Alpha-Dojo/DojoAgents) | 🔥 822 | DojoAgents: Full-Market AI Copilot for Personal Investment |
+| 10 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 🔥 13304 | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 8426 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 2 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 33371 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 38993 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 4 | [Alpha-Dojo/DojoAgents](https://github.com/Alpha-Dojo/DojoAgents) | 🔥 822 | 🤖 [llama-3.3-70b-versatile] DojoAgents是一个全市场人工智能投资助手，帮助个人投资者做出更好的投资决策。 |
+| 5 | [eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper) | 🔥 691 | 🤖 [llama-3.3-70b-versatile] Boss直聘爬虫，基于Chrome CDP协议，抓取职位数据，输出薪资JSON/CSV。 |
+| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 38465 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 7 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 🔥 45568 | "🐈 nanobot: The Ultra-Lightweight Personal AI Agent" |
+| 8 | [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) | 🔥 5129 | 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 \| One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WP... |
+| 9 | [MohammedDev-yt/Rename-Bot-2GB](https://github.com/MohammedDev-yt/Rename-Bot-2GB) | 🔥 1 | ⛔ [星数不足 (增量1/总数10)] A Advance Rename Bot with 2GB support, inline UI buttons, metadata support handling, custom captions support, custom thumbnail ... |
+| 10 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 22463 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [teest114514/chatlog_alpha](https://github.com/teest114514/chatlog_alpha) | 🔥 1062 | 🤖 [llama-3.3-70b-versatile] 微信数据库解密读取，提供MCP和HTTP服务，并支持实时转发消息到Clawbot。 |
+| 2 | [flyfish-dev/shortlink](https://github.com/flyfish-dev/shortlink) | 🔥 108 | 🤖 [llama-3.3-70b-versatile] 自托管短链接和实时二维码平台，提供所有权、审查、品牌二维码、分析和人工智能辅助运营。 |
+| 3 | [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) | 🔥 1070 | 🤖 [llama-3.3-70b-versatile] 该项目为现代苹果操作系统（iOS、iPadOS、watchOS、tvOS）开发提供了测试过的Claude代码技能。 |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 40418 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [songloft-org/songloft](https://github.com/songloft-org/songloft) | 🔥 1080 | 🤖 [llama-3.3-70b-versatile] Songloft 是一个自托管音乐服务器，允许个人用户管理和播放自己的音乐库。 |
+| 6 | [Resinat/Resin](https://github.com/Resinat/Resin) | 🔥 1573 | A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions. |
+| 7 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 29754 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 8 | [carlos7ags/folio](https://github.com/carlos7ags/folio) | 🔥 835 | PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0. |
+| 9 | [xalgord/xalgorix](https://github.com/xalgord/xalgorix) | 🔥 750 | Xalgorix - Autonomous AI Pentesting Agents |
+| 10 | [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | 🔥 4968 | System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 22412 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 35088 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 3 | [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) | 🔥 10830 | 🤖 [Legacy] 该项目提供免费、零配置、简易设置的地图组件。 |
+| 4 | [modem-dev/hunk](https://github.com/modem-dev/hunk) | 🔥 6854 | 🤖 [llama-3.3-70b-versatile] 终端差异查看器，用于代码比较和审查。 |
+| 5 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 28267 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
+| 6 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 🔥 26123 | The open agent skills tool - npx skills |
+| 7 | [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) | 🔥 12964 | WeFlow - 一个本地的微信聊天记录导出和年度报告应用 |
+| 8 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 🔥 14549 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead o... |
+| 9 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 26596 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 10 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 19684 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+
