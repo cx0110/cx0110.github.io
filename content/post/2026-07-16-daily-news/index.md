@@ -193,3 +193,78 @@ image:
 | 9 | [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) | 11,928 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是解锁TikTok的区域限制，支持iPhone和iPad设备，实现区域切换、视频发布、直播、点赞、评论、私信聊天等功能。 |
 | 10 | [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 18,785 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的异步数据爬取工具，支持API调用、在线批量解析及下载来自抖音、快手、TikTok和Bilibili的数据。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-16 02:54 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 184 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 22900 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 23551 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 3 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 🔥 4679 | 🤖 [llama-3.3-70b-versatile] 该项目阻止危险的Git和Shell命令被代理执行。 |
+| 4 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 🔥 1282 | 🤖 [llama-3.3-70b-versatile] Bonsai Demo是一个机器学习项目，展示PrismML-Eng的功能。 |
+| 5 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 🔥 14234 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个包含433个健身运动的综合数据集，包括运动名称、类别、目标肌肉群等详细信息。 |
+| 6 | [oso95/scroll-world](https://github.com/oso95/scroll-world) | 🔥 2477 | A skill that turn any brand into a scrollable 3D world |
+| 7 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 🔥 5795 | Become a cracked AI/ML Research Engineer |
+| 8 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 17625 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open... |
+| 9 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 🔥 28151 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and m... |
+| 10 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 32313 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 23551 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 2 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 22679 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 3 | [MengTo/Skills](https://github.com/MengTo/Skills) | 🔥 2250 | 🤖 [llama-3.3-70b-versatile] 该项目为设计师和开发者提供AI编码代理技能，包括Codex、Claude、Cursor等。 |
+| 4 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 8629 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 5 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 8651 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 6 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 1 | ⛔ [无描述]  |
+| 7 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 41800 | Open-source AI hackers to find and fix your app’s vulnerabilities. |
+| 8 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 🔥 15009 | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
+| 9 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 1176 | JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingerti... |
+| 10 | [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 🔥 1176 | Infinite Worlds with Versatile Interactions |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 32313 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 6289 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 40628 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | 🔥 8275 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能编排器，用于并行代码代理，计划任务、生成代理，并自动处理持续集成修复、合并冲突和代码审查。 |
+| 5 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 1 | ⛔ [无描述]  |
+| 6 | [Infisical/agent-vault](https://github.com/Infisical/agent-vault) | 🔥 1882 | A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more. |
+| 7 | [Dicklesworthstone/ntm](https://github.com/Dicklesworthstone/ntm) | 🔥 402 | Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette |
+| 8 | [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) | 🔥 2385 | Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in a... |
+| 9 | [kxn/codex-remote-feishu](https://github.com/kxn/codex-remote-feishu) | 🔥 267 | Yet another codex remote in feishu |
+| 10 | [tobilg/ai-observer](https://github.com/tobilg/ai-observer) | 🔥 255 | Unified local observability for AI coding assistants |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 🔥 5795 | 🤖 [llama-3.3-70b-versatile] 该项目提供数学、计算机科学和人工智能的综合知识库，帮助研究人员成为熟练的AI/ML研究工程师。 |
+| 2 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 41535 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 3 | [weifuwan/seatunnel-web](https://github.com/weifuwan/seatunnel-web) | 🔥 1382 | 🤖 [llama-3.3-70b-versatile] 该项目旨在简化Apache SeaTunnel的使用，提供更友好的界面和操作体验。 |
+| 4 | [microsoft/flint-chart](https://github.com/microsoft/flint-chart) | 🔥 1724 | 🤖 [llama-3.3-70b-versatile] Flint是一种可视化语言，允许AI智能体从简单的图表规格中创建出富有表现力和美观的图表。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 19763 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 35403 | Write HTML. Render video. Built for agents. |
+| 7 | [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 🔥 2463 | The open-source AI workbench for scientific research |
+| 8 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 9087 | An open source design system that's fully customizable and agent ready |
+| 9 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 25178 | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 10 | [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) | 🔥 1274 | Let Pi control your apps on MacOS & Windows |
+
