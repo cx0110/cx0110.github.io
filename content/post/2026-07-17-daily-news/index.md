@@ -193,3 +193,78 @@ image:
 | 9 | [mateaix/matecloud](https://github.com/mateaix/matecloud) | 1,635 | 🤖 [llama-3.3-70b-versatile] MateCloud是一个基于Spring Cloud Alibaba的微服务架构，支持多租户的低代码平台和SaaS平台开发套件。 |
 | 10 | [higress-group/higress](https://github.com/higress-group/higress) | 8,873 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-17 02:55 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 184 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 24217 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 2 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 🔥 40160 | 🤖 [llama-3.3-70b-versatile] 该项目为Claude Code和AI代理提供营销技能，包括转化率优化、文案写作、SEO、分析和增长工程。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 20440 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 23122 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 🔥 1644 | 🤖 [llama-3.3-70b-versatile] 该项目为gpt-5.6系列提供Codex CLI破甲提示词和测试包。 |
+| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 5381 | Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export |
+| 7 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 3 | ⛔ [无描述]  |
+| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 39472 | AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speak... |
+| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 40492 | Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported) |
+| 10 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 🔥 5009 | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 24217 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 2 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 4 | ⛔ [无描述]  |
+| 3 | [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 🔥 1644 | 🤖 [llama-3.3-70b-versatile] 该项目为gpt-5.6系列提供Codex CLI破甲提示词和测试包。 |
+| 4 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 39472 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 39171 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 40492 | Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported) |
+| 7 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 26779 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 8 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 🔥 11136 | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows. |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 57522 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, de... |
+| 10 | [nagisanzenin/engram](https://github.com/nagisanzenin/engram) | 🔥 830 | Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and exp... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 32524 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 40779 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 3 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 1 | ⛔ [无描述]  |
+| 4 | [github/gh-stack](https://github.com/github/gh-stack) | 🔥 522 | 🤖 [llama-3.3-70b-versatile] GitHub Stacked PRs 是一个管理 GitHub 分支和拉取请求的工具，支持分支堆栈式管理。 |
+| 5 | [CoolBanHub/aggo](https://github.com/CoolBanHub/aggo) | 🔥 1 | ⛔ [星数不足 (增量1/总数58)] AGGO 是一个基于 Go 语言和 CloudWeGo Eino 框架构建的企业级 AI Agent 框架，提供完整的对话 AI、知识管理、记忆系统和工具调用能力 |
+| 6 | [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) | 🔥 134 | Security through scrutiny |
+| 7 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 1646 | 📜 诗泉：高性能中国古诗词 API 服务 |
+| 8 | [openlibrecommunity/olcrtc](https://github.com/openlibrecommunity/olcrtc) | 🔥 1734 | olcrtc - implementation of bb22 using legal meet services to access web outside the whitelist |
+| 9 | [agentrq/agentrq](https://github.com/agentrq/agentrq) | 🔥 1036 | AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. |
+| 10 | [qf-studio/pilot](https://github.com/qf-studio/pilot) | 🔥 538 | AI that ships your tickets. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 23122 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 18066 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 3 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 🔥 6217 | 🤖 [llama-3.3-70b-versatile] 该项目提供数学、计算机科学和人工智能的综合知识库，帮助研究人员成为熟练的AI/ML研究工程师。 |
+| 4 | [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | 🔥 2804 | 🤖 [llama-3.3-70b-versatile] 该项目解释人工智能编码术语，使用简单易懂的语言。 |
+| 5 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | 🔥 2720 | 🤖 [llama-3.3-70b-versatile] 开源认证网关，连接1000+ SaaS服务至AI代理，支持多种接入方式。 |
+| 6 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 11368 | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| 7 | [alookai/alook](https://github.com/alookai/alook) | 🔥 946 | The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task. |
+| 8 | [foru17/neko-master](https://github.com/foru17/neko-master) | 🔥 2637 | A modern and elegant dashboard for network traffic visualization and analysis. |
+| 9 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 16215 | OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compat... |
+| 10 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 🔥 13887 | Your agent writes bad React. This catches it |
+
