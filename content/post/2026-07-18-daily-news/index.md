@@ -193,3 +193,78 @@ image:
 | 9 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 78,961 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 | 10 | [halo-dev/halo](https://github.com/halo-dev/halo) | 39,274 | 🤖 [llama-3.3-70b-versatile] Halo 是一款开源建站工具，能够帮助用户轻松创建个人博客、知识库、企业官网、在线商城等多种类型的网站。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-18 02:52 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 184 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 🔥 8601 | 🤖 [llama-3.3-70b-versatile] Codex Dream Skin是一个虚拟皮肤项目，提供个性化的数字化皮肤设计和应用。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 21056 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [nitrocloudofficial/nitrostack](https://github.com/nitrocloudofficial/nitrostack) | 🔥 1172 | 🤖 [llama-3.3-70b-versatile] NitroStack是一个全栈TypeScript框架，用于构建、测试和部署MCP服务器和AI原生应用。 |
+| 4 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 16063 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能列表。 |
+| 5 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 17555 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端代理多路复用器，允许同时管理多个代理。 |
+| 6 | [FB208/OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) | 🔥 1739 | 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用 |
+| 7 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 24575 | "Vibe-Trading: Your Personal Trading Agent" |
+| 8 | [oso95/scroll-world](https://github.com/oso95/scroll-world) | 🔥 3179 | A skill that turn any brand into a scrollable 3D world |
+| 9 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 27272 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 10 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 5637 | Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 24575 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 42216 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 27272 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 4 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 🔥 11968 | 🤖 [llama-3.3-70b-versatile] 该项目是一个三维基础模型，用于从流数据中重建场景。 |
+| 5 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 3 | ⛔ [无描述]  |
+| 6 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 23145 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 39483 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 8 | [apache/ossie](https://github.com/apache/ossie) | 🔥 3 | ⛔ [无描述]  |
+| 9 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 8943 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| 10 | [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) | 🔥 5504 | An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot prepa... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Gouryella/drip](https://github.com/Gouryella/drip) | 🔥 802 | 🤖 [Legacy] Gouryella/drip：安全暴露本地服务，不依赖第三方服务器。 |
+| 2 | [ZaneL1u/cloud-cli-proxy](https://github.com/ZaneL1u/cloud-cli-proxy) | 🔥 1 | ⛔ [星数不足 (增量1/总数50)] 更强大的 Claude Code Wrapper，通过容器化将你包装成一个地地道道的美国人，从根源上规避 Claude Code 风控。 |
+| 3 | [sartoopjj/thefeed](https://github.com/sartoopjj/thefeed) | 🔥 1455 | 🤖 [llama-3.3-70b-versatile] 基于DNS的阅读器和即时通讯工具，支持阅读Telegram频道和X账户，并进行端到端加密消息交换。 |
+| 4 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 🔥 3278 | 🤖 [llama-3.3-70b-versatile] 一键排版发布到微信公众号，支持多种排版样式和AI配图。 |
+| 5 | [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) | 🔥 323 | 🤖 [llama-3.3-70b-versatile] 该项目创建了一个个人AI代理，能够自主编写工具并自我修复。 |
+| 6 | [chattocorp/chatto](https://github.com/chattocorp/chatto) | 🔥 2003 | A fully-featured team and group chat application that you can easily selfhost. |
+| 7 | [Resinat/Resin](https://github.com/Resinat/Resin) | 🔥 1637 | A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions. |
+| 8 | [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 🔥 1797 | Infinite BYOK in Cursor  https://github.com/leookun/cursor-byok/releases |
+| 9 | [Google-Health-API/google-health-cli](https://github.com/Google-Health-API/google-health-cli) | 🔥 197 | Google Health CLI — one command-line tool for the Google Health API. Includes AI agent skills. |
+| 10 | [Dicklesworthstone/coding_agent_account_manager](https://github.com/Dicklesworthstone/coding_agent_account_manager) | 🔥 149 | Sub-100ms auth switching for AI coding CLIs (Claude Code, Codex, Gemini): swap subscription accounts instantly when you hit usage limits |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 23486 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [contatomegasign/finance-account-tool](https://github.com/contatomegasign/finance-account-tool) | 🔥 131 | 🤖 [llama-3.3-70b-versatile] 该项目是一款财务账户工具，帮助组织评估内部控制、会计纪律和合规成熟度。 |
+| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 42047 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 4 | [xushanpei/open-file-viewer](https://github.com/xushanpei/open-file-viewer) | 🔥 1005 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器文件预览库，支持多种框架，实现文件预览嵌入页面容器。 |
+| 5 | [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) | 🔥 231 | 🤖 [llama-3.3-70b-versatile] 该项目为Pi提供了动态工作流，包括代码模式子代理、模型路由、日志记录和交互式界面等功能。 |
+| 6 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | 🔥 2839 | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. |
+| 7 | [vectorize-io/self-driving-agents](https://github.com/vectorize-io/self-driving-agents) | 🔥 3 | ⛔ [无描述]  |
+| 8 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 30321 | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI \| Customize your as... |
+| 9 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 🔥 26007 | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design... |
+| 10 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 🔥 6524 | Become a cracked AI/ML Research Engineer |
+
