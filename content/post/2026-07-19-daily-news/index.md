@@ -193,3 +193,78 @@ image:
 | 9 | [higress-group/higress](https://github.com/higress-group/higress) | 8,887 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 | 10 | [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | 29,146 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是解决GitHub访问时图裂、加载慢的问题，帮助用户更流畅地使用GitHub。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-19 02:45 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 184 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 🔥 9704 | 🤖 [llama-3.3-70b-versatile] Codex Dream Skin是一个虚拟皮肤项目，提供个性化的数字化皮肤设计和应用。 |
+| 2 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 17396 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能列表。 |
+| 3 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 19225 | 🤖 [llama-3.3-70b-versatile] OfficeCLI 是一款开源工具，允许 AI 代理读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。 |
+| 4 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 17928 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端代理多路复用器，允许同时管理多个代理。 |
+| 5 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 🔥 6868 | 🤖 [llama-3.3-70b-versatile] 该项目提供数学、计算机科学和人工智能的综合知识库，帮助研究人员成为熟练的AI/ML研究工程师。 |
+| 6 | [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | 🔥 3 | ⛔ [无描述]  |
+| 7 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 18653 | Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT... |
+| 8 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 21697 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 9 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 🔥 16026 | Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| 10 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 🔥 8505 | Coding Agent Harness |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 39015 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 45554 | 🤖 [llama-3.3-70b-versatile] CLI-Anything是一个开源项目，旨在将所有软件转化为命令行界面（CLI）形式，实现无缝集成和控制。 |
+| 3 | [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) | 🔥 3967 | 🤖 [llama-3.3-70b-versatile] SenseNova-U1项目是一个基于NEO-unify的原生统一范式，实现从第一原理出发的统一解决方案。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 57765 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 38349 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 6 | [jianweiweng05/qsx-strategy-score](https://github.com/jianweiweng05/qsx-strategy-score) | 🔥 269 | Free strategy scorecard for trading backtests. Detect overfitting, weak edge, drawdown risk, and random-timing luck from returns, equity curves, or... |
+| 7 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 🔥 26427 | The batteries-included agent harness. |
+| 8 | [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) | 🔥 691 | Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model. |
+| 9 | [simchowitzlabpublic/nano-world-model](https://github.com/simchowitzlabpublic/nano-world-model) | 🔥 685 | A Minimalist, Batteries-included Repository for Advancing World Model Science. |
+| 10 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 17104 | Edit videos with coding agents |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 40980 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [chattocorp/chatto](https://github.com/chattocorp/chatto) | 🔥 2080 | 🤖 [llama-3.3-70b-versatile] 一个可自托管的团队和群组聊天应用，提供全功能的聊天服务。 |
+| 3 | [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) | 🔥 132 | 🤖 [llama-3.3-70b-versatile] Herdr 的扩展插件，提供项目和快速操作等工具，增强 Herdr 的功能。 |
+| 4 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 5553 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于AI编码代理的持久性内存系统，支持SQLite和FTS5数据库。 |
+| 5 | [basecamp/basecamp-sdk](https://github.com/basecamp/basecamp-sdk) | 🔥 1 | ⛔ [星数不足 (增量1/总数42)] Basecamp software dev kit |
+| 6 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 4412 | Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other ... |
+| 7 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🔥 6753 | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet... |
+| 8 | [0xjeffro/astroclaw](https://github.com/0xjeffro/astroclaw) | 🔥 279 | Cloud-native agent-as-a-service framework with one-click IaC deployment. |
+| 9 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 15614 | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messen... |
+| 10 | [MUKE-coder/grit](https://github.com/MUKE-coder/grit) | 🔥 1 | ⛔ [星数不足 (增量1/总数88)] Full-stack Go + React meta-framework. Scaffold a production-ready monorepo (API + web + admin + mobile + desktop) in one comman... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [nitrocloudofficial/nitrostack](https://github.com/nitrocloudofficial/nitrostack) | 🔥 1172 | 🤖 [llama-3.3-70b-versatile] NitroStack是一个全栈TypeScript框架，用于构建、测试和部署MCP服务器和AI原生应用。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 21697 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 🔥 6868 | 🤖 [llama-3.3-70b-versatile] 该项目提供数学、计算机科学和人工智能的综合知识库，帮助研究人员成为熟练的AI/ML研究工程师。 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 18653 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 5 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 12270 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 6 | [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) | 🔥 7750 | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously... |
+| 7 | [LanceZPF/agent-as-a-router](https://github.com/LanceZPF/agent-as-a-router) | 🔥 700 | The official implementations of Agent-as-a-Router: Agentic Model Routing for Coding Tasks. |
+| 8 | [SAGAR-TAMANG/ultron-by-sagar-builds](https://github.com/SAGAR-TAMANG/ultron-by-sagar-builds) | 🔥 196 | Ultron. |
+| 9 | [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) | 🔥 1178 | OpenCode plugin that gives coding agents persistent memory using local vector database |
+| 10 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 🔥 1 | ⛔ [无描述]  |
+
