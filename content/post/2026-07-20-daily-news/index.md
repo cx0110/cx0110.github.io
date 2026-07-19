@@ -193,3 +193,78 @@ image:
 | 9 | [halo-dev/halo](https://github.com/halo-dev/halo) | 39,285 | 🤖 [llama-3.3-70b-versatile] Halo 是一款开源建站工具，能够帮助用户轻松创建个人博客、知识库、企业官网、在线商城等多种类型的网站。 |
 | 10 | [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 25,630 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的音乐播放器，支持插件化和定制化，且无广告。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-20 02:51 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 186 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [nullclaw/nullhub](https://github.com/nullclaw/nullhub) | 🔥 1224 | 🤖 [llama-3.3-70b-versatile] Nullhub是一个管理控制台，用于安装、配置和监控AI代理、工作流、任务管道和系统健康。 |
+| 2 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 🔥 13549 | 🤖 [llama-3.3-70b-versatile] 该项目是一个三维基础模型，用于从流数据中重建场景。 |
+| 3 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 🔥 5388 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能开发和提升的工具和资源。 |
+| 4 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 🔥 9814 | 🤖 [llama-3.3-70b-versatile] Kimi Code CLI是一个命令行界面代理工具。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 22227 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 20066 | Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT... |
+| 7 | [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | 🔥 8957 | Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns. |
+| 8 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 🔥 4723 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premi... |
+| 9 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 🔥 10863 | Orchestrate multiple coding agents from desktop and mobile |
+| 10 | [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) | 🔥 3677 | 人工精选的免费无广告追剧资源导航，每日自动检测可用性。收录在线影视、影视APP、网盘搜索、磁力 BT、字幕、TVBox / 影视仓配置地址、IPTV 订阅源。开源，社区共同维护。 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 🔥 9814 | 🤖 [llama-3.3-70b-versatile] Kimi Code CLI是一个命令行界面代理工具。 |
+| 2 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 🔥 13549 | 🤖 [llama-3.3-70b-versatile] 该项目是一个三维基础模型，用于从流数据中重建场景。 |
+| 3 | [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | 🔥 8957 | 🤖 [llama-3.3-70b-versatile] 该项目可以根据自然语言生成SVG+PNG格式的技术图表，支持7种风格、UML和AI/Agent工作流模式。 |
+| 4 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 25235 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 5 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 20965 | 🤖 [llama-3.3-70b-versatile] 该项目构建代码库的持久地图，优化AI编码工具的读取效率。 |
+| 6 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 🔥 11798 | Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps int... |
+| 7 | [datascale-ai/opentalking](https://github.com/datascale-ai/opentalking) | 🔥 2393 | OpenTalking: An industrial-grade open-source AI digital human framework that supports real-time conversation, private deployment, and pluggable mod... |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 40082 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 9 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 2 | ⛔ [无描述]  |
+| 10 | [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) | 🔥 321 | wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [gastownhall/gascity](https://github.com/gastownhall/gascity) | 🔥 1009 | 🤖 [llama-3.3-70b-versatile] 该项目为多智能体编码工作流提供了一套编排构建SDK。 |
+| 2 | [cicd-sensor/cicd-sensor](https://github.com/cicd-sensor/cicd-sensor) | 🔥 228 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的eBPF运行时安全传感器，用于GitHub Actions和GitLab CI/CD。 |
+| 3 | [IRNova/Nova-Proxy-App](https://github.com/IRNova/Nova-Proxy-App) | 🔥 837 | 🤖 [llama-3.3-70b-versatile] Nova-Proxy-App是一个强大的本地代理工具，支持多种技术，帮助用户绕过网络封锁和深度包检测。 |
+| 4 | [Walter-Sparrow/lunar-tear](https://github.com/Walter-Sparrow/lunar-tear) | 🔥 982 | 🤖 [llama-3.3-70b-versatile] 该项目是一个私人服务器研究项目，用于研究和开发某款已停服的手机游戏的服务器。 |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 41066 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 6 | [phantom-offensive/Phantom](https://github.com/phantom-offensive/Phantom) | 🔥 1 | ⛔ [星数不足 (增量1/总数51)] A modern C2 framework for authorized red team operations |
+| 7 | [openclaw/gogcli](https://github.com/openclaw/gogcli) | 🔥 8185 | Google Workspace in your terminal. |
+| 8 | [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) | 🔥 802 | Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories |
+| 9 | [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse) | 🔥 984 | Manage worktrees without managing worktrees. |
+| 10 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 27318 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 20066 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 🔥 5388 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能开发和提升的工具和资源。 |
+| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 43204 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 4 | [cloudflare/skills](https://github.com/cloudflare/skills) | 🔥 2391 | 🤖 [llama-3.3-70b-versatile] 该项目为智能代理提供Cloudflare开发技能的教学。 |
+| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 24039 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 6 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 12415 | OpenWiki is a CLI that writes and maintains agent documentation for your codebase. |
+| 7 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 🔥 10863 | Orchestrate multiple coding agents from desktop and mobile |
+| 8 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 27144 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 9 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | 🔥 702 | yoink any video from your terminal. no shady ads. |
+| 10 | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 🔥 5829 | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents |
+
