@@ -193,3 +193,78 @@ image:
 | 9 | [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 12,435 | 🤖 [llama-3.3-70b-versatile] 该项目是一个视觉小说翻译器，用于帮助用户翻译和理解视觉小说中的文本内容。 |
 | 10 | [LorisYounger/VPet](https://github.com/LorisYounger/VPet) | 6,496 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的虚拟桌宠模拟器，可以内置到任何WPF应用程序中，为用户提供虚拟的桌面宠物体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-21 03:24 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 185 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 40422 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 21418 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 3 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 🔥 10176 | 🤖 [llama-3.3-70b-versatile] Kimi Code CLI是一个命令行界面代理工具。 |
+| 4 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 18796 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能列表。 |
+| 5 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 18721 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端代理多路复用器，允许同时管理多个代理。 |
+| 6 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 25640 | "Vibe-Trading: Your Personal Trading Agent" |
+| 7 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 24351 | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover let... |
+| 8 | [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa) | 🔥 6014 | Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. |
+| 9 | [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) | 🔥 3975 | 人工精选的免费无广告追剧资源导航，每日自动检测可用性。收录在线影视、影视APP、网盘搜索、磁力 BT、字幕、TVBox / 影视仓配置地址、IPTV 订阅源。开源，社区共同维护。 |
+| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 28334 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 40422 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 2 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 22862 | 🤖 [llama-3.3-70b-versatile] 该项目构建代码库的持久地图，优化AI编码工具的读取效率。 |
+| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 25640 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 4 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 🔥 10176 | 🤖 [llama-3.3-70b-versatile] Kimi Code CLI是一个命令行界面代理工具。 |
+| 5 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 28334 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 6 | [hoainho/img2threejs](https://github.com/hoainho/img2threejs) | 🔥 889 | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
+| 7 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 42868 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| 8 | [Qualcomm-AI-research/MobileWan](https://github.com/Qualcomm-AI-research/MobileWan) | 🔥 2 | ⛔ [星数不足 (增量2/总数59)] Sampling code for MobileWan |
+| 9 | [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 🔥 2291 | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。 |
+| 10 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 1 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 🔥 2670 | 🤖 [Legacy] 该项目是一个Go语言技能库，提供多种技能函数。 |
+| 2 | [openclaw/crabbox](https://github.com/openclaw/crabbox) | 🔥 1195 | 🤖 [llama-3.3-70b-versatile] Crabbox项目的核心功能是加热一个箱子，同步差异并运行测试套件。 |
+| 3 | [chattocorp/chatto](https://github.com/chattocorp/chatto) | 🔥 2231 | 🤖 [llama-3.3-70b-versatile] 一个可自托管的团队和群组聊天应用，提供全功能的聊天服务。 |
+| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 27408 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 5 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 3885 | 🤖 [llama-3.3-70b-versatile] CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。 |
+| 6 | [4ier/notion-cli](https://github.com/4ier/notion-cli) | 🔥 237 | Work seamlessly with Notion from the command line. Full Notion API coverage in a single binary. |
+| 7 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 14770 | MCP for xiaohongshu.com |
+| 8 | [clawvisor/clawvisor](https://github.com/clawvisor/clawvisor) | 🔥 255 | API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents. |
+| 9 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 2011 | 📜 诗泉：高性能中国古诗词 API 服务 |
+| 10 | [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse) | 🔥 1000 | Manage worktrees without managing worktrees. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 🔥 5624 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能开发和提升的工具和资源。 |
+| 2 | [microsoft/Ontology-Playground](https://github.com/microsoft/Ontology-Playground) | 🔥 1664 | 🤖 [llama-3.3-70b-versatile] 一个免费的开源网页应用，用于学习本体论和Microsoft Fabric IQ，支持设计和导出本体论。 |
+| 3 | [modem-dev/hunk](https://github.com/modem-dev/hunk) | 🔥 7433 | 🤖 [llama-3.3-70b-versatile] 终端差异查看器，用于代码比较和审查。 |
+| 4 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 18649 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 5 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 21418 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 6 | [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) | 🔥 4162 | Kimi Code CLI  —  The Starting Point for Next-Gen Agents |
+| 7 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 23377 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 8 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 🔥 10925 | Orchestrate multiple coding agents from desktop and mobile |
+| 9 | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 🔥 6038 | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents |
+| 10 | [yorgai/ORG2](https://github.com/yorgai/ORG2) | 🔥 2245 | Coding agent orgs: built for reviewability and multi-device collaboration. Built-in rust harness & 30+ CLIs. |
+
