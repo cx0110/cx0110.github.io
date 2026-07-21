@@ -193,3 +193,78 @@ image:
 | 9 | [ChaozhongLiu/DyberPet](https://github.com/ChaozhongLiu/DyberPet) | 873 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于PySide6的桌面虚拟宠物框架。 |
 | 10 | [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 18,904 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的异步数据爬取工具，支持API调用、在线批量解析及下载来自抖音、快手、TikTok和Bilibili的数据。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-22 03:02 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 175 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 23237 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 2146 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 3 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 16344 | 🤖 [llama-3.3-70b-versatile] 百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。 |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 41365 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 5 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 🔥 5800 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能开发和提升的工具和资源。 |
+| 6 | [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) | 🔥 6845 | 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu... |
+| 7 | [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 🔥 11853 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories a... |
+| 8 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 🔥 11489 | Codex Dream Skin |
+| 9 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 18933 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 10 | [Yu9191/wloc](https://github.com/Yu9191/wloc) | 🔥 5926 | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 41365 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 2 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 16344 | 🤖 [llama-3.3-70b-versatile] 百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。 |
+| 3 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 1 | ⛔ [无描述]  |
+| 4 | [yaojingang/geo-citation-lab](https://github.com/yaojingang/geo-citation-lab) | 🔥 455 | 🤖 [llama-3.3-70b-versatile] 该项目提供GEO实验数据报告和地理学、经济学、人工智能论文库。 |
+| 5 | [Alpha-Dojo/DojoAgents](https://github.com/Alpha-Dojo/DojoAgents) | 🔥 1017 | 🤖 [llama-3.3-70b-versatile] DojoAgents是一个全市场人工智能投资助手，帮助个人投资者做出更好的投资决策。 |
+| 6 | [HITsz-TMG/KnowAct](https://github.com/HITsz-TMG/KnowAct) | 🔥 350 | Recursive Self-Improvement GUI Assistant |
+| 7 | [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills) | 🔥 1 | ⛔ [无描述]  |
+| 8 | [inssekt/CocoonFE](https://github.com/inssekt/CocoonFE) | 🔥 1 | ⛔ [无描述]  |
+| 9 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 🔥 11401 | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows. |
+| 10 | [personalrobotics/ssik](https://github.com/personalrobotics/ssik) | 🔥 160 | Analytical inverse kinematics for 6R and 7R revolute arms. Returns every IK branch at machine-precision FK closure. Ships per-arm build artifacts; ... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | 🔥 8451 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能编排器，用于并行代码代理，计划任务、生成代理，并自动处理持续集成修复、合并冲突和代码审查。 |
+| 2 | [vyrx-dev/toofan](https://github.com/vyrx-dev/toofan) | 🔥 285 | 🤖 [llama-3.3-70b-versatile] 这是一个极简的、超快的终端打字界面工具。 |
+| 3 | [stupside/castor](https://github.com/stupside/castor) | 🔥 1690 | 🤖 [llama-3.3-70b-versatile] 该项目可以实时提取网页视频、转码并投射到电视上，同时支持字幕烧录。 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 44078 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [canopy-network/canopy](https://github.com/canopy-network/canopy) | 🔥 14441 | 🤖 [Legacy] Canopy网络协议的Go语言实现。 |
+| 6 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 21060 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 7 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 7726 | PostgreSQL backup tool with Point-In-Time-Recovery and restore verification |
+| 8 | [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) | 🔥 8493 | An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys. |
+| 9 | [higress-group/higress](https://github.com/higress-group/higress) | 🔥 8901 | 🤖 AI Gateway \| AI Native API Gateway |
+| 10 | [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) | 🔥 1483 | Render Mermaid graphs inside your terminal |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 23239 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 🔥 1559 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Claude & Codex Agent SDK的编码技能，使用树状思维和剪枝技术来产生和优化创造性和跨学科的想法。 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 24812 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 4 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 2147 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 5 | [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) | 🔥 4373 | 🤖 [llama-3.3-70b-versatile] Kimi Code CLI 是一个下一代智能代理的起点，提供命令行接口。 |
+| 6 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 24728 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 45074 | The open-source AI voice studio. Clone, dictate, create. |
+| 8 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 27397 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 9 | [microsoft/flint-chart](https://github.com/microsoft/flint-chart) | 🔥 1984 | 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. |
+| 10 | [chrisryugj/kordoc](https://github.com/chrisryugj/kordoc) | 🔥 1506 | 모두 파싱해버리겠다 — HWP3·HWP·HWPX·HWPML·PDF·XLS·XLSX·DOCX → Markdown. 신구대조·양식 자동 채우기·MCP 통합 (CLI + MCP Server) \| Parse Korean documents (HWP3-5, HWPX, HW... |
+
