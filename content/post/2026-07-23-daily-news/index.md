@@ -193,3 +193,78 @@ image:
 | 9 | [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) | 18,137 | 🤖 [llama-3.3-70b-versatile] 该项目通过图解的方式来解释计算机网络、操作系统、计算机组成和数据库等基础知识。 |
 | 10 | [LorisYounger/VPet](https://github.com/LorisYounger/VPet) | 6,517 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的虚拟桌宠模拟器，可以内置到任何WPF应用程序中，为用户提供虚拟的桌面宠物体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-23 02:56 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 165 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [block/buzz](https://github.com/block/buzz) | 🔥 3732 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 25234 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 45607 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 4 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 25214 | 🤖 [llama-3.3-70b-versatile] 该项目构建代码库的持久地图，优化AI编码工具的读取效率。 |
+| 5 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 24914 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 41185 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 7 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 10325 | An open source design system that's fully customizable and agent ready |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 42093 | Learn it. Build it. Ship it for others. |
+| 9 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 🔥 14408 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-g... |
+| 10 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 17530 | Edit videos with coding agents |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 25214 | 🤖 [llama-3.3-70b-versatile] 该项目构建代码库的持久地图，优化AI编码工具的读取效率。 |
+| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 41185 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 3 | [hoainho/img2threejs](https://github.com/hoainho/img2threejs) | 🔥 1959 | 🤖 [llama-3.3-70b-versatile] 该项目将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 42093 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 5 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 🔥 14408 | 🤖 [llama-3.3-70b-versatile] SkillOpt是一个文本优化器，通过编辑和验证更新来训练可重用的自然语言技能。 |
+| 6 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 17530 | Edit videos with coding agents |
+| 7 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 🔥 12055 | Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps int... |
+| 8 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | 🔥 4214 | Codebase intelligence for AI-assisted engineering teams — auto-generated docs, git analytics, dead code detection, and architectural decisions via ... |
+| 9 | [orca-wm/Orca](https://github.com/orca-wm/Orca) | 🔥 463 | Orca: The World is in Your Mind |
+| 10 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 43383 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 41564 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [chattocorp/chatto](https://github.com/chattocorp/chatto) | 🔥 2283 | 🤖 [llama-3.3-70b-versatile] 一个可自托管的团队和群组聊天应用，提供全功能的聊天服务。 |
+| 3 | [wilddogjp/openbpx](https://github.com/wilddogjp/openbpx) | 🔥 1 | ⛔ [星数不足 (增量1/总数97)] OpenBPX: Blueprint Toolkit for Unreal Engine |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 44286 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 5 | [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) | 🔥 2063 | 🤖 [Legacy] VictoriaMetrics/VictoriaLogs 是一个快速、易用的日志数据库，能高效处理大量日志数据。 |
+| 6 | [inference-gateway/inference-gateway](https://github.com/inference-gateway/inference-gateway) | 🔥 274 | An open-source, cloud-native, high-performance gateway unifying multiple LLM providers, from local solutions like Ollama to major cloud providers s... |
+| 7 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 🔥 6386 | Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch sile... |
+| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 21105 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 9 | [cooperspencer/gickup](https://github.com/cooperspencer/gickup) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [bytebase/bytebase](https://github.com/bytebase/bytebase) | 🔥 14282 | World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSe... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 45607 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 24914 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 25922 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 25235 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [microsoft/Ontology-Playground](https://github.com/microsoft/Ontology-Playground) | 🔥 2126 | 🤖 [llama-3.3-70b-versatile] 一个免费的开源网页应用，用于学习本体论和Microsoft Fabric IQ，支持设计和导出本体论。 |
+| 6 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 🔥 5970 | Skills for Design Engineers |
+| 7 | [oblien/openship](https://github.com/oblien/openship) | 🔥 7129 | Self-hosted deployment platform |
+| 8 | [saffron-health/libretto](https://github.com/saffron-health/libretto) | 🔥 831 | The AI toolkit for building reliable browser automations |
+| 9 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 46058 | Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and execut... |
+| 10 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 19182 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+
