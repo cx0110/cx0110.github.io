@@ -193,3 +193,78 @@ image:
 | 9 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 128,738 | 🤖 [llama-3.3-70b-versatile] 该项目提供动画图解和一键运行的数据结构与算法教程，支持多种语言和代码实现。 |
 | 10 | [LorisYounger/VPet](https://github.com/LorisYounger/VPet) | 6,529 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的虚拟桌宠模拟器，可以内置到任何WPF应用程序中，为用户提供虚拟的桌面宠物体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-24 02:58 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 160 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 18098 | 🤖 [llama-3.3-70b-versatile] 百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 26849 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 27193 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [oblien/openship](https://github.com/oblien/openship) | 🔥 7813 | 🤖 [llama-3.3-70b-versatile] Oblien/openship是一个自托管的部署平台。 |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 42808 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [block/buzz](https://github.com/block/buzz) | 🔥 6270 | A hive mind communication platform |
+| 7 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 21540 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open... |
+| 8 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 4077 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claud... |
+| 9 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 29343 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 10 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 26872 | "Vibe-Trading: Your Personal Trading Agent" |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 18098 | 🤖 [llama-3.3-70b-versatile] 百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。 |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 42808 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 29343 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 4 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 26872 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 5 | [hoainho/img2threejs](https://github.com/hoainho/img2threejs) | 🔥 2795 | 🤖 [llama-3.3-70b-versatile] 该项目将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 6 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 25790 | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench... |
+| 7 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 🔥 14731 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-g... |
+| 8 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 🔥 6943 | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
+| 9 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 45947 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 10 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 1739 | JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingerti... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kubeswift-io/kubeswift](https://github.com/kubeswift-io/kubeswift) | 🔥 1 | ⛔ [星数不足 (增量1/总数86)] Kubernetes-native VM orchestration on Cloud Hypervisor  |
+| 2 | [youngwoocho02/unity-cli](https://github.com/youngwoocho02/unity-cli) | 🔥 301 | 🤖 [llama-3.3-70b-versatile] 该项目允许从命令行控制Unity编辑器，仅需一个二进制文件，无需其他依赖。 |
+| 3 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 6940 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 4 | [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) | 🔥 1512 | 🤖 [llama-3.3-70b-versatile] 该项目扫描全球网络，寻找并揭露秘密信息。 |
+| 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 27653 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 6 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 33840 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 7 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 41729 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 8 | [agent-ecosystem/skill-validator](https://github.com/agent-ecosystem/skill-validator) | 🔥 199 | Validate Skill content against Agent Skill specification, with additional content density and quality checks. |
+| 9 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 4524 | Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other ... |
+| 10 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 44478 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 26849 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 4077 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 27193 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [agegr/pi-web](https://github.com/agegr/pi-web) | 🔥 2315 | 🤖 [llama-3.3-70b-versatile] 该项目为pi编码代理提供了一个Web用户界面。 |
+| 5 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 10495 | 🤖 [llama-3.3-70b-versatile] Astryx是一个开源的设计系统，完全可定制且支持代理。 |
+| 6 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 25732 | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover let... |
+| 7 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 🔥 26289 | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design... |
+| 8 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 7426 | Open source alternative to Semrush and Ahrefs |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 37161 | Write HTML. Render video. Built for agents. |
+| 10 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 29872 | Clone any website with one command using AI coding agents |
+
