@@ -193,3 +193,78 @@ image:
 | 9 | [higress-group/higress](https://github.com/higress-group/higress) | 8,923 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 | 10 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 101,353 | 🤖 [llama-3.3-70b-versatile] 该项目提供程序员在家做饭的指南和方法。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-25 03:11 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 141 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [block/buzz](https://github.com/block/buzz) | 🔥 9444 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 2 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 🔥 2401 | 🤖 [llama-3.3-70b-versatile] Ego-lite是一个支持人工智能代理并行工作的浏览器。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 28568 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 26283 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 🔥 1383 | 🤖 [llama-3.3-70b-versatile] 该项目使用Remotion创建电影级产品视频，包含106个镜头配方卡和161个动态预览。 |
+| 6 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 2201 | Catch your AI's mistakes and blind spots before your customers or regulators do. iFixAi runs 45 inspections, 32 graded core plus 13 extended for fr... |
+| 7 | [hoainho/img2threejs](https://github.com/hoainho/img2threejs) | 🔥 3918 | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 41942 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 28234 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 10 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 21897 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 2201 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 41942 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 3 | [hoainho/img2threejs](https://github.com/hoainho/img2threejs) | 🔥 3918 | 🤖 [llama-3.3-70b-versatile] 该项目将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 4 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 17743 | 🤖 [llama-3.3-70b-versatile] 该项目使用编码代理编辑视频，实现视频编辑自动化。 |
+| 5 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 🔥 4794 | 🤖 [llama-3.3-70b-versatile] 该项目是一个半自动化的研究助手，支持多种代码和工具，辅助学术研究和软件开发。 |
+| 6 | [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) | 🔥 2147 | Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with... |
+| 7 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 26184 | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench... |
+| 8 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 🔥 14897 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-g... |
+| 9 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 46006 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 10 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 43961 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 41890 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [scalytics/kafSIEM](https://github.com/scalytics/kafSIEM) | 🔥 130 | 🤖 [llama-3.3-70b-versatile] 该项目是一个实体图平台，用于空隙防御和关键基础设施，集成了Kafka本地OSINT、OT融合和不可变的来源证明。 |
+| 3 | [umputun/ralphex](https://github.com/umputun/ralphex) | 🔥 1396 | 🤖 [llama-3.3-70b-versatile] Ralphex项目是一个用于自主AI驱动计划执行的扩展循环。 |
+| 4 | [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox) | 🔥 2393 | 🤖 [llama-3.3-70b-versatile] 该项目是一个更好的Mihomo客户端，提供更好的用户体验和功能。 |
+| 5 | [palemoky/fight-the-landlord](https://github.com/palemoky/fight-the-landlord) | 🔥 527 | 🤖 [llama-3.3-70b-versatile] 该项目旨在创建一个无控牌、真公平的斗地主游戏。 |
+| 6 | [DanielLavrushin/b4](https://github.com/DanielLavrushin/b4) | 🔥 1642 | Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems. |
+| 7 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 14837 | MCP for xiaohongshu.com |
+| 8 | [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 🔥 1899 | Infinite BYOK in Cursor  https://github.com/leookun/cursor-byok/releases |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 34026 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 27719 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 28568 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 28234 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [oblien/openship](https://github.com/oblien/openship) | 🔥 8185 | 🤖 [llama-3.3-70b-versatile] Oblien/openship是一个自托管的部署平台。 |
+| 4 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 4493 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 26283 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 6 | [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) | 🔥 461 | 🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast ... |
+| 7 | [nitrocloudofficial/nitrostack](https://github.com/nitrocloudofficial/nitrostack) | 🔥 1997 | The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native apps. |
+| 8 | [NeuroAIHub/BrainPilot](https://github.com/NeuroAIHub/BrainPilot) | 🔥 2 | ⛔ [星数不足 (增量2/总数95)] BrainPilot: Enabling Agentic Research for Brain Science |
+| 9 | [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) | 🔥 1885 | A harness optimized to smaller LLMs |
+| 10 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 30066 | Clone any website with one command using AI coding agents |
+
