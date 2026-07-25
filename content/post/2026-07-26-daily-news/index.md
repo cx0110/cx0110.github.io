@@ -193,3 +193,78 @@ image:
 | 9 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 17,089 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 | 10 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 46,121 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-26 02:52 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 121 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [block/buzz](https://github.com/block/buzz) | 🔥 11546 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 2 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 🔥 3387 | 🤖 [llama-3.3-70b-versatile] Ego-lite是一个支持人工智能代理并行工作的浏览器。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 29829 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 26733 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 🔥 1700 | 🤖 [llama-3.3-70b-versatile] 该项目使用Remotion创建电影级产品视频，包含106个镜头配方卡和161个动态预览。 |
+| 6 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 2779 | Catch your AI's mistakes and blind spots before your customers or regulators do. iFixAi runs 45 inspections, 32 graded core plus 13 extended for fr... |
+| 7 | [hoainho/img2threejs](https://github.com/hoainho/img2threejs) | 🔥 4549 | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 42199 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 28903 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 10 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 22107 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [makerspet/oomwoo](https://github.com/makerspet/oomwoo) | 🔥 6307 | 🤖 [llama-3.3-70b-versatile] 开源的吸尘机器人清洁器项目，实现自动清洁功能。 |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 44167 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 43432 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 4 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 2 | ⛔ [无描述]  |
+| 5 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 27523 | 🤖 [llama-3.3-70b-versatile] Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。 |
+| 6 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 18938 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| 7 | [browser-act/skills](https://github.com/browser-act/skills) | 🔥 4775 | Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execu... |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 42199 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 58785 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, de... |
+| 10 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 10026 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 7076 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 12809 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 42017 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [evolution-foundation/evolution-go](https://github.com/evolution-foundation/evolution-go) | 🔥 520 | 🤖 [llama-3.3-70b-versatile] Evolution Go是一个开源的WhatsApp集成API，提供WhatsApp消息交互功能。 |
+| 5 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 14364 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 6 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 15818 | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messen... |
+| 7 | [chattocorp/chatto](https://github.com/chattocorp/chatto) | 🔥 2337 | A fully-featured team and group chat application that you can easily selfhost. |
+| 8 | [timescale/ghost](https://github.com/timescale/ghost) | 🔥 142 | Ghost 👻 |
+| 9 | [kelos-dev/kelos](https://github.com/kelos-dev/kelos) | 🔥 274 | Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents. |
+| 10 | [stupside/castor](https://github.com/stupside/castor) | 🔥 1907 | Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles…. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 29829 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 🔥 1700 | 🤖 [llama-3.3-70b-versatile] 该项目使用Remotion创建电影级产品视频，包含106个镜头配方卡和161个动态预览。 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 26733 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 4 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 4772 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 5 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 46679 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 6 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 4893 | Instatic is a modern self-hosted visual CMS - get it running in 1 minute |
+| 7 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 7891 | Open source alternative to Semrush and Ahrefs |
+| 8 | [butterbase-ai/butterbase](https://github.com/butterbase-ai/butterbase) | 🔥 2783 | Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP. |
+| 9 | [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) | 🔥 3827 | 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、new... |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 28903 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+
