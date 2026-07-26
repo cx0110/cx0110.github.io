@@ -193,3 +193,78 @@ image:
 | 9 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 167,411 | 🤖 [llama-3.3-70b-versatile] 该项目分享GitHub上有趣、适合初学者的开源项目。 |
 | 10 | [halo-dev/halo](https://github.com/halo-dev/halo) | 39,350 | 🤖 [llama-3.3-70b-versatile] Halo 是一款开源建站工具，能够帮助用户轻松创建个人博客、知识库、企业官网、在线商城等多种类型的网站。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-27 02:56 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 110 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [block/buzz](https://github.com/block/buzz) | 🔥 12930 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 2 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 5529 | 🤖 [llama-3.3-70b-versatile] Instatic 是一个现代化的自托管视觉内容管理系统（CMS），可以在1分钟内部署。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 30840 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [floci-io/floci](https://github.com/floci-io/floci) | 🔥 17751 | 🤖 [llama-3.3-70b-versatile] Floci是一个轻量级的本地AWS模拟器，用于测试和开发AWS应用程序。 |
+| 5 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 27863 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 6 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 29536 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 7 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 🔥 11621 | The most intelligent agent harness for code |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 37806 | Write HTML. Render video. Built for agents. |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 31315 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 22339 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 27863 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 2 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 5506 | 🤖 [llama-3.3-70b-versatile] 该项目可以将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 3 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 10031 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 4 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 31315 | 🤖 [llama-3.3-70b-versatile] 该项目提供符合nature论文学术表达和科研绘图的技能。 |
+| 5 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 14195 | 🤖 [llama-3.3-70b-versatile] 基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。 |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 59005 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, de... |
+| 7 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 31176 | Agent skill that removes signs of AI-generated writing from text |
+| 8 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 19244 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| 9 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 10369 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 30038 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 13651 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 42081 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 3 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 17226 | 🤖 [llama-3.3-70b-versatile] Gas Town是一个多智能体工作空间管理器，用于管理和协调多个智能体的工作流程。 |
+| 4 | [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) | 🔥 435 | 🤖 [llama-3.3-70b-versatile] AudioMuse-AI Navidrome插件通过声音分析实时推荐相似歌曲，增强音乐发现体验。 |
+| 5 | [evolution-foundation/evolution-go](https://github.com/evolution-foundation/evolution-go) | 🔥 538 | 🤖 [llama-3.3-70b-versatile] Evolution Go是一个开源的WhatsApp集成API，提供WhatsApp消息交互功能。 |
+| 6 | [deviseo/transit-hub](https://github.com/deviseo/transit-hub) | 🔥 187 | A multi-upstream operations hub for self-hosted API services built with sub2api or new-api. |
+| 7 | [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli) | 🔥 1518 | ✨多agent实现全自动AI小说生成 |
+| 8 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 🔥 1 | ⛔ [星数不足 (增量1/总数19)] fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthropic/MCP... |
+| 9 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 26862 | Glamourous agentic coding for all 💘 |
+| 10 | [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 🔥 1592 | A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 29536 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 5529 | 🤖 [llama-3.3-70b-versatile] Instatic 是一个现代化的自托管视觉内容管理系统（CMS），可以在1分钟内部署。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 30840 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 27222 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 🔥 2118 | 🤖 [llama-3.3-70b-versatile] 一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。 |
+| 6 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 37806 | Write HTML. Render video. Built for agents. |
+| 7 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | 🔥 3355 | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. |
+| 8 | [facebook/astryx](https://github.com/facebook/astryx) | 🔥 10771 | An open source design system that's fully customizable and agent ready |
+| 9 | [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 🔥 12676 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories a... |
+| 10 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 2 | ⛔ [无描述]  |
+
