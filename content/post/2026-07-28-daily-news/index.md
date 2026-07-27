@@ -193,3 +193,78 @@ image:
 | 9 | [czy0729/Bangumi](https://github.com/czy0729/Bangumi) | 5,766 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个第三方客户端，提供无广告、可自定义的追番记录功能，适配iOS和Android移动端。 |
 | 10 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 22,121 | 🤖 [llama-3.3-70b-versatile] 该项目是一个全自动化工具，能够一键完成《明日方舟》游戏中的日常任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-28 03:11 UTC
+
+## 📚 RAG (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 29450 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 6796 | 🤖 [llama-3.3-70b-versatile] 该项目可以将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 2 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 7 | ⛔ [无描述]  |
+| 3 | [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) | 🔥 2234 | 🤖 [llama-3.3-70b-versatile] OpenMinis是一个跨平台的AI智能代理应用。 |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🔥 51397 | 🤖 [Legacy] 该项目是一个设计语言，帮助人工智能更好地理解设计。 |
+| 5 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 🔥 5394 | 🤖 [llama-3.3-70b-versatile] Ego-lite是一个支持人工智能代理并行工作的浏览器。 |
+| 6 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 28997 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 18039 | Create and share 3D architectural projects. |
+| 8 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 14645 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-leve... |
+| 9 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 3734 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+| 10 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 42678 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 6796 | 🤖 [llama-3.3-70b-versatile] 该项目可以将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 2 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 28997 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 3 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 3 | ⛔ [无描述]  |
+| 4 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 41407 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 5 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 🔥 18385 | 🤖 [llama-3.3-70b-versatile] 数字生命卡兹克开源的AI技能合集，提供多种智能功能。 |
+| 6 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 7808 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses with... |
+| 7 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 31526 | Agent skill that removes signs of AI-generated writing from text |
+| 8 | [ruc-datalab/DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | 🔥 4407 | DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ |
+| 9 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 19590 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| 10 | [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) | 🔥 1793 |  Outlookmail Plus: Designed Specifically for Registration  \|  Outlookmail Plus：专为注册而生  \|   |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 14645 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [Deln0r/ygo](https://github.com/Deln0r/ygo) | 🔥 1 | ⛔ [星数不足 (增量1/总数81)] Officially listed, pure-Go port of the Yjs CRDT, byte-for-byte V1/V2 wire-compatible with yjs@13.6.31 (cross-language fixtures,... |
+| 3 | [umputun/revdiff](https://github.com/umputun/revdiff) | 🔥 712 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个终端用户界面，用于查看差异、文件和文档，并支持内联注释。 |
+| 4 | [openai/tunnel-client](https://github.com/openai/tunnel-client) | 🔥 1 | ⛔ [无描述]  |
+| 5 | [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) | 🔥 441 | 🤖 [llama-3.3-70b-versatile] 为AI代理提供安全的云计算机。 |
+| 6 | [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 🔥 5774 | 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行 |
+| 7 | [Walter-Sparrow/lunar-tear](https://github.com/Walter-Sparrow/lunar-tear) | 🔥 1020 | Private server research project for a certain discontinued mobile game |
+| 8 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 34665 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 9 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 6626 | Modern Docker Management, Designed for Everyone |
+| 10 | [paulojmdias/lokxy](https://github.com/paulojmdias/lokxy) | 🔥 109 | Lokxy is a powerful log aggregator for Loki, designed to collect and unify log streams from multiple sources into a single, queryable endpoint. It ... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 18039 | 🤖 [Legacy] PascalORG/editor 是一个基于网页的代码编辑器。 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 31981 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 3 | [oblien/openship](https://github.com/oblien/openship) | 🔥 8910 | 🤖 [llama-3.3-70b-versatile] Oblien/openship是一个自托管的部署平台。 |
+| 4 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 5264 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 30669 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 6168 | Instatic is a modern self-hosted visual CMS - get it running in 1 minute |
+| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 38044 | Write HTML. Render video. Built for agents. |
+| 8 | [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook) | 🔥 587 | 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent |
+| 9 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 20208 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 10 | [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) | 🔥 3096 | MCP server for NotebookLM - Let your AI agents (Claude Code, Codex) research documentation directly with grounded, citation-backed answers from Gem... |
+
