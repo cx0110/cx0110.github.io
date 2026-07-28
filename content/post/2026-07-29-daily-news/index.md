@@ -193,3 +193,72 @@ image:
 | 9 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | 13,162 | 🤖 [llama-3.3-70b-versatile] Nightingale是一个监控和告警平台，提供实时数据监控和告警功能。 |
 | 10 | [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) | 17,325 | 🤖 [llama-3.3-70b-versatile] AISystem项目主要是开发和集成AI全栈底层技术，包括AI芯片、AI编译器、AI推理和训练框架等。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-29 03:06 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 7525 | 🤖 [llama-3.3-70b-versatile] 该项目可以将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 2 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 5 | ⛔ [无描述]  |
+| 3 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 29687 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 4 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 🔥 21889 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端代理多路复用器，允许同时管理多个代理。 |
+| 5 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 🔥 20530 | 🤖 [llama-3.3-70b-versatile] 该项目在25GB内存的消费级机器上运行GLM-5.2（744B MoE）模型。 |
+| 6 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 🔥 17588 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. T... |
+| 7 | [block/buzz](https://github.com/block/buzz) | 🔥 15326 | A hive mind communication platform |
+| 8 | [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) | 🔥 4257 | A real WinUI desktop cleaner with terminal control and multi-database support |
+| 9 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 5530 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claud... |
+| 10 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 11917 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 7525 | 🤖 [llama-3.3-70b-versatile] 该项目可以将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 2 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 29687 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 3 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 11917 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 4 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 4 | ⛔ [无描述]  |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 44557 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 31796 | Agent skill that removes signs of AI-generated writing from text |
+| 7 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 19854 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| 8 | [eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper) | 🔥 940 | Boss直聘爬虫 / BOSS直聘职位数据抓取工具，基于 Chrome CDP 协议复用真实登录态，绕过字体反爬，输出明文薪资 JSON/CSV + 薪资技能分析。A Chrome-CDP-based BOSS Zhipin job scraper/crawler. |
+| 9 | [MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP) | 🔥 762 | MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts |
+| 10 | [inclusionAI/AReno](https://github.com/inclusionAI/AReno) | 🔥 247 | An easy-to-use, fast toolkit to scale up RL post-training on a single node. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [daimon3332/easy-proxies](https://github.com/daimon3332/easy-proxies) | 🔥 140 | 🤖 [llama-3.3-70b-versatile] 基于sing-box的代理订阅导入、测试、管理和网关工具。 |
+| 2 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 3751 | 🤖 [Legacy] 这是一个基于Go语言的全网音乐搜索与下载工具，支持多平台搜索和下载。 |
+| 3 | [Mininglamp-OSS/octo-server](https://github.com/Mininglamp-OSS/octo-server) | 🔥 449 | 🤖 [llama-3.3-70b-versatile] OCTO的Go后端，提供REST、WebSocket API，编排Lobster AI代理，控制WuKongIM实时消息。 |
+| 4 | [tamnd/kage](https://github.com/tamnd/kage) | 🔥 2970 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。 |
+| 5 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 1 | ⛔ [无描述]  |
+| 6 | [praetorian-inc/julius](https://github.com/praetorian-inc/julius) | 🔥 155 | Simple LLM service identification - translate IP:Port to Ollama, vLLM, LiteLLM, or 60+ other AI services in seconds |
+| 7 | [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse) | 🔥 1106 | Manage worktrees without managing worktrees. |
+| 8 | [WhiteDNS/WhiteDNS-Wizard](https://github.com/WhiteDNS/WhiteDNS-Wizard) | 🔥 337 | Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed... |
+| 9 | [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) | 🔥 1549 | Scan the world (for secrets) |
+| 10 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 34868 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 3 | ⛔ [无描述]  |
+| 2 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 🔥 2498 | 🤖 [llama-3.3-70b-versatile] 该项目使用Remotion创建电影级产品视频，包含106个镜头配方卡和161个动态预览。 |
+| 3 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 🔥 19081 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，用于管理基于Markdown的知识库。 |
+| 4 | [ddcat-ai/open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas) | 🔥 296 | 🤖 [llama-3.3-70b-versatile] 开源无限画布工作台，集成多模态生成、分镜编排、素材管理与Agent工作流，用于AI影视创作。 |
+| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 28058 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 6 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 6414 | Instatic is a modern self-hosted visual CMS - get it running in 1 minute |
+| 7 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 5530 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claud... |
+| 8 | [nyblnet/bento](https://github.com/nyblnet/bento) | 🔥 2 | ⛔ [无描述]  |
+| 9 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 🔥 27453 | The open agent skills tool - npx skills |
+| 10 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 🔥 1521 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit. |
+
