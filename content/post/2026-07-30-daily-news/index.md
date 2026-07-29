@@ -193,3 +193,72 @@ image:
 | 9 | [firerpa/lamda](https://github.com/firerpa/lamda) | 8,053 | 🤖 [llama-3.3-70b-versatile] firerpa/lamda是一个Android全栈设备控制平台，提供WebRTC/H.264远程桌面、UI/OCR/图像匹配自动化、MITM代理等功能。 |
 | 10 | [pymumu/smartdns](https://github.com/pymumu/smartdns) | 11,151 | 🤖 [llama-3.3-70b-versatile] 该项目是一个本地DNS服务器，能够获取最快的网站IP，支持DoH、DoT、DoQ协议，提供最佳上网体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-30 02:56 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 33956 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 12514 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 3 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 45564 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 4 | [block/buzz](https://github.com/block/buzz) | 🔥 16763 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 5 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 12616 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 6 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 19452 | Create and share 3D architectural projects. |
+| 7 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 22470 | Skills for Design Engineers. |
+| 8 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 🔥 11805 | A collection of agent skills for CAD, robotics and hardware design |
+| 9 | [m5stack/StackChan](https://github.com/m5stack/StackChan) | 🔥 1082 | StackChan open source! |
+| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 38596 | Write HTML. Render video. Built for agents. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 45564 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 12514 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 3 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 12616 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 4 | [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | 🔥 2 | ⛔ [无描述]  |
+| 5 | [OpenNSWM-Lab/FAROS](https://github.com/OpenNSWM-Lab/FAROS) | 🔥 2879 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自动化研究运行时环境，用于编排人工智能研究工作流程。 |
+| 6 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 8088 | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
+| 7 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 2 | ⛔ [无描述]  |
+| 8 | [zrt-ai-lab/ViNote](https://github.com/zrt-ai-lab/ViNote) | 🔥 445 | ViNote（视记AI）— 开源的 AI 视频知识提取工具。输入视频链接或本地文件，一键生成笔记、知识卡片、思维导图，支持智能问答和多语言翻译。内置 ViNoter 超级智能体，基于 ANP 协议实现对话式跨平台视频搜索与处理。Video to Everything, 让每个视频成为你的知识资产。 |
+| 9 | [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 🔥 5447 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. ... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 15888 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 35046 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 42506 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [HM2899/grokcli-2api](https://github.com/HM2899/grokcli-2api) | 🔥 1 | ⛔ [无描述]  |
+| 5 | [tamnd/kage](https://github.com/tamnd/kage) | 🔥 3007 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。 |
+| 6 | [songloft-org/songloft](https://github.com/songloft-org/songloft) | 🔥 1301 | 🎵 面向个人用户的自托管音乐服务器 |
+| 7 | [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) | 🔥 1062 | ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking ... |
+| 8 | [m5stack/StackChan](https://github.com/m5stack/StackChan) | 🔥 1082 | StackChan open source! |
+| 9 | [evolution-foundation/evolution-go](https://github.com/evolution-foundation/evolution-go) | 🔥 564 | Evolution API / Evolution Go is an open-source WhatsApp integration API |
+| 10 | [gammons/slk](https://github.com/gammons/slk) | 🔥 272 | A blazingly fast Slack TUI |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 33956 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 🔥 11144 | 🤖 [llama-3.3-70b-versatile] 自托管旅行计划工具，支持实时协作、交互地图、预算和打包清单等功能。 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 28482 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 32616 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 5 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 19452 | 🤖 [Legacy] PascalORG/editor 是一个基于网页的代码编辑器。 |
+| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 1 | ⛔ [无描述]  |
+| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 38596 | Write HTML. Render video. Built for agents. |
+| 8 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 9283 | Open source alternative to Semrush and Ahrefs |
+| 9 | [ssnangua/ColorTxt](https://github.com/ssnangua/ColorTxt) | 🔥 691 | 「彩读 3.0 书源 × AI+」——一款会给内容上色的本地 TXT 小说阅读器，带给你不一样的阅读体验！（也支持打开常见的电子书格式，如 .epub）。还有章节识别、简繁互转、划线标注、记笔记、多角色语音朗读、AI 阅读助手、书源找书等功能。支持 macOS、Windows 和 Linux。 |
+| 10 | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 🔥 2296 | TypeScript-to-Native Compiler |
+
