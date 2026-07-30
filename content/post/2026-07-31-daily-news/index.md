@@ -193,3 +193,72 @@ image:
 | 9 | [Tencent/puerts](https://github.com/Tencent/puerts) | 6,158 | 🤖 [llama-3.3-70b-versatile] PUER（普洱）是一个允许开发者使用TypeScript语言在UE或Unity游戏引擎中编写游戏逻辑的项目。 |
 | 10 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 22,181 | 🤖 [llama-3.3-70b-versatile] 该项目是一个全自动化工具，能够一键完成《明日方舟》游戏中的日常任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-07-31 03:08 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 13616 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 33709 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [block/buzz](https://github.com/block/buzz) | 🔥 18225 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 4 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 🔥 14128 | 🤖 [llama-3.3-70b-versatile] 该项目旨在创建最节省内存的工具。 |
+| 5 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 🔥 4471 | 🤖 [llama-3.3-70b-versatile] 一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。 |
+| 6 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 20017 | Create and share 3D architectural projects. |
+| 7 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 6747 | Instatic is a modern self-hosted visual CMS - get it running in 1 minute |
+| 8 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 45831 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| 9 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🔥 18567 | The open-source alternative to Claude Cowork (powered by opencode) |
+| 10 | [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp) | 🔥 911 | Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke  |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 13616 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 45831 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。 |
+| 3 | [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) | 🔥 2 | ⛔ [无描述]  |
+| 4 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | 🔥 2 | ⛔ [无描述]  |
+| 5 | [harbor-framework/harbor](https://github.com/harbor-framework/harbor) | 🔥 3682 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于评估和改进智能体的框架。 |
+| 6 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 30936 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 7 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 🔥 8254 | The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ |
+| 8 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 12884 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| 9 | [sunny-glow/Auto-BenchMax](https://github.com/sunny-glow/Auto-BenchMax) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [Roboparty/UFO](https://github.com/Roboparty/UFO) | 🔥 146 | An open-source unsupervised RL framework for humanoid control with FB/TeCH training, robot-aware motion import, and real-world teleoperation. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [m5stack/StackChan](https://github.com/m5stack/StackChan) | 🔥 1084 | 🤖 [llama-3.3-70b-versatile] StackChan 是一个开源项目，提供一个开源的微控制器平台。 |
+| 2 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 🔥 576 | 🤖 [llama-3.3-70b-versatile] 该项目是一个运维AI代理，能够理解基础设施，找到问题根源，并自动修复。 |
+| 3 | [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) | 🔥 846 | 🤖 [llama-3.3-70b-versatile] 该项目实现了一个反馈循环系统，用于与智能代理进行交互和反馈。 |
+| 4 | [Sir-MmD/vpn-ui](https://github.com/Sir-MmD/vpn-ui) | 🔥 238 | 🤖 [llama-3.3-70b-versatile] 该项目是一个增强的VPN面板，提供用户友好的界面来管理和配置VPN连接。 |
+| 5 | [Gu1llaum-3/sshm](https://github.com/Gu1llaum-3/sshm) | 🔥 1330 | 🤖 [llama-3.3-70b-versatile] SSHM是一个命令行工具，使用Go语言开发，提供直观的TUI界面，简化SSH主机管理和连接。 |
+| 6 | [praetorian-inc/julius](https://github.com/praetorian-inc/julius) | 🔥 172 | Simple LLM service identification - translate IP:Port to Ollama, vLLM, LiteLLM, or 60+ other AI services in seconds |
+| 7 | [mabd-dev/reposcan](https://github.com/mabd-dev/reposcan) | 🔥 1 | ⛔ [星数不足 (增量1/总数10)] reposcan - A fast CLI tool to scan your system for Git repositories and report uncommitted files, unpushed commits, and unpulle... |
+| 8 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 16517 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-leve... |
+| 9 | [IRNova/Nova-Proxy-App](https://github.com/IRNova/Nova-Proxy-App) | 🔥 859 | نوا پروکسی - ابزار پروکسی محلی قدرتمند با قابلیت‌های GSA (Google Apps Script) با Domain Fronting، تکه‌تکه‌سازی TLS، تزریق ECH، بازپخش QUIC، MITM و ... |
+| 10 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 16003 | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messen... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 33709 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🔥 18567 | 🤖 [Legacy] 开源项目，替代Claude Cowork，实现协同工作。 |
+| 3 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 6747 | 🤖 [llama-3.3-70b-versatile] Instatic 是一个现代化的自托管视觉内容管理系统（CMS），可以在1分钟内部署。 |
+| 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 20017 | 🤖 [Legacy] PascalORG/editor 是一个基于网页的代码编辑器。 |
+| 5 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 🔥 4471 | 🤖 [llama-3.3-70b-versatile] 一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。 |
+| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 34968 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, Mi... |
+| 7 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 🔥 2869 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready tem... |
+| 8 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 5895 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claud... |
+| 9 | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | 🔥 4412 | SSH workspace, SFTP, and terminals in one |
+| 10 | [IgorWarzocha/howaboua-pi-stuff](https://github.com/IgorWarzocha/howaboua-pi-stuff) | 🔥 237 | A monorepo of extensions and skills by yours truly. |
+
