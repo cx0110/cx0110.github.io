@@ -192,3 +192,72 @@ image:
 | 9 | [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | 6,116 | 🤖 [llama-3.3-70b-versatile] Bili23-Downloader 是一款跨平台的 B 站视频下载工具，支持音视频流分离下载、多线程加速、弹幕与字幕获取等功能。 |
 | 10 | [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | 14,693 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Vue3、Vite7、TypeScript、Pinia、NaiveUI和UnoCSS的高颜值且功能强大的后台管理模板。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-01 03:07 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [block/buzz](https://github.com/block/buzz) | 🔥 19244 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 34528 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 10486 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。 |
+| 4 | [WilonityLoader/Wilonity](https://github.com/WilonityLoader/Wilonity) | 🔥 3 | 🤖 [llama-3.3-70b-versatile] Wilonity Loader是一个游戏作弊统一库，提供各种游戏作弊功能。 |
+| 5 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 3 | ⛔ [无描述]  |
+| 6 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 47664 | The open-source AI voice studio. Clone, dictate, create. |
+| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 42189 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 8 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 20400 | Create and share 3D architectural projects. |
+| 9 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 31453 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 10 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 14222 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 3 | ⛔ [无描述]  |
+| 2 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 42189 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 3 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 31453 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 4 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 14222 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 5 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 13080 | 🤖 [llama-3.3-70b-versatile] 该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。 |
+| 6 | [usestrix/strix](https://github.com/usestrix/strix) | 🔥 46155 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| 7 | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | 🔥 9718 | Native and Compact Structured Latents for 3D Generation |
+| 8 | [hardness1020/awesome-agent-architecture](https://github.com/hardness1020/awesome-agent-architecture) | 🔥 448 | Learn AI agents from scratch. |
+| 9 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 27890 | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench... |
+| 10 | [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) | 🔥 2343 | Visa Vulnerability Agentic Harness |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [smallnest/pigo](https://github.com/smallnest/pigo) | 🔥 266 | 🤖 [llama-3.3-70b-versatile] Smallnest/pigo 是一个用 Go 语言编写的 Pi 代理，提供轻量级的代理服务。 |
+| 2 | [looplj/axonhub](https://github.com/looplj/axonhub) | 🔥 4844 | 🤖 [Legacy] AxonHub 是一个现代 AI 网关系统，提供统一的 AI 接口。 |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 16966 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 42933 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) | 🔥 1032 | 🤖 [llama-3.3-70b-versatile] ENTERPILOT/GoModel是一个轻量级的AI网关，提供统一的OpenAI兼容API。 |
+| 6 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 28228 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 7 | [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) | 🔥 784 | Database-Backed Durable Golang Workflows |
+| 8 | [ByteNess/aws-vault](https://github.com/ByteNess/aws-vault) | 🔥 407 | A vault for securely storing and accessing AWS credentials in development environments |
+| 9 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 21413 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 10 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 45809 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 🔥 4685 | 🤖 [llama-3.3-70b-versatile] 一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。 |
+| 2 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 47664 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 34528 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [dramaclaw/dramaclaw](https://github.com/dramaclaw/dramaclaw) | 🔥 2819 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用AIGC视频引擎，实现从剧本到成片的一条流水线。 |
+| 5 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 2 | ⛔ [无描述]  |
+| 6 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 6935 | Instatic is a modern self-hosted visual CMS - get it running in 1 minute |
+| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 20889 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 8 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 15360 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based... |
+| 9 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 6172 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claud... |
+| 10 | [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) | 🔥 3179 | Agent Orchestration Command Center |
+
