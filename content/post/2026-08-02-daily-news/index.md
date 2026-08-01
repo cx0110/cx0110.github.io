@@ -193,3 +193,72 @@ image:
 | 9 | [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | 11,692 | 🤖 [llama-3.3-70b-versatile] NotionNext是一个使用NextJS和Notion API构建的静态博客平台，支持多种部署方案，无需服务器即可搭建网站。 |
 | 10 | [hgjazhgj/FGO-py](https://github.com/hgjazhgj/FGO-py) | 1,972 | 🤖 [llama-3.3-70b-versatile] 该项目是一个全自动的Fate/Grand Order游戏助手，能够自动爬塔、完成每周任务等功能，实现免配置跨平台运行。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-02 02:54 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 4520 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 2 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🔥 2592 | 🤖 [llama-3.3-70b-versatile] 快速的Rust库，用于PDF检查、分类和文本提取，智能检测扫描和基于文本的PDF。 |
+| 3 | [block/buzz](https://github.com/block/buzz) | 🔥 20232 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 4 | [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) | 🔥 2654 | 🤖 [llama-3.3-70b-versatile] 一个原生Android音频播放器，集多源在线播放、本地管理、歌词体验和自建同步功能。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 35096 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce) | 🔥 8577 | AOS Community Edition: the open agent operating system. |
+| 7 | [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp) | 🔥 1426 | Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke  |
+| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 31778 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 9 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 32324 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plu... |
+| 10 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 🔥 10438 | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic ev... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 31778 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 2 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | 🔥 15522 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一份实用技能列表，用于自动化Codex CLI和API的工作流程。 |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 32324 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 4 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 🔥 10438 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源情报平台，统一跟踪全球私人飞机、间谍卫星和地震事件等信息。 |
+| 5 | [shy3130/tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel) | 🔥 2460 | 🤖 [llama-3.3-70b-versatile] TSP是一个基于TickFlow数据源的A股量化工作台，实现选股、监控、回测和个股分析等功能。 |
+| 6 | [sii-research/tau-0-vla](https://github.com/sii-research/tau-0-vla) | 🔥 248 | This repo is the official implementation of  "τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation". |
+| 7 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 31829 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 8 | [SHITIANYU-hue/amai_ocl](https://github.com/SHITIANYU-hue/amai_ocl) | 🔥 1 | ⛔ [无描述]  |
+| 9 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 32944 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 10 | [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) | 🔥 3792 | Expert code review skill: SOLID, security, performance, error handling, boundary conditions |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 18441 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 17426 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [gykim80/perfectpixel-studio](https://github.com/gykim80/perfectpixel-studio) | 🔥 475 | 🤖 [llama-3.3-70b-versatile] 利用AI技术，从单一文本提示生成包含8个方向和100+动作的角色精灵图。 |
+| 4 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 5788 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于AI编码代理的持久性内存系统，支持SQLite和FTS5数据库。 |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 43128 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 6 | [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) | 🔥 8218 | Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. |
+| 7 | [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock) | 🔥 7094 | 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingL... |
+| 8 | [yorukot/superfile](https://github.com/yorukot/superfile) | 🔥 22073 | Pretty fancy and modern terminal file manager |
+| 9 | [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) | 🔥 488 | Cloud provider for KIND clusters |
+| 10 | [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) | 🔥 3214 | Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 4520 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 35096 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [software-mansion/argent](https://github.com/software-mansion/argent) | 🔥 1854 | 🤖 [llama-3.3-70b-versatile] 该项目是一个工具包，用于控制、调试和分析iOS和Android应用。 |
+| 4 | [marikagura/kimi-room](https://github.com/marikagura/kimi-room) | 🔥 1 | ⛔ [星数不足 (增量1/总数63)] 陪伴手机端 PWA——默认纯前端，数据在本地；可选接 kimi-core 做记忆后端 |
+| 5 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 116 | 🤖 [llama-3.3-70b-versatile] 该项目将ChatGPT Pro集成到Codex应用中，支持上下文、压缩、流媒体、图像等功能。 |
+| 6 | [cPilot-GUI/Amis](https://github.com/cPilot-GUI/Amis) | 🔥 706 | 🖥️ A local-first desktop workspace for private agents, local models, runtime visibility, and local/cloud routing. |
+| 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 20585 | Create and share 3D architectural projects. |
+| 8 | [supabase/agent-skills](https://github.com/supabase/agent-skills) | 🔥 2463 | Agent Skills to help developers using AI agents with Supabase |
+| 9 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔥 46332 | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to pr... |
+| 10 | [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) | 🔥 1959 | Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model su... |
+
