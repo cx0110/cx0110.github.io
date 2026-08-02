@@ -193,3 +193,72 @@ image:
 | 9 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 28,228 | 🤖 [llama-3.3-70b-versatile] 该项目主要用于测试Cloudflare CDN的延迟和速度，并帮助用户找到最快的IP。 |
 | 10 | [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 21,083 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，用于嗅探和捕获网页中的资源，帮助用户方便地下载或查看网页中的图片、视频、音频等资源。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-03 02:54 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🔥 5836 | 🤖 [llama-3.3-70b-versatile] 快速的Rust库，用于PDF检查、分类和文本提取，智能检测扫描和基于文本的PDF。 |
+| 2 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 6716 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 3 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 🔥 22161 | 🤖 [llama-3.3-70b-versatile] 该项目在25GB内存的消费级机器上运行GLM-5.2（744B MoE）模型。 |
+| 4 | [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 🔥 3 | ⛔ [无描述]  |
+| 5 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 13049 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。 |
+| 6 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 2 | ⛔ [无描述]  |
+| 7 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 23910 | Skills for Design Engineers. |
+| 8 | [mchughalex/skate3recomp](https://github.com/mchughalex/skate3recomp) | 🔥 2 | ⛔ [无描述]  |
+| 9 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 37713 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, Mi... |
+| 10 | [antirez/ds4](https://github.com/antirez/ds4) | 🔥 19930 | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 2 | ⛔ [无描述]  |
+| 2 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 15594 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 45499 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 59868 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 5 | [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | 🔥 1494 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Codex恋爱军师，提供情绪支持、关系分析和可执行策略，内置多学科知识库，支持多元关系。 |
+| 6 | [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | 🔥 1010 | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. |
+| 7 | [XMUDeepLIT/MemGraphRAG](https://github.com/XMUDeepLIT/MemGraphRAG) | 🔥 132 | [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation |
+| 8 | [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) | 🔥 332 | RoboDojo Official Repo |
+| 9 | [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 🔥 6024 | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills |
+| 10 | [ascending-llc/jarvis-registry](https://github.com/ascending-llc/jarvis-registry) | 🔥 2714 | Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access con... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) | 🔥 1119 | 🤖 [llama-3.3-70b-versatile] 该项目是一个可视化工具，能够在3D代码库地图上回放编码代理会话。 |
+| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 28960 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 3 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 4672 | 🤖 [llama-3.3-70b-versatile] 该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。 |
+| 4 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 25811 | 🤖 [llama-3.3-70b-versatile] Beads是一个内存升级工具，用于增强编码代理的记忆能力。 |
+| 5 | [ZenGeekLabs/DJOneHub](https://github.com/ZenGeekLabs/DJOneHub) | 🔥 291 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于管理第一代DJI 4G模块的原生macOS工具。 |
+| 6 | [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | 🔥 1185 | Use LLMs to hide messages inside normal looking conversations |
+| 7 | [stacklok/toolhive](https://github.com/stacklok/toolhive) | 🔥 1987 | ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers. |
+| 8 | [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) | 🔥 2007 | High-performance, low-latency note synchronization, online management, and remote REST API service platform. |
+| 9 | [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock) | 🔥 7100 | 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingL... |
+| 10 | [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) | 🔥 8060 | The tiniest OpenID Certified™ authorization and authentication server you have ever seen. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🔥 20212 | 🤖 [Legacy] 开源项目，替代Claude Cowork，实现协同工作。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 35632 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) | 🔥 9662 | 🤖 [llama-3.3-70b-versatile] Hermes Studio是一个Web仪表盘，用于管理Hermes Agent的AI聊天、会话、任务和分析。 |
+| 4 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 🔥 2583 | 🤖 [llama-3.3-70b-versatile] 一个本地优先、可自托管的工作空间，支持代码、办公、设计、演示、网站和视频编辑。 |
+| 5 | [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) | 🔥 260 | 🤖 [llama-3.3-70b-versatile] 该项目提供独立安装的Pi编码代理扩展，支持多种编程语言和AI工作流。 |
+| 6 | [WenXiaoWendy/galatea-garden-wake-bridge](https://github.com/WenXiaoWendy/galatea-garden-wake-bridge) | 🔥 110 | 独立的 Galatea Garden 智能体唤醒桥：订阅 Garden SSE 事件，并通过可替换的 Runtime Adapter 将消息注入 Codex、Claude Code 等 Agent Runtime。 |
+| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 1 | ⛔ [无描述]  |
+| 8 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 🔥 30480 | runs anywhere. uses anything |
+| 9 | [webdevcody/sketchlab.app](https://github.com/webdevcody/sketchlab.app) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 17544 | OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compat... |
+
