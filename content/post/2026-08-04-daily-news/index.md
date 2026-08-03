@@ -193,3 +193,72 @@ image:
 | 9 | [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) | 5,406 | 🤖 [llama-3.3-70b-versatile] xfangfang/wiliwili是一个跨平台的第三方B站客户端，支持在多种设备上运行，包括PC、PSVita、PS4、Xbox和Nintendo Switch。 |
 | 10 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 38,524 | 🤖 [llama-3.3-70b-versatile] AstrBot是一个集成多个即时通讯平台、语言模型、插件和人工智能功能的聊天机器人基础设施。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-04 03:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 15435 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。 |
+| 2 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 9256 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 3 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 21854 | 🤖 [llama-3.3-70b-versatile] 百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。 |
+| 4 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 11931 | 🤖 [llama-3.3-70b-versatile] 腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。 |
+| 5 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🔥 7757 | 🤖 [llama-3.3-70b-versatile] 快速的Rust库，用于PDF检查、分类和文本提取，智能检测扫描和基于文本的PDF。 |
+| 6 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 33060 | 符合nature论文学术表达和科研绘图的Skill |
+| 7 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 🔥 1064 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, ... |
+| 8 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 2 | ⛔ [无描述]  |
+| 9 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 28278 | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench... |
+| 10 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | 🔥 8267 | Personal AI, On Personal Devices |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 21854 | 🤖 [llama-3.3-70b-versatile] 百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。 |
+| 2 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 33060 | 🤖 [llama-3.3-70b-versatile] 该项目提供符合nature论文学术表达和科研绘图的技能。 |
+| 3 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 🔥 1064 | 🤖 [llama-3.3-70b-versatile] 轻量级循环工程状态内核，支持多种AI代理，具有持久目标、自动唤醒、可执行待办事项等功能。 |
+| 4 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 2 | ⛔ [无描述]  |
+| 5 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 28278 | 🤖 [llama-3.3-70b-versatile] 该项目构建代码库的持久地图，优化AI编码工具的读取效率。 |
+| 6 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | 🔥 8267 | Personal AI, On Personal Devices |
+| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 44876 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full vi... |
+| 8 | [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | 🔥 1595 | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| 9 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 15836 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 10 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 4372 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox) | 🔥 2726 | 🤖 [llama-3.3-70b-versatile] 该项目是一个更好的Mihomo客户端，提供更好的用户体验和功能。 |
+| 2 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 1 | ⛔ [无描述]  |
+| 3 | [HM2899/grokcli-2api](https://github.com/HM2899/grokcli-2api) | 🔥 1 | ⛔ [无描述]  |
+| 4 | [github/gh-stack](https://github.com/github/gh-stack) | 🔥 989 | 🤖 [llama-3.3-70b-versatile] GitHub Stacked PRs 是一个管理 GitHub 分支和拉取请求的工具，支持分支堆栈式管理。 |
+| 5 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 18549 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 6 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 18368 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-leve... |
+| 7 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 29806 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 8 | [yan5xu/codexloom](https://github.com/yan5xu/codexloom) | 🔥 273 | Turn Codex threads into an organization of long-lived domain agents. |
+| 9 | [adithyan-ak/AgentHound](https://github.com/adithyan-ak/AgentHound) | 🔥 210 | Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis acros... |
+| 10 | [databasus/databasus](https://github.com/databasus/databasus) | 🔥 7840 | PostgreSQL backup tool with Point-In-Time-Recovery and restore verification |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 9256 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 38662 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 3 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 🔥 5141 | 🤖 [llama-3.3-70b-versatile] 一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。 |
+| 4 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 🔥 974 | 🤖 [llama-3.3-70b-versatile] 一个开源的多智能体AI桌面客户端，通过对话构建和命令AI代理团队。 |
+| 5 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 20909 | 🤖 [Legacy] PascalORG/editor 是一个基于网页的代码编辑器。 |
+| 6 | [deer-flow/llm-space](https://github.com/deer-flow/llm-space) | 🔥 1489 | A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud... |
+| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 21544 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 8 | [theswerd/brainless](https://github.com/theswerd/brainless) | 🔥 446 | Claude Code, Codex, and Grok interfaces as shadcn components |
+| 9 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 🔥 23734 | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| 10 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🔥 20644 | The open-source alternative to Claude Cowork (powered by opencode) |
+
