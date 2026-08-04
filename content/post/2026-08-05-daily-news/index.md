@@ -193,3 +193,72 @@ image:
 | 9 | [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 19,123 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的异步数据爬取工具，支持API调用、在线批量解析及下载来自抖音、快手、TikTok和Bilibili的数据。 |
 | 10 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 47,278 | 🤖 [llama-3.3-70b-versatile] JeecgBoot 是一款 AI 驱动的低代码平台，提供“零代码”和“代码生成”双模式，能够快速生成前后端代码和建表 SQL，帮助开发者高效完成 Java 项目的开发。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-05 03:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 11026 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 2 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 17660 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。 |
+| 3 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 44323 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。 |
+| 4 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🔥 9761 | 🤖 [llama-3.3-70b-versatile] 快速的Rust库，用于PDF检查、分类和文本提取，智能检测扫描和基于文本的PDF。 |
+| 5 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 25360 | 🤖 [llama-3.3-70b-versatile] OfficeCLI 是一款开源工具，允许 AI 代理读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。 |
+| 6 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 16327 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 49106 | The open-source AI voice studio. Clone, dictate, create. |
+| 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 30704 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 9 | [zhulin025/Codex-QQ-Skin](https://github.com/zhulin025/Codex-QQ-Skin) | 🔥 390 | Codex 皮肤生成器（内置复古 QQ 风皮肤） |
+| 10 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 🔥 1527 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, ... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 16327 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 2 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 44323 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。 |
+| 3 | [amap-cvlab/ABot-World](https://github.com/amap-cvlab/ABot-World) | 🔥 1643 | 🤖 [llama-3.3-70b-versatile] 该项目实现了在单个桌面GPU上展开无限交互式世界。 |
+| 4 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 19191 | 🤖 [llama-3.3-70b-versatile] 该项目使用编码代理编辑视频，实现视频编辑自动化。 |
+| 5 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 22047 | 🤖 [llama-3.3-70b-versatile] 百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。 |
+| 6 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 32940 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabil... |
+| 7 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 5038 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
+| 8 | [yushui2022/MathModel-Skill](https://github.com/yushui2022/MathModel-Skill) | 🔥 247 | Agent-native mathematical modeling workflow skills for Trae, Claude Code, and Codex, covering problem parsing, modeling, code generation, evidence ... |
+| 9 | [mihang123/mom-index](https://github.com/mihang123/mom-index) | 🔥 297 | 👩‍👧 宝妈指数 — 追踪小白/宝妈投资情绪的反向指标。当菜市场大妈都在讨论股票时，就是你该离场的时候。 |
+| 10 | [Cai-aa/CAE-Agent-Hub](https://github.com/Cai-aa/CAE-Agent-Hub) | 🔥 1 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 30704 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 18746 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 35837 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [sercanarga/PCILeechGen](https://github.com/sercanarga/PCILeechGen) | 🔥 591 | 🤖 [llama-3.3-70b-versatile] PCILeech固件生成工具，用于生成固件以进行PCI设备的内存访问和数据提取。 |
+| 5 | [0hardik1/kubesplaining](https://github.com/0hardik1/kubesplaining) | 🔥 1 | ⛔ [星数不足 (增量1/总数88)] Kubernetes security assessment CLI: RBAC, pod-escape, and privilege-escalation path analysis. Cloudsplaining for Kubernetes. |
+| 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 29813 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 7 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 43907 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 8 | [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 🔥 2110 | Infinite BYOK in Cursor  https://github.com/leookun/cursor-byok/releases |
+| 9 | [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox) | 🔥 2787 | Another Better Mihomo Client |
+| 10 | [londek/ipadecrypt](https://github.com/londek/ipadecrypt) | 🔥 459 | 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 11026 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 2 | [aipoch/open-science](https://github.com/aipoch/open-science) | 🔥 1543 | 🤖 [llama-3.3-70b-versatile] 一个开源的AI工作台，用于科学发现，支持多种模型。 |
+| 3 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 21814 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 21023 | 🤖 [Legacy] PascalORG/editor 是一个基于网页的代码编辑器。 |
+| 5 | [spencermarx/open-code-review](https://github.com/spencermarx/open-code-review) | 🔥 320 | 🤖 [llama-3.3-70b-versatile] 该项目是一个人工智能驱动的多智能体代码审查工具，模拟一支可定制的工程师团队进行代码审查。 |
+| 6 | [oil-oil/wolfcha](https://github.com/oil-oil/wolfcha) | 🔥 668 | AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs like DeepSeek, Qwen, Gemini, and more |
+| 7 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | 🔥 8876 | Lightweight (7MB) Terminal-first AI-native dev workspace |
+| 8 | [Stack-Cairn/LiveAgent](https://github.com/Stack-Cairn/LiveAgent) | 🔥 1645 | A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded! |
+| 9 | [forestai123456/Daisy-Voice-Agent](https://github.com/forestai123456/Daisy-Voice-Agent) | 🔥 1 | ⛔ [星数不足 (增量1/总数72)] Daisy：AI 语音助手 |
+| 10 | [Temple-Stuart/temple-stuart-accounting](https://github.com/Temple-Stuart/temple-stuart-accounting) | 🔥 215 | Temple Stuart |
+
