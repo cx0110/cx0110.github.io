@@ -193,3 +193,72 @@ image:
 | 9 | [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 21,168 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，用于嗅探和捕获网页中的资源，帮助用户方便地下载或查看网页中的图片、视频、音频等资源。 |
 | 10 | [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) | 18,324 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，能够实现网页、输入框、PDF、Epub、字幕文件和TXT文件等多种格式的双语翻译。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-06 03:13 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 18987 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。 |
+| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 5674 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 3 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 14921 | 🤖 [llama-3.3-70b-versatile] 腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。 |
+| 4 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 19697 | 🤖 [llama-3.3-70b-versatile] 该项目使用编码代理编辑视频，实现视频编辑自动化。 |
+| 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 31488 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 40577 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, Mi... |
+| 7 | [Jaycheng1103/chatgpt-video-editing-skills](https://github.com/Jaycheng1103/chatgpt-video-editing-skills) | 🔥 371 | 用 ChatGPT／Codex 安裝 AI 剪輯環境，並依八大步驟完成可驗證的短影音剪輯。 |
+| 8 | [crazyykhllc-bit/CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 🔥 1525 | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 |
+| 9 | [Yu9191/wloc](https://github.com/Yu9191/wloc) | 🔥 8193 | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 |
+| 10 | [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills) | 🔥 2 | ⛔ [无描述]  |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 5674 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 2 | [crazyykhllc-bit/CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 🔥 1525 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Codex Skill，用于生成高密度、可编辑的咨询风格PowerPoint。 |
+| 3 | [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills) | 🔥 2 | ⛔ [无描述]  |
+| 4 | [makerspet/oomwoo](https://github.com/makerspet/oomwoo) | 🔥 7830 | 🤖 [llama-3.3-70b-versatile] 开源的吸尘机器人清洁器项目，实现自动清洁功能。 |
+| 5 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 16921 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 6 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | 🔥 4007 | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. |
+| 7 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 33544 | 符合nature论文学术表达和科研绘图的Skill |
+| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 19697 | Edit videos with coding agents |
+| 9 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🔥 8173 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses with... |
+| 10 | [javaht/claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn) | 🔥 5792 | Claude Desktop Chinese Patch (macOS & Windows) |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 31488 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 44222 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 3 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 5863 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于AI编码代理的持久性内存系统，支持SQLite和FTS5数据库。 |
+| 4 | [sortie-ai/sortie](https://github.com/sortie-ai/sortie) | 🔥 119 | 🤖 [llama-3.3-70b-versatile] 该项目将跟踪票转换为自主代理会话。 |
+| 5 | [guohuiyuan/music-lib](https://github.com/guohuiyuan/music-lib) | 🔥 109 | 🤖 [llama-3.3-70b-versatile] 该项目是一个音乐聚合搜索与下载核心库，支持网易云、QQ、酷狗、Bilibili等音乐平台。 |
+| 6 | [tamnd/kage](https://github.com/tamnd/kage) | 🔥 3125 | Shadow any website for offline viewing, with the JavaScript stripped out |
+| 7 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 46260 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+| 8 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | 🔥 4683 | The open source control plane for agentic engineering. |
+| 9 | [trpc-group/trpc-a2a-go](https://github.com/trpc-group/trpc-a2a-go) | 🔥 242 | Go implementation for A2A (Agent2Agent) protocol |
+| 10 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 19405 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 40577 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 14921 | 🤖 [llama-3.3-70b-versatile] 腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。 |
+| 3 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 11627 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 4 | [productdevbook/hucre](https://github.com/productdevbook/hucre) | 🔥 1798 | 🤖 [llama-3.3-70b-versatile] 零依赖的电子表格引擎，支持读写XLSX、CSV、ODS格式，使用纯TypeScript编写。 |
+| 5 | [dramaclaw/dramaclaw](https://github.com/dramaclaw/dramaclaw) | 🔥 3257 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用AIGC视频引擎，实现从剧本到成片的一条流水线。 |
+| 6 | [voicetreelab/voicetree](https://github.com/voicetreelab/voicetree) | 🔥 907 | The spatial IDE for recursive multi-agent orchestration. It's like an Obsidian graph-view that you work directly inside of.  |
+| 7 | [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 🔥 2 | ⛔ [无描述]  |
+| 8 | [oblien/openship](https://github.com/oblien/openship) | 🔥 10329 | Self-hosted deployment platform |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 🔥 3285 | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under d... |
+
