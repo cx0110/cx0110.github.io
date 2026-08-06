@@ -1,0 +1,74 @@
+---
+title: "🔥 每日技术热点 2026-08-07"
+date: 2026-08-07T09:00:00+08:00
+draft: false
+---
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-07 07:49 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 16320 | 🤖 [llama-3.3-70b-versatile] 腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。 |
+| 2 | [trycompai/crm](https://github.com/trycompai/crm) | 🔥 7181 | 🤖 [llama-3.3-70b-versatile] 这是一个开源的、面向代理商的客户关系管理系统。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 41673 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 8053 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 5 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 34129 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 6 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 43510 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 7 | [ben-z/findphone](https://github.com/ben-z/findphone) | 🔥 827 | Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available |
+| 8 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 30500 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 9 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 🔥 25094 | the runtime your coding agents live on |
+| 10 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 1298 | Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 🔥 29900 | 🤖 [llama-3.3-70b-versatile] 该项目旨在提取和模拟任何人的思维方式，包括心智模型、决策启发式和表达特征。 |
+| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 17599 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 3 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 33771 | 🤖 [llama-3.3-70b-versatile] 该项目提供符合nature论文学术表达和科研绘图的技能。 |
+| 4 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 34129 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 5 | [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) | 🔥 2954 | 🤖 [llama-3.3-70b-versatile] 该项目实现了版本无关的Codex指令部署，具有试运行、备份、钩子隔离和恢复功能。 |
+| 6 | [makerspet/oomwoo](https://github.com/makerspet/oomwoo) | 🔥 8005 | Open-source vacuum robot cleaner |
+| 7 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 🔥 1558 | 活人感写作 1.0.0｜通用中文创作与改稿 Skill |
+| 8 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 5711 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 9 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 43510 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 10 | [Paritok-official/paritok-4b-v1](https://github.com/Paritok-official/paritok-4b-v1) | 🔥 573 | The first open-source compression model trained specifically for coding agents. 4B, Apache 2.0. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 19246 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [goposta/posta](https://github.com/goposta/posta) | 🔥 192 | 🤖 [llama-3.3-70b-versatile] 一个自托管的电子邮件投递平台，通过HTTP API发送邮件，处理SMTP投递、模板、存储、安全和分析。 |
+| 3 | [perplexityai/numbat](https://github.com/perplexityai/numbat) | 🔥 732 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI代理活动的可视化、设备内检测、预阻断和法医重建功能。 |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 44488 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 19368 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 6 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 32372 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 7 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | 🔥 7049 | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
+| 8 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 12715 | Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. |
+| 9 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | 🔥 23909 | A new AList Fork to Anti Trust Crisis |
+| 10 | [floatpane/matcha](https://github.com/floatpane/matcha) | 🔥 1052 | A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to ... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 16320 | 🤖 [llama-3.3-70b-versatile] 腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。 |
+| 2 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 8053 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 3 | [trycompai/crm](https://github.com/trycompai/crm) | 🔥 7181 | 🤖 [llama-3.3-70b-versatile] 这是一个开源的、面向代理商的客户关系管理系统。 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 41673 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 5 | [ymichael/bb](https://github.com/ymichael/bb) | 🔥 1034 | 🤖 [llama-3.3-70b-versatile] bb是一个智能集成开发环境（IDE），能够自主控制自身。 |
+| 6 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 30500 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 7 | [nestjs-redisx/nestjs-redisx](https://github.com/nestjs-redisx/nestjs-redisx) | 🔥 2 | ⛔ [星数不足 (增量2/总数50)] Modular Redis toolkit for NestJS with plugin architecture — caching, locks, rate limiting, idempotency, streams, metrics & tracing |
+| 8 | [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | 🔥 11525 | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress |
+| 9 | [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) | 🔥 2430 | A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account hea... |
+| 10 | [mintdotgg/mint-threejs-skills](https://github.com/mintdotgg/mint-threejs-skills) | 🔥 104 | Agent guidance for building polished Three.js apps and games with Mint MCP |
+
