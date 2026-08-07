@@ -193,3 +193,72 @@ image:
 | 9 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 47,318 | 🤖 [llama-3.3-70b-versatile] JeecgBoot 是一款 AI 驱动的低代码平台，提供“零代码”和“代码生成”双模式，能够快速生成前后端代码和建表 SQL，帮助开发者高效完成 Java 项目的开发。 |
 | 10 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 17,321 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-08 02:39 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 🔥 25554 | 🤖 [llama-3.3-70b-versatile] Herdr 是一个运行时环境，用于托管编码代理。 |
+| 2 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 29334 | 🤖 [llama-3.3-70b-versatile] 该项目构建代码库的持久地图，优化AI编码工具的读取效率。 |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 43781 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 4 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 1741 | 🤖 [llama-3.3-70b-versatile] Bright Data CLI：从终端直接抓取、搜索和提取结构化网页数据。 |
+| 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 32867 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 6 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 🔥 1629 | Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs privately on your device. |
+| 7 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🔥 12982 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing... |
+| 8 | [ymichael/bb](https://github.com/ymichael/bb) | 🔥 1350 | bb is an agentic IDE that can control itself |
+| 9 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 26813 | Skills for Design Engineers. |
+| 10 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 2286 | JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingerti... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 29334 | 🤖 [llama-3.3-70b-versatile] 该项目构建代码库的持久地图，优化AI编码工具的读取效率。 |
+| 2 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 🔥 34235 | 🤖 [llama-3.3-70b-versatile] 个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。 |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 43781 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 4 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 2286 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 5 | [ArcadeAI/blueprint-mcp](https://github.com/ArcadeAI/blueprint-mcp) | 🔥 718 | 🤖 [llama-3.3-70b-versatile] 该项目使用Nano Banana Pro生成图表，以帮助理解代码库和系统架构。 |
+| 6 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 🔥 399 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
+| 7 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 🔥 3334 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, ... |
+| 8 | [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 🔥 3870 | TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, c... |
+| 9 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 33948 | 符合nature论文学术表达和科研绘图的Skill |
+| 10 | [OpenDeskBot/brufik_in_one](https://github.com/OpenDeskBot/brufik_in_one) | 🔥 1 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 32867 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 2 | [magicrew/doc7](https://github.com/magicrew/doc7) | 🔥 607 | 🤖 [llama-3.3-70b-versatile] 该项目将文档转换为AI可读的Markdown格式，具有视觉理解能力。 |
+| 3 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 19585 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 4 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 19545 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 5 | [Hypostasis-Cat/HypoMux](https://github.com/Hypostasis-Cat/HypoMux) | 🔥 2487 | 🤖 [llama-3.3-70b-versatile] 一键聚合多网卡，实现物理级多线下载与叠加网速。 |
+| 6 | [boldsoftware/shelley](https://github.com/boldsoftware/shelley) | 🔥 611 | Shelley is a coding agent |
+| 7 | [snnabb/Meridian](https://github.com/snnabb/Meridian) | 🔥 190 | 轻量级 Emby 反向代理管理面板  Apple TV 风格 UI |
+| 8 | [mark3labs/kit](https://github.com/mark3labs/kit) | 🔥 118 | KIT (Knowledge Inference Tool) — A lightweight AI agent for coding |
+| 9 | [Sliverkiss/cpa-plugin](https://github.com/Sliverkiss/cpa-plugin) | 🔥 1 | ⛔ [星数不足 (增量1/总数79)] 自用cpa插件 |
+| 10 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 26113 | Beads - A memory upgrade for your coding agent |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 🔥 1629 | 🤖 [llama-3.3-70b-versatile] 本项目是一个本地优先的AI代理，优化本地AI模型，支持长上下文窗口，私密运行于本地设备。 |
+| 2 | [ymichael/bb](https://github.com/ymichael/bb) | 🔥 1350 | 🤖 [llama-3.3-70b-versatile] bb是一个智能集成开发环境（IDE），能够自主控制自身。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 42376 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 30673 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 39550 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 18018 | OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compat... |
+| 7 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 27939 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 8 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 1741 | Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal. |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 39927 | Write HTML. Render video. Built for agents. |
+| 10 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 22732 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+
