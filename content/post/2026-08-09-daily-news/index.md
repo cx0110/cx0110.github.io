@@ -193,3 +193,72 @@ image:
 | 9 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 99,599 | 🤖 [llama-3.3-70b-versatile] 该项目是一个每周五发布的科技爱好者周刊，分享科技相关的新闻、文章和资源。 |
 | 10 | [LorisYounger/VPet](https://github.com/LorisYounger/VPet) | 6,592 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的虚拟桌宠模拟器，可以内置到任何WPF应用程序中，为用户提供虚拟的桌面宠物体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-09 02:21 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 195 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 43280 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 3 | [floci-io/floci](https://github.com/floci-io/floci) | 🔥 18976 | 🤖 [llama-3.3-70b-versatile] Floci是一个轻量级的本地AWS模拟器，用于测试和开发AWS应用程序。 |
+| 4 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 18791 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 5 | [block/buzz](https://github.com/block/buzz) | 🔥 25262 | 🤖 [llama-3.3-70b-versatile] 一个集体智能的通信平台，实现群体间实时信息共享和协作。 |
+| 6 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 2429 | Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal. |
+| 7 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 20086 | Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. |
+| 8 | [talivia-group/talivia](https://github.com/talivia-group/talivia) | 🔥 1313 | Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integration... |
+| 9 | [google/skills](https://github.com/google/skills) | 🔥 16597 | Agent Skills for Google products and technologies |
+| 10 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 31 | ⛔ [无描述]  |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 18791 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 2 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 31 | ⛔ [无描述]  |
+| 3 | [google/skills](https://github.com/google/skills) | 🔥 16597 | 🤖 [llama-3.3-70b-versatile] 该项目为Google产品和技术提供智能代理技能。 |
+| 4 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 7361 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 60716 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 6 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 18462 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 7 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 🔥 24124 | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Co... |
+| 8 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 5848 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 9 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 🔥 3565 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, ... |
+| 10 | [lemony-ai/cascadeflow](https://github.com/lemony-ai/cascadeflow) | 🔥 4037 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 20086 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 33100 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 19693 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | 🔥 7215 | 🤖 [llama-3.3-70b-versatile] chenyme/grok2api 是一个多账户API网关，支持Grok Build、Grok Web和Grok Console。 |
+| 5 | [perplexityai/numbat](https://github.com/perplexityai/numbat) | 🔥 806 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI代理活动的可视化、设备内检测、预阻断和法医重建功能。 |
+| 6 | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | 🔥 9994 | High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard. |
+| 7 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 4 | ⛔ [无描述]  |
+| 8 | [github/gh-stack](https://github.com/github/gh-stack) | 🔥 1182 | GitHub Stacked PRs |
+| 9 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 44796 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 10 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 36317 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 43280 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 2 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 2429 | 🤖 [llama-3.3-70b-versatile] Bright Data CLI：从终端直接抓取、搜索和提取结构化网页数据。 |
+| 3 | [talivia-group/talivia](https://github.com/talivia-group/talivia) | 🔥 1313 | 🤖 [llama-3.3-70b-versatile] 开源、自托管的收入分析平台，提供网页分析、会话回放、收入归因和客户收入集成等功能。 |
+| 4 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 18123 | 🤖 [llama-3.3-70b-versatile] 腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 40121 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [ymichael/bb](https://github.com/ymichael/bb) | 🔥 1455 | bb is an agentic IDE that can control itself |
+| 7 | [trycompai/crm](https://github.com/trycompai/crm) | 🔥 7703 | An open-source, agentic-first CRM. |
+| 8 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 🔥 4178 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready tem... |
+| 9 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 22968 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 10 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 30805 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+
