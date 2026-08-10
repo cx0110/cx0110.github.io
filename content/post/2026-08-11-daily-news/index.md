@@ -193,3 +193,72 @@ image:
 | 9 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 15,369 | 🤖 [llama-3.3-70b-versatile] 该项目是一个TikTok和抖音的数据采集和下载工具，可以下载和采集包括发布、喜欢、合辑、直播、视频、图集、音乐等多种类型的内容。 |
 | 10 | [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 12,677 | 🤖 [llama-3.3-70b-versatile] 该项目是一个视觉小说翻译器，用于帮助用户翻译和理解视觉小说中的文本内容。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-11 02:41 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 12834 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 2 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 23251 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 41621 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 8185 | 🤖 [llama-3.3-70b-versatile] 该项目是一个集成层，用于连接和管理不同设备和系统的代理。 |
+| 5 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 21191 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 6 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 🔥 23674 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power ... |
+| 7 | [MengTo/kage](https://github.com/MengTo/kage) | 🔥 755 | An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js. |
+| 8 | [pctrade/end4-pC](https://github.com/pctrade/end4-pC) | 🔥 1220 | Custom end4 |
+| 9 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 3676 | Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal. |
+| 10 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 19060 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 19060 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 2 | [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | 🔥 2 | ⛔ [无描述]  |
+| 3 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 23320 | 🤖 [llama-3.3-70b-versatile] 百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。 |
+| 4 | [google/skills](https://github.com/google/skills) | 🔥 17565 | 🤖 [llama-3.3-70b-versatile] 该项目为Google产品和技术提供智能代理技能。 |
+| 5 | [valqore/valqore](https://github.com/valqore/valqore) | 🔥 1509 | 🤖 [llama-3.3-70b-versatile] Valqore项目为AI驱动的云和Kubernetes操作提供安全防护。 |
+| 6 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🔥 10699 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap... |
+| 7 | [jonexaiorg/jonex](https://github.com/jonexaiorg/jonex) | 🔥 355 | All-in-One Multimodal Parsing Engine + Ontology-Powered AI-Ready Knowledge Engine |
+| 8 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 9815 | The Open-Source Elevenlabs alternative AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio. |
+| 9 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 28167 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 10 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 34438 | 符合nature论文学术表达和科研绘图的Skill |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 21191 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 19920 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [solod-dev/solod](https://github.com/solod-dev/solod) | 🔥 1064 | 🤖 [llama-3.3-70b-versatile] Solod 是一个 Go 语言子集，能够将 Go 代码转换为 C 语言代码。 |
+| 4 | [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | 🔥 9189 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能编排器，用于并行代码代理，计划任务、生成代理，并自动处理持续集成修复、合并冲突和代码审查。 |
+| 5 | [Hypostasis-Cat/HypoMux](https://github.com/Hypostasis-Cat/HypoMux) | 🔥 2668 | 🤖 [llama-3.3-70b-versatile] 一键聚合多网卡，实现物理级多线下载与叠加网速。 |
+| 6 | [nilbuild/slim](https://github.com/nilbuild/slim) | 🔥 1734 | Give your localhost a local or public URL |
+| 7 | [operacle/checkcle](https://github.com/operacle/checkcle) | 🔥 2918 | CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provide... |
+| 8 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 46838 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+| 9 | [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) | 🔥 8509 | 微信视频号下载器 |
+| 10 | [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) | 🔥 6868 | A continuation of HomeBox the inventory and organization system built for the Home User |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 12834 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 41621 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 8185 | 🤖 [llama-3.3-70b-versatile] 该项目是一个集成层，用于连接和管理不同设备和系统的代理。 |
+| 4 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 11213 | 🤖 [llama-3.3-70b-versatile] 开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。 |
+| 5 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 3676 | 🤖 [llama-3.3-70b-versatile] Bright Data CLI：从终端直接抓取、搜索和提取结构化网页数据。 |
+| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 45027 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, Mi... |
+| 7 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 14831 | OpenWiki is a CLI that writes and maintains agent documentation for your codebase. |
+| 8 | [loulanyue/dream-xi-ai](https://github.com/loulanyue/dream-xi-ai) | 🔥 403 | 🏄 Dream XI AI turns isolated AI agents into a World Cup-level dream team.🏄 Dream XI AI 是一个面向复杂任务执行的 Multi-Agent 协作平台，借鉴足球“梦之队”阵型理念，将不同能力的 AI Agent ... |
+| 9 | [wumingqi60/lingxi](https://github.com/wumingqi60/lingxi) | 🔥 816 | 灵犀跨境-开源共建版 |
+| 10 | [microsoft/Sico](https://github.com/microsoft/Sico) | 🔥 156 | An open-source Digital Worker platform for reliable execution and continuous co-evolution. |
+
