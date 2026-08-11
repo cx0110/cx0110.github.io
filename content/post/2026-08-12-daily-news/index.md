@@ -193,3 +193,72 @@ image:
 | 9 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 22,468 | 🤖 [llama-3.3-70b-versatile] 该项目是一个全自动化工具，能够一键完成《明日方舟》游戏中的日常任务。 |
 | 10 | [firerpa/lamda](https://github.com/firerpa/lamda) | 8,143 | 🤖 [llama-3.3-70b-versatile] firerpa/lamda是一个Android全栈设备控制平台，提供WebRTC/H.264远程桌面、UI/OCR/图像匹配自动化、MITM代理等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-12 02:46 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 6366 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 2 | [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | 🔥 9 | ⛔ [无描述]  |
+| 3 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 13916 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 34599 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 5 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 🔥 18276 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用的人工智能框架，帮助用户通过爬山算法从当前状态迈向理想状态。 |
+| 6 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 36146 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 7 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 10933 | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
+| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 44841 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 9 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 🔥 3477 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across ... |
+| 10 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 40990 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | 🔥 9 | ⛔ [无描述]  |
+| 2 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 34599 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 3 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 10933 | 🤖 [llama-3.3-70b-versatile] 该项目可以将参考图像重建为Three.js代码模型，实现图像到3D的转换。 |
+| 4 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 44841 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 5 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 🔥 3477 | 🤖 [llama-3.3-70b-versatile] 该项目是一个针对漏洞挖掘和外部红队工作的代码技能包，包含82个技能和681个已披露的报告模式。 |
+| 6 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 40990 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 7 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 19641 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 8 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 36146 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 9 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 23495 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| 10 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 34645 | 符合nature论文学术表达和科研绘图的Skill |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [perplexityai/numbat](https://github.com/perplexityai/numbat) | 🔥 894 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI代理活动的可视化、设备内检测、预阻断和法医重建功能。 |
+| 2 | [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 🔥 2235 | 🤖 [llama-3.3-70b-versatile] Cursor 中的无限 BYOK 功能。 |
+| 3 | [tmc/go-iroh](https://github.com/tmc/go-iroh) | 🔥 1 | ⛔ [星数不足 (增量1/总数35)] iroh networking for go |
+| 4 | [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | 🔥 9353 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能编排器，用于并行代码代理，计划任务、生成代理，并自动处理持续集成修复、合并冲突和代码审查。 |
+| 5 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 1 | ⛔ [无描述]  |
+| 6 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 33941 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 7 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 26234 | Beads - A memory upgrade for your coding agent |
+| 8 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 🔥 5725 | Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and m... |
+| 9 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 46926 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+| 10 | [operacle/checkcle](https://github.com/operacle/checkcle) | 🔥 2921 | CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provide... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 13916 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 2 | [Conway-Research/automaton](https://github.com/Conway-Research/automaton) | 🔥 5624 | 🤖 [llama-3.3-70b-versatile] 该项目创建了一个可以自我复制、进化和维持自身存在的AI系统，无需人类干预。 |
+| 3 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 8848 | 🤖 [llama-3.3-70b-versatile] 该项目是一个集成层，用于连接和管理不同设备和系统的代理。 |
+| 4 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔥 7860 | 🤖 [llama-3.3-70b-versatile] Instatic 是一个现代化的自托管视觉内容管理系统（CMS），可以在1分钟内部署。 |
+| 5 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 🔥 18277 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用的人工智能框架，帮助用户通过爬山算法从当前状态迈向理想状态。 |
+| 6 | [datagallery-lab/datafoundry](https://github.com/datagallery-lab/datafoundry) | 🔥 682 | DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace ... |
+| 7 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 4111 | Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal. |
+| 8 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 45795 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, Mi... |
+| 9 | [wk42worldworld/cybercode](https://github.com/wk42worldworld/cybercode) | 🔥 710 | 整合 Claude Code 编程能力与 Hermes Agent 自进化能力的智能体 / An AI agent combining Claude Code coding capabilities with Hermes Agent self-evolution. |
+| 10 | [Deepender25/Edge-Drop](https://github.com/Deepender25/Edge-Drop) | 🔥 367 | Edge-Drop is like a Dynamic Island for your desktop clipboard. It hides on the edge of your screen and opens when you hover near it, letting you ea... |
+
