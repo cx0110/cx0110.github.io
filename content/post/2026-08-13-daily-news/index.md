@@ -193,3 +193,72 @@ image:
 | 9 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | 7,467 | 🤖 [llama-3.3-70b-versatile] RapidAI/RapidOCR是一个支持多种编程语言的OCR工具包，基于ONNX Runtime、OpenVINO、MNN、PaddlePaddle、TensorRT和PyTorch等框架。 |
 | 10 | [firerpa/lamda](https://github.com/firerpa/lamda) | 8,161 | 🤖 [llama-3.3-70b-versatile] firerpa/lamda是一个Android全栈设备控制平台，提供WebRTC/H.264远程桌面、UI/OCR/图像匹配自动化、MITM代理等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-13 02:47 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 2549 | 🤖 [llama-3.3-70b-versatile] Brigade是一个企业级的个人智能助手，提供高级别的智能服务。 |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 9565 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 43684 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [Zeejay0/gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) | 🔥 7 | ⛔ [无描述]  |
+| 5 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 🔥 15006 | 🤖 [llama-3.3-70b-versatile] 该项目可以将多种文档格式（如Word、PDF等）转换为Markdown格式。 |
+| 6 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 9660 | Your Agent's Integration Layer |
+| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 62563 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, de... |
+| 8 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 14810 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 9 | [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | 🔥 7 | ⛔ [无描述]  |
+| 10 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 45452 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 62563 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
+| 2 | [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | 🔥 7 | ⛔ [无描述]  |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 45452 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 4 | [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) | 🔥 4530 | 🤖 [llama-3.3-70b-versatile] Nasiko是一个开发者控制平面，用于管理和控制AI代理。 |
+| 5 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 35150 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 6 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 19955 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 7 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 34855 | 符合nature论文学术表达和科研绘图的Skill |
+| 8 | [superdesigndev/tools-registry](https://github.com/superdesigndev/tools-registry) | 🔥 302 | Shared Skill & Secret vault for your team and agents, without leaking keys. Join community here: https://discord.gg/6mQYYfFMAn |
+| 9 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 19817 | Hindsight: Agent Memory That  Learns |
+| 10 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 36575 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 45607 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [compozy/compozy](https://github.com/compozy/compozy) | 🔥 2527 | 🤖 [llama-3.3-70b-versatile] Compozy是一个AI辅助开发平台，驱动从想法到发布代码的整个生命周期。 |
+| 3 | [linzixuanzz/daidai-panel](https://github.com/linzixuanzz/daidai-panel) | 🔥 369 | 🤖 [llama-3.3-70b-versatile] 轻量级定时任务管理面板，用于管理和调度任务。 |
+| 4 | [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | 🔥 9443 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能编排器，用于并行代码代理，计划任务、生成代理，并自动处理持续集成修复、合并冲突和代码审查。 |
+| 5 | [paxlabs-inc/matrix-core](https://github.com/paxlabs-inc/matrix-core) | 🔥 172 | 🤖 [llama-3.3-70b-versatile] Matrix是一个用于构建自主AI代理的框架，支持自然语言交互、工具使用、代码执行和智能合约等功能。 |
+| 6 | [perplexityai/numbat](https://github.com/perplexityai/numbat) | 🔥 914 | Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction. |
+| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 36805 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 34171 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 19757 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 10 | [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) | 🔥 8570 | 微信视频号下载器 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 9660 | 🤖 [llama-3.3-70b-versatile] 该项目是一个集成层，用于连接和管理不同设备和系统的代理。 |
+| 2 | [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) | 🔥 5 | ⛔ [无描述]  |
+| 3 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 14810 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 4 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 13222 | 🤖 [llama-3.3-70b-versatile] 该项目是一个多人游戏代理框架，用于工作环境下的多人协作。 |
+| 5 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 46481 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 6 | [openchamber/openchamber](https://github.com/openchamber/openchamber) | 🔥 8559 | Desktop and web interface for OpenCode AI agent |
+| 7 | [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) | 🔥 8007 | Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks |
+| 8 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 43684 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 9 | [brightdata/cli](https://github.com/brightdata/cli) | 🔥 4580 | Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal. |
+| 10 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 1 | ⛔ [无描述]  |
+
