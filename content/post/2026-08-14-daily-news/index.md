@@ -193,3 +193,72 @@ image:
 | 9 | [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) | 18,438 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，能够实现网页、输入框、PDF、Epub、字幕文件和TXT文件等多种格式的双语翻译。 |
 | 10 | [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) | 2,908 | ⛔ [无描述] 无描述 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-14 02:47 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 4849 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 13803 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 46463 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 4 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 11727 | 🤖 [llama-3.3-70b-versatile] 开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。 |
+| 5 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 🔥 24473 | 🤖 [llama-3.3-70b-versatile] 该项目在25GB内存的消费级机器上运行GLM-5.2（744B MoE）模型。 |
+| 6 | [macro-inc/macro](https://github.com/macro-inc/macro) | 🔥 2516 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| 7 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | 🔥 5710 | Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions v... |
+| 8 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 🔥 15625 | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. |
+| 9 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 15374 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 10 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 28898 | Skills for Design Engineers. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 4849 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 2 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 46463 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 3 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 36972 | 🤖 [llama-3.3-70b-versatile] 开源《深入理解AI Agent》书籍的主仓库，包含全书正文、PDF和配套代码。 |
+| 4 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | 🔥 5710 | 🤖 [llama-3.3-70b-versatile] 该项目提供代码健康评分、自动文档生成、Git 分析、死代码检测和架构决策等功能。 |
+| 5 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 4825 | 🤖 [llama-3.3-70b-versatile] 针对小型设备的14MB基础模型，适用于手机、可穿戴设备、智能家居和机器人。 |
+| 6 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 🔥 4586 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, ... |
+| 7 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 35425 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 8 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 11579 | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
+| 9 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 🔥 15296 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| 10 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 35490 | Agent skill that removes signs of AI-generated writing from text |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 20401 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | 🔥 667 | 🤖 [llama-3.3-70b-versatile] 闲鱼多账号管理、消息回复与自动发货系统。 |
+| 3 | [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) | 🔥 2 | ⛔ [星数不足 (增量2/总数83)] Self-hosted iCloud Hide My Email management console with Windows portable releases |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 36933 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [Infisical/agent-vault](https://github.com/Infisical/agent-vault) | 🔥 2072 | 🤖 [llama-3.3-70b-versatile] Infisical/agent-vault是一个HTTP凭证代理和密钥库，用于AI代理的身份验证和密钥管理。 |
+| 6 | [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak) | 🔥 1215 | Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mimicking Chrome, Firefox, and Safari at the cryp... |
+| 7 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 34439 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 8 | [runkids/skillshare](https://github.com/runkids/skillshare) | 🔥 2539 | 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more |
+| 9 | [kdlbs/kandev](https://github.com/kdlbs/kandev) | 🔥 608 | AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. |
+| 10 | [8treenet/goraven](https://github.com/8treenet/goraven) | 🔥 364 | Open-source AI Agent platform for teams. Your agents don't just chat — they read files, run code, call APIs, and deliver results. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 2619 | 🤖 [llama-3.3-70b-versatile] Brigade是一个企业级的个人智能助手，提供高级别的智能服务。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 44805 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 15375 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 4 | [tanishqkancharla/calldiff](https://github.com/tanishqkancharla/calldiff) | 🔥 381 | 🤖 [llama-3.3-70b-versatile] 该项目通过Tree-sitter的AST技术，支持22种语言，比较Git提交之间的函数调用栈差异。 |
+| 5 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 3 | ⛔ [无描述]  |
+| 6 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 9747 | Your Agent's Integration Layer |
+| 7 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 9805 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claud... |
+| 8 | [openchamber/openchamber](https://github.com/openchamber/openchamber) | 🔥 8679 | Desktop and web interface for OpenCode AI agent |
+| 9 | [aipoch/open-science](https://github.com/aipoch/open-science) | 🔥 2237 | An open-source, model-agnostic AI workbench for scientific discovery. |
+| 10 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 47182 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, Mi... |
+
