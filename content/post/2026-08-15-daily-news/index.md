@@ -193,3 +193,72 @@ image:
 | 9 | [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | 6,465 | 🤖 [llama-3.3-70b-versatile] Bili23-Downloader 是一款跨平台的 B 站视频下载工具，支持音视频流分离下载、多线程加速、弹幕与字幕获取等功能。 |
 | 10 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 46,510 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-15 02:39 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 16951 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 7605 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 3 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 4 | ⛔ [无描述]  |
+| 4 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 🔥 22002 | 🤖 [llama-3.3-70b-versatile] 该项目将离别转化为技能，赋予其新生，打造数字化生活体验。 |
+| 5 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 21654 | 🤖 [llama-3.3-70b-versatile] 腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。 |
+| 6 | [block/buzz](https://github.com/block/buzz) | 🔥 27360 | A hive mind communication platform |
+| 7 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 🔥 3950 | Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable de... |
+| 8 | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 🔥 7560 | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents |
+| 9 | [lightningpixel/modly](https://github.com/lightningpixel/modly) | 🔥 5852 | Desktop app to generate 3D models from images using local AI — runs entirely on your GPU |
+| 10 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 🔥 28312 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 7605 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 2 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 4 | ⛔ [无描述]  |
+| 3 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 🔥 2356 | 🤖 [llama-3.3-70b-versatile] 本地AI代理，深度理解用户偏好，主动寻找B站、抖音、YouTube等平台上的内容。 |
+| 4 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 5489 | 🤖 [llama-3.3-70b-versatile] 针对小型设备的14MB基础模型，适用于手机、可穿戴设备、智能家居和机器人。 |
+| 5 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 47075 | 🤖 [llama-3.3-70b-versatile] CLI-Anything是一个开源项目，旨在将所有软件转化为命令行界面（CLI）形式，实现无缝集成和控制。 |
+| 6 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 21502 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 46821 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 8 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 🔥 30049 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| 9 | [Paritok-official/paritok-4b-v1](https://github.com/Paritok-official/paritok-4b-v1) | 🔥 1305 | The first open-source compression model trained specifically for coding agents. 4B, Apache 2.0. |
+| 10 | [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 🔥 5587 | A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。 |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 45992 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 34581 | 🤖 [llama-3.3-70b-versatile] DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。 |
+| 3 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | 🔥 7356 | 🤖 [llama-3.3-70b-versatile] chenyme/grok2api 是一个多账户API网关，支持Grok Build、Grok Web和Grok Console。 |
+| 4 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 1225 | 🤖 [llama-3.3-70b-versatile] Agent Substrate是一个核心系统，提供基础功能和框架。 |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 20483 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 6 | [compozy/compozy](https://github.com/compozy/compozy) | 🔥 2568 | An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they spl... |
+| 7 | [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) | 🔥 1626 | 指纹浏览器 |
+| 8 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 26317 | Beads - A memory upgrade for your coding agent |
+| 9 | [astaxie/TokenHub](https://github.com/astaxie/TokenHub) | 🔥 1067 | TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable. |
+| 10 | [perplexityai/numbat](https://github.com/perplexityai/numbat) | 🔥 923 | Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 🔥 7560 | 🤖 [llama-3.3-70b-versatile] Deepsec是一个安全工具，利用编码代理来发现代码库中的漏洞。 |
+| 2 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 11901 | 🤖 [llama-3.3-70b-versatile] 开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 45545 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [lightningpixel/modly](https://github.com/lightningpixel/modly) | 🔥 5852 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，利用本地AI和GPU生成3D模型。 |
+| 5 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 15862 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 6 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 13541 | Multiplayer agent harness for work |
+| 7 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 🔥 3950 | Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable de... |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 40963 | Write HTML. Render video. Built for agents. |
+| 9 | [Bennettxai/FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO) | 🔥 494 | An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finan... |
+| 10 | [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) | 🔥 1399 | Finance terminal, in your terminal. |
+
