@@ -193,3 +193,72 @@ image:
 | 9 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 100,436 | 🤖 [llama-3.3-70b-versatile] 该项目是一个每周五发布的科技爱好者周刊，分享科技相关的新闻、文章和资源。 |
 | 10 | [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) | 18,477 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，能够实现网页、输入框、PDF、Epub、字幕文件和TXT文件等多种格式的双语翻译。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-16 02:13 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 5587 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 9489 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 18380 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 35763 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 5 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 16209 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 6 | [macro-inc/macro](https://github.com/macro-inc/macro) | 🔥 3237 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| 7 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 🔥 29429 | the runtime your coding agents live on |
+| 8 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 12925 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 9 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 🔥 22445 | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 |
+| 10 | [zeronsh/comet](https://github.com/zeronsh/comet) | 🔥 2 | ⛔ [无描述]  |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 9489 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 2 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 35763 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 3 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 5969 | 🤖 [llama-3.3-70b-versatile] 针对小型设备的14MB基础模型，适用于手机、可穿戴设备、智能家居和机器人。 |
+| 4 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 🔥 13332 | 🤖 [llama-3.3-70b-versatile] OpenSandbox是一个安全、快速、可扩展的沙盒运行时环境，用于AI代理。 |
+| 5 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 🔥 22445 | 🤖 [llama-3.3-70b-versatile] 该项目将离别转化为技能，赋予其新生，打造数字化生活体验。 |
+| 6 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 21783 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 7 | [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) | 🔥 1081 | 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts. |
+| 8 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 37590 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 9 | [123panNextGen/123pan](https://github.com/123panNextGen/123pan) | 🔥 351 | 第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用多种方式解除流量限制，使用Python3和PyQt6制作 |
+| 10 | [imbue-ai/vet](https://github.com/imbue-ai/vet) | 🔥 578 | Find issues worth your attention. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 46100 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 26342 | 🤖 [llama-3.3-70b-versatile] Beads是一个内存升级工具，用于增强编码代理的记忆能力。 |
+| 3 | [Gouryella/drip](https://github.com/Gouryella/drip) | 🔥 904 | 🤖 [Legacy] Gouryella/drip：安全暴露本地服务，不依赖第三方服务器。 |
+| 4 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 29860 | 🤖 [Legacy] PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 5 | [ardanlabs/kronk](https://github.com/ardanlabs/kronk) | 🔥 744 | 🤖 [llama-3.3-70b-versatile] Kronk是一个使用Go语言的本地模型运行引擎，支持硬件加速的推理。 |
+| 6 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 🔥 1 | ⛔ [无描述]  |
+| 7 | [kenn-io/roborev](https://github.com/kenn-io/roborev) | 🔥 1633 | Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code. |
+| 8 | [LeoninCS/feedsystem_video_go](https://github.com/LeoninCS/feedsystem_video_go) | 🔥 298 | 一款基于Go语言的视频feed流系统（仿tiktok项目）。 |
+| 9 | [hoaxisr/awg-manager](https://github.com/hoaxisr/awg-manager) | 🔥 490 | AmneziaWG tunnel manager with web interface for Keenetic routers |
+| 10 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 5761 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation ... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 5587 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 16209 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 3 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 21919 | 🤖 [llama-3.3-70b-versatile] 腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。 |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 46014 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 5 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 2698 | 🤖 [llama-3.3-70b-versatile] Brigade是一个企业级的个人智能助手，提供高级别的智能服务。 |
+| 6 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 13612 | Multiplayer agent harness for work |
+| 7 | [Open-Curiosity/gini-agent](https://github.com/Open-Curiosity/gini-agent) | 🔥 1770 | The agent that remembers and learns. |
+| 8 | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 🔥 7650 | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents |
+| 9 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 🔥 7582 | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and fil... |
+| 10 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 🔥 4116 | Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable de... |
+
