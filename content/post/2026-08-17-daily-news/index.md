@@ -186,3 +186,72 @@ image:
 | 9 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 171,192 | 🤖 [llama-3.3-70b-versatile] 该项目分享GitHub上有趣、适合初学者的开源项目。 |
 | 10 | [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | 8,802 | 🤖 [llama-3.3-70b-versatile] BilibiliToolPro是一个自动化工具，支持多种部署方式，帮助用户自动完成B站任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-17 02:13 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 8745 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 19390 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 3 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 10421 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 4 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 🔥 29792 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能列表。 |
+| 5 | [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | 🔥 1698 | 🤖 [llama-3.3-70b-versatile] 该项目提供免费的AI模型、API和工具列表，供用户免费使用。 |
+| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 47603 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 7 | [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) | 🔥 3205 | Beautiful, open source, WebGPU-based charting library |
+| 8 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🔥 22414 | The open-source alternative to Claude Cowork (powered by opencode) |
+| 9 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 10875 | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD |
+| 10 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | 🔥 2676 | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolut... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 47603 | 🤖 [llama-3.3-70b-versatile] CLI-Anything是一个开源项目，旨在将所有软件转化为命令行界面（CLI）形式，实现无缝集成和控制。 |
+| 2 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 20784 | 🤖 [llama-3.3-70b-versatile] 该项目使用编码代理编辑视频，实现视频编辑自动化。 |
+| 3 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 6443 | 🤖 [llama-3.3-70b-versatile] 针对小型设备的14MB基础模型，适用于手机、可穿戴设备、智能家居和机器人。 |
+| 4 | [docling-project/docling-graph](https://github.com/docling-project/docling-graph) | 🔥 441 | 🤖 [llama-3.3-70b-versatile] 该项目将非结构化文档转化为验证、丰富且可查询的知识图谱。 |
+| 5 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 3140 | 🤖 [llama-3.3-70b-versatile] 生成与公开评估集分布匹配的原创ARC-AGI-1风格任务。 |
+| 6 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 🔥 22793 | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 |
+| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 47248 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 48333 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. T... |
+| 9 | [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) | 🔥 7418 | "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/ |
+| 10 | [HKUDS/OpenOPC](https://github.com/HKUDS/OpenOPC) | 🔥 1358 | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 🔥 5911 | 🤖 [llama-3.3-70b-versatile] 该项目是一个快速的、可脚本化的App Store Connect API命令行工具，用于自动化TestFlight、构建、提交等操作。 |
+| 2 | [microsoft/waza](https://github.com/microsoft/waza) | 🔥 1250 | 🤖 [llama-3.3-70b-versatile] 微软Waza项目是一个CLI框架，用于创建、测试、衡量和改进智能代理技能的质量和有效性。 |
+| 3 | [kenn-io/msgvault](https://github.com/kenn-io/msgvault) | 🔥 2011 | 🤖 [llama-3.3-70b-versatile] 该项目实现了离线搜索、分析和AI查询整个消息历史的功能。 |
+| 4 | [compozy/compozy](https://github.com/compozy/compozy) | 🔥 2582 | 🤖 [llama-3.3-70b-versatile] Compozy是一个AI辅助开发平台，驱动从想法到发布代码的整个生命周期。 |
+| 5 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 26362 | 🤖 [llama-3.3-70b-versatile] Beads是一个内存升级工具，用于增强编码代理的记忆能力。 |
+| 6 | [songloft-org/songloft](https://github.com/songloft-org/songloft) | 🔥 1468 | 🎵 面向个人用户的自托管音乐服务器 |
+| 7 | [volcengine/mediakit-cli](https://github.com/volcengine/mediakit-cli) | 🔥 1 | ⛔ [无描述]  |
+| 8 | [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) | 🔥 1931 | Manages Unified Access to Generative AI Services built on Envoy Gateway |
+| 9 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 🔥 32286 | GitHub's official MCP Server |
+| 10 | [anchore/grant](https://github.com/anchore/grant) | 🔥 182 | A license scanner for container images and filesystems. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 8745 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 16514 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 3 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 10421 | 🤖 [llama-3.3-70b-versatile] 该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 31918 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [ssnangua/ColorTxt](https://github.com/ssnangua/ColorTxt) | 🔥 1221 | 🤖 [llama-3.3-70b-versatile] 一款本地TXT小说阅读器，支持上色、章节识别、标注、朗读等功能。 |
+| 6 | [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) | 🔥 3205 | Beautiful, open source, WebGPU-based charting library |
+| 7 | [chandra447/pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) | 🔥 341 | Hermes-style persistent memory and learning loop for Pi coding agent |
+| 8 | [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) | 🔥 1125 | Web search and content extraction extension for Pi coding agent |
+| 9 | [processone/fluux-messenger](https://github.com/processone/fluux-messenger) | 🔥 391 | Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations. |
+| 10 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🔥 22414 | The open-source alternative to Claude Cowork (powered by opencode) |
+
