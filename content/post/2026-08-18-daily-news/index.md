@@ -188,3 +188,72 @@ image:
 | 9 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 171,351 | 🤖 [llama-3.3-70b-versatile] 该项目分享GitHub上有趣、适合初学者的开源项目。 |
 | 10 | [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) | 10,799 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个C#/.NET/.NET Core学习和工作指南，收集和总结了相关的基础知识、学习路线、开发实战等资源。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-18 02:22 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 11543 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [amirappleidfd-stack/spider--panel](https://github.com/amirappleidfd-stack/spider--panel) | 🔥 1 | ⛔ [无描述]  |
+| 3 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 7062 | 🤖 [llama-3.3-70b-versatile] 针对小型设备的14MB基础模型，适用于手机、可穿戴设备、智能家居和机器人。 |
+| 4 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 38459 | 🤖 [llama-3.3-70b-versatile] 开源《深入理解AI Agent》书籍的主仓库，包含全书正文、PDF和配套代码。 |
+| 5 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 47478 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 6 | [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) | 🔥 1158 | Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 |
+| 7 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 20397 | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| 8 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | 🔥 3401 | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolut... |
+| 9 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 🔥 11038 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 7062 | 🤖 [llama-3.3-70b-versatile] 针对小型设备的14MB基础模型，适用于手机、可穿戴设备、智能家居和机器人。 |
+| 2 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 47478 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 3 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 1 | ⛔ [无描述]  |
+| 4 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 13181 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 5 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 38459 | 🤖 [llama-3.3-70b-versatile] 开源《深入理解AI Agent》书籍的主仓库，包含全书正文、PDF和配套代码。 |
+| 6 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 3301 | Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
+| 7 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 🔥 4852 | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南 |
+| 8 | [openai/skills](https://github.com/openai/skills) | 🔥 25003 | Skills Catalog for Codex |
+| 9 | [claay-rip/roblox-autojoiner](https://github.com/claay-rip/roblox-autojoiner) | 🔥 1 | ⛔ [星数不足 (增量1/总数22)] Roblox AutoJoiner for Chilli Notify's (Steal a Brainrot) |
+| 10 | [1537271403/paypal-agreement-protocol](https://github.com/1537271403/paypal-agreement-protocol) | 🔥 1 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 3318 | Terminal UI OS (Terminal Multiplexer) |
+| 2 | [janekbaraniewski/openusage](https://github.com/janekbaraniewski/openusage) | 🔥 166 | The one dashboard you’ve been looking for — track spend and usage across Claude, Cursor, OpenRouter, Copilot, Gemini, Codex, and more. |
+| 3 | [Kocoro-lab/Shannon](https://github.com/Kocoro-lab/Shannon) | 🔥 2199 | 🤖 [Legacy] Kocoro-lab/Shannon 是一个多智能体编排框架，用于生产环境下的任务协调。 |
+| 4 | [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) | 🔥 560 | #1 open-source code reviewer on Code-Review-Bench |
+| 5 | [marvinvr/docktail](https://github.com/marvinvr/docktail) | 🔥 1180 | 🤖 [Legacy] Docktail 是一个 Docker 容器管理工具，简化容器部署和管理。 |
+| 6 | [bjarneo/cliamp](https://github.com/bjarneo/cliamp) | 🔥 3136 | cliamp - Terminal music player inspired by winamp  |
+| 7 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 15010 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 8 | [microsoft/waza](https://github.com/microsoft/waza) | 🔥 1254 | CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness |
+| 9 | [dimetron/pi-go](https://github.com/dimetron/pi-go) | 🔥 132 | Go implementation of AI coding agent |
+| 10 | [sammcj/gollama](https://github.com/sammcj/gollama) | 🔥 1835 | Go manage your Ollama models |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 11543 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | 🔥 2936 | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text, Stable ... |
+| 3 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | 🔥 3401 | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolut... |
+| 4 | [chrisryugj/korean-dart-mcp](https://github.com/chrisryugj/korean-dart-mcp) | 🔥 1 | ⛔ [星数不足 (增量1/总数92)] OpenDART 전자공시MCP \| 83개 API → 15 MCP 도구. 공시·재무·지분·XBRL + 버핏급 애널리스트 프레임(내부자 시그널·회계 리스크·퀄리티 체크리스트) + HWP/PDF 첨부 마크다운화 \| 83 Korea... |
+| 5 | [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) | 🔥 6540 | Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, o... |
+| 6 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 🔥 28688 | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 7 | [Narcooo/inkos](https://github.com/Narcooo/inkos) | 🔥 9058 | Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content |
+| 8 | [appariciojunior/motion-studio-open](https://github.com/appariciojunior/motion-studio-open) | 🔥 1 | ⛔ [无描述]  |
+| 9 | [baairon/torlink](https://github.com/baairon/torlink) | 🔥 5121 | 👾 A sleek, zero-setup torrent finder and downloader that lives right in your terminal. |
+| 10 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 🔥 30731 | runs anywhere. uses anything |
+
