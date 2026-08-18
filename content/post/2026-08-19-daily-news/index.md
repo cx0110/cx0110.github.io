@@ -193,3 +193,72 @@ image:
 | 9 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8,175 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI 自动生成报表与数据大屏，以及类Excel拖拽设计器，支持30余种数据源，用于轻松创建复杂报表。 |
 | 10 | [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 19,416 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的异步数据爬取工具，支持API调用、在线批量解析及下载来自抖音、快手、TikTok和Bilibili的数据。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-19 02:21 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 13513 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 10575 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 3 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 14332 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 4 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | 🔥 3950 | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolut... |
+| 5 | [openTrinity/mycontext](https://github.com/openTrinity/mycontext) | 🔥 1494 | MyContext is a local-first desktop app for everyday communication and knowledge work |
+| 6 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 26276 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping +... |
+| 7 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 48122 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 8 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 14187 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 9 | [lightningpixel/modly](https://github.com/lightningpixel/modly) | 🔥 6622 | Desktop app to generate 3D models from images using local AI — runs entirely on your GPU |
+| 10 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 🔥 9757 | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and fil... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 10575 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 14332 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 47747 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 4 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 39020 | 🤖 [llama-3.3-70b-versatile] 开源《深入理解AI Agent》书籍的主仓库，包含全书正文、PDF和配套代码。 |
+| 5 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 36355 | Agent skill that removes signs of AI-generated writing from text |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 63288 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, de... |
+| 7 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | 🔥 3871 |  🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示... |
+| 8 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 🔥 23379 | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 |
+| 9 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 🔥 8811 | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
+| 10 | [XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) | 🔥 6421 | You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vigolium/vigolium](https://github.com/vigolium/vigolium) | 🔥 1017 | Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision |
+| 2 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 3423 | Terminal UI OS (Terminal Multiplexer) |
+| 3 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 🔥 5946 | 🤖 [llama-3.3-70b-versatile] 该项目是一个快速的、可脚本化的App Store Connect API命令行工具，用于自动化TestFlight、构建、提交等操作。 |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 37520 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 46681 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 6 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 9615 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 7 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 3953 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+| 8 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 47754 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 20018 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 10 | [DanielLavrushin/b4](https://github.com/DanielLavrushin/b4) | 🔥 1706 | Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 13513 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | 🔥 3950 | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolut... |
+| 3 | [openTrinity/mycontext](https://github.com/openTrinity/mycontext) | 🔥 1494 | MyContext is a local-first desktop app for everyday communication and knowledge work |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 48122 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 5 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 12009 | Harness engineering beginner tutorial, from 0 to 1 |
+| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 1 | ⛔ [无描述]  |
+| 7 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 50352 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, Mi... |
+| 8 | [aslost/pixtale](https://github.com/aslost/pixtale) | 🔥 227 | An immersive masonry photo gallery \| 一个沉浸式瀑布流相册应用 |
+| 9 | [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) | 🔥 2907 | Collaborator is a place to create with agents. |
+| 10 | [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) | 🔥 1 | ⛔ [无描述]  |
+
