@@ -193,3 +193,72 @@ image:
 | 9 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 171,778 | 🤖 [llama-3.3-70b-versatile] 该项目分享GitHub上有趣、适合初学者的开源项目。 |
 | 10 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 46,571 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-20 02:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 15050 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 23123 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 3 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 29701 | 🤖 [Legacy] 该项目提供700多项结构化的网络安全技能，用于AI代理。 |
+| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 30035 | 🤖 [Legacy] OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 48977 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 🔥 10155 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| 7 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 39473 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 8 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 2 | ⛔ [无描述]  |
+| 9 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 🔥 2593 | local multi-agent harness |
+| 10 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 23068 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 29701 | 🤖 [Legacy] 该项目提供700多项结构化的网络安全技能，用于AI代理。 |
+| 2 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 30035 | 🤖 [Legacy] OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 3 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 39473 | 🤖 [llama-3.3-70b-versatile] 开源《深入理解AI Agent》书籍的主仓库，包含全书正文、PDF和配套代码。 |
+| 4 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 15141 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 5 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 23068 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 6 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 10921 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
+| 7 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 22259 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 48005 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 9 | [x4gpanell/X4G](https://github.com/x4gpanell/X4G) | 🔥 2 | ⛔ [无描述]  |
+| 10 | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | 🔥 10704 | Native and Compact Structured Latents for 3D Generation |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 6066 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于AI编码代理的持久性内存系统，支持SQLite和FTS5数据库。 |
+| 2 | [alibaba/skill-up](https://github.com/alibaba/skill-up) | 🔥 615 | An evaluation and evolution tool for Agent Skills. |
+| 3 | [lathe-cli/lathe](https://github.com/lathe-cli/lathe) | 🔥 1 | ⛔ [星数不足 (增量1/总数45)] Agentic-friendly CLI generator for APIs: turn Swagger, OpenAPI, and google.api.http protos into single-binary Cobra CLIs with c... |
+| 4 | [RoseKhlifa/Image-Studio](https://github.com/RoseKhlifa/Image-Studio) | 🔥 459 | 开源image2调用图像生成/编辑桌面客户端 · SSE 流式保活,兼容 Cloudflare 524/504 超时截断 · Wails (Go + React/TS) ·   数据 100% 本地 |
+| 5 | [DingTalk-Real-AI/dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) | 🔥 2738 | DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities in... |
+| 6 | [pgrundev/pgbot](https://github.com/pgrundev/pgbot) | 🔥 283 | pgbot - Postgres intelligence for AI agents & apps |
+| 7 | [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) | 🔥 696 | LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group. |
+| 8 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 46850 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 9 | [vigolium/vigolium](https://github.com/vigolium/vigolium) | 🔥 1031 | Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision |
+| 10 | [senna-lang/herdr-agent-usage](https://github.com/senna-lang/herdr-agent-usage) | 🔥 1 | ⛔ [星数不足 (增量1/总数22)] Context meters and provider rate limits for agents running in Herdr. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 15050 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 3 | ⛔ [无描述]  |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 51084 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 🔥 1349 | Your fully local, private agent. Runs models on your machine with its built-in inference engine. Works out of the box, on any hardware. |
+| 5 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 17355 | 🤖 [llama-3.3-70b-versatile] 该项目是一个自我改进的RLM代理，用于编码工作流和长期自治任务。 |
+| 6 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 23198 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memo... |
+| 7 | [aipoch/open-science](https://github.com/aipoch/open-science) | 🔥 2845 | Open-Source AI research workbench with scientific agents for reproducible research and discovery.  |
+| 8 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 11226 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claud... |
+| 9 | [BetterWright/betterwright](https://github.com/BetterWright/betterwright) | 🔥 150 | A persistent, policy-guarded Playwright browser for AI agents — network policy, encrypted credential vault, proof screenshots, and CAPTCHA solving.  |
+| 10 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 13935 | Multiplayer agent harness for work. |
+
