@@ -193,3 +193,72 @@ image:
 | 9 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | 7,548 | 🤖 [llama-3.3-70b-versatile] RapidAI/RapidOCR是一个支持多种编程语言的OCR工具包，基于ONNX Runtime、OpenVINO、MNN、PaddlePaddle、TensorRT和PyTorch等框架。 |
 | 10 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8,197 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI 自动生成报表与数据大屏，以及类Excel拖拽设计器，支持30余种数据源，用于轻松创建复杂报表。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-21 02:22 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 5 | ⛔ [无描述]  |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 24165 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 3 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 🔥 11551 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 30902 | 🤖 [Legacy] OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 5 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 15929 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 6 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 49893 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 7 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 13149 | Harness engineering beginner tutorial, from 0 to 1 |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 49099 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. T... |
+| 9 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 16391 | 基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。 |
+| 10 | [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6) | 🔥 2991 | J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. \| 哔哩哔哩：Tiger380 (UID 349437... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 30902 | 🤖 [Legacy] OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 15929 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 3 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 6 | ⛔ [无描述]  |
+| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 49099 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 5 | [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6) | 🔥 2991 | J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. \| 哔哩哔哩：Tiger380 (UID 349437... |
+| 6 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 23369 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 7 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 🔥 6108 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on ... |
+| 8 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 40224 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 9 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | 🔥 678 | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks. |
+| 10 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | 🔥 4581 | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 47059 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 29889 | 🤖 [Legacy] PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。 |
+| 3 | [usewhale/Whale](https://github.com/usewhale/Whale) | 🔥 917 | Whale — blazingly fast, terminal-first AI coding agent for DeepSeek. ~98% prompt cache hit rate, 1M context, MCP tools, dynamic workflows. |
+| 4 | [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) | 🔥 167 | ☀ Official Command Line Interface to manage your OVHcloud services ☁ |
+| 5 | [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) | 🔥 2629 | 🤖 [llama-3.3-70b-versatile] 诗泉：提供高性能的中国古诗词API服务。 |
+| 6 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 2155 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 7 | [zzet/gortex](https://github.com/zzet/gortex) | 🔥 1368 | High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, M... |
+| 8 | [strelov1/freehire](https://github.com/strelov1/freehire) | 🔥 430 | freehire — the open-source search engine for job seekers |
+| 9 | [chattocorp/chatto](https://github.com/chattocorp/chatto) | 🔥 2548 | A fully-featured team and group chat application that you can easily selfhost. |
+| 10 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 5380 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 16391 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 49893 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 13150 | Harness engineering beginner tutorial, from 0 to 1 |
+| 4 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 🔥 3060 | local multi-agent harness |
+| 5 | [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) | 🔥 1865 | Maka — local-first AI desktop assistant |
+| 6 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 🔥 11491 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claud... |
+| 7 | [csyqlz/VOZEB-PRO](https://github.com/csyqlz/VOZEB-PRO) | 🔥 676 | VOZEB PRO：从创作简报、视觉方向、物料规划到一致性生成与自动视觉复盘的 AI 创作工作台。 |
+| 8 | [liliMozi/openhanako](https://github.com/liliMozi/openhanako) | 🔥 6213 | A personal AI agent with memory, personality, and autonomy. |
+| 9 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 51836 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, Mi... |
+| 10 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 🔥 10415 | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and fil... |
+
