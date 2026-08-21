@@ -193,3 +193,72 @@ image:
 | 9 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | 7,557 | 🤖 [llama-3.3-70b-versatile] RapidAI/RapidOCR是一个支持多种编程语言的OCR工具包，基于ONNX Runtime、OpenVINO、MNN、PaddlePaddle、TensorRT和PyTorch等框架。 |
 | 10 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8,208 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI 自动生成报表与数据大屏，以及类Excel拖拽设计器，支持30余种数据源，用于轻松创建复杂报表。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-22 02:21 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 17489 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 🔥 3910 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| 3 | [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 🔥 1875 | A browser that runs directly inside your existing terminal |
+| 4 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 2 | ⛔ [无描述]  |
+| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 24887 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 6 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 20832 | Hindsight: Agent Memory That  Learns |
+| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 48466 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 8 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 14926 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 9 | [xdreizein666/getcontact-cli](https://github.com/xdreizein666/getcontact-cli) | 🔥 356 | GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser. |
+| 10 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 40670 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 2 | ⛔ [无描述]  |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 20832 | Hindsight: Agent Memory That  Learns |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 48466 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 4 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 46443 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。 |
+| 5 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 16539 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 6 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 37029 | Agent skill that removes signs of AI-generated writing from text |
+| 7 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 31554 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 8 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 40670 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 9 | [henryqin1997/statem](https://github.com/henryqin1997/statem) | 🔥 270 | CLI runbook for agent long run. |
+| 10 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 11076 | The Open-Source Elevenlabs alternative AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sinspired/subs-check-pro](https://github.com/sinspired/subs-check-pro) | 🔥 1 | ⛔ [星数不足 (增量1/总数97)] ✨高性能代理检测 CLI 工具，支持高并发、现代 WebUI、一键订阅管理，一键生成并分享 V2Ray，Miihomo、SingBox 订阅。 |
+| 2 | [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | 🔥 4505 | 🤖 [llama-3.3-70b-versatile] 该项目旨在创建一个功能强大的CLI工具，集成多个竞争对手的功能，支持SQLite同步、离线搜索和复合命令。 |
+| 3 | [bjarneo/cliamp](https://github.com/bjarneo/cliamp) | 🔥 3333 | cliamp - Terminal music player inspired by winamp  |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 38513 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [fencesandbox/fence](https://github.com/fencesandbox/fence) | 🔥 925 | Lightweight, container-free sandbox for running commands with network and filesystem restrictions |
+| 6 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 5198 | Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other ... |
+| 7 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🔥 35003 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 8 | [HMB-research/open-accounting](https://github.com/HMB-research/open-accounting) | 🔥 1 | ⛔ [星数不足 (增量1/总数18)] Open-source accounting software with double-entry bookkeeping, invoicing, and multi-tenant support |
+| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 21062 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-leve... |
+| 10 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 🔥 3571 | Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) | 🔥 1180 | VS Code in the terminal |
+| 2 | [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) | 🔥 1985 | Maka — local-first AI desktop assistant |
+| 3 | [lightningpixel/modly](https://github.com/lightningpixel/modly) | 🔥 7110 | 🤖 [llama-3.3-70b-versatile] 该项目是一个桌面应用，利用本地AI和GPU生成3D模型。 |
+| 4 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 🔥 2456 | 🤖 [llama-3.3-70b-versatile] 本项目是一个本地优先的AI代理，优化本地AI模型，支持长上下文窗口，私密运行于本地设备。 |
+| 5 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 26260 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 6 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 🔥 10573 | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and fil... |
+| 7 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 1203 | Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. |
+| 8 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 32757 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 9 | [elie222/rakazo](https://github.com/elie222/rakazo) | 🔥 1057 | Open-source Grok Bot alternative. Choose your own model and sandbox. |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 50607 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+
