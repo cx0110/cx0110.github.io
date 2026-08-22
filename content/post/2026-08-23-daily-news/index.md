@@ -193,3 +193,72 @@ image:
 | 9 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8,216 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI 自动生成报表与数据大屏，以及类Excel拖拽设计器，支持30余种数据源，用于轻松创建复杂报表。 |
 | 10 | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 5,425 | 🤖 [llama-3.3-70b-versatile] 该项目是一个A股自动选股程序，实现了多种技术交易法则，包括海龟交易法则、缠中说禅牛市买点等。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-23 02:14 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 18252 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 16961 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 3 | [agentrhq/webcmd](https://github.com/agentrhq/webcmd) | 🔥 1306 | The Browser Infra that learns and cuts token spend by upto 90% |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 38744 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 🔥 13663 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| 6 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 4499 | Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
+| 7 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 🔥 12714 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Clau... |
+| 8 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 51140 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 25385 | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| 10 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 4 | ⛔ [无描述]  |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 16961 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 2 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 4499 | 🤖 [llama-3.3-70b-versatile] 生成与公开评估集分布匹配的原创ARC-AGI-1风格任务。 |
+| 3 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | 🔥 4 | ⛔ [无描述]  |
+| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 31977 | 🤖 [Legacy] OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 5 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 23176 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 46635 | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS f... |
+| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 48616 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 8 | [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) | 🔥 5 | ⛔ [无描述]  |
+| 9 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 11243 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
+| 10 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 37194 | Agent skill that removes signs of AI-generated writing from text |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 38744 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 2 | [pgrundev/pgbot](https://github.com/pgrundev/pgbot) | 🔥 574 | Postgres intelligence for ai agents & apps |
+| 3 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 5834 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 4 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 21642 | 🤖 [Legacy] 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 5 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 🔥 406 | A 股行情分析与AI智能投研智能体——easy stock |
+| 6 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 1592 | Agent Substrate: the core system |
+| 7 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 21127 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-leve... |
+| 8 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 47280 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| 9 | [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | 🔥 760 | 基于 Go 与 React 构建的闲鱼多账号管理、消息回复与自动发货系统 |
+| 10 | [zzet/gortex](https://github.com/zzet/gortex) | 🔥 1458 | High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, M... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 18253 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [HiThink-Tech/Financial-API](https://github.com/HiThink-Tech/Financial-API) | 🔥 944 | 同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghuashun (HiThink) A-share financial data ... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 51140 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [cursor/plugins](https://github.com/cursor/plugins) | 🔥 4594 | Cursor plugin specification and official plugins |
+| 5 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 🔥 3593 | local multi-agent harness |
+| 6 | [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) | 🔥 1388 | Runtime failure resolution for coding agents. Hooks into Claude Code, Codex & your favourite harnesses. Catches loops, dangerous actions, and secre... |
+| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 4 | ⛔ [无描述]  |
+| 8 | [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 🔥 915 | 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI rem... |
+| 9 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 26482 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 10 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 32888 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+
