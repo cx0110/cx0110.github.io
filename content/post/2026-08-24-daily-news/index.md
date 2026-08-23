@@ -193,3 +193,72 @@ image:
 | 9 | [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) | 9,032 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是将V2ray运行在边缘计算或无服务器环境中。 |
 | 10 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 22,733 | 🤖 [llama-3.3-70b-versatile] 该项目是一个全自动化工具，能够一键完成《明日方舟》游戏中的日常任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-24 02:14 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 🔥 8252 | Free and open-source macOS menu bar toolkit. |
+| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 24503 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 3 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 🔥 18051 | 🤖 [llama-3.3-70b-versatile] 该项目可以将多种文档格式（如Word、PDF等）转换为Markdown格式。 |
+| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 🔥 25953 | 🤖 [llama-3.3-70b-versatile] 该项目在25GB内存的消费级机器上运行GLM-5.2（744B MoE）模型。 |
+| 5 | [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | 🔥 3020 | BookOrbit: Your Reading Space |
+| 6 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 8717 | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| 7 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 9897 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 8 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 🔥 11850 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| 9 | [cosmicstack-labs/mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) | 🔥 418 | A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-... |
+| 10 | [lance0/ttl](https://github.com/lance0/ttl) | 🔥 1441 | Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 24503 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 2 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 8717 | 🤖 [llama-3.3-70b-versatile] 针对小型设备的14MB基础模型，适用于手机、可穿戴设备、智能家居和机器人。 |
+| 3 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 🔥 11850 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| 4 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | 🔥 8924 | Personal AI, On Personal Devices |
+| 5 | [SHAdd0WTAka/Zen-Ai-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) | 🔥 440 | 🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️ |
+| 6 | [axoviq-ai/synthadoc](https://github.com/axoviq-ai/synthadoc) | 🔥 1116 | Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readab... |
+| 7 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 🔥 522 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, ... |
+| 8 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 36676 | 符合nature论文学术表达和科研绘图的Skill |
+| 9 | [google-research/envharness](https://github.com/google-research/envharness) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) | 🔥 773 | open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude A... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli) | 🔥 1763 | 🤖 [llama-3.3-70b-versatile] 该项目实现全自动AI小说生成，采用多agent协同工作。 |
+| 2 | [Hypostasis-Cat/HypoMux](https://github.com/Hypostasis-Cat/HypoMux) | 🔥 3117 | 🤖 [llama-3.3-70b-versatile] 一键聚合多网卡，实现物理级多线下载与叠加网速。 |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 38995 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 9897 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 5 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 5897 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 6 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 2922 | The verification layer for coding agents |
+| 7 | [yu-xin-c/Sea-mult-agent](https://github.com/yu-xin-c/Sea-mult-agent) | 🔥 371 |  A AutoResearch Agent |
+| 8 | [google/sam](https://github.com/google/sam) | 🔥 585 | SAM Sovereign Agent Mesh |
+| 9 | [openpubkey/opkssh](https://github.com/openpubkey/opkssh) | 🔥 2035 | opkssh (OpenPubkey SSH) |
+| 10 | [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) | 🔥 5846 | 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 51700 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 🔥 7505 | 🤖 [llama-3.3-70b-versatile] 该项目为设计工程师提供技能开发和提升的工具和资源。 |
+| 3 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 19450 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 4 | [harborstremio/harbor](https://github.com/harborstremio/harbor) | 🔥 1452 | A Custom Stremio Client Built for Adventure! |
+| 5 | [perminder-klair/subwave](https://github.com/perminder-klair/subwave) | 🔥 1276 | Personal internet radio: Agentic AI DJ |
+| 6 | [murongg/openframe](https://github.com/murongg/openframe) | 🔥 101 | 开源免费的 AI 漫剧创作工作台：从剧本到角色/场景、分镜、视频生成与导出（FCPXML/EDL），支持 Web 与桌面端。 |
+| 7 | [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | 🔥 3020 | BookOrbit: Your Reading Space |
+| 8 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 13865 | Harness engineering beginner tutorial, from 0 to 1 |
+| 9 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 26712 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| 10 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | 🔥 4558 | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolut... |
+
