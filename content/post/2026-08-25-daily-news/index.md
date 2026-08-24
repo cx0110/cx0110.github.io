@@ -193,3 +193,72 @@ image:
 | 9 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 46,796 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源、免费的离线OCR软件，支持截屏、批量导入图片、PDF文档识别、排除水印、扫描和生成二维码等功能。 |
 | 10 | [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 8,606 | 🤖 [llama-3.3-70b-versatile] 该项目是一个跨平台的流媒体下载器，支持下载M3U8、MPD和ISM格式的流媒体内容。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-25 02:24 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 🔥 10474 | Free and open-source macOS menu bar toolkit. |
+| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 25147 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 3 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 🔥 3 | ⛔ [无描述]  |
+| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 🔥 15708 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| 5 | [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) | 🔥 2194 | Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the ... |
+| 6 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 52699 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 7 | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | 🔥 5902 | Removes 20+ patterns of AI slop from any piece of writing. |
+| 8 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 30954 | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3... |
+| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 48756 | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS f... |
+| 10 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 26275 | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 🔥 4 | ⛔ [无描述]  |
+| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 25147 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 3 | [Audio8-AI/Audio8_TTS](https://github.com/Audio8-AI/Audio8_TTS) | 🔥 861 | SOTA-Class TTS at Compact Scale |
+| 4 | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | 🔥 5902 | Removes 20+ patterns of AI slop from any piece of writing. |
+| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 30954 | 🤖 [Legacy] 该项目提供700多项结构化的网络安全技能，用于AI代理。 |
+| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 48756 | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS f... |
+| 7 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🔥 8921 | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| 8 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 32909 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 9 | [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) | 🔥 4152 | AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 \| Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok /... |
+| 10 | [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | 🔥 8005 | OBLITERATE THE CHAINS THAT BIND YOU |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Tght1211/lan-proxy-gateway](https://github.com/Tght1211/lan-proxy-gateway) | 🔥 523 | 🤖 [Legacy] 让Mac变成局域网透明代理网关，帮助其他设备科学上网。 |
+| 2 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 6146 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于AI编码代理的持久性内存系统，支持SQLite和FTS5数据库。 |
+| 3 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 16708 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
+| 4 | [futrx-com/remote.futrx](https://github.com/futrx-com/remote.futrx) | 🔥 1 | ⛔ [无描述]  |
+| 5 | [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) | 🔥 1383 | 🤖 [llama-3.3-70b-versatile] Kodiqa-Solutions/VaultS3：轻量级、S3兼容的对象存储服务器，内置Web仪表盘，单二进制文件，低内存占用，支持静态加密。 |
+| 6 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 9922 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 7 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 27642 | Glamourous agentic coding for all 💘 |
+| 8 | [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) | 🔥 2801 | Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary. |
+| 9 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 🔥 46127 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemi... |
+| 10 | [pgrok/pgrok](https://github.com/pgrok/pgrok) | 🔥 3620 | Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 19641 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 2 | [lencx/Minke](https://github.com/lencx/Minke) | 🔥 474 | 🐳 DeepSeek Harness Desktop |
+| 3 | [cappyeo/discord-mcp](https://github.com/cappyeo/discord-mcp) | 🔥 1 | ⛔ [星数不足 (增量1/总数72)] Caller-owned Discord operations for AI agents - 208 typed tools, safety controls, resumable guild builds, and Activity Evidence. |
+| 4 | [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) | 🔥 2328 | Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via U... |
+| 5 | [degoog-org/degoog](https://github.com/degoog-org/degoog) | 🔥 1871 | Search engine aggregator with a comprehensive plugin/extension system |
+| 6 | [oblien/openship](https://github.com/oblien/openship) | 🔥 11649 | Self-hosted deployment platform |
+| 7 | [alvarolorentedev/opencode-mobile](https://github.com/alvarolorentedev/opencode-mobile) | 🔥 133 | Mobile app to interact with the opencode server. |
+| 8 | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | 🔥 5366 | SSH workspace, SFTP, and terminals in one |
+| 9 | [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen) | 🔥 311 | 🏆 Self Hosted Gen AI platform. Free alternative to Higgsfield, OpenArt, Freepik.... |
+| 10 | [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai) | 🔥 2744 | Build AI teams, not just agents. Hard rails, soft power, shared mission. |
+
