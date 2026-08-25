@@ -193,3 +193,72 @@ image:
 | 9 | [halo-dev/halo](https://github.com/halo-dev/halo) | 39,601 | 🤖 [llama-3.3-70b-versatile] Halo 是一款开源建站工具，能够帮助用户轻松创建个人博客、知识库、企业官网、在线商城等多种类型的网站。 |
 | 10 | [higress-group/higress](https://github.com/higress-group/higress) | 9,186 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-26 02:23 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 3316 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 🔥 17365 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 53502 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 🔥 16340 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| 5 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 🔥 11339 | Free and open-source macOS menu bar toolkit. |
+| 6 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 35079 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 7 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 37838 | Agent skill that removes signs of AI-generated writing from text |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 48812 | Learn it. Build it. Ship it for others. |
+| 9 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 29168 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping +... |
+| 10 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🔥 12533 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 🔥 9 | ⛔ [无描述]  |
+| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 35079 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 3 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 37838 | Agent skill that removes signs of AI-generated writing from text |
+| 4 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🔥 12533 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap... |
+| 5 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 25483 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 48812 | Learn it. Build it. Ship it for others. |
+| 7 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 48203 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 8 | [weicj/vLLM-2080Ti-Definitive](https://github.com/weicj/vLLM-2080Ti-Definitive) | 🔥 664 | The definitive vLLM runtime for dual RTX 2080 Ti 22GB + NVLink, delivering Qwen 27B local inference with maximum 100+ tok/s single-request decode w... |
+| 9 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 31098 | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3... |
+| 10 | [browser-use/browser-harness](https://github.com/browser-use/browser-harness) | 🔥 17132 | Browser Harness \| Self-healing harness that enables LLMs to complete any task. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [hoaxisr/awg-manager](https://github.com/hoaxisr/awg-manager) | 🔥 516 | AmneziaWG tunnel manager with web interface for Keenetic routers |
+| 2 | [ovumcy/ovumcy-web](https://github.com/ovumcy/ovumcy-web) | 🔥 109 | Self-hosted menstrual cycle tracker. Privacy-first, Docker-ready, beautiful. Track periods, predict cycles, own your health data. |
+| 3 | [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 🔥 2505 | 🤖 [llama-3.3-70b-versatile] Cursor 中的无限 BYOK 功能。 |
+| 4 | [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) | 🔥 2871 | A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account hea... |
+| 5 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 6169 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于AI编码代理的持久性内存系统，支持SQLite和FTS5数据库。 |
+| 6 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 47659 | Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable. |
+| 7 | [linzixuanzz/daidai-panel](https://github.com/linzixuanzz/daidai-panel) | 🔥 436 | Lightweight scheduled task management panel, similar to Qinglong Panel. 轻量级定时任务管理面板 |
+| 8 | [liaotxcn/Weave](https://github.com/liaotxcn/Weave) | 🔥 477 | A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI ca... |
+| 9 | [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) | 🔥 129 | MCP DigitalOcean Integration |
+| 10 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 🔥 15474 | MCP for xiaohongshu.com |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 53502 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [LTplus-AG/ifc-lite](https://github.com/LTplus-AG/ifc-lite) | 🔥 344 | Open-source IFC toolkit: WebGPU rendering, columnar in-memory store, exact-arithmetic geometry kernel. Runs from a CDN. 30+ TypeScript packages and... |
+| 3 | [openstory-so/openstory](https://github.com/openstory-so/openstory) | 🔥 427 | Open-source AI-powered video sequence platform built with TanStack Start |
+| 4 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 49700 | Chrome DevTools for coding agents |
+| 5 | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 🔥 4573 | TypeScript-to-Native Compiler |
+| 6 | [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) | 🔥 4425 | Animal Crossing-style React UI component library, inspired by Nintendo's game visuals Vue version available.  Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森... |
+| 7 | [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | 🔥 3172 | BookOrbit: Your Reading Space |
+| 8 | [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) | 🔥 1287 | a fast local diff viewer |
+| 9 | [ryohsuke1231/liquid-glass](https://github.com/ryohsuke1231/liquid-glass) | 🔥 260 | Gnome Shell Extension of Liquid Glass |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 20136 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
+
