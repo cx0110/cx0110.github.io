@@ -193,3 +193,72 @@ image:
 | 9 | [whyour/qinglong](https://github.com/whyour/qinglong) | 19,807 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个支持多种编程语言（Python3、JavaScript、Shell、Typescript）的定时任务管理平台。 |
 | 10 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 28,757 | 🤖 [llama-3.3-70b-versatile] 该项目主要用于测试Cloudflare CDN的延迟和速度，并帮助用户找到最快的IP。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-27 03:29 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 5403 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 🔥 21141 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| 3 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 🔥 11 | ⛔ [无描述]  |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 36305 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 17538 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 6 | [Gaoshu705/QzoneArchive](https://github.com/Gaoshu705/QzoneArchive) | 🔥 1013 | 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。 |
+| 7 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 27260 | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| 8 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 3 | ⛔ [无描述]  |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 49531 | Learn it. Build it. Ship it for others. |
+| 10 | [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | 🔥 11948 | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 🔥 11 | ⛔ [无描述]  |
+| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 36305 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 3 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 3 | ⛔ [无描述]  |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 49531 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 5 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 🔥 18503 | 🤖 [llama-3.3-70b-versatile] 该项目旨在去除多种AI生成图像和文档中的水印和元数据。 |
+| 6 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 34312 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 7 | [asz798838958/freeAgentIdentity](https://github.com/asz798838958/freeAgentIdentity) | 🔥 1438 | 多线程全自动注册free 绕过接码使用codex |
+| 8 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 24601 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 9 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 🔥 2131 | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
+| 10 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 13995 | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 🔥 1703 | Help AI coding agents write modern Go |
+| 2 | [pgrundev/pgbot](https://github.com/pgrundev/pgbot) | 🔥 759 | Postgres intelligence for ai agents & apps |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 47835 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [bjarneo/cliamp](https://github.com/bjarneo/cliamp) | 🔥 3738 | cliamp - Terminal music player inspired by winamp  |
+| 5 | [RUSEGAL/ruseon-core](https://github.com/RUSEGAL/ruseon-core) | 🔥 1 | ⛔ [星数不足 (增量1/总数67)] Edge video infrastructure in Go for CCTV — RTSP ingest, HLS/WebRTC streaming, fMP4 recording, timeshift and AI metadata pipelines. |
+| 6 | [edaywalid/undo](https://github.com/edaywalid/undo) | 🔥 380 | Undo what the last shell command did to the filesystem |
+| 7 | [strelov1/freehire](https://github.com/strelov1/freehire) | 🔥 494 | freehire — the open-source search engine for job seekers |
+| 8 | [lucky-verma/mwb-linux](https://github.com/lucky-verma/mwb-linux) | 🔥 1 | ⛔ [星数不足 (增量1/总数64)] Mouse Without Borders for Linux bidirectional keyboard, mouse & clipboard sharing with Windows |
+| 9 | [xalgord/xalgorix](https://github.com/xalgord/xalgorix) | 🔥 928 | Xalgorix - Autonomous AI Pentesting Agents |
+| 10 | [Mininglamp-OSS/octo-cli](https://github.com/Mininglamp-OSS/octo-cli) | 🔥 618 | Metadata-driven CLI for AI Agent Bots — 48 operations across 7 domains, structured JSON envelope I/O, zero interactive prompts. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 54206 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [am-will/gooey-pi](https://github.com/am-will/gooey-pi) | 🔥 802 | Desktop workspace for Pi, OMP, and Prime Agent |
+| 3 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 🔥 15703 | 🤖 [llama-3.3-70b-versatile] OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。 |
+| 4 | [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | 🔥 11948 | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress |
+| 5 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 20700 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 6 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔥 24654 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memo... |
+| 7 | [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | 🔥 3247 | BookOrbit: Your Reading Space |
+| 8 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 22578 | Create polished demo videos without editing skills. Mac/Windows/Linux |
+| 9 | [cursor/plugins](https://github.com/cursor/plugins) | 🔥 5377 | Cursor plugin specification and official plugins |
+| 10 | [NiluK/worldmodels101](https://github.com/NiluK/worldmodels101) | 🔥 2 | ⛔ [星数不足 (增量2/总数67)] Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video model... |
+
