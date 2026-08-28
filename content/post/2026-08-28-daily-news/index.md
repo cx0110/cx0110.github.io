@@ -193,3 +193,72 @@ image:
 | 9 | [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 26,376 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的音乐播放器，支持插件化和定制化，且无广告。 |
 | 10 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 17,579 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-28 09:54 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 23503 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 🔥 23094 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| 3 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 8223 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 4 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 38552 | 🤖 [llama-3.3-70b-versatile] 该项目是一个私人、简单且强大的个人AI超级智能系统。 |
+| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 52416 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 6 | [tobi/walgit](https://github.com/tobi/walgit) | 🔥 6 | ⛔ [无描述]  |
+| 7 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🔥 14036 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap... |
+| 8 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 7335 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 50189 | Learn it. Build it. Ship it for others. |
+| 10 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 🔥 32924 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and m... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🔥 14036 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap... |
+| 2 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 7335 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 3 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 33919 | 🤖 [Legacy] OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 52416 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 50189 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 🔥 13217 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| 7 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 37276 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 8 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 7740 | Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
+| 9 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 4221 | JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingerti... |
+| 10 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 37491 | 符合nature论文学术表达和科研绘图的Skill |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 🔥 2127 | Help AI coding agents write modern Go |
+| 2 | [workweave/router](https://github.com/workweave/router) | 🔥 1845 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。 |
+| 3 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 10147 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 4 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 6394 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 48024 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 6 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 4047 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+| 7 | [c0tton-fluff/caido-mcp-server](https://github.com/c0tton-fluff/caido-mcp-server) | 🔥 114 | MCP server for Caido proxy integration. Enables AI assistants like Claude Code to browse, analyse, and interact with HTTP traffic. |
+| 8 | [bjarneo/aether](https://github.com/bjarneo/aether) | 🔥 647 | Aether, native Omarchy theming support. Works standalone for other distros. |
+| 9 | [laukkw/brale-core](https://github.com/laukkw/brale-core) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 26656 | Beads - A memory upgrade for your coding agent |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 55337 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [Webeoidentify/Honeypot-Detector](https://github.com/Webeoidentify/Honeypot-Detector) | 🔥 5 | ⛔ [无描述]  |
+| 3 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 14399 | Harness engineering beginner tutorial, from 0 to 1 |
+| 4 | [mreflow/control-center](https://github.com/mreflow/control-center) | 🔥 108 | A local-first, settings-driven business intelligence dashboard. |
+| 5 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 🔥 15267 | 🤖 [llama-3.3-70b-versatile] 远程管理代理人，支持手机、桌面和命令行界面。 |
+| 6 | [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 🔥 1153 | 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI rem... |
+| 7 | [yetone/cumora](https://github.com/yetone/cumora) | 🔥 3179 | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) b... |
+| 8 | [yc-software/qm](https://github.com/yc-software/qm) | 🔥 14272 | Multiplayer agent harness for work. |
+| 9 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 21188 | 基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。 |
+| 10 | [farcasterxyz/client](https://github.com/farcasterxyz/client) | 🔥 2 | ⛔ [星数不足 (增量2/总数91)] Snapshot of the Farcaster client monorepo (mobile + web), without the Farcaster Wallet implementation |
+
