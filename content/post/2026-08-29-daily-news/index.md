@@ -193,3 +193,72 @@ image:
 | 9 | [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 12,939 | 🤖 [llama-3.3-70b-versatile] 该项目是一个视觉小说翻译器，用于帮助用户翻译和理解视觉小说中的文本内容。 |
 | 10 | [whyour/qinglong](https://github.com/whyour/qinglong) | 19,824 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个支持多种编程语言（Python3、JavaScript、Shell、Typescript）的定时任务管理平台。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-29 09:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 11107 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 27491 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 3 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 🔥 24250 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| 4 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 4343 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 56198 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 6 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 8544 | Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
+| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 53327 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. T... |
+| 8 | [workweave/router](https://github.com/workweave/router) | 🔥 2443 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 9 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🔥 14302 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap... |
+| 10 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 37739 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 4343 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 2 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 8544 | 🤖 [llama-3.3-70b-versatile] 生成与公开评估集分布匹配的原创ARC-AGI-1风格任务。 |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 53327 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 37739 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 5 | [Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | 🔥 817 | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and r... |
+| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 50625 | Learn it. Build it. Ship it for others. |
+| 7 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🔥 14302 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap... |
+| 8 | [SpaceZephyr/creator-buddy](https://github.com/SpaceZephyr/creator-buddy) | 🔥 955 | Creator Buddy: orchestrated Agent Skills for cross-platform content search, creator analysis, and viral trend research |
+| 9 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 707 | An open source model gateway that provides one control plane across closed, open-source, local, and custom models. |
+| 10 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 26695 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 🔥 2603 | Help AI coding agents write modern Go |
+| 2 | [workweave/router](https://github.com/workweave/router) | 🔥 2443 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。 |
+| 3 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 10310 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 4 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 6481 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 48143 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 6 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 4064 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+| 7 | [c0tton-fluff/caido-mcp-server](https://github.com/c0tton-fluff/caido-mcp-server) | 🔥 114 | MCP server for Caido proxy integration. Enables AI assistants like Claude Code to browse, analyse, and interact with HTTP traffic. |
+| 8 | [bjarneo/aether](https://github.com/bjarneo/aether) | 🔥 653 | Aether, native Omarchy theming support. Works standalone for other distros. |
+| 9 | [laukkw/brale-core](https://github.com/laukkw/brale-core) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 26689 | Beads - A memory upgrade for your coding agent |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [openTrinity/mycontext](https://github.com/openTrinity/mycontext) | 🔥 2590 | MyContext is a local-first desktop app for everyday communication and knowledge work |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 56199 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 14183 | 🤖 [llama-3.3-70b-versatile] 开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。 |
+| 4 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 21554 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 5 | [daimon3332/address](https://github.com/daimon3332/address) | 🔥 1536 | A self-hosted address and synthetic test-profile generator for 27 countries and regions, built from real open-data streets, administrative areas, c... |
+| 6 | [cursor/plugins](https://github.com/cursor/plugins) | 🔥 5965 | Cursor plugin specification and official plugins |
+| 7 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 1745 | Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. |
+| 8 | [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) | 🔥 561 | Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go. |
+| 9 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 21625 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 10 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 49976 | Chrome DevTools for coding agents |
+
