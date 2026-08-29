@@ -193,3 +193,72 @@ image:
 | 9 | [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | 14,908 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Vue3、Vite7、TypeScript、Pinia、NaiveUI和UnoCSS的高颜值且功能强大的后台管理模板。 |
 | 10 | [yaklang/yakit](https://github.com/yaklang/yakit) | 7,708 | 🤖 [llama-3.3-70b-versatile] yaklang/yakit是一个集成的网络安全平台，提供全方位的安全解决方案和工具。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-30 04:09 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 30658 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 12409 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 3 | [diffusionstudio/editor](https://github.com/diffusionstudio/editor) | 🔥 1510 | Turn your agent into a professional video editor |
+| 4 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 4856 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 5 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 2254 | 🤖 [llama-3.3-70b-versatile] 该项目将ChatGPT Pro集成到Codex应用中，支持上下文、压缩、流媒体、图像等功能。 |
+| 6 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 🔥 25021 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| 7 | [cursor/plugins](https://github.com/cursor/plugins) | 🔥 6143 | Cursor plugin specification and official plugins |
+| 8 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 21835 | 基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。 |
+| 9 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 53956 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. T... |
+| 10 | [Gaoshu705/QzoneArchive](https://github.com/Gaoshu705/QzoneArchive) | 🔥 2062 | 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 37832 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 2 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 4856 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 53956 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 4 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 2920 | Autonomous research system for measurable, computer-executable research. |
+| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 38037 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 50942 | Learn it. Build it. Ship it for others. |
+| 7 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | 🔥 3 | ⛔ [无描述]  |
+| 8 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 28621 | Fully automatic censorship removal for language models |
+| 9 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 27007 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 10 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 8815 | Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [workweave/router](https://github.com/workweave/router) | 🔥 2610 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。 |
+| 2 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 3578 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale w... |
+| 3 | [Mi-Bee-Studio/MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) | 🔥 105 | Go-based lightweight NVR. Supports RTSP, ONVIF, WebRTC, HTTP-FLV, HLS, RTMP & SRT. Modern embedded web UI, single binary, zero external dependencie... |
+| 4 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 10529 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 5 | [chenhg5/agencycli](https://github.com/chenhg5/agencycli) | 🔥 231 | Lightweight CLI to build self-managing AI agent teams. Define roles, skills & projects in Markdown+YAML — agents run autonomously on a heartbeat sc... |
+| 6 | [shukiv/jabali-panel](https://github.com/shukiv/jabali-panel) | 🔥 103 | Modern web hosting control panel (Go + React) — WordPress + PHP isolation, Stalwart mail, PowerDNS, restic backups, CrowdSec WAF, per-user nspawn S... |
+| 7 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 29916 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 8 | [ardanlabs/kronk](https://github.com/ardanlabs/kronk) | 🔥 767 | Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directl... |
+| 9 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 🔥 2838 | Help AI coding agents write modern Go |
+| 10 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 5523 | Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other ... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [openTrinity/mycontext](https://github.com/openTrinity/mycontext) | 🔥 2852 | MyContext is a local-first desktop app for everyday communication and knowledge work |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 56738 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 14559 | 🤖 [llama-3.3-70b-versatile] 开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。 |
+| 4 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 21835 | 🤖 [llama-3.3-70b-versatile] 基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。 |
+| 5 | [daimon3332/address](https://github.com/daimon3332/address) | 🔥 1544 | A self-hosted address and synthetic test-profile generator for 27 countries and regions, built from real open-data streets, administrative areas, c... |
+| 6 | [cursor/plugins](https://github.com/cursor/plugins) | 🔥 6143 | Cursor plugin specification and official plugins |
+| 7 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 2254 | Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. |
+| 8 | [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) | 🔥 733 | Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go. |
+| 9 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 22168 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 10 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 50152 | Chrome DevTools for coding agents |
+
