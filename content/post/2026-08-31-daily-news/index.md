@@ -193,3 +193,72 @@ image:
 | 9 | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 5,611 | 🤖 [llama-3.3-70b-versatile] 该项目是一个A股自动选股程序，实现了多种技术交易法则，包括海龟交易法则、缠中说禅牛市买点等。 |
 | 10 | [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) | 7,278 | 🤖 [llama-3.3-70b-versatile] Salt Player 是一款本地音乐播放器，提供安卓平台上的音乐播放服务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-08-31 04:17 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 34113 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 13657 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 38441 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 4 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 4516 | Autonomous research system for measurable, computer-executable research. |
+| 5 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 31898 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。 |
+| 6 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 5882 | JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingerti... |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 39009 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated ... |
+| 8 | [workweave/router](https://github.com/workweave/router) | 🔥 3057 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 9 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) | 🔥 1943 | Email client with custom domain based on Cloudflare |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 57280 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 4516 | Autonomous research system for measurable, computer-executable research. |
+| 2 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 5882 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 38441 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 39009 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 5 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🔥 34470 | 🤖 [Legacy] OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。 |
+| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 54583 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. T... |
+| 7 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | 🔥 2791 | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks. |
+| 8 | [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) | 🔥 3881 | 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vect... |
+| 9 | [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | 🔥 9050 | Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
+| 10 | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | 🔥 9793 | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authorit... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [workweave/router](https://github.com/workweave/router) | 🔥 3057 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。 |
+| 2 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 🔥 2966 | Help AI coding agents write modern Go |
+| 3 | [strelov1/freehire](https://github.com/strelov1/freehire) | 🔥 534 | freehire — the open-source search engine for job seekers |
+| 4 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 10674 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 5 | [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | 🔥 1132 | 🤖 [llama-3.3-70b-versatile] 闲鱼多账号管理、消息回复与自动发货系统。 |
+| 6 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 🔥 5643 | Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other ... |
+| 7 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | 🔥 813 | Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. |
+| 8 | [projectdiscovery/depx](https://github.com/projectdiscovery/depx) | 🔥 195 | Malicious package & supply-chain intelligence |
+| 9 | [creamylookout/99-Nights-in-the-Forest-Radar-2026](https://github.com/creamylookout/99-Nights-in-the-Forest-Radar-2026) | 🔥 1 | ⛔ [星数不足 (增量1/总数21)] 99 Nights in the Forest Radar for Windows with player, Deer, missing-kid, chest, loot, resource, camp and night-status filters,... |
+| 10 | [MobAI-App/simslim](https://github.com/MobAI-App/simslim) | 🔥 659 | Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 57280 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 23713 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 3 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 2641 | 🤖 [llama-3.3-70b-versatile] 该项目将ChatGPT Pro集成到Codex应用中，支持上下文、压缩、流媒体、图像等功能。 |
+| 4 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 22671 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 5 | [diffusionstudio/editor](https://github.com/diffusionstudio/editor) | 🔥 1872 | Turn your agent into a professional video editor |
+| 6 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 15066 | Open source alternative to Semrush and Ahrefs |
+| 7 | [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host) | 🔥 922 | Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。 |
+| 8 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) | 🔥 1943 | Email client with custom domain based on Cloudflare |
+| 9 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 19247 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 10 | [cursor/plugins](https://github.com/cursor/plugins) | 🔥 6259 | Cursor plugin specification and official plugins |
+
