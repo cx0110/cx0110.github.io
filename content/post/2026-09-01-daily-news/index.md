@@ -193,3 +193,72 @@ image:
 | 9 | [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) | 36,721 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Linux命令大全搜索工具，提供Linux命令手册、详解、学习和搜集功能。 |
 | 10 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 26,591 | 🤖 [llama-3.3-70b-versatile] Ehviewer是一个用于浏览和管理电子图册的工具，提供方便快捷的阅读体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-01 06:10 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 26826 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 38444 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 40669 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 4 | [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen) | 🔥 1664 | 🏆 Self Hosted Gen AI platform. Free alternative to Higgsfield, OpenArt, Freepik.... |
+| 5 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 🔥 26332 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| 6 | [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) | 🔥 7498 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
+| 7 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 58351 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| 8 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 🔥 33067 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping +... |
+| 9 | [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) | 🔥 1499 | Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust. |
+| 10 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 15712 | Open source alternative to Semrush and Ahrefs |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 40669 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 2 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 🔥 6190 | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
+| 3 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 5446 | Autonomous research system for measurable, computer-executable research. |
+| 4 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 🔥 29607 | 🤖 [Legacy] 该项目实现了语言模型的自动审查内容去除功能。 |
+| 5 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 43904 | 🤖 [llama-3.3-70b-versatile] 开源《深入理解AI Agent》书籍的主仓库，包含全书正文、PDF和配套代码。 |
+| 6 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 🔥 13889 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| 7 | [qusong0627/QuantMind](https://github.com/qusong0627/QuantMind) | 🔥 1223 |  QuantMind（量化大脑）开源版是一款面向个人开发者与投研团队的 AI 原生多市场量化交易平台。深度集成微软 Qlib、RD-Agent 因子演化与 TradingAgents 多智能体投研，提供从 300+ 维因子挖掘、13 种机器学习与深度学习模型工场、Optuna 自动调参、Qli... |
+| 8 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 39065 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 9 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 55005 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. T... |
+| 10 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 27566 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MobAI-App/simslim](https://github.com/MobAI-App/simslim) | 🔥 1077 | Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need |
+| 2 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 8200 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
+| 3 | [workweave/router](https://github.com/workweave/router) | 🔥 3320 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。 |
+| 4 | [notsnakesilent/VMPStatic](https://github.com/notsnakesilent/VMPStatic) | 🔥 117 | A static VMProtect unpacker for PE files, supports VMProtect 1.x–3.x and rebuilding unpacked PE images |
+| 5 | [gokele/ovh](https://github.com/gokele/ovh) | 🔥 1 | ⛔ [无描述]  |
+| 6 | [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) | 🔥 1570 | Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest. |
+| 7 | [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 🔥 248 | HEY CLI and Agent Skills |
+| 8 | [bjarneo/cliamp](https://github.com/bjarneo/cliamp) | 🔥 3913 | cliamp - Terminal music player inspired by winamp  |
+| 9 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 10773 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 10 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 21963 | Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.  |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 26826 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 58351 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen) | 🔥 1664 | 🏆 Self Hosted Gen AI platform. Free alternative to Higgsfield, OpenArt, Freepik.... |
+| 4 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) | 🔥 2137 | Email client with custom domain based on Cloudflare |
+| 5 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 28708 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 6 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 15712 | Open source alternative to Semrush and Ahrefs |
+| 7 | [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) | 🔥 1041 | Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go. |
+| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 23317 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 9 | [aipoch/open-science](https://github.com/aipoch/open-science) | 🔥 3509 | Open-Source AI research workbench with scientific agents for reproducible research and discovery.  |
+| 10 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 22445 | 基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。 |
+
