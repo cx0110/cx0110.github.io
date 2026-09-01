@@ -193,3 +193,72 @@ image:
 | 9 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 22,936 | 🤖 [llama-3.3-70b-versatile] 该项目是一个全自动化工具，能够一键完成《明日方舟》游戏中的日常任务。 |
 | 10 | [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 26,512 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的音乐播放器，支持插件化和定制化，且无广告。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-02 04:18 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 29242 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 2 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 6081 | Autonomous research system for measurable, computer-executable research. |
+| 3 | [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) | 🔥 1882 | Safety-first disk cleaner and disk space analyzer for macOS and Windows, with duplicate file finder, large file cleanup, app uninstaller, and start... |
+| 4 | [mikeparcewski/wicked-studio](https://github.com/mikeparcewski/wicked-studio) | 🔥 177 | wicked-studio — the coder-facing skin of the wicked experience plane. Pure HTTP/WS client of the wicked-crew daemon's /api/v1. |
+| 5 | [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) | 🔥 1975 | Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust. |
+| 6 | [litaolemo/xtquant_big_convert](https://github.com/litaolemo/xtquant_big_convert) | 🔥 467 | 把大qmt的接口转接, 兼容原有miniqmt的接口以实现替换 |
+| 7 | [LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format) | 🔥 5217 | 飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：... |
+| 8 | [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) | 🔥 596 | AI 自主渗透测试系统 |
+| 9 | [qusong0627/QuantMind](https://github.com/qusong0627/QuantMind) | 🔥 1293 |  QuantMind（量化大脑）开源版是一款面向个人开发者与投研团队的 AI 原生多市场量化交易平台。深度集成微软 Qlib、RD-Agent 因子演化与 TradingAgents 多智能体投研，提供从 300+ 维因子挖掘、13 种机器学习与深度学习模型工场、Optuna 自动调参、Qli... |
+| 10 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 11219 | Connect your users to their apps |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 6081 | Autonomous research system for measurable, computer-executable research. |
+| 2 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 26356 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 3 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 6720 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 4 | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | 🔥 10112 | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authorit... |
+| 5 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 🔥 27793 | 🤖 [llama-3.3-70b-versatile] 该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。 |
+| 6 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | 🔥 3185 | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks. |
+| 7 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 🔥 25041 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| 8 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 22094 | Hindsight: Agent Memory That  Learns |
+| 9 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 🔥 14875 | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
+| 10 | [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 🔥 9334 | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills） |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [MobAI-App/simslim](https://github.com/MobAI-App/simslim) | 🔥 1163 | Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need |
+| 2 | [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api) | 🔥 2 | ⛔ [无描述]  |
+| 3 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 26794 | 🤖 [llama-3.3-70b-versatile] Beads是一个内存升级工具，用于增强编码代理的记忆能力。 |
+| 4 | [workweave/router](https://github.com/workweave/router) | 🔥 3485 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。 |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 40104 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [kenn-io/forge](https://github.com/kenn-io/forge) | 🔥 173 | Local-first maintainer console with built-in agent workspaces: triage PRs, issues, and CI across GitHub, GitLab, Forgejo, and Gitea, then turn any ... |
+| 7 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 2527 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 8 | [hkdb/aerion](https://github.com/hkdb/aerion) | 🔥 902 | An Open Source Lightweight E-Mail Client |
+| 9 | [byJoey/yx-tools](https://github.com/byJoey/yx-tools) | 🔥 1 | ⛔ [无描述]  |
+| 10 | [Lingtai-AI/lingtai](https://github.com/Lingtai-AI/lingtai) | 🔥 678 | LingTai AI |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 29326 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 59144 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen) | 🔥 1707 | 🏆 Self Hosted Gen AI platform. Free alternative to Higgsfield, OpenArt, Freepik.... |
+| 4 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) | 🔥 2258 | Email client with custom domain based on Cloudflare |
+| 5 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 28891 | 🤖 [llama-3.3-70b-versatile] 该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。 |
+| 6 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 16101 | Open source alternative to Semrush and Ahrefs |
+| 7 | [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) | 🔥 1187 | Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go. |
+| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 23562 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 9 | [aipoch/open-science](https://github.com/aipoch/open-science) | 🔥 3495 | Open-Source AI research workbench with scientific agents for reproducible research and discovery.  |
+| 10 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 🔥 22749 | 基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。 |
+
