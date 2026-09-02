@@ -193,3 +193,72 @@ image:
 | 9 | [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | 11,794 | 🤖 [llama-3.3-70b-versatile] NotionNext是一个使用NextJS和Notion API构建的静态博客平台，支持多种部署方案，无需服务器即可搭建网站。 |
 | 10 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 47,046 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源、免费的离线OCR软件，支持截屏、批量导入图片、PDF文档识别、排除水印、扫描和生成二维码等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-03 04:16 UTC
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1141 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 2 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 🔥 812 | LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐 |
+| 3 | [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) | 🔥 708 | Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 |
+| 4 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 679 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 5 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 615 | Autonomous research system for measurable, computer-executable research. |
+| 6 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 🔥 529 | World's first open-source enterprise world model. |
+| 7 | [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) | 🔥 472 | Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust. |
+| 8 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 421 | JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingerti... |
+| 9 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 🔥 186 | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 10 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 🔥 435 | runs anywhere. uses anything |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 635 | Autonomous research system for measurable, computer-executable research. |
+| 2 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 421 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 3 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 444 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
+| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 428 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 5 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 442 | 🤖 [llama-3.3-70b-versatile] 该项目使用编码代理编辑视频，实现视频编辑自动化。 |
+| 6 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 281 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 7 | [2akouwu/codex-cli-portable-setup-kit](https://github.com/2akouwu/codex-cli-portable-setup-kit) | 🔥 272 | Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution. |
+| 8 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 🔥 300 | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
+| 9 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 310 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 10 | [youdidking/stanngv2](https://github.com/youdidking/stanngv2) | 🔥 72 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 🔥 5883 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 2 | [slackhq/nebula](https://github.com/slackhq/nebula) | 🔥 18244 | A scalable overlay networking tool with a focus on performance, simplicity and security |
+| 3 | [workweave/router](https://github.com/workweave/router) | 🔥 3623 | 🤖 [llama-3.3-70b-versatile] 该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。 |
+| 4 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🔥 6279 | 🤖 [Legacy] CyberStrikeAI是一个集成多种安全工具的AI安全测试平台。 |
+| 5 | [xiaozhou26/icloud-hme](https://github.com/xiaozhou26/icloud-hme) | 🔥 10 | ⛔ [无描述]  |
+| 6 | [bjarneo/cliamp](https://github.com/bjarneo/cliamp) | 🔥 3967 | cliamp - Terminal music player inspired by winamp  |
+| 7 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 10858 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+| 8 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 22037 | Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.  |
+| 9 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 49941 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Ge... |
+| 10 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 6635 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 195 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 2 | [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | 🔥 138 | Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, projec... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 130 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 🔥 108 | 🤖 [llama-3.3-70b-versatile] 该项目是一个跨平台、多语言的开源项目，实现了无处不在的运行和使用任何语言的能力。 |
+| 5 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) | 🔥 2503 | Email client with custom domain based on Cloudflare |
+| 6 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 16365 | Open source alternative to Semrush and Ahrefs |
+| 7 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 19673 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 23861 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 9 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 4083 | Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. |
+| 10 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 24 | ⛔ [无描述]  |
+
