@@ -193,3 +193,78 @@ image:
 | 9 | [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | 7,084 | 🤖 [llama-3.3-70b-versatile] Bili23-Downloader 是一款跨平台的 B 站视频下载工具，支持音视频流分离下载、多线程加速、弹幕与字幕获取等功能。 |
 | 10 | [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) | 11,320 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于WeChaty和多个AI服务的微信机器人，实现自动回复、社群分析、好友管理和检测僵尸粉等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-04 04:16 UTC
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 631 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 2049 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1880 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 3 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 🔥 1365 | World's first open-source enterprise world model. |
+| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1427 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 5 | [google-research/timesfm](https://github.com/google-research/timesfm) | 🔥 1493 | 🤖 [Legacy] TimesFM 是谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。 |
+| 6 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 1053 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 7 | [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) | 🔥 1018 | Local-first search across your workspace, built for humans and AI agents. |
+| 8 | [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | 🔥 875 | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included. |
+| 9 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 1079 | Agent skill that removes signs of AI-generated writing from text |
+| 10 | [clshortfuse/renodx](https://github.com/clshortfuse/renodx) | 🔥 1065 | Renovation Engine for DirectX Games |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1445 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [google-research/timesfm](https://github.com/google-research/timesfm) | 🔥 1523 | 🤖 [Legacy] TimesFM 是谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。 |
+| 3 | [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | 🔥 902 | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included. |
+| 4 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 1091 | Agent skill that removes signs of AI-generated writing from text |
+| 5 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🔥 594 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| 6 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 402 | JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingerti... |
+| 7 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 439 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 542 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 9 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 572 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| 10 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 461 | Edit videos with coding agents |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 🔥 310 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 206 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 3 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | 🔥 195 | Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usag... |
+| 4 | [TokenPLS/Hako](https://github.com/TokenPLS/Hako) | 🔥 140 | High-performance Adaptive Kernel, Open-source. |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 127 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [workweave/router](https://github.com/workweave/router) | 🔥 133 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 7 | [MobAI-App/simslim](https://github.com/MobAI-App/simslim) | 🔥 112 | Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need |
+| 8 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 103 | Make humans and AI agents work as one team — open-source and self-hostable. |
+| 9 | [modelbus/one-api-pro](https://github.com/modelbus/one-api-pro) | 🔥 613 | One API Pro：基于one-api的企业级AI LLM API Gateway网关，统一接口聚合30+模型，Vue3+Arco管理后台，支持令牌管控、套餐订阅、多活集群、精确计费与四级权限。适合多模型统一管理与高可用部署。温馨提示：搜索one-api或one api pro都可以找到我... |
+| 10 | [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) | 🔥 3164 | A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account hea... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 195 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 2 | [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | 🔥 138 | Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, projec... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 130 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 🔥 108 | 🤖 [llama-3.3-70b-versatile] 该项目是一个跨平台、多语言的开源项目，实现了无处不在的运行和使用任何语言的能力。 |
+| 5 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) | 🔥 2590 | Email client with custom domain based on Cloudflare |
+| 6 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 16625 | Open source alternative to Semrush and Ahrefs |
+| 7 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔥 19755 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 24085 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 9 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 4240 | Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. |
+| 10 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 24 | ⛔ [无描述]  |
+
