@@ -193,3 +193,78 @@ image:
 | 9 | [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) | 36,824 | 🤖 [llama-3.3-70b-versatile] 该项目是一个Linux命令大全搜索工具，提供Linux命令手册、详解、学习和搜集功能。 |
 | 10 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 129,888 | 🤖 [llama-3.3-70b-versatile] 该项目提供动画图解和一键运行的数据结构与算法教程，支持多种语言和代码实现。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-06 03:42 UTC
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2486 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 2954 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 🔥 2901 | 🤖 [Legacy] 该项目是一个技能管理系统，用于记录和展示个人技能。 |
+| 3 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 🔥 1853 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| 4 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1905 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1650 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 6 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 1094 | Agent skill that removes signs of AI-generated writing from text |
+| 7 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 1243 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| 8 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 775 | JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingerti... |
+| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 809 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 10 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 🔥 698 | World's first open-source enterprise world model. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1634 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 1080 | Agent skill that removes signs of AI-generated writing from text |
+| 3 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 1219 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| 4 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 775 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 5 | [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy) | 🔥 485 | PettingZoo and Gymnasium bindings for popular reinforcement learning environments outside of Farama |
+| 6 | [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) | 🔥 378 | AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. |
+| 7 | [Indigodriflue/Discord-Nitro-Generator](https://github.com/Indigodriflue/Discord-Nitro-Generator) | 🔥 410 | Discord Nitro Generator and Checker - fast, multi-threaded Python tool for generating and validating Discord Nitro gift codes in real-time. Support... |
+| 8 | [Farama-Foundation/MPE2](https://github.com/Farama-Foundation/MPE2) | 🔥 389 | A set of communication oriented environments |
+| 9 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 310 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 10 | [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2) | 🔥 370 | An engine for high performance multi-agent environments with very large numbers of agents, along with a set of reference environments |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 150 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 2 | [MobAI-App/simslim](https://github.com/MobAI-App/simslim) | 🔥 158 | Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 124 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [weave-os/router](https://github.com/weave-os/router) | 🔥 103 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 5 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 🔥 130 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 6 | [Adytm404/whatsapp-web.view](https://github.com/Adytm404/whatsapp-web.view) | 🔥 72 | ⛔ [星数不足 (增量72/总数77)] Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2. |
+| 7 | [heartleo/zlib](https://github.com/heartleo/zlib) | 🔥 103 | A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents. |
+| 8 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 2744 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 9 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 🔥 108 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemi... |
+| 10 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 🔥 3221 | Help AI coding agents write modern Go |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 🔥 1500 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 784 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 🔥 538 | Open source inference server that profiles your hardware, recommends the best local models for it, then downloads, tunes, and runs them. Use the bu... |
+| 4 | [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) | 🔥 596 | Local-first search across your workspace, built for humans and AI agents. |
+| 5 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 413 | 🤖 [llama-3.3-70b-versatile] 该项目将ChatGPT Pro集成到Codex应用中，支持上下文、压缩、流媒体、图像等功能。 |
+| 6 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 457 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| 7 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 380 | Open source alternative to Semrush and Ahrefs |
+| 8 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🔥 293 | Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editi... |
+| 9 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 🔥 262 | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| 10 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 🔥 239 | runs anywhere. uses anything |
+
