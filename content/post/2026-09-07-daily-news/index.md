@@ -193,3 +193,85 @@ image:
 | 9 | [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) | 9,077 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是将V2ray运行在边缘计算或无服务器环境中。 |
 | 10 | [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 26,634 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的音乐播放器，支持插件化和定制化，且无广告。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-07 03:45 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 2069 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 1363 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2525 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 1678 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1343 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 3 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 🔥 1377 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| 4 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 🔥 499 | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 5 | [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) | 🔥 962 | The headless browser for AI agents and web scraping |
+| 6 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 🔥 694 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. |
+| 7 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 860 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 8 | [byJoey/warp-masque-actions](https://github.com/byJoey/warp-masque-actions) | 🔥 259 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact |
+| 9 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 754 | Agent skill that removes signs of AI-generated writing from text |
+| 10 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 684 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 859 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [byJoey/warp-masque-actions](https://github.com/byJoey/warp-masque-actions) | 🔥 237 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact |
+| 3 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 757 | Agent skill that removes signs of AI-generated writing from text |
+| 4 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 523 | An open source model gateway that provides one control plane across closed, open-source, local, and custom models. |
+| 5 | [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) | 🔥 459 | AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. |
+| 6 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 395 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 338 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated ... |
+| 8 | [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) | 🔥 228 | Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image,... |
+| 9 | [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | 🔥 247 | Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your... |
+| 10 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 🔥 209 | "Vibe-Trading: Your Personal Trading Agent" |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 🔥 140 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 100 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [weave-os/router](https://github.com/weave-os/router) | 🔥 4005 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 49049 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [warmbly/warmbly](https://github.com/warmbly/warmbly) | 🔥 229 | The largest open-source cold outreach and email warmup platform. |
+| 6 | [flexprice/flexprice](https://github.com/flexprice/flexprice) | 🔥 129 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature... |
+| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 21541 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 8 | [charlie763/technical-interview-practice](https://github.com/charlie763/technical-interview-practice) | 🔥 64 | ⛔ [无描述]  |
+| 9 | [hanxi/cups-web](https://github.com/hanxi/cups-web) | 🔥 1310 | 把家用 USB 打印机变成随时可访问的网络打印服务 |
+| 10 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 11000 | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomous... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 🔥 1743 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| 2 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 🔥 735 | Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, He... |
+| 3 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 🔥 374 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. |
+| 4 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 443 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 5 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 🔥 288 | A list of tools that are open-source, in-browser, and require no-signups! |
+| 6 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 318 | Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. |
+| 7 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🔥 289 | Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editi... |
+| 8 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 265 | Open source alternative to Semrush and Ahrefs |
+| 9 | [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) | 🔥 171 | Free Windows, Mac and Linux cleaner, scanner, and more. |
+| 10 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 196 | ⌥ Coding agent with the IDE wired in |
+
