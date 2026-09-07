@@ -193,3 +193,85 @@ image:
 | 9 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 28,940 | 🤖 [llama-3.3-70b-versatile] 该项目主要用于测试Cloudflare CDN的延迟和速度，并帮助用户找到最快的IP。 |
 | 10 | [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | 29,624 | 🤖 [llama-3.3-70b-versatile] 该项目的核心功能是解决GitHub访问时图裂、加载慢的问题，帮助用户更流畅地使用GitHub。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-08 04:54 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 2743 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 1634 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2587 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 🔥 963 | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tra... |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 1719 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1679 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 1004 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 5 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 🔥 417 | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 6 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 961 | Agent skill that removes signs of AI-generated writing from text |
+| 7 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 🔥 900 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. |
+| 8 | [redhat-et/ripwire](https://github.com/redhat-et/ripwire) | 🔥 815 | The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving coding agents a ranked, deterministic map of any repo, blast radius, tes... |
+| 9 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 928 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 10 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 🔥 805 | Free and open-source macOS menu bar toolkit. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 🔥 978 | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tra... |
+| 2 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 961 | Agent skill that removes signs of AI-generated writing from text |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 925 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 4 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 845 | An open source model gateway that provides one control plane across closed, open-source, local, and custom models. |
+| 5 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 838 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 6 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 🔥 673 | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
+| 7 | [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | 🔥 709 | Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all i... |
+| 8 | [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) | 🔥 575 | Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yours. |
+| 9 | [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) | 🔥 441 | AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. |
+| 10 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 396 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 🔥 379 | 🤖 [llama-3.3-70b-versatile] 该项目是一个快速的、可脚本化的App Store Connect API命令行工具，用于自动化TestFlight、构建、提交等操作。 |
+| 2 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | 🔥 294 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progre... |
+| 3 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 🔥 180 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 4 | [dstotijn/hetty](https://github.com/dstotijn/hetty) | 🔥 198 | An HTTP toolkit for security research. |
+| 5 | [goposta/posta](https://github.com/goposta/posta) | 🔥 133 | 🤖 [llama-3.3-70b-versatile] 一个自托管的电子邮件投递平台，通过HTTP API发送邮件，处理SMTP投递、模板、存储、安全和分析。 |
+| 6 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 143 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 40740 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 8 | [weave-os/router](https://github.com/weave-os/router) | 🔥 4090 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 9 | [modelbus/one-api-pro](https://github.com/modelbus/one-api-pro) | 🔥 769 | one-api-pro is an enterprise-grade AI API Gateway built on one-api（or oneapi）. It has undergone a full architectural redesign, adding support for s... |
+| 10 | [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) | 🔥 108 | Send and receive SMS messages using your Android phone programmatically via a simple HTTP API |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 🔥 989 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. |
+| 2 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 🔥 595 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| 3 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 456 | 🤖 [llama-3.3-70b-versatile] Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。 |
+| 4 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 493 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 5 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 🔥 474 | Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, He... |
+| 6 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 🔥 425 | A list of tools that are open-source, in-browser, and require no-signups! |
+| 7 | [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | 🔥 326 | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows. |
+| 8 | [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) | 🔥 393 | Free Windows, Mac and Linux cleaner, scanner, and more. |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 266 | Write HTML. Render video. Built for agents. |
+| 10 | [HiThink-Tech/Financial-API](https://github.com/HiThink-Tech/Financial-API) | 🔥 240 | 同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghuashun (HiThink) A-share financial data ... |
+
