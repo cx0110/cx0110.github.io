@@ -193,3 +193,85 @@ image:
 | 9 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,486 | 🤖 [llama-3.3-70b-versatile] 该项目分享GitHub上有趣、适合初学者的开源项目。 |
 | 10 | [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) | 10,893 | 🤖 [llama-3.3-70b-versatile] 这个项目是一个C#/.NET/.NET Core学习和工作指南，收集和总结了相关的基础知识、学习路线、开发实战等资源。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-09 04:28 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 3070 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 1945 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2645 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 2532 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 2264 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 🔥 2032 | Python tool for converting files and office documents to Markdown. |
+| 4 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 1329 | 🤖 [llama-3.3-70b-versatile] Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 1433 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 6 | [microsoft/tgrep](https://github.com/microsoft/tgrep) | 🔥 1283 | Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally |
+| 7 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 🔥 1222 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, sam... |
+| 8 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 🔥 1167 | Make Every Team AI Native |
+| 9 | [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) | 🔥 882 | 📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明 |
+| 10 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 🔥 350 | Advanced UX and interoperability extension for Wand (WeMod) app |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 🔥 2065 | Python tool for converting files and office documents to Markdown. |
+| 2 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 🔥 1235 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, sam... |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 818 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 4 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 🔥 411 | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tra... |
+| 5 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 668 | An open source model gateway that provides one control plane across closed, open-source, local, and custom models. |
+| 6 | [openai/skills](https://github.com/openai/skills) | 🔥 521 | Skills Catalog for Codex |
+| 7 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 🔥 544 | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested s... |
+| 8 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 🔥 501 | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
+| 9 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 467 | Agent skill that removes signs of AI-generated writing from text |
+| 10 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 430 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [flexprice/flexprice](https://github.com/flexprice/flexprice) | 🔥 359 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature... |
+| 2 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 🔥 245 | 🤖 [llama-3.3-70b-versatile] 该项目是一个快速的、可脚本化的App Store Connect API命令行工具，用于自动化TestFlight、构建、提交等操作。 |
+| 3 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | 🔥 233 | 🤖 [Legacy] 开源的DevOps控制平面，用于管理事件驱动的工作流程。 |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 130 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 🔥 169 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 6 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 139 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 7 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 103 | Make humans and AI agents work as one team — open-source and self-hostable. |
+| 8 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 6451 | Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Drive... |
+| 9 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | 🔥 103 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progre... |
+| 10 | [cychenhaibin/Knowvia-Agent](https://github.com/cychenhaibin/Knowvia-Agent) | 🔥 44 | ⛔ [星数不足 (增量44/总数57)] Knowvia 是一个面向文档知识库的 AI 研究助手。它可以连接不同来源的知识内容，对文档进行同步、索引和检索，并结合大模型完成知识问答、资料总结、研究分析和结构化报告生成。相比普通聊天工具，Knowvia 更关注“基于证据的交付”：每次任务都可以围... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 1627 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 2 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 1121 | 🤖 [llama-3.3-70b-versatile] Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。 |
+| 3 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 🔥 688 | Make Every Team AI Native |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 783 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 5 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 🔥 681 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. |
+| 6 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 672 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| 7 | [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | 🔥 519 | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows. |
+| 8 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 🔥 561 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| 9 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 🔥 519 | A list of tools that are open-source, in-browser, and require no-signups! |
+| 10 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 392 | Create and share 3D architectural projects. |
+
