@@ -193,3 +193,85 @@ image:
 | 9 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80,477 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 | 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,261 | 🤖 [llama-3.3-70b-versatile] 该项目是一个每周五发布的科技爱好者周刊，分享科技相关的新闻、文章和资源。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-10 04:11 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 3386 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 2269 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2707 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 4196 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 2218 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1606 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 4 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 1019 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 5 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 🔥 1523 | Open-source AI brand visibility and competitor reports |
+| 6 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 1215 | Write HTML. Render video. Built for agents. |
+| 7 | [microsoft/tgrep](https://github.com/microsoft/tgrep) | 🔥 926 | Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally |
+| 8 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 🔥 822 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 811 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+| 10 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 🔥 869 | World's first open-source enterprise world model. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 4291 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 2 | [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) | 🔥 721 | AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. |
+| 3 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 701 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 597 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 5 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 552 | Agent skill that removes signs of AI-generated writing from text |
+| 6 | [openai/skills](https://github.com/openai/skills) | 🔥 502 | Skills Catalog for Codex |
+| 7 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 496 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 8 | [AI-FanGe/Microduck-build-tutorial](https://github.com/AI-FanGe/Microduck-build-tutorial) | 🔥 417 | A practical hardware and software setup for a compact RL-powered biped robot. |
+| 9 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | 🔥 420 | ⛔ [无描述]  |
+| 10 | [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) | 🔥 372 | Express yourself in meetings (with memes, of course). |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | 🔥 297 | 🤖 [Legacy] 开源的DevOps控制平面，用于管理事件驱动的工作流程。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 152 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 136 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 156 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 5 | [Stocist/Tailtab](https://github.com/Stocist/Tailtab) | 🔥 164 | A Tailscale node for each browser profile. |
+| 6 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 🔥 7145 | Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more |
+| 7 | [d2lang/d2](https://github.com/d2lang/d2) | 🔥 127 | D2 is a modern diagram scripting language that turns text to diagrams. |
+| 8 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 🔥 101 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemi... |
+| 9 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 6493 | Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Drive... |
+| 10 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 22149 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level co... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 1908 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 2 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 🔥 1527 | Open-source AI brand visibility and competitor reports |
+| 3 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 1257 | 🤖 [llama-3.3-70b-versatile] Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。 |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 819 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 5 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 🔥 867 | Make Every Team AI Native |
+| 6 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 🔥 662 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
+| 7 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 🔥 549 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| 8 | [trailhq/Graft](https://github.com/trailhq/Graft) | 🔥 457 | Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase. |
+| 9 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 581 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
+| 10 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 504 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+
