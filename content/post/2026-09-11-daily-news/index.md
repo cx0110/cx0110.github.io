@@ -193,3 +193,85 @@ image:
 | 9 | [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 21,823 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，用于嗅探和捕获网页中的资源，帮助用户方便地下载或查看网页中的图片、视频、音频等资源。 |
 | 10 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 19,276 | 🤖 [llama-3.3-70b-versatile] 该项目为Rime输入法提供了一个名为“雾凇拼音”的配置方案，包含长期维护的简体中文词库。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-11 04:12 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 3647 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 2588 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2772 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 4198 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 1714 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 1427 | 🤖 [llama-3.3-70b-versatile] 该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。 |
+| 4 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1295 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 5 | [crestcoursechateau/Acrobat-Pro-Software](https://github.com/crestcoursechateau/Acrobat-Pro-Software) | 🔥 966 | ⛔ [无描述]  |
+| 6 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 🔥 982 | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
+| 7 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 892 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| 8 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 🔥 797 | Make Every Team AI Native |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 835 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+| 10 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 🔥 290 | Advanced UX and interoperability extension for Wand (WeMod) app |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 4194 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 713 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 3 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 🔥 517 | 🤖 [Legacy] 该项目实现了高质量的语音克隆和文本转语音（TTS）功能，支持600多种语言。 |
+| 4 | [google/artemis](https://github.com/google/artemis) | 🔥 547 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+| 5 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 709 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 6 | [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) | 🔥 511 | AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. |
+| 7 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 553 | Agent skill that removes signs of AI-generated writing from text |
+| 8 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 456 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 9 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 🔥 446 | A library of agent skills for CAD, CAE and CAM |
+| 10 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 🔥 349 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | 🔥 288 | 🤖 [Legacy] 开源的DevOps控制平面，用于管理事件驱动的工作流程。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 141 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 106 | Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Drive... |
+| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 110 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 5 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 🔥 117 | 🤖 [llama-3.3-70b-versatile] 该项目是一个统一的AI模型中心，支持将多种LLM模型转换为兼容OpenAI、Claude或Gemini格式。 |
+| 6 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 🔥 7175 | Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more |
+| 7 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 11276 | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +27 more). Desktop, web, mobile, and cloud agents. |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 22094 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 9 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 2920 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 10 | [weave-os/router](https://github.com/weave-os/router) | 🔥 4244 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 863 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 820 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 🔥 640 | Make Every Team AI Native |
+| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 661 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 5 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 🔥 479 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| 6 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 🔥 359 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains.... |
+| 7 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 🔥 386 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. |
+| 8 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 🔥 439 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
+| 9 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 326 | Create and share 3D architectural projects. |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 372 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
+
