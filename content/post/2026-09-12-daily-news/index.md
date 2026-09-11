@@ -193,3 +193,85 @@ image:
 | 9 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80,570 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 | 10 | [xszyou/Fay](https://github.com/xszyou/Fay) | 13,520 | 🤖 [llama-3.3-70b-versatile] Fay是一个agent框架，帮助数字人和大语言模型与业务系统进行连接和交互。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-12 04:12 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 4022 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 2883 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2841 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 3728 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 2 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 3766 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 3 | [crestcoursechateau/Acrobat-Pro-Software](https://github.com/crestcoursechateau/Acrobat-Pro-Software) | 🔥 1541 | ⛔ [无描述]  |
+| 4 | [OnyxConductorSnips/Discord-Raid-Tools](https://github.com/OnyxConductorSnips/Discord-Raid-Tools) | 🔥 1391 | Advanced Discord Server Automation Framework & Webhook Management Tool. Designed for security auditing, stress testing, and high-performance server... |
+| 5 | [watermitecreate/Optimizer-For-Windows](https://github.com/watermitecreate/Optimizer-For-Windows) | 🔥 1286 | ⛔ [无描述]  |
+| 6 | [Embertuready/Total-Commander](https://github.com/Embertuready/Total-Commander) | 🔥 1268 | ⛔ [无描述]  |
+| 7 | [ghoulformpray/Monero-Miner](https://github.com/ghoulformpray/Monero-Miner) | 🔥 1247 | ⛔ [无描述]  |
+| 8 | [VelocityNodeCompute/Universal-Trading-Bot](https://github.com/VelocityNodeCompute/Universal-Trading-Bot) | 🔥 1238 | ⛔ [无描述]  |
+| 9 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1330 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 10 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 1113 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 3742 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 2 | [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills) | 🔥 528 | ⛔ [无描述]  |
+| 3 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 🔥 790 | ⛔ [无描述]  |
+| 4 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 🔥 658 | 🤖 [Legacy] 该项目实现了高质量的语音克隆和文本转语音（TTS）功能，支持600多种语言。 |
+| 5 | [google/artemis](https://github.com/google/artemis) | 🔥 613 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+| 6 | [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) | 🔥 519 | AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. |
+| 7 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 523 | Agent skill that removes signs of AI-generated writing from text |
+| 8 | [amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D) | 🔥 497 | Amagine3D: From hardware requirements to editable 3D designs |
+| 9 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 500 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 10 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 404 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | 🔥 485 | 🤖 [Legacy] 开源的DevOps控制平面，用于管理事件驱动的工作流程。 |
+| 2 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 202 | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +27 more). Desktop, web, mobile, and cloud agents. |
+| 3 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 🔥 208 | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 180 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 5 | [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) | 🔥 195 | 🦩 Tools for Go projects |
+| 6 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 148 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 7 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 141 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 8 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 141 | Make humans and AI agents work as one team — open-source and self-hostable. |
+| 9 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 118 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 10 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 🔥 414 | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 964 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 860 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 743 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 4 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 🔥 813 | Make Every Team AI Native |
+| 5 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 🔥 651 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| 6 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 🔥 597 | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with T... |
+| 7 | [realchendahuang/feedsieve](https://github.com/realchendahuang/feedsieve) | 🔥 594 | X 赛博清洁工：高置信垃圾账号黄框标注，一键原生拉黑，全端同步消失。Open-source X (Twitter) spam blocker for Chrome. |
+| 8 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 🔥 413 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains.... |
+| 9 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 🔥 513 | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| 10 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 🔥 377 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead o... |
+
