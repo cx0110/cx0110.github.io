@@ -193,3 +193,85 @@ image:
 | 9 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | 13,286 | 🤖 [llama-3.3-70b-versatile] Nightingale是一个监控和告警平台，提供实时数据监控和告警功能。 |
 | 10 | [jaywcjlove/reference](https://github.com/jaywcjlove/reference) | 15,252 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个技术速查清单集合，帮助开发者快速查阅常见技术、工具和开发流程的关键信息。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-13 03:51 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 4288 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 3171 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2882 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 3450 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 2421 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 3 | [postlayerrespect26/FPS-Booster-for-Wiindows](https://github.com/postlayerrespect26/FPS-Booster-for-Wiindows) | 🔥 1729 | ⛔ [无描述]  |
+| 4 | [ghoulformpray/Monero-Miner](https://github.com/ghoulformpray/Monero-Miner) | 🔥 1707 | ⛔ [无描述]  |
+| 5 | [ScalarLinkAxe/Optimizer-Toolkit](https://github.com/ScalarLinkAxe/Optimizer-Toolkit) | 🔥 1589 | ⛔ [无描述]  |
+| 6 | [pitelephantdawn/KMS-Pico-for-Win](https://github.com/pitelephantdawn/KMS-Pico-for-Win) | 🔥 1437 | ⛔ [无描述]  |
+| 7 | [covetradesmanrivet/Acrobat-Reader-Pro](https://github.com/covetradesmanrivet/Acrobat-Reader-Pro) | 🔥 1489 | ⛔ [无描述]  |
+| 8 | [bluecockatooshrink/AutoCad-setup](https://github.com/bluecockatooshrink/AutoCad-setup) | 🔥 1261 | ⛔ [无描述]  |
+| 9 | [agentrhq/webcmd](https://github.com/agentrhq/webcmd) | 🔥 492 | Self-learning agent browser |
+| 10 | [google/artemis](https://github.com/google/artemis) | 🔥 1083 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 3419 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 2 | [google/artemis](https://github.com/google/artemis) | 🔥 1093 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+| 3 | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) | 🔥 708 | A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser f... |
+| 4 | [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | 🔥 684 | Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. |
+| 5 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 🔥 554 | 🤖 [Legacy] 该项目实现了高质量的语音克隆和文本转语音（TTS）功能，支持600多种语言。 |
+| 6 | [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) | 🔥 506 | AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. |
+| 7 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 404 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 8 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 413 | Agent skill that removes signs of AI-generated writing from text |
+| 9 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 318 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 10 | [amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D) | 🔥 345 | Amagine3D: From hardware requirements to editable 3D designs |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 408 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 2 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 275 | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. |
+| 3 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 252 | 🤖 [Legacy] vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 221 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 5 | [x4gpanell/3x-ui_runonflux](https://github.com/x4gpanell/3x-ui_runonflux) | 🔥 46 | ⛔ [无描述]  |
+| 6 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 129 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level co... |
+| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 126 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 8 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 101 | Make humans and AI agents work as one team — open-source and self-hostable. |
+| 9 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 🔥 486 | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
+| 10 | [pgrundev/pgbot](https://github.com/pgrundev/pgbot) | 🔥 1159 | Postgres intelligence for ai agents & apps |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 863 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 701 | 🤖 [llama-3.3-70b-versatile] 该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。 |
+| 3 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 🔥 647 | 🤖 [llama-3.3-70b-versatile] LLM Wiki 是一个跨平台的桌面应用，自动将文档转化为组织化的、相互链接的知识库。 |
+| 4 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 599 | 🤖 [Legacy] OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。 |
+| 5 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 🔥 518 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains.... |
+| 6 | [pascalorg/editor](https://github.com/pascalorg/editor) | 🔥 374 | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
+| 7 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 🔥 492 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| 8 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 🔥 328 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business ... |
+| 9 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 🔥 469 | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| 10 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 418 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+
