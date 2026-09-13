@@ -193,3 +193,85 @@ image:
 | 9 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 47,783 | 🤖 [llama-3.3-70b-versatile] JeecgBoot 是一款 AI 驱动的低代码平台，提供“零代码”和“代码生成”双模式，能够快速生成前后端代码和建表 SQL，帮助开发者高效完成 Java 项目的开发。 |
 | 10 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 17,774 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-14 03:59 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 4501 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 3406 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## ⚡ Inference (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 🔥 2925 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 3110 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2418 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [ScalarLinkAxe/Optimizer-Toolkit](https://github.com/ScalarLinkAxe/Optimizer-Toolkit) | 🔥 1758 | ⛔ [无描述]  |
+| 4 | [google/artemis](https://github.com/google/artemis) | 🔥 1454 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1192 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 6 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 1177 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 7 | [ghoulformpray/Monero-Miner](https://github.com/ghoulformpray/Monero-Miner) | 🔥 1190 | ⛔ [无描述]  |
+| 8 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 893 | Create polished demo videos without editing skills. Mac/Windows/Linux |
+| 9 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 🔥 891 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| 10 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 🔥 323 | Advanced UX and interoperability extension for Wand (WeMod) app |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2453 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [google/artemis](https://github.com/google/artemis) | 🔥 1466 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+| 3 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 1165 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 4 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 🔥 487 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that p... |
+| 5 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 🔥 476 | 🤖 [Legacy] 该项目实现了高质量的语音克隆和文本转语音（TTS）功能，支持600多种语言。 |
+| 6 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 🔥 500 | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
+| 7 | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) | 🔥 518 | A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser f... |
+| 8 | [ArasTey/lunel](https://github.com/ArasTey/lunel) | 🔥 196 | ⛔ [无描述]  |
+| 9 | [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) | 🔥 475 | AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. |
+| 10 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 402 | Agent skill that removes signs of AI-generated writing from text |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 494 | 🤖 [Legacy] vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 409 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 329 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux) | 🔥 261 | Network stack research tool. TCP tunnel with pluggable transports. |
+| 5 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 196 | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. |
+| 6 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 🔥 202 | the development environment for pros |
+| 7 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 3541 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 8 | [operacle/checkcle](https://github.com/operacle/checkcle) | 🔥 105 | CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provide... |
+| 9 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 🔥 546 | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
+| 10 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 41388 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [agentrhq/webcmd](https://github.com/agentrhq/webcmd) | 🔥 725 | Self-learning agent browser |
+| 2 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 651 | 🤖 [llama-3.3-70b-versatile] Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。 |
+| 3 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 🔥 485 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business ... |
+| 4 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 🔥 364 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains.... |
+| 5 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 🔥 387 | 🤖 [llama-3.3-70b-versatile] LLM Wiki 是一个跨平台的桌面应用，自动将文档转化为组织化的、相互链接的知识库。 |
+| 6 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 302 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| 7 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 341 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 261 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 9 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 🔥 323 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| 10 | [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) | 🔥 235 | A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions. |
+
