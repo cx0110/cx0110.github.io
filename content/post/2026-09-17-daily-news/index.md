@@ -193,3 +193,79 @@ image:
 | 9 | [ascoders/weekly](https://github.com/ascoders/weekly) | 31,183 | 前端精读周刊。帮你理解最前沿、实用的技术。 |
 | 10 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 176,911 | 🤖 [llama-3.3-70b-versatile] 该项目分享GitHub上有趣、适合初学者的开源项目。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-17 04:37 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 5370 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 4351 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 3439 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 3242 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 🔥 1716 | 🤖 [llama-3.3-70b-versatile] 该项目在25GB内存的消费级机器上运行GLM-5.2（744B MoE）模型。 |
+| 4 | [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) | 🔥 1696 | E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1580 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1368 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 1201 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 8 | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 🔥 1304 | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
+| 9 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 1173 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 10 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 1167 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) | 🔥 1725 | E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1576 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 803 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 4 | [lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text) | 🔥 822 | Open-source text humanization pipeline with every intermediate step published. Two LLM rewrites at temp 1.3, then two hops across different NMT eng... |
+| 5 | [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) | 🔥 609 | 一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study |
+| 6 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 🔥 645 | 符合nature论文学术表达和科研绘图的Skill |
+| 7 | [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) | 🔥 678 | 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验 |
+| 8 | [iran-px-panel/pxpanel](https://github.com/iran-px-panel/pxpanel) | 🔥 258 | ⛔ [无描述]  |
+| 9 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 582 | Agent skill that removes signs of AI-generated writing from text |
+| 10 | [google/artemis](https://github.com/google/artemis) | 🔥 515 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 2998 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 1024 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 3 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 460 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 4 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 🔥 212 | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| 5 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 🔥 158 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 6 | [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) | 🔥 136 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation ... |
+| 7 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 🔥 107 | the development environment for pros |
+| 8 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | 🔥 146 | Open source factory for one-shot engineering |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 105 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 114 | Make humans and AI agents work as one team — open-source and self-hostable. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 2922 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 831 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [shadcn-ui/lint](https://github.com/shadcn-ui/lint) | 🔥 844 | An agent-first linter for Tailwind design systems. Write design system rules that agents can verify. |
+| 4 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 🔥 725 | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| 5 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 667 | 🤖 [Legacy] 该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。 |
+| 6 | [Mantitup-Org/vista](https://github.com/Mantitup-Org/vista) | 🔥 457 | ⛔ [无描述]  |
+| 7 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 🔥 349 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business ... |
+| 8 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 380 | Create polished demo videos without editing skills. Mac/Windows/Linux |
+| 9 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 368 | Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota. |
+| 10 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 369 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+
