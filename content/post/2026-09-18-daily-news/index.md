@@ -193,3 +193,79 @@ image:
 | 9 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,225 | 🤖 [llama-3.3-70b-versatile] 该项目提供动画图解和一键运行的数据结构与算法教程，支持多种语言和代码实现。 |
 | 10 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | 27,316 | 🤖 [llama-3.3-70b-versatile] 该项目是一个计算机书籍和学习资源的集合，涵盖了多种编程语言、数据结构、操作系统、数据库等方面的经典书籍和学习资料。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-18 04:44 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 5664 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 4670 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 3520 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 🔥 3052 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 3 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 2846 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 4 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 1400 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 5 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 1219 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 6 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 🔥 1411 | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI a... |
+| 7 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 1283 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 8 | [DeerComplete/Acrobat-Reader-Pro](https://github.com/DeerComplete/Acrobat-Reader-Pro) | 🔥 1010 | ⛔ [无描述]  |
+| 9 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 1240 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 10 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 1111 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 1424 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 783 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | 🔥 701 | Continual learning infra for self-improving agents |
+| 4 | [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) | 🔥 763 | E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. |
+| 5 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 566 | Autonomous research system for measurable, computer-executable research. |
+| 6 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 604 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 7 | [blader/humanizer](https://github.com/blader/humanizer) | 🔥 517 | Agent skill that removes signs of AI-generated writing from text |
+| 8 | [google/artemis](https://github.com/google/artemis) | 🔥 480 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+| 9 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 🔥 451 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that p... |
+| 10 | [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) | 🔥 361 | Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 3507 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 1120 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 3 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 🔥 185 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 4 | [felinics/Memoh](https://github.com/felinics/Memoh) | 🔥 140 | ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or ... |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 122 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 6 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 🔥 115 | the development environment for pros |
+| 7 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 🔥 104 | WorkBuddy的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
+| 8 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 🔥 100 | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| 9 | [YongshengWin/VpsCT](https://github.com/YongshengWin/VpsCT) | 🔥 125 | 面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。 |
+| 10 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 413 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 3157 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 2 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 🔥 1052 | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI a... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 818 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 🔥 674 | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| 5 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 596 | 🤖 [llama-3.3-70b-versatile] 该项目将ChatGPT Pro集成到Codex应用中，支持上下文、压缩、流媒体、图像等功能。 |
+| 6 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 🔥 392 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
+| 7 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 🔥 379 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter,... |
+| 8 | [zhihui-hu/one-ip](https://github.com/zhihui-hu/one-ip) | 🔥 153 | 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。 |
+| 9 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 🔥 289 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| 10 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 259 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+
