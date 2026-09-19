@@ -193,3 +193,80 @@ image:
 | 9 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8,465 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI 自动生成报表与数据大屏，以及类Excel拖拽设计器，支持30余种数据源，用于轻松创建复杂报表。 |
 | 10 | [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 13,271 | 🤖 [llama-3.3-70b-versatile] 该项目是一个视觉小说翻译器，用于帮助用户翻译和理解视觉小说中的文本内容。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-20 03:45 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 6239 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 5126 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 3373 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 🔥 3269 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 2 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 2877 | ⛔ [无描述]  |
+| 3 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 1894 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 4 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 🔥 1929 | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones ar... |
+| 5 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | 🔥 1196 | The Photoshop alternative for Mac |
+| 6 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 1337 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-... |
+| 7 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 1049 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 8 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 994 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 9 | [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 🔥 775 | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. |
+| 10 | [trycua/cua](https://github.com/trycua/cua) | 🔥 789 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 2825 | ⛔ [无描述]  |
+| 2 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 1922 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 3 | [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 🔥 751 | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. |
+| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 681 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 5 | [Vodiwalker/vodiwalker_panel](https://github.com/Vodiwalker/vodiwalker_panel) | 🔥 191 | ⛔ [无描述]  |
+| 6 | [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 🔥 550 | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
+| 7 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 🔥 449 | Autonomous research system for measurable, computer-executable research. |
+| 8 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 379 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 9 | [google/artemis](https://github.com/google/artemis) | 🔥 404 | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seam... |
+| 10 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 🔥 380 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 2001 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 727 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 3 | [asciimoo/hister](https://github.com/asciimoo/hister) | 🔥 676 | Your own search engine |
+| 4 | [coder/coder](https://github.com/coder/coder) | 🔥 473 | Secure environments for developers and their agents |
+| 5 | [elvisun/newsjack](https://github.com/elvisun/newsjack) | 🔥 212 | The open-source skills that turn your agent into a full PR team. |
+| 6 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 142 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 7 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 🔥 139 | the development environment for pros |
+| 8 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 🔥 115 | WorkBuddy的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
+| 9 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 🔥 45029 | A powerful little TUI framework 🏗 |
+| 10 | [grafana/gcx](https://github.com/grafana/gcx) | 🔥 703 | A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 🔥 3034 | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones ar... |
+| 2 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 1263 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 3 | [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 🔥 1067 | A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. |
+| 4 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 🔥 1169 | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI a... |
+| 5 | [bendlang/bend](https://github.com/bendlang/bend) | 🔥 1158 | Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh \| sh |
+| 6 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 🔥 947 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed compan... |
+| 7 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 845 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+| 8 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 599 | Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota. |
+| 9 | [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) | 🔥 373 | One AI trade decision every Monad block. Jev on Kuru MON-USDC. |
+| 10 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | 🔥 278 | The Generative UI framework |
+
