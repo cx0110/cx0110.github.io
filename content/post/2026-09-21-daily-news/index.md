@@ -193,3 +193,80 @@ image:
 | 9 | [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | 7,565 | 🤖 [llama-3.3-70b-versatile] Bili23-Downloader 是一款跨平台的 B 站视频下载工具，支持音视频流分离下载、多线程加速、弹幕与字幕获取等功能。 |
 | 10 | [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 13,291 | 🤖 [llama-3.3-70b-versatile] 该项目是一个视觉小说翻译器，用于帮助用户翻译和理解视觉小说中的文本内容。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-21 03:57 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 6496 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 5347 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 3811 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 3763 | i. am. speed. |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 🔥 2728 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 3 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | 🔥 1856 | The Photoshop alternative for Mac |
+| 4 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 1566 | ⛔ [无描述]  |
+| 5 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 1015 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 6 | [trycua/cua](https://github.com/trycua/cua) | 🔥 1026 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| 7 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 974 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-... |
+| 8 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 🔥 924 | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones ar... |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 843 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+| 10 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 808 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 3805 | i. am. speed. |
+| 2 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 1592 | ⛔ [无描述]  |
+| 3 | [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) | 🔥 787 | Anti-detect stealth browser: undetected Firefox fingerprint, anti-bot detection bypass. Python web scraping automation, Cloudflare, captcha. |
+| 4 | [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) | 🔥 624 | Local typed decisions, contrastive data curation, and model evaluation. |
+| 5 | [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) | 🔥 615 | A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. |
+| 6 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 608 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 7 | [Vodiwalker/vodiwalker_panel](https://github.com/Vodiwalker/vodiwalker_panel) | 🔥 265 | ⛔ [无描述]  |
+| 8 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 572 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 9 | [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 🔥 409 | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. |
+| 10 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 436 | tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 936 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 474 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 3 | [context-labs/whip](https://github.com/context-labs/whip) | 🔥 245 | A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background suba... |
+| 4 | [coder/coder](https://github.com/coder/coder) | 🔥 350 | Secure environments for developers and their agents |
+| 5 | [asciimoo/hister](https://github.com/asciimoo/hister) | 🔥 276 | Your own search engine |
+| 6 | [elvisun/newsjack](https://github.com/elvisun/newsjack) | 🔥 281 | The open-source skills that turn your agent into a full PR team. |
+| 7 | [arandu-io/arandu](https://github.com/arandu-io/arandu) | 🔥 156 | The Arandu project skeleton, which aru new clones. |
+| 8 | [gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) | 🔥 200 | 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。 |
+| 9 | [TheAgent-net/webagent](https://github.com/TheAgent-net/webagent) | 🔥 194 | ⛔ [无描述]  |
+| 10 | [X4Applegate/caddyui](https://github.com/X4Applegate/caddyui) | 🔥 113 | A modern, self-hosted web UI for Caddy — manage proxy hosts, redirections, SSL certificates, and advanced routes through a clean interface, without... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 🔥 1012 | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones ar... |
+| 2 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 901 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 695 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 🔥 486 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed compan... |
+| 5 | [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code) | 🔥 495 | An open-source coding agent for your terminal, powered by MiniMax. |
+| 6 | [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) | 🔥 402 | One AI trade decision every Monad block. Jev on Kuru MON-USDC. |
+| 7 | [bendlang/bend](https://github.com/bendlang/bend) | 🔥 432 | Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh \| sh |
+| 8 | [githubnext/localjev](https://github.com/githubnext/localjev) | 🔥 421 | ⛔ [无描述]  |
+| 9 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 🔥 451 | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI a... |
+| 10 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | 🔥 393 | The Generative UI framework |
+
