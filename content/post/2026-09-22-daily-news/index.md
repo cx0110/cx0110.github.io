@@ -192,3 +192,80 @@ image:
 | 9 | [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | 15,025 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于Vue3、Vite7、TypeScript、Pinia、NaiveUI和UnoCSS的高颜值且功能强大的后台管理模板。 |
 | 10 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 102,303 | 🤖 [llama-3.3-70b-versatile] 该项目提供程序员在家做饭的指南和方法。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-22 05:23 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 6795 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 5577 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 4336 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 4195 | ⛔ [无描述]  |
+| 2 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 3736 | i. am. speed. |
+| 3 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 3631 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 4 | [google/ax](https://github.com/google/ax) | 🔥 2011 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 5 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 🔥 1833 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. |
+| 6 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 🔥 1287 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \| Paid services: AI testing by real people and GEO ... |
+| 7 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 🔥 1423 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 8 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 1150 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 9 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 🔥 1157 | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones ar... |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1078 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 4291 | ⛔ [无描述]  |
+| 2 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 3759 | i. am. speed. |
+| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 🔥 1838 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. |
+| 4 | [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 🔥 549 | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. |
+| 5 | [Vodiwalker/vodiwalker_panel](https://github.com/Vodiwalker/vodiwalker_panel) | 🔥 316 | ⛔ [无描述]  |
+| 6 | [QwenLM/Qwen-Image-2.1](https://github.com/QwenLM/Qwen-Image-2.1) | 🔥 753 | Qwen's most powerful open-source image generation model |
+| 7 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 700 | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own |
+| 8 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 664 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 9 | [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 🔥 607 | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
+| 10 | [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) | 🔥 604 | Local typed decisions, contrastive data curation, and model evaluation. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/ax](https://github.com/google/ax) | 🔥 1209 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 861 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 578 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [coder/coder](https://github.com/coder/coder) | 🔥 470 | Secure environments for developers and their agents |
+| 5 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 284 | 🤖 [llama-3.3-70b-versatile] Agent Substrate是一个核心系统，提供基础功能和框架。 |
+| 6 | [context-labs/whip](https://github.com/context-labs/whip) | 🔥 356 | A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background suba... |
+| 7 | [aoiflux/mutant](https://github.com/aoiflux/mutant) | 🔥 311 | Mutant is an open-source, garbage-collected programming language that tries to enable security by default. |
+| 8 | [asciimoo/hister](https://github.com/asciimoo/hister) | 🔥 201 | Your own search engine |
+| 9 | [gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) | 🔥 148 | 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。 |
+| 10 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 138 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1030 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 2 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 🔥 987 | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones ar... |
+| 3 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 938 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 4 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 🔥 803 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed compan... |
+| 5 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | 🔥 468 | 🤖 [Legacy] 该项目使用AI生成JSON数据，并将其渲染为用户界面。 |
+| 6 | [Observal/Axl](https://github.com/Observal/Axl) | 🔥 282 | ⛔ [无描述]  |
+| 7 | [NxcoreAI/EverRoom](https://github.com/NxcoreAI/EverRoom) | 🔥 440 | EverRoom - A workspace that remembers your projects, decisions, and sources. |
+| 8 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 🔥 290 | A framework for building agentic apps |
+| 9 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔥 270 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running ... |
+| 10 | [Mantitup-Org/vista](https://github.com/Mantitup-Org/vista) | 🔥 291 | ⛔ [无描述]  |
+
