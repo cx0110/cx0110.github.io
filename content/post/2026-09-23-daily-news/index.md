@@ -188,3 +188,80 @@ image:
 | 9 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 102,317 | 🤖 [llama-3.3-70b-versatile] 该项目提供程序员在家做饭的指南和方法。 |
 | 10 | [higress-group/higress](https://github.com/higress-group/higress) | 9,436 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-23 04:38 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7094 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 5793 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 4572 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 6825 | ⛔ [无描述]  |
+| 2 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 3610 | i. am. speed. |
+| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 🔥 2404 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. |
+| 4 | [google/ax](https://github.com/google/ax) | 🔥 2473 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 5 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 2044 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 6 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | 🔥 1735 | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| 7 | [Mak5er/AirCard](https://github.com/Mak5er/AirCard) | 🔥 1459 | Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required) |
+| 8 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 1508 | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own |
+| 9 | [pacifio/atlas](https://github.com/pacifio/atlas) | 🔥 1283 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 10 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 999 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 6858 | ⛔ [无描述]  |
+| 2 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 3594 | i. am. speed. |
+| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 🔥 2411 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. |
+| 4 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 1475 | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own |
+| 5 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 760 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 6 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 804 | Hindsight: Agent Memory That Learns |
+| 7 | [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 🔥 805 | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
+| 8 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 🔥 616 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
+| 9 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 559 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 10 | [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml) | 🔥 522 | Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benc... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/ax](https://github.com/google/ax) | 🔥 2845 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 2 | [flexprice/flexprice](https://github.com/flexprice/flexprice) | 🔥 581 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature... |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 843 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 🔥 411 | Agent Beacon is the world's first open-source telemetry layer for AI agents wherever they run: locally, in CI, in the browser, or in the cloud. |
+| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 521 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 6 | [coder/coder](https://github.com/coder/coder) | 🔥 387 | Secure environments for developers and their agents |
+| 7 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 343 | Agent Substrate: the core system |
+| 8 | [MobAI-App/simslim](https://github.com/MobAI-App/simslim) | 🔥 221 | Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need |
+| 9 | [N4darae/anti-mage](https://github.com/N4darae/anti-mage) | 🔥 152 | For detecting anti-detect browsers and spoofed profiles through runtime coherence analysis. |
+| 10 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 138 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | 🔥 5508 | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| 2 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 🔥 2035 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \| Paid services: AI testing by real people and GEO ... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1135 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 🔥 925 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed compan... |
+| 5 | [pacifio/atlas](https://github.com/pacifio/atlas) | 🔥 859 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 6 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 800 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 7 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 🔥 834 | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones ar... |
+| 8 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 🔥 716 | A framework for building agentic apps |
+| 9 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | 🔥 633 | The Generative UI framework |
+| 10 | [Observal/Axl](https://github.com/Observal/Axl) | 🔥 311 | ⛔ [无描述]  |
+
