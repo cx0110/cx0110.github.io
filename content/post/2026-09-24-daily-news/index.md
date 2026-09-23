@@ -193,3 +193,80 @@ image:
 | 9 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 81,062 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 | 10 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | 7,938 | 🤖 [llama-3.3-70b-versatile] RapidAI/RapidOCR是一个支持多种编程语言的OCR工具包，基于ONNX Runtime、OpenVINO、MNN、PaddlePaddle、TensorRT和PyTorch等框架。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-24 04:50 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7413 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 6052 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 4769 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 5604 | ⛔ [无描述]  |
+| 2 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 🔥 2608 | 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
+| 3 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 2166 | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own |
+| 4 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 1699 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 5 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 1669 | i. am. speed. |
+| 6 | [google/ax](https://github.com/google/ax) | 🔥 1606 | Google's open agentic orchestration runtime |
+| 7 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 1126 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 8 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1052 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+| 9 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 🔥 1156 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. |
+| 10 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | 🔥 966 | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 6858 | ⛔ [无描述]  |
+| 2 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 3594 | i. am. speed. |
+| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 🔥 2411 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. |
+| 4 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 1475 | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own |
+| 5 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 760 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 6 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 804 | Hindsight: Agent Memory That Learns |
+| 7 | [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 🔥 805 | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
+| 8 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 🔥 616 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
+| 9 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 559 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 10 | [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml) | 🔥 522 | Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benc... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/ax](https://github.com/google/ax) | 🔥 1627 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 549 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 391 | 🤖 [llama-3.3-70b-versatile] Agent Substrate是一个核心系统，提供基础功能和框架。 |
+| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 448 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 5 | [weave-os/router](https://github.com/weave-os/router) | 🔥 234 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 6 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 🔥 236 | The cross-harness self-improving memory layer for AI agents. |
+| 7 | [flexprice/flexprice](https://github.com/flexprice/flexprice) | 🔥 252 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature... |
+| 8 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 142 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 9 | [coder/coder](https://github.com/coder/coder) | 🔥 188 | Secure environments for developers and their agents |
+| 10 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 🔥 116 | WorkBuddy的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 1297 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 986 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 744 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 4 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | 🔥 700 | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| 5 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 🔥 658 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed compan... |
+| 6 | [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) | 🔥 354 | The AI Org-OS — a collaborative platform for humans and agents. Explore: https://spaces.xyne.ai |
+| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 493 | ⌥ Coding agent with the IDE wired in |
+| 8 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | 🔥 464 | Speed up downloads by combining multiple network connections in parallel |
+| 9 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 🔥 424 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
+| 10 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 432 | Create polished demo videos without editing skills. Mac/Windows/Linux |
+
