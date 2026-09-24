@@ -193,3 +193,80 @@ image:
 | 9 | [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | 28,560 | Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容 (还在测试). |
 | 10 | [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) | 6,254 | 量化研究-券商金工研报复现 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-25 04:55 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7678 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 6242 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 4935 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 3563 | ⛔ [无描述]  |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 1619 | Hindsight: Agent Memory That Learns |
+| 3 | [hydra-db/hydradb](https://github.com/hydra-db/hydradb) | 🔥 1237 | HydraDB - fast graph database on object storage |
+| 4 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 1190 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 5 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 1510 | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own |
+| 6 | [google/ax](https://github.com/google/ax) | 🔥 1424 | Google's open agentic orchestration runtime |
+| 7 | [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) | 🔥 1204 | Developer Control Plane for your AI Agents |
+| 8 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 942 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 9 | [driceroland/Search](https://github.com/driceroland/Search) | 🔥 875 | A small, fast WebKit browser for macOS, by Office Commun. |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 938 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 3527 | ⛔ [无描述]  |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 1632 | Hindsight: Agent Memory That Learns |
+| 3 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 1195 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 4 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 1496 | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own |
+| 5 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 1043 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 6 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 853 | i. am. speed. |
+| 7 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🔥 549 | ⛔ [无描述]  |
+| 8 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | 🔥 577 | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| 9 | [browser-use/video-use](https://github.com/browser-use/video-use) | 🔥 553 | Edit videos with coding agents |
+| 10 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 🔥 495 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/ax](https://github.com/google/ax) | 🔥 1483 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 2 | [flexprice/flexprice](https://github.com/flexprice/flexprice) | 🔥 626 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature... |
+| 3 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 544 | 🤖 [llama-3.3-70b-versatile] Agent Substrate是一个核心系统，提供基础功能和框架。 |
+| 4 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 494 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 5 | [flamingo-stack/openframe-cli](https://github.com/flamingo-stack/openframe-cli) | 🔥 411 | A modern CLI tool for managing OpenFrame Kubernetes clusters and development workflows. Provides an interactive, user-friendly alternative to shell... |
+| 6 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 🔥 419 | Reference client daemon and verification worker for Kryvora Network nodes. |
+| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 405 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 8 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 🔥 237 | The cross-harness self-improving memory layer for AI agents. |
+| 9 | [weave-os/router](https://github.com/weave-os/router) | 🔥 200 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 10 | [px0-ai/px0](https://github.com/px0-ai/px0) | 🔥 118 | px0 is fast, ultra-light, remote-first IDE designed for instant code navigation and review in your browser. Booting in under 1 ms and using ~20 MB ... |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 1464 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 995 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 954 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 4 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 524 | 🤖 [llama-3.3-70b-versatile] 开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。 |
+| 5 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 🔥 461 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed compan... |
+| 6 | [anishfn/shapeshift](https://github.com/anishfn/shapeshift) | 🔥 421 | An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline. |
+| 7 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 311 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+| 8 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 🔥 273 | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones ar... |
+| 9 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | 🔥 256 | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| 10 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 🔥 233 | A framework for building agentic apps |
+
