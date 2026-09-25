@@ -193,3 +193,80 @@ image:
 | 9 | [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts) | 5,701 | 🤖 [llama-3.3-70b-versatile] 该项目收集和整理了多款网络代理工具（如Loon、Surge、QuantumultX等）的配置和去广告规则。 |
 | 10 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | 7,963 | 🤖 [llama-3.3-70b-versatile] RapidAI/RapidOCR是一个支持多种编程语言的OCR工具包，基于ONNX Runtime、OpenVINO、MNN、PaddlePaddle、TensorRT和PyTorch等框架。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-26 04:51 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7887 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 6381 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5106 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 2239 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 1622 | Hindsight: Agent Memory That Learns |
+| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 1735 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 4 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 1453 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 5 | [google/ax](https://github.com/google/ax) | 🔥 1391 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 6 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 1550 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 1161 | Learn it. Build it. Ship it for others. |
+| 8 | [hydra-db/hydradb](https://github.com/hydra-db/hydradb) | 🔥 714 | HydraDB - fast graph database on object storage |
+| 9 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 690 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 10 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 🔥 902 | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 2229 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 1639 | Hindsight: Agent Memory That Learns |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 1177 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 4 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 695 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 5 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | 🔥 654 | Continual learning infra for self-improving agents |
+| 6 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 🔥 718 | ⛔ [无描述]  |
+| 7 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 🔥 620 | Fastest and cheapest web agent |
+| 8 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 🔥 462 | Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own |
+| 9 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 406 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 10 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 🔥 396 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/ax](https://github.com/google/ax) | 🔥 1394 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 614 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 363 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [flamingo-stack/openframe-cli](https://github.com/flamingo-stack/openframe-cli) | 🔥 258 | A modern CLI tool for managing OpenFrame Kubernetes clusters and development workflows. Provides an interactive, user-friendly alternative to shell... |
+| 5 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 🔥 220 | Reference client daemon and verification worker for Kryvora Network nodes. |
+| 6 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 🔥 191 | The cross-harness self-improving memory layer for AI agents. |
+| 7 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 225 | Agent Substrate: the core system |
+| 8 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 138 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 9 | [weave-os/router](https://github.com/weave-os/router) | 🔥 151 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 10 | [spf13/cobra](https://github.com/spf13/cobra) | 🔥 44649 | A Commander for modern Go CLI interactions |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 1370 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 2 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 1416 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 987 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 4 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 🔥 895 | Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency No... |
+| 5 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 693 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 6 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 439 | Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota. |
+| 7 | [dream-num/univer-workspace](https://github.com/dream-num/univer-workspace) | 🔥 562 | An open-source Office workspace where people and AI agents create, collaborate, and review together. |
+| 8 | [devdotfast/whiteboard](https://github.com/devdotfast/whiteboard) | 🔥 319 | Save time reviewing ai code |
+| 9 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 390 | Open source alternative to Semrush and Ahrefs |
+| 10 | [Observal/Axl](https://github.com/Observal/Axl) | 🔥 408 | ⛔ [无描述]  |
+
