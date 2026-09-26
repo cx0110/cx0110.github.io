@@ -193,3 +193,80 @@ image:
 | 9 | [firerpa/lamda](https://github.com/firerpa/lamda) | 8,473 | 🤖 [llama-3.3-70b-versatile] firerpa/lamda是一个Android全栈设备控制平台，提供WebRTC/H.264远程桌面、UI/OCR/图像匹配自动化、MITM代理等功能。 |
 | 10 | [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | 8,840 | 🤖 [llama-3.3-70b-versatile] BilibiliToolPro是一个自动化工具，支持多种部署方式，帮助用户自动完成B站任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-27 04:21 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 8098 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 6554 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5267 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 2642 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 2134 | Hindsight: Agent Memory That Learns |
+| 3 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 1899 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 4 | [hydra-db/hydradb](https://github.com/hydra-db/hydradb) | 🔥 1165 | HydraDB - fast graph database on object storage |
+| 5 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 1138 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 6 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 1428 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 7 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 1096 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 8 | [pacifio/atlas](https://github.com/pacifio/atlas) | 🔥 996 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 9 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 878 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 897 | Learn it. Build it. Ship it for others. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 2132 | Hindsight: Agent Memory That Learns |
+| 2 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 1142 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 3 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 1402 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 4 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 1112 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 895 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 656 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 7 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | 🔥 503 | Continual learning infra for self-improving agents |
+| 8 | [yi1108/printfilm](https://github.com/yi1108/printfilm) | 🔥 398 | PRINTFILM：AI 视频获客与 AI短剧创作平台 |
+| 9 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | 🔥 488 | Agent Skills for Scenario: image, video, audio, texture, 3D and custom-model workflows over the Scenario MCP. For games, entertainment and any crea... |
+| 10 | [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) | 🔥 503 | TypeLLM: LLMs with type-safe generation |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/ax](https://github.com/google/ax) | 🔥 1047 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 555 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [git-bug/git-bug](https://github.com/git-bug/git-bug) | 🔥 397 | Distributed, offline-first bug tracker embedded in git |
+| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 383 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 5 | [openbao/openbao](https://github.com/openbao/openbao) | 🔥 251 | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. |
+| 6 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 187 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 7 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 🔥 111 | Reference client daemon and verification worker for Kryvora Network nodes. |
+| 8 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 1068 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 9 | [weave-os/router](https://github.com/weave-os/router) | 🔥 105 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 10 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 🔥 45136 | A powerful little TUI framework 🏗 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 2361 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 813 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [devdotfast/whiteboard](https://github.com/devdotfast/whiteboard) | 🔥 849 | open-source canvas for thoughtful software design |
+| 4 | [pacifio/atlas](https://github.com/pacifio/atlas) | 🔥 653 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 5 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 818 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 6 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 775 | Brigade — Your personal intelligence, built enterprise-grade |
+| 7 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 443 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+| 8 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 334 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 9 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 301 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 10 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 326 | Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota. |
+
