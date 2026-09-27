@@ -191,3 +191,80 @@ image:
 | 9 | [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | 30,623 | 🤖 [llama-3.3-70b-versatile] 该项目提供多款Shadowrocket规则，实现强劲的广告过滤功能，并每日自动更新。 |
 | 10 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 47,982 | 🤖 [llama-3.3-70b-versatile] JeecgBoot 是一款 AI 驱动的低代码平台，提供“零代码”和“代码生成”双模式，能够快速生成前后端代码和建表 SQL，帮助开发者高效完成 Java 项目的开发。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-28 04:35 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 8320 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5414 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 🔥 6729 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 4107 | Hindsight: Agent Memory That Learns |
+| 2 | [hydra-db/hydradb](https://github.com/hydra-db/hydradb) | 🔥 2047 | HydraDB - fast graph database on object storage |
+| 3 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 2002 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2371 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 5 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 2648 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 6 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 2290 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 7 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 1446 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 8 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 1130 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 9 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 941 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 10 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | 🔥 848 | Suitable for Android APK reverse engineering analysis |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 4209 | Hindsight: Agent Memory That Learns |
+| 2 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 2068 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2417 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 4 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 1462 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 5 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 1127 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 6 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | 🔥 866 | Suitable for Android APK reverse engineering analysis |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 855 | Learn it. Build it. Ship it for others. |
+| 8 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | 🔥 647 | Infrastructure for continually self‑improving agents |
+| 9 | [feder-cr/jev](https://github.com/feder-cr/jev) | 🔥 470 | jevos is an open-source alternative to Jev for yes/no decisions that runs on your laptop. |
+| 10 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 433 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [google/ax](https://github.com/google/ax) | 🔥 409 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 304 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 232 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 267 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 5 | [openbao/openbao](https://github.com/openbao/openbao) | 🔥 284 | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. |
+| 6 | [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG) | 🔥 171 | PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding agent. It is a parity-bound translation, not a re... |
+| 7 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 1148 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 8 | [weave-os/router](https://github.com/weave-os/router) | 🔥 5336 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 42915 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [spf13/cobra](https://github.com/spf13/cobra) | 🔥 44665 | A Commander for modern Go CLI interactions |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 2570 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 2 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 824 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 3 | [pacifio/atlas](https://github.com/pacifio/atlas) | 🔥 686 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 4 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 602 | 🤖 [llama-3.3-70b-versatile] Brigade是一个企业级的个人智能助手，提供高级别的智能服务。 |
+| 5 | [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | 🔥 363 | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) |
+| 6 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 348 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 7 | [devdotfast/whiteboard](https://github.com/devdotfast/whiteboard) | 🔥 337 | open-source canvas for thoughtful software design |
+| 8 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 358 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+| 9 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 278 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 10 | [dream-num/univer-workspace](https://github.com/dream-num/univer-workspace) | 🔥 324 | An open-source Office workspace where people and AI agents create, collaborate, and review together. |
+
