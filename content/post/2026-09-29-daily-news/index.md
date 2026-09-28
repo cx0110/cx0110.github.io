@@ -191,3 +191,80 @@ image:
 | 9 | [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) | 5,707 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于PHP的二次元发卡系统源码，提供个人发卡、动漫发卡等功能。 |
 | 10 | [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 23,969 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个中文独立博客的列表，方便用户找到并访问这些博客。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-29 06:45 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 8560 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5568 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 🔥 6936 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 5024 | Hindsight: Agent Memory That Learns |
+| 2 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 3754 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 3267 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 3224 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 5 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 2023 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 6 | [hydra-db/hydradb](https://github.com/hydra-db/hydradb) | 🔥 2040 | HydraDB - fast graph database on object storage |
+| 7 | [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) | 🔥 1680 | 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线 |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 1288 | Learn it. Build it. Ship it for others. |
+| 9 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 🔥 1234 | Code-rendered music video for "I'm Upping My P(doom)" |
+| 10 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 1111 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 5037 | Hindsight: Agent Memory That Learns |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 3230 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 2033 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 1289 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 5 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 1008 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 6 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 839 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 7 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | 🔥 545 | Infrastructure for continually self‑improving agents |
+| 8 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 513 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
+| 9 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | 🔥 544 | Suitable for Android APK reverse engineering analysis |
+| 10 | [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) | 🔥 354 | An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zh... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 325 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 275 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 3 | [google/ax](https://github.com/google/ax) | 🔥 268 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 4 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 210 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every ... |
+| 5 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 230 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 6 | [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG) | 🔥 113 | PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding agent. It is a parity-bound translation, not a re... |
+| 7 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 1297 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 8 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 🔥 1042 | Reference client daemon and verification worker for Kryvora Network nodes. |
+| 9 | [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🔥 4962 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+| 10 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 🔥 1012 | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 2807 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 2 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 🔥 1042 | Code-rendered music video for "I'm Upping My P(doom)" |
+| 3 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 1013 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 4 | [icubaby/SideRail](https://github.com/icubaby/SideRail) | 🔥 262 | Xray-core VPN panel, one-click deploy on Railway |
+| 5 | [pacifio/atlas](https://github.com/pacifio/atlas) | 🔥 695 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 6 | [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | 🔥 569 | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) |
+| 7 | [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) | 🔥 545 | Admin Dashboard UI built with Shadcn and Vite. |
+| 8 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 420 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 9 | [reladraw/reladraw](https://github.com/reladraw/reladraw) | 🔥 539 | ⛔ [无描述]  |
+| 10 | [oblien/openship](https://github.com/oblien/openship) | 🔥 374 | Self-hosted deployment platform |
+
