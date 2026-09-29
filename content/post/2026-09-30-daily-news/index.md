@@ -193,3 +193,80 @@ image:
 | 9 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 16,405 | 🤖 [llama-3.3-70b-versatile] 该项目是一个TikTok和抖音的数据采集和下载工具，可以下载和采集包括发布、喜欢、合辑、直播、视频、图集、音乐等多种类型的内容。 |
 | 10 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48,029 | 🤖 [llama-3.3-70b-versatile] JeecgBoot 是一款 AI 驱动的低代码平台，提供“零代码”和“代码生成”双模式，能够快速生成前后端代码和建表 SQL，帮助开发者高效完成 Java 项目的开发。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-09-30 05:38 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 8821 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5707 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 🔥 7150 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 4650 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 3146 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 3077 | Hindsight: Agent Memory That Learns |
+| 4 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 2673 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 5 | [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) | 🔥 1433 | 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线 |
+| 6 | [hydra-db/hydradb](https://github.com/hydra-db/hydradb) | 🔥 1175 | HydraDB - fast graph database on object storage |
+| 7 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 1160 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 8 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1060 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+| 9 | [byoungd/up](https://github.com/byoungd/up) | 🔥 965 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
+| 10 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 🔥 930 | OpenShell is the safe, private runtime for autonomous AI agents. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 4694 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 2964 | Hindsight: Agent Memory That Learns |
+| 3 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 1093 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 4 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 938 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 853 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 6 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 749 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 7 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 623 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 8 | [deepopen-com/deepopen](https://github.com/deepopen-com/deepopen) | 🔥 297 | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.  |
+| 9 | [yi1108/printfilm](https://github.com/yi1108/printfilm) | 🔥 523 | PRINTFILM：AI 视频获客与 AI短剧创作平台 |
+| 10 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 409 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 391 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 2 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 349 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 352 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [google/ax](https://github.com/google/ax) | 🔥 261 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 5 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 256 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every ... |
+| 6 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 143 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 7 | [Sidiora-Labs/Paxeer-X-Network](https://github.com/Sidiora-Labs/Paxeer-X-Network) | 🔥 130 | Paxeer X is a Distributed HyperState Machine for payments, code execution and intent routing. Designed for Machines and the Users operating them.  |
+| 8 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 🔥 110 | Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 43068 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 🔥 1091 | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 3118 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1152 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 1106 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 4 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 764 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 5 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 🔥 671 | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. |
+| 6 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 🔥 647 | Code-rendered music video for "I'm Upping My P(doom)" |
+| 7 | [oblien/openship](https://github.com/oblien/openship) | 🔥 547 | Self-hosted deployment platform |
+| 8 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 536 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 9 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 🔥 495 | Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota. |
+| 10 | [icubaby/SideRail](https://github.com/icubaby/SideRail) | 🔥 169 | Xray-core VPN panel, one-click deploy on Railway |
+
