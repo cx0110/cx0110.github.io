@@ -193,3 +193,80 @@ image:
 | 9 | [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) | 6,360 | 量化研究-券商金工研报复现 |
 | 10 | [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) | 5,720 | 🤖 [llama-3.3-70b-versatile] 该项目是一个基于PHP的二次元发卡系统源码，提供个人发卡、动漫发卡等功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-10-01 05:39 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 9164 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 7438 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5846 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 4923 | 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 3838 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 🔥 1690 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 4 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 2064 | 🤖 [llama-3.3-70b-versatile] Brigade是一个企业级的个人智能助手，提供高级别的智能服务。 |
+| 5 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 1757 | Hindsight: Agent Memory That Learns |
+| 6 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 1526 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 7 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 1330 | The open-source app everyone uses to manage agents at work |
+| 8 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 🔥 1267 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 1157 | Learn it. Build it. Ship it for others. |
+| 10 | [t8y2/dbx](https://github.com/t8y2/dbx) | 🔥 1002 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and D... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 3812 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 1738 | Hindsight: Agent Memory That Learns |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 1165 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 4 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 1100 | 🤖 [Legacy] PageIndex：为无向量文档创建索引，实现基于推理的文档检索。 |
+| 5 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 846 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 6 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 608 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 7 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 🔥 489 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers... |
+| 8 | [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) | 🔥 375 | [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons |
+| 9 | [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) | 🔥 426 | The Harness of Harnesses • built for RSI: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration. |
+| 10 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 🔥 328 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 1180 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 320 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 302 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 145 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 5 | [google/ax](https://github.com/google/ax) | 🔥 142 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 6 | [limelitgeo/open](https://github.com/limelitgeo/open) | 🔥 110 | Self-hosted AI visibility tracking (AEO / GEO / LLMO). Track how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite your ... |
+| 7 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 124 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every ... |
+| 8 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 🔥 1126 | Reference client daemon and verification worker for Kryvora Network nodes. |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 43142 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [gopherium/gophenberg](https://github.com/gopherium/gophenberg) | 🔥 183 | A plugin-first CMS. Go backend, React admin, Gutenberg editor. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 🔥 2885 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 2 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 1943 | 🤖 [llama-3.3-70b-versatile] Brigade是一个企业级的个人智能助手，提供高级别的智能服务。 |
+| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔥 1719 | 🤖 [Legacy] Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。 |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 949 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 5 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 735 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 6 | [dream-num/univer](https://github.com/dream-num/univer) | 🔥 632 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 7 | [oblien/openship](https://github.com/oblien/openship) | 🔥 407 | Self-hosted deployment platform |
+| 8 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 466 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+| 9 | [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) | 🔥 360 | A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. |
+| 10 | [veedstudio/open-edit](https://github.com/veedstudio/open-edit) | 🔥 377 | Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos. |
+
