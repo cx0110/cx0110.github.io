@@ -193,3 +193,80 @@ image:
 | 9 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 47,204 | 🤖 [llama-3.3-70b-versatile] CowAgent是一个基于大模型的AI助理项目，能够主动思考、任务规划、访问外部资源、创造和执行技能，并支持多平台接入和多种模型选择。 |
 | 10 | [higress-group/higress](https://github.com/higress-group/higress) | 9,487 | 🤖 [llama-3.3-70b-versatile] Higress是一个原生支持AI的API网关，用于管理和代理AI服务的请求和响应。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-10-02 06:07 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 9414 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 7632 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6009 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 🔥 2520 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 2 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 2161 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1756 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 4 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 1298 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 5 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 1010 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 6 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 1117 | Brigade — Your personal intelligence, built enterprise-grade |
+| 7 | [t8y2/dbx](https://github.com/t8y2/dbx) | 🔥 921 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and D... |
+| 8 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 866 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+| 9 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 818 | Hindsight: Agent Memory That Learns |
+| 10 | [Taichu-AI/ZDTaichu5.0-9B](https://github.com/Taichu-AI/ZDTaichu5.0-9B) | 🔥 524 | ⛔ [无描述]  |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1698 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 1327 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 3 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 1013 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 4 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 800 | Hindsight: Agent Memory That Learns |
+| 5 | [Taichu-AI/ZDTaichu5.0-9B](https://github.com/Taichu-AI/ZDTaichu5.0-9B) | 🔥 533 | ⛔ [无描述]  |
+| 6 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 584 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 7 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 🔥 601 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 8 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 355 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 9 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 🔥 391 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. |
+| 10 | [terrafying/ai-torture-chamber](https://github.com/terrafying/ai-torture-chamber) | 🔥 284 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 1033 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 346 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 264 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [google/ax](https://github.com/google/ax) | 🔥 115 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 5 | [aakarim/OpenLore](https://github.com/aakarim/OpenLore) | 🔥 103 | A minimal, extensible, agent-native knowledge base that keeps shared context current and inspectable |
+| 6 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 1626 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 43182 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 8 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 102 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every ... |
+| 9 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 7610 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 10 | [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) | 🔥 22955 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 1361 | 🤖 [llama-3.3-70b-versatile] Brigade是一个企业级的个人智能助手，提供高级别的智能服务。 |
+| 2 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 🔥 964 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 3 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 596 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 4 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | 🔥 490 | yoink any video from your terminal. no shady ads. |
+| 5 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 512 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 6 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 450 | Connect your users to their apps |
+| 7 | [oblien/openship](https://github.com/oblien/openship) | 🔥 394 | Self-hosted deployment platform |
+| 8 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 410 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+| 9 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 271 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
+| 10 | [monid-ai/monid](https://github.com/monid-ai/monid) | 🔥 347 | Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQzztcgJV8 |
+
