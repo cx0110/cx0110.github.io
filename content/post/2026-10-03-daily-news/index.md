@@ -193,3 +193,80 @@ image:
 | 9 | [Rockyzsu/stock](https://github.com/Rockyzsu/stock) | 8,633 | 🤖 [llama-3.3-70b-versatile] 该项目提供一个30天的量化交易学习计划，通过持续更新的内容帮助用户掌握量化交易的知识和技能。 |
 | 10 | [mootdx/mootdx](https://github.com/mootdx/mootdx) | 2,395 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个简便的封装来读取通达信数据。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-10-03 05:34 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 9493 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [openai/codex](https://github.com/openai/codex) | 🔥 7599 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6096 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 🔥 1724 | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, opt... |
+| 2 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 1588 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 1468 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 4 | [lexmount/moli](https://github.com/lexmount/moli) | 🔥 986 | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust |
+| 5 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 1130 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 6 | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | 🔥 1091 | Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT. |
+| 7 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 828 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 8 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 821 | Harness engineering beginner tutorial, from 0 to 1 |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 823 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo... |
+| 10 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 🔥 909 | OpenShell is the safe, private runtime for autonomous AI agents. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 1121 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 2 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 839 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 762 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 4 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 654 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 5 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 561 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 6 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 457 | Hindsight: Agent Memory That Learns |
+| 7 | [feder-cr/dots](https://github.com/feder-cr/dots) | 🔥 443 | Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. |
+| 8 | [Taichu-AI/ZDTaichu5.0-9B](https://github.com/Taichu-AI/ZDTaichu5.0-9B) | 🔥 370 | ⛔ [无描述]  |
+| 9 | [deepopen-com/deepopen](https://github.com/deepopen-com/deepopen) | 🔥 341 | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.  |
+| 10 | [google/mantis](https://github.com/google/mantis) | 🔥 363 | A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 1033 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 346 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 264 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 4 | [google/ax](https://github.com/google/ax) | 🔥 115 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 5 | [aakarim/OpenLore](https://github.com/aakarim/OpenLore) | 🔥 103 | A minimal, extensible, agent-native knowledge base that keeps shared context current and inspectable |
+| 6 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 1697 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 43211 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 8 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 102 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every ... |
+| 9 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 7661 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 10 | [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) | 🔥 22998 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 710 | Harness engineering beginner tutorial, from 0 to 1 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 849 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 726 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 624 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 5 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 🔥 595 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 6 | [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | 🔥 563 | A GUI for your coding agents |
+| 7 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | 🔥 505 | yoink any video from your terminal. no shady ads. |
+| 8 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 445 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 9 | [spinabot/brigade](https://github.com/spinabot/brigade) | 🔥 428 | Brigade — Your personal intelligence, built enterprise-grade |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 309 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
+
