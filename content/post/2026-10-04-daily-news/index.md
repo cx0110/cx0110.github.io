@@ -193,3 +193,80 @@ image:
 | 9 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48,072 | 🤖 [llama-3.3-70b-versatile] JeecgBoot 是一款 AI 驱动的低代码平台，提供“零代码”和“代码生成”双模式，能够快速生成前后端代码和建表 SQL，帮助开发者高效完成 Java 项目的开发。 |
 | 10 | [halo-dev/halo](https://github.com/halo-dev/halo) | 39,925 | 🤖 [llama-3.3-70b-versatile] Halo 是一款开源建站工具，能够帮助用户轻松创建个人博客、知识库、企业官网、在线商城等多种类型的网站。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-10-04 04:20 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 9437 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6081 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 🔥 7477 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 🔥 2041 | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, opt... |
+| 2 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 2007 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 1637 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 4 | [lexmount/moli](https://github.com/lexmount/moli) | 🔥 1659 | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust |
+| 5 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | 🔥 1075 | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 |
+| 6 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 874 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
+| 7 | [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) | 🔥 615 | ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. |
+| 8 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 588 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 9 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 616 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 10 | [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) | 🔥 575 | Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview. |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 1655 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 877 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 3 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 538 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 4 | [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) | 🔥 622 | ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 588 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 6 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 580 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 7 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 433 | Hindsight: Agent Memory That Learns |
+| 8 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 445 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 9 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 🔥 332 | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, wi... |
+| 10 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | 🔥 302 | A Claude Code plugin that helps you learn how to build while AI writes the code. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [aakarim/OpenLore](https://github.com/aakarim/OpenLore) | 🔥 224 | A minimal, extensible, agent-native knowledge base that keeps shared context current and inspectable |
+| 2 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 192 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 183 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [google/ax](https://github.com/google/ax) | 🔥 125 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 5 | [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) | 🔥 115 | Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One ... |
+| 6 | [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) | 🔥 1464 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 124 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 8 | [aoci-spec/aoci-code](https://github.com/aoci-spec/aoci-code) | 🔥 925 | A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP serv... |
+| 9 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 119 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every ... |
+| 10 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 1791 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 621 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 578 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 3 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | 🔥 578 | yoink any video from your terminal. no shady ads. |
+| 4 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 437 | Harness engineering beginner tutorial, from 0 to 1 |
+| 5 | [YuriRDev/elosys](https://github.com/YuriRDev/elosys) | 🔥 281 | ⛔ [无描述]  |
+| 6 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 423 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 7 | [ThinkWatchProject/ThinkWatch-Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite) | 🔥 377 | Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys fro... |
+| 8 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 🔥 344 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 228 | ⛔ [无描述]  |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 280 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
+
