@@ -193,3 +193,80 @@ image:
 | 9 | [fanmingming/live](https://github.com/fanmingming/live) | 28,506 | 🤖 [llama-3.3-70b-versatile] 该项目是一个提供可直连访问的电视和广播图标库，以及相关工具的开源项目。 |
 | 10 | [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) | 26,813 | 🤖 [llama-3.3-70b-versatile] 该项目是一个在线维基，旨在为OI（信息学奥林匹克）和ICPC（国际大学生程序设计竞赛）提供一个综合的知识和资源平台。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-10-05 04:38 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 9266 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6241 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 🔥 7284 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 2365 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 1916 | 🤖 [llama-3.3-70b-versatile] 该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。 |
+| 3 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 🔥 1940 | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, opt... |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🔥 1150 | 🤖 [Legacy] 该项目是一个设计语言，帮助人工智能更好地理解设计。 |
+| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 1062 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 6 | [LAMDA-NeSy/Research-Starter-Kit](https://github.com/LAMDA-NeSy/Research-Starter-Kit) | 🔥 746 | 从0开始，掌握做科研、写论文的基本流程。 |
+| 7 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 701 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 8 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 755 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 9 | [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) | 🔥 676 | DroidDeck brings the SteamOS experience to Android |
+| 10 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 🔥 600 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 1048 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 693 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 740 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 4 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 662 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 5 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 476 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 6 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 449 | Hindsight: Agent Memory That Learns |
+| 7 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | 🔥 394 | A Claude Code plugin that helps you learn how to build while AI writes the code. |
+| 8 | [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) | 🔥 406 | ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. |
+| 9 | [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) | 🔥 307 | Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration p... |
+| 10 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 🔥 245 | ⛔ [无描述]  |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) | 🔥 188 | X Premium gift CLI and redemption site |
+| 2 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 192 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 182 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [aoci-spec/aoci-code](https://github.com/aoci-spec/aoci-code) | 🔥 175 | A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP serv... |
+| 5 | [aakarim/OpenLore](https://github.com/aakarim/OpenLore) | 🔥 137 | A minimal, extensible, agent-native knowledge base that keeps shared context current and inspectable |
+| 6 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 129 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 7 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 7810 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 8 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 1877 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 9 | [google/ax](https://github.com/google/ax) | 🔥 13051 | Google's open agentic orchestration runtime |
+| 10 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | 🔥 12737 | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 🔥 457 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 2 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 379 | ⛔ [无描述]  |
+| 3 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 418 | Harness engineering beginner tutorial, from 0 to 1 |
+| 4 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | 🔥 366 | yoink any video from your terminal. no shady ads. |
+| 5 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 386 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 6 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) | 🔥 319 | Email for professionals and teams |
+| 7 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | 🔥 241 | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. |
+| 8 | [extend-hq/jevbox](https://github.com/extend-hq/jevbox) | 🔥 252 | ⛔ [无描述]  |
+| 9 | [cloudflare/ci](https://github.com/cloudflare/ci) | 🔥 225 | Cloudflare-native continuous integration powered by Workflows and Sandbox |
+| 10 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 224 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+
