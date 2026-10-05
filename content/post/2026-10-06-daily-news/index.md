@@ -193,3 +193,80 @@ image:
 | 9 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 62,990 | 🤖 [llama-3.3-70b-versatile] 该项目提供了ChatGPT的中文调教指南和各种场景使用指南，帮助用户学习如何有效地与ChatGPT交互。 |
 | 10 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 18,017 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-10-06 07:28 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 8690 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6267 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 🔥 7139 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 3521 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 2 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 🔥 3097 | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, opt... |
+| 3 | [morluto/rea](https://github.com/morluto/rea) | 🔥 2698 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 4 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | 🔥 1495 | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detra... |
+| 5 | [tester-army/e2e](https://github.com/tester-army/e2e) | 🔥 1292 | Next generation e2e testing framework for web and mobile apps. |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 1162 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 7 | [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) | 🔥 1037 | Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview. |
+| 8 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 922 | Tool for automatic PS5 executables porting to Linux and Windows |
+| 9 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🔥 1034 | The design language that makes your AI harness better at design. |
+| 10 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🔥 850 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp... |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 1161 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 734 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 784 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 4 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 700 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 698 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 6 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 592 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 7 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 455 | Hindsight: Agent Memory That Learns |
+| 8 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 🔥 392 | Give your agent CAD superpowers. |
+| 9 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 391 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 10 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | 🔥 382 | A Claude Code plugin that helps you learn how to build while AI writes the code. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 387 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) | 🔥 285 | 🤖 [Legacy] 该项目允许通过简单的HTTP API使用安卓手机发送和接收短信。 |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 210 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [aoci-spec/aoci-code](https://github.com/aoci-spec/aoci-code) | 🔥 121 | A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP serv... |
+| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 129 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 6 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 4356 | Agent Substrate: the core system |
+| 7 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 7890 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 8 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 1969 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 9 | [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) | 🔥 1573 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| 10 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 🔥 1296 | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 1604 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [tester-army/e2e](https://github.com/tester-army/e2e) | 🔥 886 | Next generation e2e testing framework for web and mobile apps. |
+| 3 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 🔥 696 | Your always-on AI coworkers that move between text, calls, and Slack. |
+| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 496 | ⛔ [无描述]  |
+| 5 | [Inkloom-art/inkloom](https://github.com/Inkloom-art/inkloom) | 🔥 341 | Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, ... |
+| 6 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | 🔥 522 | yoink any video from your terminal. no shady ads. |
+| 7 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 461 | Harness engineering beginner tutorial, from 0 to 1 |
+| 8 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 🔥 372 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 9 | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) | 🔥 302 | Six isometric line figures that answer the pointer. For React and for anything with a DOM. |
+| 10 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 305 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
+
