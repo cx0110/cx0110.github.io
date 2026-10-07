@@ -193,3 +193,80 @@ image:
 | 9 | [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) | 19,215 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，能够实现网页、输入框、PDF、Epub、字幕文件和TXT文件等多种格式的双语翻译。 |
 | 10 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 23,601 | 🤖 [llama-3.3-70b-versatile] 该项目是一个全自动化工具，能够一键完成《明日方舟》游戏中的日常任务。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-10-08 06:25 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 8279 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6277 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 🔥 7020 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [storytold/photocraft](https://github.com/storytold/photocraft) | 🔥 8418 | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
+| 2 | [morluto/rea](https://github.com/morluto/rea) | 🔥 4482 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 3 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 3769 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 4 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 2122 | Tool for automatic PS5 executables porting to Linux and Windows |
+| 5 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 🔥 1451 | ⛔ [无描述]  |
+| 6 | [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | 🔥 1758 | WebGPU components for React, Vue, Svelte, Solid, JS & Framer |
+| 7 | [lexmount/moli](https://github.com/lexmount/moli) | 🔥 1936 | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust |
+| 8 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | 🔥 1585 | The Photoshop alternative for Mac |
+| 9 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 🔥 1683 | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, opt... |
+| 10 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | 🔥 1147 | ⛔ [无描述]  |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 🔥 1088 | Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones ... |
+| 2 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | 🔥 879 | A Claude Code plugin that helps you learn how to build while AI writes the code. |
+| 3 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 775 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 4 | [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) | 🔥 552 | Build and deploy iOS SwiftUI apps from Omarchy Linux on Apple Silicon, no Xcode required |
+| 5 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 514 | 🤖 [Legacy] 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
+| 6 | [chengyi-ai/native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image) | 🔥 577 | 保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill |
+| 7 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 591 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 8 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 🔥 562 | Give your agent CAD superpowers. |
+| 9 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 507 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
+| 10 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 🔥 487 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) | 🔥 427 | X Premium gift CLI and redemption site |
+| 2 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 352 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 207 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) | 🔥 126 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 135 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
+| 6 | [gopherium/gophenberg](https://github.com/gopherium/gophenberg) | 🔥 93 | A plugin-first CMS. Go backend, React admin, Gutenberg editor. |
+| 7 | [google/ax](https://github.com/google/ax) | 🔥 93 | Google's open agentic orchestration runtime |
+| 8 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 86 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 9 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 76 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 10 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 73 | Agent Substrate: the core system |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 3858 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [tester-army/e2e](https://github.com/tester-army/e2e) | 🔥 1612 | Next generation e2e testing framework for web and mobile apps. |
+| 3 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 662 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 4 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 327 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 5 | [aqz236/hestjs](https://github.com/aqz236/hestjs) | 🔥 333 | 基于 Hono + Bun + TSyringe 的现代化 TypeScript 后端框架，提供类 NestJS 的开发体验（Turborepo 单仓多包） |
+| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 280 | ⛔ [无描述]  |
+| 7 | [DmNote-App/DmNote](https://github.com/DmNote-App/DmNote) | 🔥 302 | Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. |
+| 8 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 295 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
+| 9 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 🔥 265 | Your always-on AI coworkers that move between text, calls, and Slack. |
+| 10 | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) | 🔥 247 | Six isometric line figures that answer the pointer. For React and for anything with a DOM. |
+
