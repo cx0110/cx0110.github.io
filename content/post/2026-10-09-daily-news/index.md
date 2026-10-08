@@ -192,3 +192,80 @@ image:
 | 9 | [firerpa/lamda](https://github.com/firerpa/lamda) | 8,555 | 🤖 [llama-3.3-70b-versatile] firerpa/lamda是一个Android全栈设备控制平台，提供WebRTC/H.264远程桌面、UI/OCR/图像匹配自动化、MITM代理等功能。 |
 | 10 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | 8,074 | 🤖 [llama-3.3-70b-versatile] RapidAI/RapidOCR是一个支持多种编程语言的OCR工具包，基于ONNX Runtime、OpenVINO、MNN、PaddlePaddle、TensorRT和PyTorch等框架。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-10-09 06:38 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7683 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6356 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 3 | [openai/codex](https://github.com/openai/codex) | 🔥 6798 | 🤖 [llama-3.3-70b-versatile] 该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [storytold/photocraft](https://github.com/storytold/photocraft) | 🔥 9864 | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
+| 2 | [morluto/rea](https://github.com/morluto/rea) | 🔥 7253 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 3 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 4665 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 4 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 4679 | Tool for automatic PS5 executables porting to Linux and Windows |
+| 5 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | 🔥 2212 | The Photoshop alternative for Mac |
+| 6 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | 🔥 1961 | An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust. |
+| 7 | [storytold/artcraft](https://github.com/storytold/artcraft) | 🔥 1927 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 8 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 🔥 1731 | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. |
+| 9 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 🔥 1501 | An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust |
+| 10 | [lexmount/moli](https://github.com/lexmount/moli) | 🔥 1623 | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust |
+
+## 🐍 Python (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [KingKongRobotics/jumper](https://github.com/KingKongRobotics/jumper) | 🔥 1171 | 🦀 Jumper — an crab robot. |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 879 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
+| 3 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🔥 882 | 🤖 [llama-3.3-70b-versatile] 该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。 |
+| 4 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 792 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 5 | [yi1108/printfilm](https://github.com/yi1108/printfilm) | 🔥 635 | PRINTFILM：AI 视频获客与 AI短剧创作平台 |
+| 6 | [chengyi-ai/native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image) | 🔥 585 | 保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill |
+| 7 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 594 | Hindsight: Agent Memory That Learns |
+| 8 | [cayu-dev/cayu](https://github.com/cayu-dev/cayu) | 🔥 546 | Cayu is an open-source Python framework for building and running domain-specific long-horizon agents, with a durable runtime built in. |
+| 9 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 543 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 10 | [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) | 🔥 498 | An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its w... |
+
+## 🐹 Go (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 453 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [docker/docker-agent](https://github.com/docker/docker-agent) | 🔥 357 | 🤖 [llama-3.3-70b-versatile] Docker 的 AI 代理构建器和运行时环境。 |
+| 3 | [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) | 🔥 270 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| 4 | [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) | 🔥 276 | X Premium gift CLI and redemption site |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 211 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 6 | [Stellar-Pathfinder/stellar-pathfinder](https://github.com/Stellar-Pathfinder/stellar-pathfinder) | 🔥 131 | A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, an... |
+| 7 | [N4darae/shrt](https://github.com/N4darae/shrt) | 🔥 158 | A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent... |
+| 8 | [egoist/mygo](https://github.com/egoist/mygo) | 🔥 139 | Develop desktop apps with a web frontend or native UI in Go |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 144 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 10 | [OnyxAxisOwO/ObsidianArc](https://github.com/OnyxAxisOwO/ObsidianArc) | 🔥 119 | A self-hosted AI platform with a Go server, multi-provider routing, usage tracking and an admin console, with chat and agentic work modes. |
+
+## 📜 TypeScript (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 5819 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [tester-army/e2e](https://github.com/tester-army/e2e) | 🔥 1153 | Next generation e2e testing framework for web and mobile apps. |
+| 3 | [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | 🔥 1221 | WebGPU components for React, Vue, Svelte, Solid, JS & Framer |
+| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 612 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 5 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 443 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 284 | ⛔ [无描述]  |
+| 7 | [monid-ai/monid](https://github.com/monid-ai/monid) | 🔥 331 | Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQzztcgJV8 |
+| 8 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | 🔥 260 | Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then ... |
+| 9 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔥 285 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
+| 10 | [DmNote-App/DmNote](https://github.com/DmNote-App/DmNote) | 🔥 327 | Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. |
+
