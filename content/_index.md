@@ -58,52 +58,37 @@ sections:
       columns: '3'
       spacing:
         padding: ['2rem', 0, '4rem', 0]
-  - block: collection
-    id: ai-tools-teaser
+
+  - block: markdown
+    id: topic-nav
     content:
-      title: 🤖 AI 工具专题
-      subtitle: 'Agent 框架 / LLM 路由 / RAG / 安全 / 内容生成'
-      text: '按 tag=AI 聚合 — 包含我用过和重点收藏的 AI 工具'
-      count: 12
-      filters:
-        tags: ["AI"]
-      sort_by: 'Weight'
-      sort_ascending: true
+      title: 📚 按专题浏览工具
+      subtitle: '每个专题都有独立 collection 块 — 跨领域工具一目了然'
+      text: |
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; margin-top: 1rem;">
+          <a href="/tools/" style="display: block; padding: 1.5rem; border-radius: 1rem; background: linear-gradient(135deg, #fafafa 0%, #f0f0f0 100%); border: 1px solid #e5e5e5; text-decoration: none; color: inherit; transition: all 0.3s ease;">
+            <div style="font-size: 1.875rem; margin-bottom: 0.5rem;">🛠️</div>
+            <div style="font-size: 1.125rem; font-weight: 600; margin-bottom: 0.25rem;">工具介绍</div>
+            <div style="font-size: 0.875rem; color: #71717a;">我用过的开源工具 + 自研工具 + 项目收藏</div>
+          </a>
+          <a href="/ai-tools/" style="display: block; padding: 1.5rem; border-radius: 1rem; background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%); border: 1px solid #ddd6fe; text-decoration: none; color: inherit; transition: all 0.3s ease;">
+            <div style="font-size: 1.875rem; margin-bottom: 0.5rem;">🤖</div>
+            <div style="font-size: 1.125rem; font-weight: 600; margin-bottom: 0.25rem;">AI 工具</div>
+            <div style="font-size: 0.875rem; color: #6b7280;">Agent 框架 / LLM 路由 / RAG / 安全 / 内容生成</div>
+          </a>
+          <a href="/golang-projects/" style="display: block; padding: 1.5rem; border-radius: 1rem; background: linear-gradient(135deg, #ecfeff 0%, #cffafe 100%); border: 1px solid #a5f3fc; text-decoration: none; color: inherit; transition: all 0.3s ease;">
+            <div style="font-size: 1.875rem; margin-bottom: 0.5rem;">🐹</div>
+            <div style="font-size: 1.125rem; font-weight: 600; margin-bottom: 0.25rem;">Golang 开源项目</div>
+            <div style="font-size: 0.875rem; color: #6b7280;">Go 生态 — Agent 工具栈 / Web 框架 / RAG / 测试</div>
+          </a>
+          <a href="/open-source/" style="display: block; padding: 1.5rem; border-radius: 1rem; background: linear-gradient(135deg, #fff7ed 0%, #ffedd5 100%); border: 1px solid #fed7aa; text-decoration: none; color: inherit; transition: all 0.3s ease;">
+            <div style="font-size: 1.875rem; margin-bottom: 0.5rem;">📦</div>
+            <div style="font-size: 1.125rem; font-weight: 600; margin-bottom: 0.25rem;">开源项目</div>
+            <div style="font-size: 0.875rem; color: #6b7280;">AI / Go / Obsidian / 浏览器扩展 / 桌面应用</div>
+          </a>
+        </div>
     design:
-      view: card
-      columns: '3'
-      spacing:
-        padding: ['1rem', 0, '2rem', 0]
-  - block: collection
-    id: golang-projects-teaser
-    content:
-      title: 🐹 Golang 开源项目
-      subtitle: 'Go 生态 — Agent 工具栈 / Web 框架 / RAG / 测试 / 数据库驱动'
-      text: '按 tag=Golang 聚合 — polarisxu 同公众号姊妹篇 + 我用过的 Go 库'
-      count: 12
-      filters:
-        tags: ["Golang"]
-      sort_by: 'Weight'
-      sort_ascending: true
-    design:
-      view: card
-      columns: '3'
-      spacing:
-        padding: ['1rem', 0, '2rem', 0]
-  - block: collection
-    id: open-source-teaser
-    content:
-      title: 📦 开源项目专题
-      subtitle: '我用过的开源项目 — AI / Go / Obsidian / 浏览器扩展 / 桌面应用'
-      text: '按 tag=开源项目 聚合 — 跨语言跨领域的开源工具收藏'
-      count: 12
-      filters:
-        tags: ["开源项目"]
-      sort_by: 'Weight'
-      sort_ascending: true
-    design:
-      view: card
-      columns: '3'
+      columns: '1'
       spacing:
         padding: ['1rem', 0, '4rem', 0]
 ---
