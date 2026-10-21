@@ -1,11 +1,12 @@
----
 title: "Obsidian Theme — Phycat"
 date: 2026-10-21
 draft: false
 weight: 2
 summary: "sumruler 出的 Obsidian 多彩主题 - 适合大仓库目录色块 + 中文字体优化"
-categories: ["🎨 Obsidian", "主题"]
+categories: ["🎨 Obsidian", "主题", "Obsidian", "开源项目"]
 external_link: ""
+tags: ["Obsidian", "开源项目", "主题"]
+---
 ---
 
 # Obsidian Theme — Phycat

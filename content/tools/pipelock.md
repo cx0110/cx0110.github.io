@@ -1,11 +1,12 @@
----
 title: "Pipelock — AI Agent 防火墙"
 date: 2026-10-21
 draft: false
 weight: 3
 summary: "luckyPipewrench 写的 Go 出站控制 + ed25519 签名收据 - 专治 Agent 偷数据 / 提示注入 / SSRF"
-categories: ["🔒 AI Agent", "Go 库"]
+categories: ["🔒 AI Agent", "Go 库", "AI", "Golang", "开源项目", "安全"]
 external_link: ""
+tags: ["AI", "Golang", "开源项目", "安全"]
+---
 ---
 
 # Pipelock — AI Agent 防火墙

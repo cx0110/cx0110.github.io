@@ -1,11 +1,12 @@
----
 title: "YouTube Digest"
 date: 2026-10-21
 draft: false
 weight: 1
 summary: "浏览器一键把 YouTube 视频提取逐字稿、翻译成中文、解释术语 + 章节 + 金句"
-categories: ["📹 内容生产", "浏览器扩展"]
+categories: ["📹 内容生产", "浏览器扩展", "AI", "开源项目"]
 external_link: ""
+tags: ["AI", "开源项目", "浏览器扩展"]
+---
 ---
 
 # YouTube Digest
