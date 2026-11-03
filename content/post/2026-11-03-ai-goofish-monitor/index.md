@@ -1,7 +1,7 @@
 ---
 title: "ai-goofish-monitor 拆解 — 15.9K 星的闲鱼 AI 监控机器人，把「人工捡漏」拆成一条流水线"
 date: 2026-11-03T11:30:00+08:00
-lastmod: 2026-11-03T11:30:00+08:00
+lastmod: 2026-11-03T21:40:00+08:00
 draft: false
 weight: 10
 authors:
