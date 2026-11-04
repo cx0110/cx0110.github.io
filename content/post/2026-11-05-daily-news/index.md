@@ -187,3 +187,12 @@ image:
 | 9 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | 27,906 | 🤖 [llama-3.3-70b-versatile] 该项目是一个计算机书籍和学习资源的集合，涵盖了多种编程语言、数据结构、操作系统、数据库等方面的经典书籍和学习资料。 |
 | 10 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8,570 | 🤖 [llama-3.3-70b-versatile] 该项目提供AI 自动生成报表与数据大屏，以及类Excel拖拽设计器，支持30余种数据源，用于轻松创建复杂报表。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-05 06:59 UTC
+
