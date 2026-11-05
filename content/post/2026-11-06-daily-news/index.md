@@ -191,3 +191,12 @@ image:
 | 9 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | 27,935 | 🤖 [llama-3.3-70b-versatile] 该项目是一个计算机书籍和学习资源的集合，涵盖了多种编程语言、数据结构、操作系统、数据库等方面的经典书籍和学习资料。 |
 | 10 | [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) | 2,636 | go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）... |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-06 07:01 UTC
+
