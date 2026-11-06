@@ -193,3 +193,12 @@ image:
 | 9 | [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) | 19,838 | Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level q... |
 | 10 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 18,765 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-07 06:30 UTC
+
