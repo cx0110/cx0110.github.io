@@ -192,3 +192,12 @@ image:
 | 9 | [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) | 19,624 | 🤖 [llama-3.3-70b-versatile] 该项目是一个浏览器扩展，能够实现网页、输入框、PDF、Epub、字幕文件和TXT文件等多种格式的双语翻译。 |
 | 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 107,777 | 🤖 [llama-3.3-70b-versatile] 该项目是一个每周五发布的科技爱好者周刊，分享科技相关的新闻、文章和资源。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-08 05:13 UTC
+
