@@ -186,3 +186,12 @@ image:
 | 9 | [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 9,049 | 🤖 [llama-3.3-70b-versatile] 该项目是一个跨平台的流媒体下载器，支持下载M3U8、MPD和ISM格式的流媒体内容。 |
 | 10 | [pymumu/smartdns](https://github.com/pymumu/smartdns) | 11,388 | 🤖 [llama-3.3-70b-versatile] 该项目是一个本地DNS服务器，能够获取最快的网站IP，支持DoH、DoT、DoQ协议，提供最佳上网体验。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-09 05:28 UTC
+
