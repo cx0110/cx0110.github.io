@@ -188,3 +188,12 @@ image:
 | 9 | [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | 26,909 | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 |
 | 10 | [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) | 8,164 | 🤖 [llama-3.3-70b-versatile] 该项目提供FongMi影视和tvbox的配置文件，供用户Fork和自用。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-10 08:58 UTC
+
