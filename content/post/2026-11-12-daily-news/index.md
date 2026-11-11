@@ -192,3 +192,12 @@ image:
 | 9 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 82,475 | 🤖 [llama-3.3-70b-versatile] 该项目提供了一个可运行、可讨论的深度学习教程平台，面向中文读者，用于教学和学习深度学习知识。 |
 | 10 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 103,857 | 🤖 [llama-3.3-70b-versatile] 该项目提供程序员在家做饭的指南和方法。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-12 07:50 UTC
+
