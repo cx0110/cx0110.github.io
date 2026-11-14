@@ -190,3 +190,12 @@ image:
 | 9 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 18,988 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 | 10 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | 13,489 | 🤖 [llama-3.3-70b-versatile] Nightingale是一个监控和告警平台，提供实时数据监控和告警功能。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-15 05:48 UTC
+
