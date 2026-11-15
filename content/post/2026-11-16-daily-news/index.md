@@ -189,3 +189,12 @@ image:
 | 9 | [firerpa/lamda](https://github.com/firerpa/lamda) | 8,740 | 🤖 [llama-3.3-70b-versatile] firerpa/lamda是一个Android全栈设备控制平台，提供WebRTC/H.264远程桌面、UI/OCR/图像匹配自动化、MITM代理等功能。 |
 | 10 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 19,018 | 🤖 [llama-3.3-70b-versatile] LangBot是一个生产级的多平台智能机器人开发平台，支持多种即时通讯软件和AI模型的集成。 |
 
+
+---
+
+## 🔥 OSSInsight 技术热点
+
+
+每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
+> 更新时间: 2026-11-16 06:16 UTC
+
